@@ -1,0 +1,84 @@
+---
+title: "Australian Parliament Kanban"
+description: "Parliament Kanban"
+url: /
+
+columns:
+- title: "Pending"
+  data: pending
+- title: "Passed"
+  data: passed
+- title: "Failed"
+  data: failed
+---
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+        <script src="{{ '/assets/js/bills.js' | relative_url }}"></script>
+    </head>
+    <body>
+        <h1>{{ page.title }}</h1>
+        <p>Last updated: {{ site.time | date : "%d/%m/%Y %H:%M" }}</p>
+        <p>This is a list of all bills that have come before the current Parliament.</p>
+        <div class="row">
+            {% for column in page.columns %}
+                <div class="column">
+                    <h2>{{ column.title }} ({{ site.data.bills[column.data].size }})</h2>
+                    {% for bill in site.data.bills[column.data] %}
+                        <div onclick="openBill('{{ bill.bill_id }}')" class="ticket {{ bill.sponsor_party | slugify }}" id="{{ bill.bill_id }}">
+                            {% if bill.sponsor_name == "None" and bill.portfolio != "None" %}
+                                <img src="{{ '/assets/images/government.png' | relative_url }}" alt="{{ bill.portfolio }} portfolio" title="{{ bill.portfolio }} portfolio">
+                            {% elsif bill.sponsor_name != "None" %}
+                                <img src="https://www.openaustralia.org.au/images/mpsL/{{ bill.sponsor_id }}.jpg" alt="{{ bill.sponsor_name }}" title="{{ bill.sponsor_name }}">
+                            {% endif %}
+                            <h3>{{ bill.title }}</h3>
+                            {% if bill.summary != "None" %}
+                                <p>{{ bill.summary }}</p>
+                            {% endif %}
+                            {% if bill.portfolio != "None" %}
+                                <p>Portfolio: {{ bill.portfolio }}</p>
+                            {% elsif bill.sponsor_name != "None" %}
+                                <p>Sponsor: {% if bill.originating_house == "Senate" %}Senator {% endif %}{{ bill.sponsor_name }}{% if bill.originating_house == "House of Representatives" %} MP{% endif %} ({{ bill.sponsor_party }})</p>
+                            {% endif %}
+                            <p>Progress:
+                                {% if column.data == "pending" %}
+                                    {% if bill.originating_house == "House of Representatives" and bill.status != "Before Reps" %}
+                                        <span>✅️ Passed in House of Representatives</span>
+                                        <span>☐ Pending in Senate</span>
+                                    {% elsif bill.originating_house == "Senate" and bill.status != "Before Senate" %}
+                                        <span>✅️ Passed in Senate</span>
+                                        <span>☐ Pending in House of Representatives</span>
+                                    {% elsif bill.originating_house == "House of Representatives" and bill.status == "Before Reps" %}
+                                        <span>☐ Pending in House of Representatives</span>
+                                        <span>☐ Pending in Senate</span>
+                                    {% elsif bill.originating_house == "Senate" and bill.status == "Before Senate" %}
+                                        <span>☐ Pending in Senate</span>
+                                        <span>☐ Pending in House of Representatives</span>
+                                    {% endif %}
+                                    <span>☐ Pending royal assent</span>
+                                    <span>☐ Not commenced</span>
+                                {% elsif column.data == "passed" %}
+                                    <span>✅️ Passed in House of Representatives</span>
+                                    <span>✅️ Passed in Senate</span>
+                                    <span>✅️ Received royal assent</span>
+                                    {% if bill.status == "Assent" %}
+                                        <span>☐ Not commenced</span>
+                                    {% else %}
+                                        <span>✅️ Commenced</span>
+                                    {% endif %}
+                                {% elsif column.data == "failed" %}
+                                    <span>❌ Bill failed</span>
+                                {% endif %}
+                            </p>
+                            <a href="{{ bill.pdf_url }}" target="_blank">View {% if bill.status == "Act" %}act{% else %}bill{% endif %}</a>
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        </div>
+    </body>
+</html>

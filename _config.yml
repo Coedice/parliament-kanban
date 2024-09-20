@@ -1,0 +1,17 @@
+timezone: Australia/Melbourne
+
+permalink: /:title
+
+plugins:
+  - jekyll-sitemap
+
+# SCSS
+sass:
+  style: compressed
+
+exclude:
+  - scraper.py
+  - Bill.py
+  - MP.py
+  - Makefile
+  - README.md

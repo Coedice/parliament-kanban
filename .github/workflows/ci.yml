@@ -1,0 +1,25 @@
+name: Update page with new data
+
+on:
+  schedule: # Run at 00:00 in melbourne/sydmey time
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Install bs4 and lxml
+      run: |
+        python -m pip install --upgrade pip
+        pip install beautifulsoup4 lxml  # Install both bs4 and lxml for XML parsing
+
+    - name: Get API data
+      run: python3 scraper.py
+    
+    - name: Add, commit, and push
+      uses: actions4git/add-commit-push@v1

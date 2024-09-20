@@ -1,0 +1,110 @@
+---
+---
+
+* {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    color: white;
+}
+
+body {
+    background-color: #292c33;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 0px;
+
+    h2 {
+        text-align: center;
+    }
+}
+
+.ticket {
+    display: block;
+    padding: 14px;
+    margin: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    position: relative;
+    border: 2px;
+    border-style: solid;
+    min-height: 50px;
+    &:hover {
+        cursor: pointer;
+    }
+
+    * {
+        display: none;
+    }
+
+    &.active {
+        * {
+            display: block;
+        }
+    }
+
+    h3 {
+        display: block;
+        margin: 0px;
+        font-size: medium;
+        margin-right: 50px + 14px;
+        margin-bottom: 10px;
+        font-size: large;
+        font-weight: normal;
+    }
+
+    img {
+        object-fit: cover;
+        width: 50px;
+        height: 50px;
+        border-radius: 100%;
+        position: absolute;
+        top: 14px;
+        right: 14px;
+        display: initial;
+    }
+
+    p {
+        font-size: small;
+        margin-top: 10px;
+        margin-right: 50px + 14px;
+    }
+
+    &.labor {
+        border-color: #de3533;
+    }
+    &.liberal {
+        border-color: #0047ab;
+    }
+    &.liberal-national-party {
+        border-color: #1456f1;
+    }
+    &.country-liberal-party {
+        border-color: #f8981d;
+    }
+    &.national {
+        border-color: #006644;
+    }
+    &.greens {
+        border-color: #00a651;
+    }
+    &.independent {
+        border-color: grey;
+    }
+    &.one-nation {
+        border-color: #ff6900;
+    }
+    &.united-australia-party {
+        border-color: #f8ef21;
+    }
+    &.jacqui-lambie-network {
+        border-color: #ffcb08;
+    }
+    &.katter-s-australian-party {
+        border-color: #b50204;
+    }
+    &.centre-alliance {
+        border-color: #ff6300;
+    }
+}
