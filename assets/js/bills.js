@@ -4,7 +4,7 @@ function openBill(billId) {
     previous_active_bill = active_tag?.id;
     if (active_tag != null) {
         active_tag.classList.remove("active");
-        history.replaceState(null, null, "/");
+        history.replaceState(null, null, "#");
     }
 
     // Add active tag if it was not previously active
