@@ -34,13 +34,12 @@ body {
         cursor: pointer;
     }
 
-    * {
-        display: none;
-    }
-
-    &.active {
-        * {
-            display: block;
+    &:not(.active) {
+        p,
+        ul,
+        h4,
+        a {
+            display: none;
         }
     }
 
@@ -54,7 +53,7 @@ body {
         font-weight: normal;
     }
 
-    img {
+    img.assigneeImage {
         object-fit: cover;
         width: 50px;
         height: 50px;
@@ -63,12 +62,50 @@ body {
         top: 14px;
         right: 14px;
         display: initial;
+        border: 1px solid;
+
+        &.house-of-representatives {
+            border-color: green;
+        }
+
+        &.senate {
+            border-color: red;
+        }
+    }
+
+    span.billId {
+        font-family: "JetBrains Mono", Menlo, Courier, monospace;
+        img {
+            width: 1em;
+            height: 1em;
+            display: inline;
+        }
     }
 
     p {
         font-size: small;
-        margin-top: 10px;
         margin-right: 50px + 14px;
+        display: block;
+    }
+
+    h4 {
+        margin-bottom: 0;
+        font-weight: normal;
+    }
+
+    li {
+        margin-left: 20px;
+        font-size: small;
+    }
+
+    ul {
+        margin-top: 0;
+        padding-left: 0;
+
+        &.progress li {
+            margin-left: 0;
+            display: block;
+        }
     }
 
     &.labor {

@@ -2,6 +2,7 @@
 title: "Australian Parliament Kanban"
 description: "Parliament Kanban"
 url: /
+layout: compress
 
 columns:
 - title: "Pending"
@@ -23,58 +24,80 @@ columns:
     <body>
         <h1>{{ page.title }}</h1>
         <p>Last updated: {{ site.time | date : "%d/%m/%Y %H:%M" }}</p>
-        <p>This is a list of all bills that have come before the current Parliament.</p>
+        <p>This is a list of all bills that have come before the current federal parliament. <a href="https://github.com/Coedice/parliament-kanban">Click here</a> to see the source code.</p>
         <div class="row">
             {% for column in page.columns %}
                 <div class="column">
-                    <h2>{{ column.title }} ({{ site.data.bills[column.data].size }})</h2>
+                    {% assign column_size = site.data.bills[column.data].size %}
+                    <h2>{{ column.title }}{% if column_size > 0 %} ({{ column_size }}){% endif %}</h2>
                     {% for bill in site.data.bills[column.data] %}
-                        <div onclick="openBill('{{ bill.bill_id }}')" class="ticket {{ bill.sponsor_party | slugify }}" id="{{ bill.bill_id }}">
-                            {% if bill.sponsor_name == "None" and bill.portfolio != "None" %}
-                                <img src="{{ '/assets/images/government.png' | relative_url }}" alt="{{ bill.portfolio }} portfolio" title="{{ bill.portfolio }} portfolio">
-                            {% elsif bill.sponsor_name != "None" %}
-                                <img src="https://www.openaustralia.org.au/images/mpsL/{{ bill.sponsor_id }}.jpg" alt="{{ bill.sponsor_name }}" title="{{ bill.sponsor_name }}">
+                        {% if bill.type == "Government" %}
+                            {% assign assignee_id = bill.minister_id %}
+                            {% assign assignee_name = bill.minister_name %}
+                            {% assign assignee_party = bill.minister_party %}
+                        {% else %}
+                            {% assign assignee_id = bill.sponsor_id %}
+                            {% assign assignee_name = bill.sponsor_name %}
+                            {% assign assignee_party = bill.sponsor_party %}
+                        {% endif %}
+
+                        <div onclick="openBill('{{ bill.bill_id }}')" class="ticket {{ assignee_party | slugify }}" id="{{ bill.bill_id }}">
+                            {% assign billTypeSlug = bill.type | slugify %}
+                            <span class="billId" title="Bill ID"><img src="{{ 'assets/images/' | append: billTypeSlug | append: '.webp'}}" alt="{{ bill.type }} bill" title="{{ bill.type }} bill"> {{ bill.bill_id }}</span>
+                            {% if assignee_id != "None" %}
+                                <img class="assigneeImage {{ bill.originating_house | slugify }}" src="https://www.openaustralia.org.au/images/mpsL/{{ assignee_id }}.jpg" alt="{{ assignee_name }}" title="{{ assignee_name }}">
                             {% endif %}
                             <h3>{{ bill.title }}</h3>
                             {% if bill.summary != "None" %}
                                 <p>{{ bill.summary }}</p>
                             {% endif %}
-                            {% if bill.portfolio != "None" %}
-                                <p>Portfolio: {{ bill.portfolio }}</p>
-                            {% elsif bill.sponsor_name != "None" %}
-                                <p>Sponsor: {% if bill.originating_house == "Senate" %}Senator {% endif %}{{ bill.sponsor_name }}{% if bill.originating_house == "House of Representatives" %} MP{% endif %} ({{ bill.sponsor_party }})</p>
-                            {% endif %}
-                            <p>Progress:
+                            <h4>Info:</h4>
+                            <ul>
+                                {% if bill.type == "Government" %}
+                                    <li>Portfolio: {{ bill.portfolio }}</li>
+                                {% endif %}
+                                {% if assignee_id != "None" %}
+                                    <li>{% if bill.type == "Government" %}Minister{% else %}Sponsor{% endif %}: {% if bill.originating_house == "Senate" %}Senator {% endif %}{{ assignee_name }}{% if bill.originating_house == "House of Representatives" %} MP{% endif %} ({{ assignee_party }})</li>
+                                {% endif %}
+                                <li>Type: {% if bill.type == "Government" %}Government{% else %}Private member's{% endif %} bill</li>
+                            </ul>
+                            <h4>Progress:</h4>
+                            <ul class="progress">
+                                <li>✅ Presented in {{ bill.originating_house }}</li>
                                 {% if column.data == "pending" %}
                                     {% if bill.originating_house == "House of Representatives" and bill.status != "Before Reps" %}
-                                        <span>✅️ Passed in House of Representatives</span>
-                                        <span>☐ Pending in Senate</span>
+                                        <li>✅️ Passed in House of Representatives</li>
+                                        <li>☐ Pending in Senate</li>
                                     {% elsif bill.originating_house == "Senate" and bill.status != "Before Senate" %}
-                                        <span>✅️ Passed in Senate</span>
-                                        <span>☐ Pending in House of Representatives</span>
+                                        <li>✅️ Passed in Senate</li>
+                                        <li>☐ Pending in House of Representatives</li>
                                     {% elsif bill.originating_house == "House of Representatives" and bill.status == "Before Reps" %}
-                                        <span>☐ Pending in House of Representatives</span>
-                                        <span>☐ Pending in Senate</span>
+                                        <li>☐ Pending in House of Representatives</li>
+                                        <li>☐ Pending in Senate</li>
                                     {% elsif bill.originating_house == "Senate" and bill.status == "Before Senate" %}
-                                        <span>☐ Pending in Senate</span>
-                                        <span>☐ Pending in House of Representatives</span>
+                                        <li>☐ Pending in Senate</li>
+                                        <li>☐ Pending in House of Representatives</li>
                                     {% endif %}
-                                    <span>☐ Pending royal assent</span>
-                                    <span>☐ Not commenced</span>
+                                    <li>☐ Pending royal assent</li>
+                                    <li>☐ Not commenced</li>
                                 {% elsif column.data == "passed" %}
-                                    <span>✅️ Passed in House of Representatives</span>
-                                    <span>✅️ Passed in Senate</span>
-                                    <span>✅️ Received royal assent</span>
+                                    <li>✅️ Passed in House of Representatives</li>
+                                    <li>✅️ Passed in Senate</li>
+                                    <li>✅️ Received royal assent</li>
                                     {% if bill.status == "Assent" %}
-                                        <span>☐ Not commenced</span>
+                                        <li>☐ Not commenced</li>
                                     {% else %}
-                                        <span>✅️ Commenced</span>
+                                        <li>✅️ Commenced</li>
                                     {% endif %}
                                 {% elsif column.data == "failed" %}
-                                    <span>❌ Bill failed</span>
+                                    <li>❌ Bill failed</li>
                                 {% endif %}
-                            </p>
-                            <a href="{{ bill.pdf_url }}" target="_blank">View {% if bill.status == "Act" %}act{% else %}bill{% endif %}</a>
+                            </ul>
+                            <h4>Links:</h4>
+                            <ul>
+                                <li><a href="{{ bill.pdf_url }}" target="_blank">Download the {% if bill.status == "Act" %}act{% else %}bill{% endif %}</a></li>
+                                <li><a href="https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId={{ bill.bill_id }}" target="_blank">More info</a></li>
+                            </ul>
                         </div>
                     {% endfor %}
                 </div>

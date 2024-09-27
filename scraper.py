@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 from typing import List
 from MP import MP
 from Bill import Bill
+from termcolor import colored
 
 
 PENDING_BILLS_URL = "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_before_Parliament?ps=100&page=1"
@@ -16,7 +17,7 @@ SENATORS_URL = "http://data.openaustralia.org.au/members/senators.xml"
 PEOPLE_URL = "http://data.openaustralia.org.au/members/people.xml"
 
 
-def get_bills(bills_url: str) -> List[Bill]:
+def get_bill_links(bills_url: str) -> List[str]:
     """Get bills from bills URL."""
 
     # Get HTML from pending bills and parse it
@@ -30,9 +31,8 @@ def get_bills(bills_url: str) -> List[Bill]:
             "id": lambda L: L and L.startswith("main_0_content_0_lvResults_hlTitle_")
         },
     )
-    bills = [
-        Bill(bill_link_tag["href"].split("bId=")[1], mps)
-        for bill_link_tag in bill_link_tags
+    bill_links = [
+        bill_link_tag["href"].split("bId=")[1] for bill_link_tag in bill_link_tags
     ]
 
     # Scrape additional pages
@@ -41,9 +41,9 @@ def get_bills(bills_url: str) -> List[Bill]:
         url_base, page_number = bills_url.split("page=")
         next_url = url_base + "page=" + str(int(page_number) + 1)
 
-        return bills + get_bills(next_url)
+        return bill_links + get_bill_links(next_url)
 
-    return bills
+    return bill_links
 
 
 # Get raw data
@@ -89,18 +89,15 @@ for person in people:
     )
 
 # Create YAML file to capture all this information
+sections = [
+    ("pending", PENDING_BILLS_URL),
+    ("passed", PASSED_BILLS_URL),
+    ("failed", FAILED_BILLS_URL),
+]
+
 with open("_data/bills.yaml", "w") as f:
-    print("Downloading pending bills")
-    f.write("pending:\n")
-    for bill in get_bills(PENDING_BILLS_URL):
-        f.write(bill.yaml())
-
-    print("Downloading passed bills")
-    f.write("passed:\n")
-    for bill in get_bills(PASSED_BILLS_URL):
-        f.write(bill.yaml())
-
-    print("Downloading failed bills")
-    f.write("failed:\n")
-    for bill in get_bills(FAILED_BILLS_URL):
-        f.write(bill.yaml())
+    for section_name, url in sections:
+        print(colored(f"Downloading {section_name} bills", "blue", attrs=["underline"]))
+        f.write(f"{section_name}:\n")
+        for bill_link in get_bill_links(url):
+            f.write(Bill(bill_link, mps).yaml())
