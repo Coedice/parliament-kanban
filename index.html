@@ -19,17 +19,36 @@ columns:
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
-        <script src="{{ '/assets/js/bills.js' | relative_url }}"></script>
+        <script src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
     </head>
     <body>
         <h1>{{ page.title }}</h1>
         <p>Last updated: {{ site.time | date : "%d/%m/%Y %H:%M" }}</p>
         <p>This is a list of all bills that have come before the current federal parliament. <a href="https://github.com/Coedice/parliament-kanban">Click here</a> to see the source code.</p>
+        {% assign parties = "" %}
+        {% for column in page.columns %}
+            {% for bill in site.data.bills[column.data] %}
+                {% if parties contains bill.sponsor_party %}
+                {% else %}
+                    {% assign parties = parties | append: bill.sponsor_party | append: "|" %}
+                {% endif %}
+                {% if parties contains bill.minister_party %}
+                {% else %}
+                    {% assign parties = parties | append: bill.minister_party | append: "|" %}
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+        {% assign parties = parties | replace: "None|", "" | split: "|" | sort | join: "|" | prepend: "Clear filter|" | split: "|" %}
+        <div id="filters">
+            {% for party in parties %}
+                <a id="{{ party | slugify }}-filter" {% if party == "Clear filter" %}class="active-filter"{% endif %} onclick="filterByParty('{{ party | slugify }}')">{{ party }}</a>
+            {% endfor %}
+        </div>
         <div class="row">
             {% for column in page.columns %}
                 <div class="column">
                     {% assign column_size = site.data.bills[column.data].size %}
-                    <h2>{{ column.title }}{% if column_size > 0 %} ({{ column_size }}){% endif %}</h2>
+                    <h2>{{ column.title }} ({% if column_size > 0 %}<span class="columnSize">{{ column_size }}</span>{% else %}0{% endif %})</h2>
                     {% for bill in site.data.bills[column.data] %}
                         {% if bill.type == "Government" %}
                             {% assign assignee_id = bill.minister_id %}

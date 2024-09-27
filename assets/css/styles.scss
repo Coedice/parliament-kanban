@@ -20,6 +20,25 @@ body {
     }
 }
 
+#filters > a {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    padding: 2px 5px;
+    border-radius: 5px;
+    color: #000;
+    text-decoration: none;
+    &:hover {
+        cursor: pointer;
+    }
+
+    &.active-filter {
+        background-color: black;
+        color: white;
+    }
+}
+
 .ticket {
     display: block;
     padding: 14px;
