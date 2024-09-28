@@ -14,7 +14,17 @@ function openBill(billId) {
     }
 }
 
+function ticketIsInCoalition(ticket) {
+    for (const party of coalitionParties) {
+        if (ticket.classList.contains(party)) {
+            return true;
+        }
+    }
+    return false;
+}
+
 function filterByParty(party) {
+    console.log(party);
     // Update active filter
     const previous_active_filter = document.getElementById("filters").getElementsByClassName("active-filter")[0];
 
@@ -33,7 +43,7 @@ function filterByParty(party) {
     const tickets = document.getElementsByClassName("ticket");
 
     for (const ticket of tickets) {
-        if (ticket.classList.contains(party) || party == "clear-filter") {
+        if (ticket.classList.contains(party) || party == "clear-filter" || party == "coalition" && ticketIsInCoalition(ticket)) {
             ticket.style.display = "block";
         } else {
             ticket.style.display = "none";

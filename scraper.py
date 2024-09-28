@@ -95,7 +95,7 @@ sections = [
     ("failed", FAILED_BILLS_URL),
 ]
 
-with open("_data/bills.yaml", "w") as f:
+with open("_data/bills.yml", "w") as f:
     for section_name, url in sections:
         print(colored(f"Downloading {section_name} bills", "blue", attrs=["underline"]))
         f.write(f"{section_name}:\n")

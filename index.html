@@ -19,6 +19,9 @@ columns:
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+        <script>
+            let coalitionParties = ["{{ site.data.coalition | join: 'qqq' | slugify | split: 'qqq' | join: '", "' }}"]
+        </script>
         <script src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
     </head>
     <body>
@@ -38,7 +41,19 @@ columns:
                 {% endif %}
             {% endfor %}
         {% endfor %}
-        {% assign parties = parties | replace: "None|", "" | split: "|" | sort | join: "|" | prepend: "Clear filter|" | split: "|" %}
+        {% for party in site.data.coalition %}
+            {% assign partyWithDelimiter = party | append: "|" %}
+            {% assign parties = parties | replace: partyWithDelimiter, "" %}
+        {% endfor %}
+        {% assign parties = parties
+            | replace: "None|", ""
+            | append: "Coalition|"
+            | split: "|"
+            | sort
+            | join: "|"
+            | prepend: "Clear filter|"
+            | split: "|"
+        %}
         <div id="filters">
             {% for party in parties %}
                 <a id="{{ party | slugify }}-filter" {% if party == "Clear filter" %}class="active-filter"{% endif %} onclick="filterByParty('{{ party | slugify }}')">{{ party }}</a>
