@@ -3,6 +3,7 @@ import time
 from bs4 import BeautifulSoup
 from typing import List
 import urllib.parse
+import pyppeteer
 from requests_html import HTMLSession
 from termcolor import colored
 
@@ -96,7 +97,7 @@ class Bill:
             render_success = True
             try:
                 response.html.render(sleep=1)
-            except TimeoutError:
+            except pyppeteer.errors.TimeoutError:
                 render_success = False
 
         hansard_soup = BeautifulSoup(response.html.html, "html.parser")
