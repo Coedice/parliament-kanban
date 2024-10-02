@@ -57,7 +57,8 @@ body {
         p,
         ul,
         h4,
-        a {
+        a,
+        img.partyIcon {
             display: none;
         }
     }
@@ -90,6 +91,13 @@ body {
         &.senate {
             border-color: red;
         }
+    }
+
+    img.partyIcon {
+        width: 50px;
+        position: absolute;
+        top: 14px + 50px + 14px;
+        right: 14px;
     }
 
     span.billId {
@@ -127,40 +135,9 @@ body {
         }
     }
 
-    &.labor {
-        border-color: #de3533;
-    }
-    &.liberal {
-        border-color: #0047ab;
-    }
-    &.liberal-national-party {
-        border-color: #1456f1;
-    }
-    &.country-liberal-party {
-        border-color: #f8981d;
-    }
-    &.national {
-        border-color: #006644;
-    }
-    &.greens {
-        border-color: #00a651;
-    }
-    &.independent {
-        border-color: grey;
-    }
-    &.one-nation {
-        border-color: #ff6900;
-    }
-    &.united-australia-party {
-        border-color: #f8ef21;
-    }
-    &.jacqui-lambie-network {
-        border-color: #ffcb08;
-    }
-    &.katter-s-australian-party {
-        border-color: #b50204;
-    }
-    &.centre-alliance {
-        border-color: #ff6300;
-    }
+    {% for party in site.data.parties %}
+        &.{{ party.name | slugify }} {
+            border-color: {{ party.color }};
+        }
+    {% endfor %}
 }

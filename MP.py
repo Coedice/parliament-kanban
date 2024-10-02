@@ -1,13 +1,8 @@
+import yaml
+
+
 class MP:
     """MP data."""
-
-    SHORT_NAMES = {
-        "Liberal Party": "Liberal",
-        "Australian Labor Party": "Labor",
-        "Australian Greens": "Greens",
-        "National Party": "National",
-        "Pauline Hanson's One Nation Party": "One Nation",
-    }
 
     def __init__(self, id: int, name: str, party: str) -> None:
         self.id = id
@@ -15,8 +10,13 @@ class MP:
         self.party = self._abbreviated_party_name(party)
 
     def _abbreviated_party_name(self, long_name: str) -> str:
-        if long_name in self.SHORT_NAMES:
-            return self.SHORT_NAMES[long_name]
+        with open("_data/parties.yml", "r") as f:
+            parties = yaml.safe_load(f)
+
+        for party in parties:
+            if "long_name" in party and party["long_name"] == long_name:
+                return party["name"]
+
         return long_name
 
     def __repr__(self) -> str:

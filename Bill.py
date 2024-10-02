@@ -191,7 +191,7 @@ class Bill:
     sponsor_id: \"{self._get_introducer_id(self._get_sponsor_name())}\"
     minister_name: \"{self.minister_name}\"
     minister_party: \"{self._get_introducer_party(self.minister_name)}\"
-    minister_id: \"{self._get_introducer_id(self.minister_name)}\" 
+    minister_id: \"{self._get_introducer_id(self.minister_name)}\"
     pdf_url: \"{self._get_pdf_url()}\"
 """
 

@@ -18,36 +18,26 @@ columns:
         <meta charset="utf-8" />
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
-        <script>
-            let coalitionParties = ["{{ site.data.coalition | join: 'qqq' | slugify | split: 'qqq' | join: '", "' }}"]
-        </script>
+        <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
         <script src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
     </head>
     <body>
         <h1>{{ page.title }}</h1>
         <p>Last updated: {{ site.time | date : "%d/%m/%Y %H:%M" }}</p>
         <p>This is a list of all bills that have come before the current federal parliament. <a href="https://github.com/Coedice/parliament-kanban">Click here</a> to see the source code.</p>
-        {% assign parties = "" %}
-        {% for column in page.columns %}
-            {% for bill in site.data.bills[column.data] %}
-                {% if parties contains bill.sponsor_party %}
+        {% assign filters = "" %}
+        {% for party in site.data.parties %}
+            {% if party.group %}
+                {% if filters contains party.group %}
                 {% else %}
-                    {% assign parties = parties | append: bill.sponsor_party | append: "|" %}
+                    {% assign filters = filters | append: party.group | append: "|" %}
                 {% endif %}
-                {% if parties contains bill.minister_party %}
-                {% else %}
-                    {% assign parties = parties | append: bill.minister_party | append: "|" %}
-                {% endif %}
-            {% endfor %}
+            {% else %}
+                {% assign filters = filters | append: party.name | append: "|" %}
+            {% endif %}
         {% endfor %}
-        {% for party in site.data.coalition %}
-            {% assign partyWithDelimiter = party | append: "|" %}
-            {% assign parties = parties | replace: partyWithDelimiter, "" %}
-        {% endfor %}
-        {% assign parties = parties
+        {% assign filters = filters
             | replace: "None|", ""
-            | append: "Coalition|"
             | split: "|"
             | sort
             | join: "|"
@@ -55,8 +45,8 @@ columns:
             | split: "|"
         %}
         <div id="filters">
-            {% for party in parties %}
-                <a id="{{ party | slugify }}-filter" {% if party == "Clear filter" %}class="active-filter"{% endif %} onclick="filterByParty('{{ party | slugify }}')">{{ party }}</a>
+            {% for filter in filters %}
+                <a id="{{ filter | slugify }}-filter" {% if party == "Clear filter" %}class="active-filter"{% endif %} onclick="filterByParty('{{ filter | slugify }}')">{{ filter }}</a>
             {% endfor %}
         </div>
         <div class="row">
@@ -81,6 +71,11 @@ columns:
                             {% if assignee_id != "None" %}
                                 <img class="assigneeImage {{ bill.originating_house | slugify }}" src="https://www.openaustralia.org.au/images/mpsL/{{ assignee_id }}.jpg" alt="{{ assignee_name }}" title="{{ assignee_name }}">
                             {% endif %}
+                            {% for party in site.data.parties %}
+                                {% if assignee_party == party.name and party.icon %}
+                                    <img class="partyIcon" src="{{ party.icon }}" alt="{{ party.name }} icon" title="{{ party.name }}">
+                                {% endif %}
+                            {% endfor %}
                             <h3>{{ bill.title }}</h3>
                             {% if bill.summary != "None" %}
                                 <p>{{ bill.summary }}</p>

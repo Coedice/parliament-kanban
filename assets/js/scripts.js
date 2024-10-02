@@ -1,3 +1,6 @@
+---
+---
+
 function openBill(billId) {
     // Remove any existing active tag
     active_tag = document.getElementsByClassName("active")[0];
@@ -15,6 +18,7 @@ function openBill(billId) {
 }
 
 function ticketIsInCoalition(ticket) {
+    coalitionParties = ["{{ site.data.parties | where: "group", "Coalition" | map: "name" | join: 'QQQ' | slugify | split: 'qqq' | join: '", "' }}"];
     for (const party of coalitionParties) {
         if (ticket.classList.contains(party)) {
             return true;
