@@ -1,0 +1,7 @@
+lxml==4.9.2
+lxml_html_clean==0.2.2
+beautifulsoup4==4.12.2
+requests-html==0.10.0
+termcolor==2.4.0
+pyppeteer==2.0.0
+PyYAML==6.0

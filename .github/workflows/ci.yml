@@ -11,11 +11,14 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
+    - name: Set up Git
+      uses: actions4git/setup-git@v1
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install lxml_html_clean beautifulsoup4 lxml requests_html termcolor pyppeteer pyyaml
-    - name: Get API data
+        pip install -r requirements.txt
+    - name: Update bill data
       run: python3 scraper.py
-    - name: Add, commit, and push
-      uses: actions4git/add-commit-push@v1
+    - name: Add, commit, and push any changes
+      run: git add .; git diff-index --quiet HEAD || git commit -m "Update bill data"; git push
+
