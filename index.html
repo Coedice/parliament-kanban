@@ -37,7 +37,6 @@ columns:
             {% endif %}
         {% endfor %}
         {% assign filters = filters
-            | replace: "None|", ""
             | split: "|"
             | sort
             | join: "|"
@@ -46,7 +45,7 @@ columns:
         %}
         <div id="filters">
             {% for filter in filters %}
-                <a id="{{ filter | slugify }}-filter" {% if party == "Clear filter" %}class="active-filter"{% endif %} onclick="filterByParty('{{ filter | slugify }}')">{{ filter }}</a>
+                <a id="{{ filter | slugify }}-filter" {% if filter == "Clear filter" %}class="active-filter"{% endif %} onclick="filterByParty('{{ filter | slugify }}')">{{ filter }}</a>
             {% endfor %}
         </div>
         <div class="row">
@@ -68,7 +67,7 @@ columns:
                         <div onclick="openBill('{{ bill.bill_id }}')" class="ticket {{ assignee_party | slugify }}" id="{{ bill.bill_id }}">
                             {% assign billTypeSlug = bill.type | slugify %}
                             <span class="billId" title="Bill ID"><img src="{{ 'assets/images/' | append: billTypeSlug | append: '.webp'}}" alt="{{ bill.type }} bill" title="{{ bill.type }} bill"> {{ bill.bill_id }}</span>
-                            {% if assignee_id != "None" %}
+                            {% if assignee_id %}
                                 <img class="assigneeImage {{ bill.originating_house | slugify }}" src="https://www.openaustralia.org.au/images/mpsL/{{ assignee_id }}.jpg" alt="{{ assignee_name }}" title="{{ assignee_name }}">
                             {% endif %}
                             {% for party in site.data.parties %}
@@ -77,7 +76,7 @@ columns:
                                 {% endif %}
                             {% endfor %}
                             <h3>{{ bill.title }}</h3>
-                            {% if bill.summary != "None" %}
+                            {% if bill.summary %}
                                 <p>{{ bill.summary }}</p>
                             {% endif %}
                             <h4>Info:</h4>
@@ -85,7 +84,7 @@ columns:
                                 {% if bill.type == "Government" %}
                                     <li>Portfolio: {{ bill.portfolio }}</li>
                                 {% endif %}
-                                {% if assignee_id != "None" %}
+                                {% if assignee_id %}
                                     <li>{% if bill.type == "Government" %}Minister{% else %}Sponsor{% endif %}: {% if bill.originating_house == "Senate" %}Senator {% endif %}{{ assignee_name }}{% if bill.originating_house == "House of Representatives" %} MP{% endif %} ({{ assignee_party }})</li>
                                 {% endif %}
                                 <li>Type: {% if bill.type == "Government" %}Government{% else %}Private member's{% endif %} bill</li>

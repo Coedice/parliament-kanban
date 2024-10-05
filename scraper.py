@@ -5,6 +5,8 @@ from bs4 import BeautifulSoup
 from typing import List
 from MP import MP
 from Bill import Bill
+import yaml
+import os
 from termcolor import colored
 
 
@@ -17,21 +19,21 @@ SENATORS_URL = "http://data.openaustralia.org.au/members/senators.xml"
 PEOPLE_URL = "http://data.openaustralia.org.au/members/people.xml"
 
 
-def get_bill_links(bills_url: str) -> List[str]:
-    """Get bills from bills URL."""
+def get_bill_ids(bills_url: str) -> List[str]:
+    """Get bill IDs from bills URL."""
 
     # Get HTML from pending bills and parse it
     response = requests.get(bills_url)
     soup = BeautifulSoup(response.text, "html.parser")
 
-    # Get bill URLs
+    # Get bill IDs
     bill_link_tags = soup.find_all(
         "a",
         attrs={
             "id": lambda L: L and L.startswith("main_0_content_0_lvResults_hlTitle_")
         },
     )
-    bill_links = [
+    bill_ids = [
         bill_link_tag["href"].split("bId=")[1] for bill_link_tag in bill_link_tags
     ]
 
@@ -41,9 +43,9 @@ def get_bill_links(bills_url: str) -> List[str]:
         url_base, page_number = bills_url.split("page=")
         next_url = url_base + "page=" + str(int(page_number) + 1)
 
-        return bill_links + get_bill_links(next_url)
+        return bill_ids + get_bill_ids(next_url)
 
-    return bill_links
+    return bill_ids
 
 
 # Get raw data
@@ -88,6 +90,13 @@ for person in people:
         )
     )
 
+# Get existing bill data
+with open("_data/bills.yml", "r") as f:
+    existing_bills = yaml.safe_load(f)
+    existing_bills = (
+        existing_bills["pending"] + existing_bills["passed"] + existing_bills["failed"]
+    )
+
 # Create YAML file to capture all this information
 sections = [
     ("pending", PENDING_BILLS_URL),
@@ -95,9 +104,26 @@ sections = [
     ("failed", FAILED_BILLS_URL),
 ]
 
-with open("_data/bills.yml", "w") as f:
+with open("_data/bills.yml.tmp", "w") as f:
     for section_name, url in sections:
-        print(colored(f"Downloading {section_name} bills", "blue", attrs=["underline"]))
+        print(
+            colored(
+                f"\nDownloading {section_name.capitalize()} bills",
+                "blue",
+                attrs=["underline"],
+            )
+        )
         f.write(f"{section_name}:\n")
-        for bill_link in get_bill_links(url):
-            f.write(Bill(bill_link, mps).yaml())
+
+        for bill_id in get_bill_ids(url):
+            # Find matching existing bill
+            matching_existing_bill = None
+            for existing_bill in existing_bills:
+                if existing_bill["bill_id"] == bill_id:
+                    matching_existing_bill = existing_bill
+                    break
+
+            # Download and write bill
+            f.write(Bill(bill_id, mps, matching_existing_bill).yaml())
+
+os.rename("_data/bills.yml.tmp", "_data/bills.yml")
