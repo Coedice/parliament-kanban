@@ -2,7 +2,7 @@ name: Update page with new data
 
 on:
   schedule:
-    - cron: '0 11,22 * * *' # 21:00 and 8:00 in UTC+10
+    - cron: '0 0,5,13 * * 1-5' # 12:00, 17:00, and 23:00 in UTC+10, Mon-Fri
   workflow_dispatch:
 
 jobs:
@@ -21,4 +21,3 @@ jobs:
       run: python3 scraper.py
     - name: Add, commit, and push any changes
       run: git add .; git diff-index --quiet HEAD || git commit -m "Update bill data"; git push
-
