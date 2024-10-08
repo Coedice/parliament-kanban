@@ -115,7 +115,7 @@ pending:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7243_first-reps/toc_pdf/24109b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-08
@@ -610,7 +610,7 @@ pending:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6873_first-reps/toc_pdf/2249b01.pdf;fileType=application%2Fpdf"
     last_updated: 2022-07-26
@@ -1180,7 +1180,7 @@ pending:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7254_first-reps/toc_pdf/24119b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-08
@@ -1810,7 +1810,7 @@ pending:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7225_first-senate/toc_pdf/treasury laws amendment (build to rent) bill 2024.pdf;fileType=application%2Fpdf"
     last_updated: 2024-07-02
@@ -1915,7 +1915,7 @@ pending:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7244_first-reps/toc_pdf/24110b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-08
@@ -2186,7 +2186,7 @@ passed:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6934_aspassed/toc_pdf/22114b01.pdf;fileType=application%2Fpdf"
     last_updated: 2022-11-30
@@ -2426,7 +2426,7 @@ passed:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6893_aspassed/toc_pdf/22070b01.pdf;fileType=application%2Fpdf"
     last_updated: 2022-12-09
@@ -2636,7 +2636,7 @@ passed:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6886_aspassed/toc_pdf/2261b01.pdf;fileType=application%2Fpdf"
     last_updated: 2022-09-13
@@ -3236,7 +3236,7 @@ passed:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6991_aspassed/toc_pdf/23024b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-06-28
@@ -3416,7 +3416,7 @@ passed:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7134_aspassed/toc_pdf/b23pu107.v08.pdf;fileType=application%2Fpdf"
     last_updated: 2024-02-26
@@ -3656,7 +3656,7 @@ passed:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7139_aspassed/toc_pdf/24008b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-04-08
@@ -3671,7 +3671,7 @@ passed:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7184_aspassed/toc_pdf/24050b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-06-28
@@ -4361,7 +4361,7 @@ passed:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6987_aspassed/toc_pdf/23019b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-04-11
@@ -4526,7 +4526,7 @@ passed:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6990_aspassed/toc_pdf/23023b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-07-03
@@ -5171,7 +5171,7 @@ passed:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6957_aspassed/toc_pdf/22136b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-04-11
@@ -5471,7 +5471,7 @@ passed:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6937_aspassed/toc_pdf/22118b01.pdf;fileType=application%2Fpdf"
     last_updated: 2022-11-03
@@ -5486,7 +5486,7 @@ passed:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6938_aspassed/toc_pdf/22116b01.pdf;fileType=application%2Fpdf"
     last_updated: 2022-11-03
@@ -5501,7 +5501,7 @@ passed:
     sponsor_party: null
     sponsor_id: null
     minister_name: null
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6939_aspassed/toc_pdf/22117b01.pdf;fileType=application%2Fpdf"
     last_updated: 2022-11-03

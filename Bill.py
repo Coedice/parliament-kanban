@@ -15,16 +15,29 @@ from MP import MP
 class Bill:
     """Bill data."""
 
-    def __init__(self, id: str, mps: List[MP], existing_bill) -> None:
+    def __init__(
+        self, id: str, mps: List[MP], existing_bill: Optional[dict] = None
+    ) -> None:
         self.id = id
         print(f"Starting bill\t{self._colored_id()}")
         self.existing_bill = existing_bill
         self.mps = mps
+        self._ruling_party = self._get_ruling_party()
         self.soup = self._parse_webpage(
             f"https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId={id}"
         )
         self.minister_name = self._get_minister_name()
         print(f"Loaded bill \t{self._colored_id()}: {self._get_title()}\n")
+
+    def _get_ruling_party(self) -> str:
+        party_members = dict()
+        for mp in self.mps:
+            if mp.party not in party_members:
+                party_members[mp.party] = 0
+
+            party_members[mp.party] += 1
+
+        return max(party_members, key=party_members.get)
 
     def _colored_id(self) -> str:
         if self.id.startswith("r"):
@@ -218,8 +231,12 @@ class Bill:
 
         return f"{name_parts[1]} {name_parts[0]}".title()
 
-    def _get_introducer_party(self, name) -> str:
+    def _get_introducer_party(self, name: str, is_minister: bool = False) -> str:
         if name is None:
+            if self._get_type() == "Government" and is_minister:
+                print(self._ruling_party)
+                return self._ruling_party
+
             return None
 
         for mp in self.mps:
@@ -228,7 +245,7 @@ class Bill:
 
         return None
 
-    def _get_introducer_id(self, name) -> int:
+    def _get_introducer_id(self, name: str) -> int:
         if name is None:
             return None
 
@@ -265,11 +282,11 @@ class Bill:
     def _yaml_value_wrapper(self, value: str, yaml_string: bool = True) -> str:
         if value is None:
             return "null"
-
-        value = value.replace('"', "&quot;").replace("<", "&lt;").replace(">", "&gt;")
-
-        if yaml_string:
-            value = f'"{value}"'
+        elif yaml_string:
+            value = (
+                value.replace('"', "&quot;").replace("<", "&lt;").replace(">", "&gt;")
+            )
+            return f'"{value}"'
 
         return value
 
@@ -287,7 +304,7 @@ class Bill:
     sponsor_party: {self._yaml_value_wrapper(self._get_introducer_party(self._get_sponsor_name()))}
     sponsor_id: {self._yaml_value_wrapper(self._get_introducer_id(self._get_sponsor_name()))}
     minister_name: {self._yaml_value_wrapper(self.minister_name)}
-    minister_party: {self._yaml_value_wrapper(self._get_introducer_party(self.minister_name))}
+    minister_party: {self._yaml_value_wrapper(self._get_introducer_party(self.minister_name, True))}
     minister_id: {self._yaml_value_wrapper(self._get_introducer_id(self.minister_name))}
     pdf_url: {self._yaml_value_wrapper(self._get_pdf_url())}
     last_updated: {self._yaml_value_wrapper(self._get_last_updated(), False)}
