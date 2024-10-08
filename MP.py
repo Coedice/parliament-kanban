@@ -4,10 +4,11 @@ import yaml
 class MP:
     """MP data."""
 
-    def __init__(self, id: int, name: str, party: str) -> None:
+    def __init__(self, id: int, name: str, party: str, division: str) -> None:
         self.id = id
         self.name = name
         self.party = self._abbreviated_party_name(party)
+        self.division = division
 
     def _abbreviated_party_name(self, long_name: str) -> str:
         with open("_data/parties.yml", "r") as f:

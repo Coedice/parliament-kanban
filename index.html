@@ -59,10 +59,12 @@ columns:
                             {% assign assignee_id = bill.minister_id %}
                             {% assign assignee_name = bill.minister_name %}
                             {% assign assignee_party = bill.minister_party %}
+                            {% assign assignee_division = bill.minister_division %}
                         {% else %}
                             {% assign assignee_id = bill.sponsor_id %}
                             {% assign assignee_name = bill.sponsor_name %}
                             {% assign assignee_party = bill.sponsor_party %}
+                            {% assign assignee_division = bill.sponsor_division %}
                         {% endif %}
 
                         <div onclick="openBill('{{ bill.bill_id }}')" class="ticket {{ assignee_party | slugify }}" id="{{ bill.bill_id }}">
@@ -88,7 +90,18 @@ columns:
                                     <li>Portfolio: {{ bill.portfolio }}</li>
                                 {% endif %}
                                 {% if assignee_id %}
-                                    <li>{% if bill.type == "Government" %}Minister{% else %}Sponsor{% endif %}: {% if bill.originating_house == "Senate" %}Senator {% endif %}{{ assignee_name }}{% if bill.originating_house == "House of Representatives" %} MP{% endif %} ({{ assignee_party }})</li>
+                                    <li>
+                                        {% if bill.type == "Government" %}Minister{% else %}Sponsor{% endif %}:
+                                        {% if bill.originating_house == "Senate" %}Senator{% endif %}
+                                        {{ assignee_name }}
+                                        {% if bill.originating_house == "House of Representatives" %}MP{% endif %}
+                                        ({{ assignee_party }}),
+                                        {% if bill.originating_house == "House of Representatives" %}
+                                            member for <a href="http://www.aec.gov.au/{{ assignee_division | downcase }}" target="_blank">{{ assignee_division }}</a>
+                                        {% else %}
+                                            {{ assignee_division }}
+                                        {% endif %}
+                                    </li>
                                 {% endif %}
                                 <li>Type: {% if bill.type == "Government" %}Government{% else %}Private member's{% endif %} bill</li>
                             </ul>

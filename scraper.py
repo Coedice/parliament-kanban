@@ -81,12 +81,18 @@ for person in people:
     # Get party
     party = [member["party"] for member in members if member["id"] == office_id][0]
 
+    # Get division
+    division = [member["division"] for member in members if member["id"] == office_id][
+        0
+    ]
+
     # Add MP
     mps.append(
         MP(
             person["id"].split("/")[-1],
             person["latestname"],
             party,
+            division,
         )
     )
 
