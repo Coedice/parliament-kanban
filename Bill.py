@@ -61,14 +61,25 @@ class Bill:
             "last_updated",
         ]
         if self.existing_bill["type"] == "Private":
-            required_fields.extend(["sponsor_name", "sponsor_party", "sponsor_id"])
+            required_fields.extend(
+                ["sponsor_name", "sponsor_party", "sponsor_id", "sponsor_division"]
+            )
         else:
             required_fields.extend(
-                ["minister_name", "minister_party", "minister_id", "portfolio"]
+                [
+                    "minister_name",
+                    "minister_party",
+                    "minister_id",
+                    "portfolio",
+                    "minister_division",
+                ]
             )
 
         for required_field in required_fields:
-            if self.existing_bill[required_field] is None:
+            if (
+                required_field not in self.existing_bill
+                or self.existing_bill[required_field] is None
+            ):
                 print(
                     colored(
                         f"Updating bill data due to missing {required_field}", "yellow"
@@ -231,6 +242,16 @@ class Bill:
 
         return f"{name_parts[1]} {name_parts[0]}".title()
 
+    def _get_introducer_division(self, name: str) -> str:
+        if name is None:
+            return None
+
+        for mp in self.mps:
+            if mp.name.lower() == name.lower():
+                return mp.division
+
+        return None
+
     def _get_introducer_party(self, name: str, is_minister: bool = False) -> str:
         if name is None:
             if self._get_type() == "Government" and is_minister:
@@ -303,9 +324,11 @@ class Bill:
     sponsor_name: {self._yaml_value_wrapper(self._get_sponsor_name())}
     sponsor_party: {self._yaml_value_wrapper(self._get_introducer_party(self._get_sponsor_name()))}
     sponsor_id: {self._yaml_value_wrapper(self._get_introducer_id(self._get_sponsor_name()))}
+    sponsor_division: {self._yaml_value_wrapper(self._get_introducer_division(self._get_sponsor_name()))}
     minister_name: {self._yaml_value_wrapper(self.minister_name)}
     minister_party: {self._yaml_value_wrapper(self._get_introducer_party(self.minister_name, True))}
     minister_id: {self._yaml_value_wrapper(self._get_introducer_id(self.minister_name))}
+    minister_division: {self._yaml_value_wrapper(self._get_introducer_division(self.minister_name))}
     pdf_url: {self._yaml_value_wrapper(self._get_pdf_url())}
     last_updated: {self._yaml_value_wrapper(self._get_last_updated(), False)}
 """
