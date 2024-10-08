@@ -63,6 +63,12 @@ body {
         }
     }
 
+    &.active {
+        img.assigneeImage {
+            margin-bottom: 14px;
+        }
+    }
+
     h3 {
         display: block;
         margin: 0px;
@@ -73,31 +79,32 @@ body {
         font-weight: normal;
     }
 
-    img.assigneeImage {
-        object-fit: cover;
-        width: 50px;
-        height: 50px;
-        border-radius: 100%;
+    .assignee {
         position: absolute;
         top: 14px;
         right: 14px;
-        display: initial;
-        border: 1px solid;
 
-        &.house-of-representatives {
-            border-color: green;
+        .assigneeImage {
+            object-fit: cover;
+            width: 50px;
+            height: 50px;
+            border-radius: 100%;
+            border: 1px solid;
+            display: block;
+
+            &.house-of-representatives {
+                border-color: green;
+            }
+
+            &.senate {
+                border-color: red;
+            }
         }
 
-        &.senate {
-            border-color: red;
+        .partyIcon {
+            display: block;
+            width: 50px;
         }
-    }
-
-    img.partyIcon {
-        width: 50px;
-        position: absolute;
-        top: 14px + 50px + 14px;
-        right: 14px;
     }
 
     span.billId {
