@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from typing import List, Optional
 import urllib.parse
 import pyppeteer
+from datetime import datetime
 from requests_html import HTMLSession
 from termcolor import colored
 
@@ -44,6 +45,7 @@ class Bill:
             "type",
             "originating_house",
             "summary",
+            "last_updated",
         ]
         if self.existing_bill["type"] == "Private":
             required_fields.extend(["sponsor_name", "sponsor_party", "sponsor_id"])
@@ -244,12 +246,32 @@ class Bill:
         row = table.find_all("tr")[-1]
         return row.find_all("td")[1].find_all("a")[1]["href"]
 
-    def _yaml_value_wrapper(self, value: str) -> str:
+    def _get_last_updated(self) -> str:
+        if self.soup is None:
+            return self.existing_bill["last_updated"]
+
+        (day, month_word, year) = (
+            self.soup.find("div", {"id": "main_0_mainDiv"})
+            .find_all("table")[-1]
+            .find("tbody")
+            .find_all("tr")[-1]
+            .find_all("td")[-1]
+            .text.strip()
+            .split(" ")
+        )
+        month = datetime.strptime(month_word, "%b").month
+        return f"{year}-{str(month).zfill(2)}-{str(day).zfill(2)}"
+
+    def _yaml_value_wrapper(self, value: str, yaml_string: bool = True) -> str:
         if value is None:
             return "null"
 
         value = value.replace('"', "&quot;").replace("<", "&lt;").replace(">", "&gt;")
-        return f'"{value}"'
+
+        if yaml_string:
+            value = f'"{value}"'
+
+        return value
 
     def yaml(self) -> str:
         """Convert bill to YAML."""
@@ -268,6 +290,7 @@ class Bill:
     minister_party: {self._yaml_value_wrapper(self._get_introducer_party(self.minister_name))}
     minister_id: {self._yaml_value_wrapper(self._get_introducer_id(self.minister_name))}
     pdf_url: {self._yaml_value_wrapper(self._get_pdf_url())}
+    last_updated: {self._yaml_value_wrapper(self._get_last_updated(), False)}
 """
 
     def __repr__(self) -> str:

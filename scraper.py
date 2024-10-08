@@ -104,26 +104,30 @@ sections = [
     ("failed", FAILED_BILLS_URL),
 ]
 
-with open("_data/bills.yml.tmp", "w") as f:
-    for section_name, url in sections:
-        print(
-            colored(
-                f"\nDownloading {section_name.capitalize()} bills",
-                "blue",
-                attrs=["underline"],
-            )
+if os.path.exists("_data/bills.yml.tmp"):
+    os.remove("_data/bills.yml.tmp")
+
+for section_name, url in sections:
+    print(
+        colored(
+            f"\nDownloading {section_name.capitalize()} bills",
+            "blue",
+            attrs=["underline"],
         )
+    )
+    with open("_data/bills.yml.tmp", "a") as f:
         f.write(f"{section_name}:\n")
 
-        for bill_id in get_bill_ids(url):
-            # Find matching existing bill
-            matching_existing_bill = None
-            for existing_bill in existing_bills:
-                if existing_bill["bill_id"] == bill_id:
-                    matching_existing_bill = existing_bill
-                    break
+    for bill_id in get_bill_ids(url):
+        # Find matching existing bill
+        matching_existing_bill = None
+        for existing_bill in existing_bills:
+            if existing_bill["bill_id"] == bill_id:
+                matching_existing_bill = existing_bill
+                break
 
-            # Download and write bill
+        # Download and write bill
+        with open("_data/bills.yml.tmp", "a") as f:
             f.write(Bill(bill_id, mps, matching_existing_bill).yaml())
 
 os.rename("_data/bills.yml.tmp", "_data/bills.yml")
