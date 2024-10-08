@@ -74,7 +74,6 @@ body {
         margin: 0px;
         font-size: medium;
         margin-right: 50px + 14px;
-        margin-bottom: 10px;
         font-size: large;
         font-weight: normal;
     }
@@ -134,6 +133,7 @@ body {
 
     ul {
         margin-top: 0;
+        margin-bottom: 0;
         padding-left: 0;
 
         &.progress li {
