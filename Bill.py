@@ -247,6 +247,8 @@ class Bill:
     def _yaml_value_wrapper(self, value: str) -> str:
         if value is None:
             return "null"
+
+        value = value.replace('"', "&quot;").replace("<", "&lt;").replace(">", "&gt;")
         return f'"{value}"'
 
     def yaml(self) -> str:
