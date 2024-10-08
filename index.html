@@ -53,7 +53,8 @@ columns:
                 <div class="column">
                     {% assign column_size = site.data.bills[column.data].size %}
                     <h2>{{ column.title }} ({% if column_size > 0 %}<span class="columnSize">{{ column_size }}</span>{% else %}0{% endif %})</h2>
-                    {% for bill in site.data.bills[column.data] %}
+                    {% assign bills = site.data.bills[column.data] | sort: "last_updated" | reverse %}
+                    {% for bill in bills %}
                         {% if bill.type == "Government" %}
                             {% assign assignee_id = bill.minister_id %}
                             {% assign assignee_name = bill.minister_name %}
