@@ -42,3 +42,6 @@
 - name: Centre Alliance
   color: "#ff6300"
   icon: "https://upload.wikimedia.org/wikipedia/en/a/a6/Centre_Alliance_logo.svg"
+- name: Australia's Voice
+  color: "#740631"
+  icon: "https://upload.wikimedia.org/wikipedia/en/9/9e/Australia%27sVoice.png"
