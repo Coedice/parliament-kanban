@@ -2,10 +2,7 @@ import requests
 import time
 from bs4 import BeautifulSoup
 from typing import List, Optional
-import urllib.parse
-import pyppeteer
 from datetime import datetime
-from requests_html import HTMLSession
 from termcolor import colored
 
 
@@ -162,33 +159,28 @@ class Bill:
         except AttributeError:
             return None
 
-        # Get query ID
-        query_id = (
-            urllib.parse.unquote(minister_second_reading_url.split("query=Id")[1])
-            .replace(":", "")
-            .replace('"', "")
-        )
-
         # Get Hansard page
-        session = HTMLSession()
-        response = session.get(
-            f"https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid={query_id}"
-        )
-        render_success = False
-        while not render_success:
-            render_success = True
-            try:
-                response.html.render(sleep=1)
-            except pyppeteer.errors.TimeoutError:
-                render_success = False
+        loaded_hansard = False
 
-        hansard_soup = BeautifulSoup(response.html.html, "html.parser")
-        session.close()
+        while not loaded_hansard:
+            response = requests.get(
+                minister_second_reading_url,
+                headers={
+                    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+                },
+            )
+
+            loaded_hansard = response.status_code // 100 == 2
+
+        hansard_soup = BeautifulSoup(response.text, "html.parser")
 
         # Get MP name
-        name_text = hansard_soup.find("span", {"data-bind": "text: speaker"}).text
-        if name_text == "":
+        name_text = hansard_soup.find("span", {"class": "selectedTOCItem"}).text
+
+        if " Reading" in name_text:
             return None
+
+        # Format name
         name_parts = (
             name_text.strip().replace(" MP", "").replace("Sen ", "").split(", ")
         )
@@ -255,13 +247,15 @@ class Bill:
     def _get_introducer_party(self, name: str, is_minister: bool = False) -> str:
         if name is None:
             if self._get_type() == "Government" and is_minister:
-                print(self._ruling_party)
                 return self._ruling_party
 
             return None
 
         for mp in self.mps:
             if mp.name.lower() == name.lower():
+                if mp.party == "SPK":  # Special case for the Speaker
+                    return self._ruling_party
+
                 return mp.party
 
         return None

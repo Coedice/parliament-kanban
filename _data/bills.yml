@@ -49,7 +49,7 @@ pending:
     minister_id: "10931"
     minister_division: "Lilley"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7238_first-reps/toc_pdf/24104b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-08
+    last_updated: 2024-10-09
   - bill_id: "r7157"
     title: "Agriculture (Biosecurity Protection) Charges Bill 2024"
     status: "Before Senate"
@@ -712,7 +712,7 @@ pending:
     minister_id: "10885"
     minister_division: "Bruce"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7242_first-reps/toc_pdf/24107b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-08
+    last_updated: 2024-10-09
   - bill_id: "r7250"
     title: "Cyber Security Bill 2024"
     status: "Before Reps"
@@ -724,10 +724,10 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Tony Burke"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10081"
+    minister_division: "Watson"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7250_first-reps/toc_pdf/24116b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-09
   - bill_id: "s1377"
@@ -1205,7 +1205,7 @@ pending:
     minister_id: "10893"
     minister_division: "Fremantle"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7248_first-reps/toc_pdf/24114b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-09-12
+    last_updated: 2024-10-09
   - bill_id: "r7246"
     title: "Future Made in Australia (Guarantee of Origin Consequential Amendments and Transitional Provisions) Bill 2024"
     status: "Before Reps"
@@ -1222,7 +1222,7 @@ pending:
     minister_id: "10893"
     minister_division: "Fremantle"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7246_first-reps/toc_pdf/24113b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-09-12
+    last_updated: 2024-10-09
   - bill_id: "r7245"
     title: "Future Made in Australia (Guarantee of Origin) Bill 2024"
     status: "Before Reps"
@@ -1239,7 +1239,7 @@ pending:
     minister_id: "10893"
     minister_division: "Fremantle"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7245_first-reps/toc_pdf/24112b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-09-12
+    last_updated: 2024-10-09
   - bill_id: "r7223"
     title: "Future Made in Australia (Omnibus Amendments No. 1) Bill 2024"
     status: "Before Senate"
@@ -1256,7 +1256,7 @@ pending:
     minister_id: "10060"
     minister_division: "McMahon"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7223_third-reps/toc_pdf/24088b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-08
+    last_updated: 2024-10-09
   - bill_id: "r7219"
     title: "Future Made in Australia Bill 2024"
     status: "Before Senate"
@@ -1273,7 +1273,7 @@ pending:
     minister_id: "10809"
     minister_division: "Rankin"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7219_third-reps/toc_pdf/24084b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-08
+    last_updated: 2024-10-09
   - bill_id: "s1369"
     title: "Governor-General Amendment (Cessation of Allowances in the Public Interest) Bill 2023"
     status: "Before Senate"
@@ -1314,7 +1314,7 @@ pending:
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Housing Australia Act 2018 to make amendments consequential on the establishment of the Help to Buy Scheme"
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -1455,10 +1455,10 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Tony Burke"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10081"
+    minister_division: "Watson"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7252_first-reps/toc_pdf/24118b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-09
   - bill_id: "r7056"
@@ -1478,6 +1478,23 @@ pending:
     minister_division: "Isaacs"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7056_first-reps/toc_pdf/23088b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-06-22
+  - bill_id: "s1432"
+    title: "Interactive Gambling Amendment (Ban Gambling Ads) Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Sarah Hanson-Young"
+    sponsor_party: "Greens"
+    sponsor_id: "10711"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1432_first-senate/toc_pdf/24S2220.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-09
   - bill_id: "r7214"
     title: "Interactive Gambling Amendment (Ban on Gambling Advertisements) Bill 2024"
     status: "Before Reps"
@@ -1676,10 +1693,10 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Michelle Rowland"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10751"
+    minister_division: "Greenway"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7259_first-reps/toc_pdf/24125b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-09
   - bill_id: "s1352"
@@ -1885,7 +1902,7 @@ pending:
     minister_id: "10181"
     minister_division: "Isaacs"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7249_first-reps/toc_pdf/24115b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-08
+    last_updated: 2024-10-09
   - bill_id: "s1388"
     title: "Protecting the Spirit of Sea Country Bill 2023"
     status: "Before Senate"
@@ -1948,10 +1965,10 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Tony Burke"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10081"
+    minister_division: "Watson"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7255_first-reps/toc_pdf/24121b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-09
   - bill_id: "s1298"
@@ -2004,7 +2021,7 @@ pending:
     minister_id: "10740"
     minister_division: "Whitlam"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7120_first-reps/toc_pdf/23153b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-05-16
+    last_updated: 2024-10-09
   - bill_id: "r7111"
     title: "Superannuation (Objective) Bill 2023"
     status: "Before Senate"
@@ -2106,7 +2123,7 @@ pending:
     minister_id: "10740"
     minister_division: "Whitlam"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7241_first-reps/toc_pdf/24108b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-08
+    last_updated: 2024-10-09
   - bill_id: "r7133"
     title: "Treasury Laws Amendment (Better Targeted Superannuation Concessions and Other Measures) Bill 2023"
     status: "Before Reps"
@@ -2123,7 +2140,7 @@ pending:
     minister_id: "10740"
     minister_division: "Whitlam"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7133_first-reps/toc_pdf/23154b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-05-16
+    last_updated: 2024-10-09
   - bill_id: "r7225"
     title: "Treasury Laws Amendment (Build to Rent) Bill 2024"
     status: "Before Senate"
@@ -2276,7 +2293,7 @@ pending:
     minister_id: "10123"
     minister_division: "Blaxland"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7231_first-reps/toc_pdf/24092b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-09-12
+    last_updated: 2024-10-09
   - bill_id: "r7217"
     title: "Veterans' Entitlements, Treatment and Support (Simplification and Harmonisation) Bill 2024"
     status: "Before Reps"
@@ -2310,7 +2327,7 @@ pending:
     minister_id: "10123"
     minister_division: "Blaxland"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7247_first-reps/toc_pdf/24111b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-08
+    last_updated: 2024-10-09
 passed:
   - bill_id: "r6930"
     title: "Aboriginal Land Grant (Jervis Bay Territory) Amendment (Strengthening Land and Governance Provisions) Bill 2022"
@@ -6710,7 +6727,7 @@ passed:
     sponsor_id: null
     sponsor_division: null
     minister_name: "Milton Dick"
-    minister_party: "SPK"
+    minister_party: "Labor"
     minister_id: "10880"
     minister_division: "Oxley"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6969_aspassed/toc_pdf/22147b01.pdf;fileType=application%2Fpdf"
@@ -7279,7 +7296,7 @@ failed:
     last_updated: 2024-06-26
   - bill_id: "s1430"
     title: "Competition and Consumer Amendment (Make Price Gouging Illegal) Bill 2024"
-    status: "Before Senate"
+    status: "Not Proceeding"
     type: "Private"
     portfolio: null
     originating_house: "Senate"
@@ -7293,7 +7310,7 @@ failed:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1430_first-senate/toc_pdf/24S2020.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-09-16
+    last_updated: 2024-10-09
   - bill_id: "s1418"
     title: "COVID-19 Response Commission of Inquiry Bill 2024"
     status: "Not Proceeding"
