@@ -27,13 +27,25 @@ columns:
         <p>This is a list of all bills that have come before the current federal parliament. <a href="https://github.com/Coedice/parliament-kanban">Click here</a> to see the source code.</p>
         {% assign filters = "" %}
         {% for party in site.data.parties %}
-            {% if party.group %}
-                {% if filters contains party.group %}
+            {% assign party_has_bills = false %}
+            {% for column in page.columns %}
+                {% for bill in site.data.bills[column.data] %}
+                    {% if bill.sponsor_party == party.name or bill.minister_party == party.name %}
+                        {% assign party_has_bills = true %}
+                        {% break %}
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+
+            {% if party_has_bills %}
+                {% if party.group %}
+                    {% if filters contains party.group %}
+                    {% else %}
+                        {% assign filters = filters | append: party.group | append: "|" %}
+                    {% endif %}
                 {% else %}
-                    {% assign filters = filters | append: party.group | append: "|" %}
+                    {% assign filters = filters | append: party.name | append: "|" %}
                 {% endif %}
-            {% else %}
-                {% assign filters = filters | append: party.name | append: "|" %}
             {% endif %}
         {% endfor %}
         {% assign filters = filters
