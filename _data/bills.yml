@@ -1319,10 +1319,10 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Clare O'Neil"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10814"
+    minister_division: "Hotham"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7251_first-reps/toc_pdf/24117b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-09
   - bill_id: "r7123"
@@ -2050,10 +2050,10 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Catherine King"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10368"
+    minister_division: "Ballarat"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7256_first-reps/toc_pdf/24122b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-09
   - bill_id: "s1421"
