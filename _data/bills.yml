@@ -134,7 +134,7 @@ pending:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7243_first-reps/toc_pdf/24109b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-08
+    last_updated: 2024-10-09
   - bill_id: "s1393"
     title: "Australian Education Amendment (Save Our Public Schools) Bill 2023"
     status: "Before Senate"
@@ -713,6 +713,23 @@ pending:
     minister_division: "Bruce"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7242_first-reps/toc_pdf/24107b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-08
+  - bill_id: "r7250"
+    title: "Cyber Security Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Home Affairs"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7250_first-reps/toc_pdf/24116b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-09
   - bill_id: "s1377"
     title: "Defence Capability Assurance and Oversight Bill 2024"
     status: "Before Reps"
@@ -1291,6 +1308,23 @@ pending:
     minister_division: "Franklin"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7124_first-reps/toc_pdf/23158b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-09-18
+  - bill_id: "r7251"
+    title: "Help to Buy (Consequential Provisions) Bill 2023 [No. 2]"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7251_first-reps/toc_pdf/24117b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-09
   - bill_id: "r7123"
     title: "Help to Buy Bill 2023"
     status: "Before Senate"
@@ -1410,6 +1444,23 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1368_first-senate/toc_pdf/23S00820.pdf;fileType=application%2Fpdf"
     last_updated: 2023-03-22
+  - bill_id: "r7252"
+    title: "Intelligence Services and Other Legislation Amendment (Cyber Security) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Home Affairs"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7252_first-reps/toc_pdf/24118b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-09
   - bill_id: "r7056"
     title: "Intelligence Services Legislation Amendment Bill 2023"
     status: "Before Reps"
@@ -1886,6 +1937,23 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7167_first-reps/toc_pdf/24034b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-03-25
+  - bill_id: "r7255"
+    title: "Security of Critical Infrastructure and Other Legislation Amendment (Enhanced Response and Prevention) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Home Affairs"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7255_first-reps/toc_pdf/24121b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-09
   - bill_id: "s1298"
     title: "Snowy Hydro Corporatisation Amendment (No New Fossil Fuels) Bill 2021 [No. 2]"
     status: "Before Senate"
@@ -1954,6 +2022,23 @@ pending:
     minister_division: "Rankin"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7111_first-reps/toc_pdf/23144b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-03-20
+  - bill_id: "r7256"
+    title: "Sydney Airport Demand Management Amendment Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7256_first-reps/toc_pdf/24122b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-09
   - bill_id: "s1421"
     title: "Tax Laws Amendment (Incentivising Food Donations to Charitable Organisations) Bill 2024"
     status: "Before Senate"
@@ -2174,7 +2259,7 @@ pending:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7244_first-reps/toc_pdf/24110b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-08
+    last_updated: 2024-10-09
   - bill_id: "r7231"
     title: "Universities Accord (Student Support and Other Measures) Bill 2024"
     status: "Before Reps"
