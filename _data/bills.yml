@@ -475,23 +475,6 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1392_first-senate/toc_pdf/23S2820.pdf;fileType=application%2Fpdf"
     last_updated: 2023-11-08
-  - bill_id: "s1430"
-    title: "Competition and Consumer Amendment (Make Price Gouging Illegal) Bill 2024"
-    status: "Before Senate"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Competition and Consumer Act 2010 to prohibit a corporation with substantial market power from engaging in conduct that results in, or is likely to result in, an excessive price being charged for a good or service."
-    sponsor_name: "Nick Mckim"
-    sponsor_party: "Greens"
-    sponsor_id: "10841"
-    sponsor_division: "Tasmania"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1430_first-senate/toc_pdf/24S2020.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-09-16
   - bill_id: "s1386"
     title: "Copyright Legislation Amendment (Fair Pay for Radio Play) Bill 2023"
     status: "Before Senate"
@@ -1331,7 +1314,7 @@ pending:
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Establishes a Commonwealth shared equity program (Help to Buy Scheme) to be administered by Housing Australia that will assist low to middle income earners to purchase new or existing homes"
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -1631,6 +1614,23 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1375_first-senate/toc_pdf/23S1720.pdf;fileType=application%2Fpdf"
     last_updated: 2023-06-13
+  - bill_id: "r7259"
+    title: "National Broadband Network Companies Amendment (Commitment to Public Ownership) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7259_first-reps/toc_pdf/24125b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-09
   - bill_id: "s1352"
     title: "National Energy Transition Authority Bill 2022"
     status: "Before Senate"
@@ -7192,6 +7192,23 @@ failed:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1413_first-senate/toc_pdf/24S0620.pdf;fileType=application%2Fpdf"
     last_updated: 2024-06-26
+  - bill_id: "s1430"
+    title: "Competition and Consumer Amendment (Make Price Gouging Illegal) Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Competition and Consumer Act 2010 to prohibit a corporation with substantial market power from engaging in conduct that results in, or is likely to result in, an excessive price being charged for a good or service."
+    sponsor_name: "Nick Mckim"
+    sponsor_party: "Greens"
+    sponsor_id: "10841"
+    sponsor_division: "Tasmania"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1430_first-senate/toc_pdf/24S2020.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-09-16
   - bill_id: "s1418"
     title: "COVID-19 Response Commission of Inquiry Bill 2024"
     status: "Not Proceeding"
