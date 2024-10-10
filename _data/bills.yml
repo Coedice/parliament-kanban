@@ -137,7 +137,7 @@ pending:
     last_updated: 2024-05-15
   - bill_id: "r7243"
     title: "Anti-Money Laundering and Counter-Terrorism Financing Amendment Bill 2024"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Attorney-General"
     originating_house: "House of Representatives"
@@ -151,7 +151,7 @@ pending:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7243_first-reps/toc_pdf/24109b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-09
+    last_updated: 2024-10-10
   - bill_id: "s1393"
     title: "Australian Education Amendment (Save Our Public Schools) Bill 2023"
     status: "Before Senate"
@@ -2262,7 +2262,7 @@ pending:
     last_updated: 2024-07-02
   - bill_id: "r7244"
     title: "Universities Accord (National Student Ombudsman) Bill 2024"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Education"
     originating_house: "House of Representatives"
@@ -2276,7 +2276,7 @@ pending:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7244_first-reps/toc_pdf/24110b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-09
+    last_updated: 2024-10-10
   - bill_id: "r7231"
     title: "Universities Accord (Student Support and Other Measures) Bill 2024"
     status: "Before Reps"
