@@ -50,6 +50,23 @@ pending:
     minister_division: "Lilley"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7238_first-reps/toc_pdf/24104b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-09
+  - bill_id: "r7215"
+    title: "Aged Care Legislation Amendment Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Health and Aged Care"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7215_first-reps/toc_pdf/24081b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-10
   - bill_id: "r7157"
     title: "Agriculture (Biosecurity Protection) Charges Bill 2024"
     status: "Before Senate"
@@ -203,6 +220,23 @@ pending:
     minister_division: "Corio"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7104_third-reps/toc_pdf/23138b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-09-16
+  - bill_id: "r7253"
+    title: "Better and Fairer Schools (Funding and Reform) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Education"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7253_first-reps/toc_pdf/24123b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-10
   - bill_id: "r7232"
     title: "Better and Fairer Schools (Information Management) Bill 2024"
     status: "Before Senate"
@@ -1698,7 +1732,7 @@ pending:
     minister_id: "10751"
     minister_division: "Greenway"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7259_first-reps/toc_pdf/24125b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-09
+    last_updated: 2024-10-10
   - bill_id: "s1352"
     title: "National Energy Transition Authority Bill 2022"
     status: "Before Senate"
@@ -1869,6 +1903,23 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1346_first-senate/toc_pdf/22S0720.pdf;fileType=application%2Fpdf"
     last_updated: 2023-02-09
+  - bill_id: "r7258"
+    title: "Oversight Legislation Amendment (Robodebt Royal Commission Response and Other Measures) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Attorney-General"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7258_first-reps/toc_pdf/24124b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-10
   - bill_id: "s1348"
     title: "Parliamentary Privileges Amendment (Royal Commission Response) Bill 2022"
     status: "Before Senate"
@@ -2192,6 +2243,23 @@ pending:
     minister_division: "Franklin"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7062_first-reps/toc_pdf/23096b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-08-02
+  - bill_id: "r7257"
+    title: "Treasury Laws Amendment (Mergers and Acquisitions Reform) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7257_first-reps/toc_pdf/24120b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-10
   - bill_id: "r7222"
     title: "Treasury Laws Amendment (Multinational&mdash;Global and Domestic Minimum Tax) (Consequential) Bill 2024"
     status: "Before Senate"
