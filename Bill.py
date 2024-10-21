@@ -56,6 +56,7 @@ class Bill:
             "originating_house",
             "summary",
             "last_updated",
+            "second_reading_hansard_url",
         ]
         if self.existing_bill["type"] == "Private":
             required_fields.extend(
@@ -139,6 +140,19 @@ class Bill:
         except AttributeError:
             return None
 
+    def _get_second_reading_hansard_url(self) -> str:
+        if self.soup is None:
+            return self.existing_bill["second_reading_hansard_url"]
+
+        try:
+            return (
+                self.soup.find("ul", {"class": "speech-transcripts"})
+                .find_all("li")[1]
+                .find("a")["href"]
+            )
+        except (AttributeError, IndexError):
+            return None
+
     def _get_minister_name(self) -> str:
         if self._get_portfolio() is None:
             return None
@@ -149,14 +163,9 @@ class Bill:
             return self.existing_bill["minister_name"]
 
         # Get minister's speech URL
-        minister_second_reading_url = None
-        try:
-            minister_second_reading_url = (
-                self.soup.find("ul", {"class": "speech-transcripts"})
-                .find_all("li")[1]
-                .find("a")["href"]
-            )
-        except AttributeError:
+        minister_second_reading_url = self._get_second_reading_hansard_url()
+
+        if minister_second_reading_url is None:
             return None
 
         # Get Hansard page
@@ -325,6 +334,7 @@ class Bill:
     minister_division: {self._yaml_value_wrapper(self._get_introducer_division(self.minister_name))}
     pdf_url: {self._yaml_value_wrapper(self._get_pdf_url())}
     last_updated: {self._yaml_value_wrapper(self._get_last_updated(), False)}
+    second_reading_hansard_url: {self._yaml_value_wrapper(self._get_second_reading_hansard_url())}
 """
 
     def __repr__(self) -> str:

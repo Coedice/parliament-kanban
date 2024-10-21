@@ -147,6 +147,9 @@ columns:
                             <h4>Links:</h4>
                             <ul>
                                 <li><a href="{{ bill.pdf_url }}" target="_blank">Download the {% if bill.status == "Act" %}act{% else %}bill{% endif %}</a></li>
+                                {% if bill.second_reading_hansard_url %}
+                                    <li><a href="{{ bill.second_reading_hansard_url }}" target="_blank">Second reading speech</a></li>
+                                {% endif %}
                                 <li><a href="https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId={{ bill.bill_id }}" target="_blank">More info</a></li>
                             </ul>
                         </div>
