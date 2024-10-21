@@ -27,6 +27,20 @@ function ticketIsInCoalition(ticket) {
     return false;
 }
 
+function updateColumnCounts() {
+    // Update column counts
+    const columns = document.getElementsByClassName("column");
+    for (const column of columns) {
+        let total = 0;
+        for (const ticket of column.getElementsByClassName("ticket")) {
+            if (ticket.style.display != "none") {
+                total++;
+            }
+        }
+        column.getElementsByClassName("columnSize")[0].innerHTML = total;
+    }
+}
+
 function filterByParty(party) {
     console.log(party);
     // Update active filter
@@ -54,17 +68,31 @@ function filterByParty(party) {
         }
     }
 
-    // Update column counts
-    const columns = document.getElementsByClassName("column");
-    for (const column of columns) {
-        let total = 0;
-        for (const ticket of column.getElementsByClassName("ticket")) {
-            if (ticket.style.display != "none") {
-                total++;
-            }
-        }
-        column.getElementsByClassName("columnSize")[0].innerHTML = total;
+    updateColumnCounts();
+}
+
+function filterByDate(start, end) {
+    const tickets = document.getElementsByClassName("ticket");
+
+    if (end == null || end == "") {
+        end = new Date();
     }
+
+    if (start == null || start == "") {
+        start = new Date(0);
+    }
+
+    for (const ticket of tickets) {
+        if (ticket.dataset.date < start) {
+            ticket.style.display = "none";
+        } else if (ticket.dataset.date > end) {
+            ticket.style.display = "none";
+        } else {
+            ticket.style.display = "block";
+        }
+    }
+
+    updateColumnCounts();
 }
 
 window.onload = () => {

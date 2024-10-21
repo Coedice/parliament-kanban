@@ -60,6 +60,13 @@ columns:
                 <a id="{{ filter | slugify }}-filter" {% if filter == "Clear filter" %}class="active-filter"{% endif %} onclick="filterByParty('{{ filter | slugify }}')">{{ filter }}</a>
             {% endfor %}
         </div>
+        <div>
+            <label for="date">Start:</label>
+            <input type="date" id="start-date" value="">
+            <label for="date">End:</label>
+            <input type="date" id="end-date" value="">
+            <input type="submit" value="Go" onclick="filterByDate(document.getElementById('start-date').value, document.getElementById('end-date').value)">
+        </div>
         <div class="row">
             {% for column in page.columns %}
                 <div class="column">
@@ -79,7 +86,7 @@ columns:
                             {% assign assignee_division = bill.sponsor_division %}
                         {% endif %}
 
-                        <div onclick="openBill('{{ bill.bill_id }}')" class="ticket {{ assignee_party | slugify }}" id="{{ bill.bill_id }}">
+                        <div onclick="openBill('{{ bill.bill_id }}')" class="ticket {{ assignee_party | slugify }}" id="{{ bill.bill_id }}" data-date="{{ bill.last_updated }}">
                             {% assign billTypeSlug = bill.type | slugify %}
                             <div class="assignee">
                                 {% if assignee_id %}
@@ -111,6 +118,7 @@ columns:
                                     </li>
                                 {% endif %}
                                 <li>Type: {% if bill.type == "Government" %}Government{% else %}Private member's{% endif %} bill</li>
+                                <li>Last changed: {{ bill.last_updated | date: "%d/%m/%Y" }}</li>
                             </ul>
                             <h4>Progress:</h4>
                             <ul class="progress">
