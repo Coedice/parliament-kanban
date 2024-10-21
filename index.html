@@ -23,8 +23,8 @@ columns:
     </head>
     <body>
         <h1>{{ page.title }}</h1>
-        <p>Last updated: {{ site.time | date : "%d/%m/%Y %H:%M" }}</p>
-        <p>This is a list of all bills that have come before the current federal parliament. <a href="https://github.com/Coedice/parliament-kanban">Click here</a> to see the source code.</p>
+        <p>This is a list of all bills that have come before the current federal parliament. Data updates daily.</p>
+        <p><a href="https://github.com/Coedice/parliament-kanban">Click here</a> to see the source code.</p>
         {% assign filters = "" %}
         {% for party in site.data.parties %}
             {% assign party_has_bills = false %}

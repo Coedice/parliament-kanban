@@ -8,6 +8,7 @@
 
 body {
     background-color: #292c33;
+    margin: 10px;
 }
 
 .column {
@@ -17,6 +18,10 @@ body {
 
     h2 {
         text-align: center;
+    }
+
+    &:nth-last-child(1) div {
+        margin-right: 0;
     }
 }
 
@@ -43,6 +48,7 @@ body {
     display: block;
     padding: 14px;
     margin: 10px;
+    margin-left: 0;
     border-radius: 10px;
     text-decoration: none;
     position: relative;
