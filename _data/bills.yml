@@ -3060,6 +3060,42 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6884_aspassed/toc_pdf/2260b01.pdf;fileType=application%2Fpdf"
     last_updated: 2022-11-09
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F25918%2F0073%22"
+  - bill_id: "r7105"
+    title: "Australian Naval Nuclear Power Safety (Transitional Provisions) Bill 2023"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Defence"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Australian Naval Nuclear Power Safety Bill 2023, the bill enables certain licences issued by the Australian Radiation Protection and Nuclear Safety Agency to be treated as Australian naval nuclear power safety licences for the purposes of the Australian Naval Nuclear Power Safety Act 2023."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Richard Marles"
+    minister_party: "Labor"
+    minister_id: "10418"
+    minister_division: "Corio"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7105_aspassed/toc_pdf/23137b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-24
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27181%2F0045%22"
+  - bill_id: "r7104"
+    title: "Australian Naval Nuclear Power Safety Bill 2024"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Defence"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Australian Naval Nuclear Power Safety (Transitional Provisions) Bill 2023, the bill establishes a framework to regulate the nuclear safety aspects of Australia’s nuclear-powered submarine enterprise."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Richard Marles"
+    minister_party: "Labor"
+    minister_id: "10418"
+    minister_division: "Corio"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7104_aspassed/toc_pdf/23138b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-24
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27181%2F0041%22"
   - bill_id: "r7030"
     title: "Australian Organ and Tissue Donation and Transplantation Authority Amendment (Disclosure of Information) Bill 2023"
     status: "Act"
@@ -3492,6 +3528,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6942_aspassed/toc_pdf/22121b01.pdf;fileType=application%2Fpdf"
     last_updated: 2022-12-12
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26229%2F0017%22"
+  - bill_id: "r7172"
+    title: "Crimes and Other Legislation Amendment (Omnibus No. 1) Bill 2024"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Attorney-General"
+    originating_house: "House of Representatives"
+    summary: "Amends the: Crimes Act 1914, Proceeds of Crime Act 2002, and National Anti-Corruption Commission Act 2022 to clarify certain aspects of the framework relating to the seizure of digital assets; Proceeds of Crime Act 2002 to provide that information gathering powers and freezing orders apply to digital currency exchanges; Crimes Act 1914 to increase the Commonwealth penalty unit from $313 to $330; Telecommunications Act 1997 and Telecommunications (Interception and Access) Act 1979 to clarify the functions of the Communications Access Coordinator in the Attorney-General’s Department and create the position of Communications Security Coordinator in the Department of Home Affairs; and Telecommunications (Interception and Access) Act 1979 in relation to information sharing between integrity agencies and oversight bodies."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Mark Dreyfus"
+    minister_party: "Labor"
+    minister_id: "10181"
+    minister_division: "Isaacs"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7172_aspassed/toc_pdf/24037b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-24
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27626%2F0027%22"
   - bill_id: "r7108"
     title: "Crimes and Other Legislation Amendment (Omnibus No. 2) Bill 2023"
     status: "Act"
@@ -3690,6 +3744,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6927_aspassed/toc_pdf/22108b01.pdf;fileType=application%2Fpdf"
     last_updated: 2022-11-23
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26228%2F0045%22"
+  - bill_id: "r7242"
+    title: "Customs Tariff Amendment (Comprehensive and Progressive Agreement for Trans-Pacific Partnership Expansion) Bill 2024"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Home Affairs"
+    originating_house: "House of Representatives"
+    summary: "Implements the Protocol on the Accession of the United Kingdom of Great Britain and Northern Ireland to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership by amending the Customs Tariff Act 1995 to provide a free rate of customs duty for certain originating goods of the United Kingdom; specify phasing rates of customs duty for certain originating goods of the United Kingdom that will incrementally reduce to free; and provide a safeguard that would restore the customs duty rate to the rate that applied before the commencement of the protocol for certain products."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Julian Hill"
+    minister_party: "Labor"
+    minister_id: "10885"
+    minister_division: "Bruce"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7242_aspassed/toc_pdf/24107b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-24
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28032%2F0024%22"
   - bill_id: "r7118"
     title: "Customs Tariff Amendment (Incorporation of Proposals) Bill (No. 2) 2023"
     status: "Act"
