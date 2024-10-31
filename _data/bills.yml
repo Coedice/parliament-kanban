@@ -59,7 +59,7 @@ pending:
     type: "Government"
     portfolio: "Health and Aged Care"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the: Aged Care Act 1997 to: enable the secretary to conduct residential care data assurance reviews; and clarify the maximum accommodation payment that may apply for voluntary moves within a residential aged care service; and Aged Care Act 1997 and Aged Care (Transitional Provisions) Act 1997 to: enable refundable deposit balance information held by approved providers to be used to verify care recipients’ income and asset details; enable an income and assets determination to be varied; and align income and assets determination processes."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -203,7 +203,7 @@ pending:
     type: "Government"
     portfolio: "Education"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Australian Education Act 2013 to: amend the approach for determining the Commonwealth’s contribution to recurrent funding for government schools by providing for the Commonwealth share to be prescribed by regulation, subject to certain conditions; specify the Northern Territory’s funding share; and provides for certain publication and reporting requirements."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -725,7 +725,7 @@ pending:
     type: "Government"
     portfolio: "Home Affairs"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Introduced with the Intelligence Services and Other Legislation Amendment (Cyber Security) Bill 2024 and Security of Critical Infrastructure and Other Legislation Amendment (Enhanced Response and Prevention) Bill 2024 to implement certain measures proposed by the 2023-2030 Australian Cyber Security Strategy, the bill provides for: mandatory security standards for smart devices; mandatory obligations on certain businesses to report ransomware and cyber extortion payments; a ‘limited use’ obligation that restricts how cyber security information voluntarily provided to the National Cyber Security Coordinator can be used and disclosed; and the establishment of a Cyber Incident Review Board to conduct post-incident reviews into significant cyber security incidents."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -1013,7 +1013,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "Amends the Environment Protection and Biodiversity Conservation Act 1999 to introduce limitations on timeframes permissible for reconsideration of certain decisions, and on those who may seek reconsideration after a period of 3 years."
     sponsor_name: "Richard Colbeck"
     sponsor_party: "Liberal"
     sponsor_id: "10131"
@@ -1499,7 +1499,7 @@ pending:
     type: "Government"
     portfolio: "Home Affairs"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Introduced with the Cyber Security Bill 2024 and Security of Critical Infrastructure and Other Legislation Amendment (Enhanced Response and Prevention) Bill 2024 to implement certain measures proposed by the 2023-2030 Australian Cyber Security Strategy, the bill amends the: Intelligence Services Act 2001 to establish a ‘limited use’ obligation that restricts how cyber security information voluntarily provided to the Australian Signals Directorate can be used and disclosed; and Freedom of Information Act 1982 to exempt cyber security information voluntarily provided to the National Cyber Security Coordinator from the operation of the Act."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -1535,7 +1535,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "Amends the Interactive Gambling Act 2001 to provide for a staged implementation of a prohibition on the advertising of licensed interactive wagering services."
     sponsor_name: "Sarah Hanson-Young"
     sponsor_party: "Greens"
     sponsor_id: "10711"
@@ -1751,7 +1751,7 @@ pending:
     type: "Government"
     portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the: National Broadband Network Companies Act 2011 to provide that NBN Co Limited, the company that operates the National Broadband Network, remains wholly owned by the Commonwealth; and Telecommunications Act 1997 to make consequential amendments."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -1949,7 +1949,7 @@ pending:
     type: "Government"
     portfolio: "Attorney-General"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the: Ombudsman Act 1976 and Inspector-General of Taxation Act 2003 to implement two recommendations of the Report of the Royal Commission into the Robodebt Scheme by: imposing a statutory duty on agency heads and their staff to assist the Commonwealth Ombudsman and the Inspector-General of Taxation and Taxation Ombudsman (IGTO) in the performance of their functions; and expanding the powers of the Ombudsman and IGTO to access agency records; Inspector-General of Intelligence and Security Act 1986 to clarify that the Inspector-General of Security and Intelligence is entitled to reasonable facilities and assistance when making preliminary inquiries of the head of an intelligence agency; and Ombudsman Act 1976 to: enable the Ombudsman and IGTO to access documents and other records by remote means; and make technical and contingent amendments."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -2057,7 +2057,7 @@ pending:
     type: "Government"
     portfolio: "Home Affairs"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Introduced with the Cyber Security Bill 2024 and Intelligence Services and Other Legislation Amendment (Cyber Security) Bill 2024 to implement certain measures proposed by the 2023-2030 Australian Cyber Security Strategy, the bill amends the: Security of Critical Infrastructure Act 2018 to: clarify obligations in relation to certain data storage systems that store or process business critical data; expand the government assistance framework to facilitate the management of consequences of impacts of incidents on critical infrastructure assets; amend the definition of ‘protected information’ to include a harms-based assessment and non-exhaustive list of relevant information; clarify the use and disclosure of protected information; enable the regulator to direct an entity to remedy a seriously deficient risk management program; consolidate security requirements for critical telecommunications assets; remove direct interest holders from reporting obligations associated with Systems of National Significance. Also makes consequential or contingent amendments to 5 Acts."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -2147,7 +2147,7 @@ pending:
     type: "Government"
     portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Sydney Airport Demand Management Act 1997 to: enable the minister to declare a higher maximum movement limit for a strictly limited period to assist in managing certain disruptions to operations at Sydney Airport; provide for the minister to make the Slot Management Scheme, rather than the Slot Manager; modify the compliance regime in relation to slot misuse, including establishing civil penalty provisions and changing the role and functions of the Compliance Committee; and provide for information management obligations."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -2309,7 +2309,7 @@ pending:
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Competition and Consumer Act 2010 to replace the existing framework for mergers review with a mandatory and suspensory administrative system for acquisitions, with the Australian Competition and Consumer Commission as the first instance administrative decision-maker. Also makes consequential amendments to 5 Acts."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
