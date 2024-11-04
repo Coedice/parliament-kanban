@@ -34,7 +34,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7260_first-reps/toc_pdf/24126b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-04
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28585%2F0084%22"
   - bill_id: "r7237"
     title: "Administrative Review Tribunal (Miscellaneous Measures) Bill 2024"
     status: "Before Senate"
@@ -538,7 +538,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7263_first-reps/toc_pdf/24127b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-04
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28585%2F0089%22"
   - bill_id: "s1386"
     title: "Copyright Legislation Amendment (Fair Pay for Radio Play) Bill 2023"
     status: "Before Senate"
@@ -574,7 +574,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7261_first-reps/toc_pdf/24129b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-04
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28585%2F0097%22"
   - bill_id: "r7135"
     title: "Crimes Amendment (Strengthening the Criminal Justice Response to Sexual Violence) Bill 2024"
     status: "Before Senate"
@@ -1276,7 +1276,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7262_first-reps/toc_pdf/24128b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-04
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28585%2F0093%22"
   - bill_id: "s1379"
     title: "Freeze on Rent and Rate Increases Bill 2023"
     status: "Before Senate"
@@ -1492,7 +1492,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7264_first-reps/toc_pdf/24130b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-04
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28585%2F0102%22"
   - bill_id: "r7061"
     title: "Housing Australia Future Fund Bill 2023 [No. 2]"
     status: "Before Reps"
