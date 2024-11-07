@@ -1871,6 +1871,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7224_first-reps/toc_pdf/24089b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-08-13
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28021%2F0018%22"
+  - bill_id: "r7276"
+    title: "Migration Amendment Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Home Affairs"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7276_first-reps/toc_pdf/24136b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-07
+    second_reading_hansard_url: null
   - bill_id: "s1375"
     title: "Murdoch Media Inquiry Bill 2023"
     status: "Before Senate"
