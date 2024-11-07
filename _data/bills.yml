@@ -712,13 +712,13 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Julian Hill"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10885"
+    minister_division: "Bruce"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7267_first-reps/toc_pdf/24131b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-07
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0009%22"
   - bill_id: "s1356"
     title: "Customs Amendment (Banning Goods Produced By Forced Labour) Bill 2022"
     status: "Before Senate"
@@ -802,13 +802,13 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Julian Hill"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10885"
+    minister_division: "Bruce"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7269_first-reps/toc_pdf/24133b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-07
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0013%22"
   - bill_id: "r7250"
     title: "Cyber Security Bill 2024"
     status: "Before Reps"
@@ -1324,13 +1324,13 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Andrew Giles"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10812"
+    minister_division: "Scullin"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7271_first-reps/toc_pdf/24134b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-07
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0005%22"
   - bill_id: "s1379"
     title: "Freeze on Rent and Rate Increases Bill 2023"
     status: "Before Senate"
@@ -1882,13 +1882,13 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Tony Burke"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10081"
+    minister_division: "Watson"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7276_first-reps/toc_pdf/24136b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-07
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0057%22"
   - bill_id: "s1375"
     title: "Murdoch Media Inquiry Bill 2023"
     status: "Before Senate"
@@ -2242,13 +2242,13 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Stephen Jones"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10740"
+    minister_division: "Whitlam"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7275_first-reps/toc_pdf/24135b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-07
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0017%22"
   - bill_id: "r7255"
     title: "Security of Critical Infrastructure and Other Legislation Amendment (Enhanced Response and Prevention) Bill 2024"
     status: "Before Reps"
