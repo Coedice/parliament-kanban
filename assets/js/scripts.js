@@ -95,7 +95,48 @@ function filterByDate(start, end) {
     updateColumnCounts();
 }
 
+function toggleStar(billId, editCookie = true) {
+    const billElement = document.getElementById(billId);
+    let cookieValue = "";
+
+    if (editCookie) {
+        if (document.cookie == "") {
+            document.cookie = "starred=";
+        }
+        cookieValue = document.cookie.split("=")[1];
+    }
+
+    if (billElement.classList.contains("starred")) {
+        billElement.classList.remove("starred");
+
+        // Remove cookie from list of starred tickets
+        if (editCookie) {
+            document.cookie = "starred=" + cookieValue.split(",").filter((starredBillId) => starredBillId != billId).join(",");
+        }
+    } else {
+        billElement.classList.add("starred");
+
+        // Append cookie to list of starred tickets
+        if (editCookie) {
+            if (cookieValue == "") {
+                document.cookie = "starred=" + billId;
+            } else {
+                document.cookie = document.cookie + "," + billId;
+            }
+        }
+    }
+
+    console.log("GGG cookies: " + document.cookie);
+}
+
 window.onload = () => {
+    // Update starred tickets
+    const starredBills = document.cookie.split("=")[1].split(",");
+    for (const starredBill of starredBills) {
+        toggleStar(starredBill, false);
+    }
+
+    // Update active ticket based on hash
     const hash = window.location.hash;
 
     if (hash) {

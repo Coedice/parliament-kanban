@@ -19,9 +19,12 @@ input {
     float: left;
     width: 33.33%;
     padding: 0px;
+    display: flex;
+    flex-direction: column;
 
     h2 {
         text-align: center;
+        order: -1;
     }
 
     &:nth-last-child(1) div {
@@ -51,14 +54,32 @@ input {
 .ticket {
     display: block;
     padding: 14px;
-    margin: 10px;
-    margin-left: 0;
+    margin: 10px 0 0 10px;
     border-radius: 10px;
     text-decoration: none;
     position: relative;
     border: 2px;
     border-style: solid;
     min-height: 50px;
+
+    &.starred {
+        background-color: rgba(255, 255, 0, 0.15);
+        order: -1;
+    }
+
+    .starIcon {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 20px;
+        height: 20px;
+        content: url("{{ 'assets/images/unstarred.webp' | relative_url }}");
+    }
+    
+    &.starred > .starIcon {
+        content: url("{{ 'assets/images/starred.webp' | relative_url }}");
+    }
+
     &:hover {
         cursor: pointer;
     }

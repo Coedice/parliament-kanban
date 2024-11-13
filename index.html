@@ -87,6 +87,7 @@ columns:
                         {% endif %}
 
                         <div onclick="openBill('{{ bill.bill_id }}')" class="ticket {{ assignee_party | slugify }}" id="{{ bill.bill_id }}" data-date="{{ bill.last_updated }}">
+                            <img class="starIcon" alt="Star" title="Star this bill" onclick="toggleStar('{{ bill.bill_id }}')">
                             {% assign billTypeSlug = bill.type | slugify %}
                             <div class="assignee">
                                 {% if assignee_id %}
