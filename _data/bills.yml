@@ -1,4 +1,22 @@
 pending:
+  - bill_id: "r7266"
+    title: "Abolition of Special Prospecting Authorities (Ocean Protection) Bill 2024"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: "Monique Ryan"
+    sponsor_party: "Independent"
+    sponsor_id: "10987"
+    sponsor_division: "Kooyong"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7266_first-reps/toc_pdf/24137b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-18
+    second_reading_hansard_url: null
   - bill_id: "s1424"
     title: "Aboriginal Land Rights (Northern Territory) Amendment (Scheduling) Bill 2024"
     status: "Before Senate"
@@ -161,6 +179,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1410_first-senate/toc_pdf/24S0220.pdf;fileType=application%2Fpdf"
     last_updated: 2024-05-15
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27576%2F0117%22"
+  - bill_id: "r7270"
+    title: "Anti-Money Laundering and Counter-Terrorism Financing Amendment (Making Gambling Businesses Accountable) Bill 2024"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: "Andrew Wilkie"
+    sponsor_party: "Independent"
+    sponsor_id: "10727"
+    sponsor_division: "Clark"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7270_first-reps/toc_pdf/24139b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-18
+    second_reading_hansard_url: null
   - bill_id: "r7243"
     title: "Anti-Money Laundering and Counter-Terrorism Financing Amendment Bill 2024"
     status: "Before Senate"
@@ -305,6 +341,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1381_first-senate/toc_pdf/23S1820.pdf;fileType=application%2Fpdf"
     last_updated: 2023-06-22
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26731%2F0163%22"
+  - bill_id: "r7274"
+    title: "Broadcasting Services Amendment (Healthy Kids Advertising) Bill 2024"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: "Sophie Scamps"
+    sponsor_party: "Independent"
+    sponsor_id: "10989"
+    sponsor_division: "Mackellar"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7274_first-reps/toc_pdf/24142b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-18
+    second_reading_hansard_url: null
   - bill_id: "r7228"
     title: "Broadcasting Services Amendment (Prohibition of Gambling Advertisements) Bill 2024"
     status: "Before Reps"
@@ -1583,6 +1637,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1427_first-senate/toc_pdf/24S1720.pdf;fileType=application%2Fpdf"
     last_updated: 2024-08-21
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28060%2F0198%22"
+  - bill_id: "r7273"
+    title: "Housing Legislation Amendment (Fair Share for Regional Housing) Bill 2024"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: "Helen Haines"
+    sponsor_party: "Independent"
+    sponsor_id: "10929"
+    sponsor_division: "Indi"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7273_first-reps/toc_pdf/24141b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-18
+    second_reading_hansard_url: null
   - bill_id: "s1359"
     title: "Human Rights (Children Born Alive Protection) Bill 2022"
     status: "Before Senate"
@@ -1799,6 +1871,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1314_first-senate/toc_pdf/21S1420.pdf;fileType=application%2Fpdf"
     last_updated: 2022-07-27
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F38aecaea-ebc3-40c8-b36a-5c9638090797%2F0219%22"
+  - bill_id: "r7272"
+    title: "Lobbying (Improving Government Honesty and Trust) Bill 2024"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: "Monique Ryan"
+    sponsor_party: "Independent"
+    sponsor_id: "10987"
+    sponsor_division: "Kooyong"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7272_first-reps/toc_pdf/24140b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-18
+    second_reading_hansard_url: null
   - bill_id: "r7226"
     title: "Migration Amendment (Limits on Immigration Detention) Bill 2024"
     status: "Before Reps"
@@ -2231,6 +2321,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7167_first-reps/toc_pdf/24034b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-03-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27620%2F0036%22"
+  - bill_id: "r7265"
+    title: "Requiring Energy Infrastructure Providers to Obtain Rehabilitation Bonds Bill 2024"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: "Sam Birrell"
+    sponsor_party: "Nationals"
+    sponsor_id: "10991"
+    sponsor_division: "Nicholls"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7265_first-reps/toc_pdf/24138b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-18
+    second_reading_hansard_url: null
   - bill_id: "r7275"
     title: "Scams Prevention Framework Bill 2024"
     status: "Before Reps"
