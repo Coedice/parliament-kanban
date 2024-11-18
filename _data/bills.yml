@@ -16,7 +16,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7266_first-reps/toc_pdf/24137b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-18
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28037%2F0077%22"
   - bill_id: "s1424"
     title: "Aboriginal Land Rights (Northern Territory) Amendment (Scheduling) Bill 2024"
     status: "Before Senate"
@@ -196,7 +196,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7270_first-reps/toc_pdf/24139b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-18
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28037%2F0087%22"
   - bill_id: "r7243"
     title: "Anti-Money Laundering and Counter-Terrorism Financing Amendment Bill 2024"
     status: "Before Senate"
@@ -358,7 +358,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7274_first-reps/toc_pdf/24142b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-18
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28037%2F0102%22"
   - bill_id: "r7228"
     title: "Broadcasting Services Amendment (Prohibition of Gambling Advertisements) Bill 2024"
     status: "Before Reps"
@@ -982,13 +982,13 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Patrick Gorman"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10911"
+    minister_division: "Perth"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7279_first-reps/toc_pdf/24143b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-18
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28037%2F0126%22"
   - bill_id: "r7280"
     title: "Electoral Legislation Amendment (Electoral Reform) Bill 2024"
     status: "Before Reps"
@@ -1000,13 +1000,13 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Patrick Gorman"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10911"
+    minister_division: "Perth"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7280_first-reps/toc_pdf/24146b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-18
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28037%2F0122%22"
   - bill_id: "r7168"
     title: "Electoral Legislation Amendment (Fair and Transparent Elections) Bill 2024"
     status: "Before Reps"
@@ -1690,7 +1690,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7273_first-reps/toc_pdf/24141b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-18
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28037%2F0097%22"
   - bill_id: "s1359"
     title: "Human Rights (Children Born Alive Protection) Bill 2022"
     status: "Before Senate"
@@ -1924,7 +1924,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7272_first-reps/toc_pdf/24140b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-18
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28037%2F0092%22"
   - bill_id: "r7226"
     title: "Migration Amendment (Limits on Immigration Detention) Bill 2024"
     status: "Before Reps"
