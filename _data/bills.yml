@@ -753,7 +753,7 @@ pending:
     minister_id: "10885"
     minister_division: "Bruce"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7267_first-reps/toc_pdf/24131b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-07
+    last_updated: 2024-11-19
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0009%22"
   - bill_id: "s1356"
     title: "Customs Amendment (Banning Goods Produced By Forced Labour) Bill 2022"
@@ -843,7 +843,7 @@ pending:
     minister_id: "10885"
     minister_division: "Bruce"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7269_first-reps/toc_pdf/24133b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-07
+    last_updated: 2024-11-19
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0013%22"
   - bill_id: "r7250"
     title: "Cyber Security Bill 2024"
@@ -987,7 +987,7 @@ pending:
     minister_id: "10911"
     minister_division: "Perth"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7280_first-reps/toc_pdf/24146b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-18
+    last_updated: 2024-11-19
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28037%2F0122%22"
   - bill_id: "s1414"
     title: "Electoral Legislation Amendment (Fair and Transparent Elections) Bill 2024 (No. 2)"
@@ -1383,7 +1383,7 @@ pending:
     minister_id: "10812"
     minister_division: "Scullin"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7271_first-reps/toc_pdf/24134b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-07
+    last_updated: 2024-11-19
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0005%22"
   - bill_id: "s1379"
     title: "Freeze on Rent and Rate Increases Bill 2023"
@@ -1977,7 +1977,7 @@ pending:
     minister_id: "10081"
     minister_division: "Watson"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7276_first-reps/toc_pdf/24136b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-07
+    last_updated: 2024-11-19
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0057%22"
   - bill_id: "s1375"
     title: "Murdoch Media Inquiry Bill 2023"
@@ -2087,6 +2087,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7064_first-reps/toc_pdf/23097b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-08-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27156%2F0013%22"
+  - bill_id: "s1434"
+    title: "National Organic Standard Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Bridget Mckenzie"
+    sponsor_party: "Nationals"
+    sponsor_id: "10758"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1434_first-senate/toc_pdf/24S2320.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-19
+    second_reading_hansard_url: null
   - bill_id: "r7193"
     title: "Nature Positive (Environment Information Australia) Bill 2024"
     status: "Before Senate"
@@ -2157,7 +2175,7 @@ pending:
     minister_id: "10368"
     minister_division: "Ballarat"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7268_first-reps/toc_pdf/24132b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-06
+    last_updated: 2024-11-19
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28587%2F0009%22"
   - bill_id: "s1364"
     title: "Northern Territory Safe Measures Bill 2023"
@@ -2337,7 +2355,7 @@ pending:
     minister_id: "10740"
     minister_division: "Whitlam"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7275_first-reps/toc_pdf/24135b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-07
+    last_updated: 2024-11-19
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0017%22"
   - bill_id: "r7255"
     title: "Security of Critical Infrastructure and Other Legislation Amendment (Enhanced Response and Prevention) Bill 2024"
