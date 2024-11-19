@@ -2104,7 +2104,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1434_first-senate/toc_pdf/24S2320.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-19
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28071%2F0104%22"
   - bill_id: "r7193"
     title: "Nature Positive (Environment Information Australia) Bill 2024"
     status: "Before Senate"
