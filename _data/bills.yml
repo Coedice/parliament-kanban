@@ -550,13 +550,13 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Josh Wilson"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10893"
+    minister_division: "Fremantle"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7277_first-reps/toc_pdf/24147b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-20
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28040%2F0038%22"
   - bill_id: "s1392"
     title: "Competition and Consumer Amendment (Continuing ACCC Monitoring of Domestic Airline Competition) Bill 2023"
     status: "Before Senate"
@@ -1024,7 +1024,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1435_first-senate/toc_pdf/24S2420.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-20
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28072%2F0144%22"
   - bill_id: "s1389"
     title: "Electoral Legislation Amendment (Fairer Contracts and Grants) Bill 2023"
     status: "Before Senate"
@@ -1401,7 +1401,7 @@ pending:
     minister_id: "10812"
     minister_division: "Scullin"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7271_first-reps/toc_pdf/24134b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-19
+    last_updated: 2024-11-20
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0005%22"
   - bill_id: "s1379"
     title: "Freeze on Rent and Rate Increases Bill 2023"
@@ -1540,13 +1540,13 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Ged Kearney"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10907"
+    minister_division: "Cooper"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7281_first-reps/toc_pdf/24144b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-20
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28040%2F0026%22"
   - bill_id: "r7124"
     title: "Help to Buy (Consequential Provisions) Bill 2023"
     status: "Before Senate"
@@ -1936,13 +1936,13 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Ged Kearney"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10907"
+    minister_division: "Cooper"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7282_first-reps/toc_pdf/24145b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-20
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28040%2F0030%22"
   - bill_id: "r7226"
     title: "Migration Amendment (Limits on Immigration Detention) Bill 2024"
     status: "Before Reps"
@@ -2836,13 +2836,13 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Kate Thwaites"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10930"
+    minister_division: "Jagajaga"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7283_first-reps/toc_pdf/24149b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-20
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28040%2F0034%22"
 passed:
   - bill_id: "r6930"
     title: "Aboriginal Land Grant (Jervis Bay Territory) Amendment (Strengthening Land and Governance Provisions) Bill 2022"
