@@ -287,24 +287,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7232_first-reps/toc_pdf/24093b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-08-22
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28025%2F0021%22"
-  - bill_id: "s1428"
-    title: "Blayney Gold Mine Bill 2024"
-    status: "Before Senate"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Repeals the Aboriginal and Torres Strait Islander Heritage Protection (Kings Plains) Declaration 2024 and prevents the minister from making a declaration that would affect the construction or operation of a gold mine in the Blayney gold mine area."
-    sponsor_name: "Jonathon Duniam"
-    sponsor_party: "Liberal"
-    sponsor_id: "10847"
-    sponsor_division: "Tasmania"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1428_first-senate/toc_pdf/24S1820.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-09-19
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28053%2F0005%22"
   - bill_id: "s1174"
     title: "Broadcasting Services Amendment (Audio Description) Bill 2019"
     status: "Before Senate"
@@ -557,6 +539,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7213_first-reps/toc_pdf/24079b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-07-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27656%2F0022%22"
+  - bill_id: "r7277"
+    title: "Competition and Consumer Amendment (Australian Energy Regulator Separation) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Climate Change, Energy, the Environment and Water"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7277_first-reps/toc_pdf/24147b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-20
+    second_reading_hansard_url: null
   - bill_id: "s1392"
     title: "Competition and Consumer Amendment (Continuing ACCC Monitoring of Domestic Airline Competition) Bill 2023"
     status: "Before Senate"
@@ -843,7 +843,7 @@ pending:
     minister_id: "10885"
     minister_division: "Bruce"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7269_first-reps/toc_pdf/24133b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-19
+    last_updated: 2024-11-20
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0013%22"
   - bill_id: "r7250"
     title: "Cyber Security Bill 2024"
@@ -1511,6 +1511,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1369_first-senate/toc_pdf/23S00620.pdf;fileType=application%2Fpdf"
     last_updated: 2023-03-06
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26441%2F0138%22"
+  - bill_id: "r7281"
+    title: "Health Insurance (Pathology) (Fees) (Repeal) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Health and Aged Care"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7281_first-reps/toc_pdf/24144b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-20
+    second_reading_hansard_url: null
   - bill_id: "r7124"
     title: "Help to Buy (Consequential Provisions) Bill 2023"
     status: "Before Senate"
@@ -1889,6 +1907,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7272_first-reps/toc_pdf/24140b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-18
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28037%2F0092%22"
+  - bill_id: "r7282"
+    title: "Midwife Professional Indemnity (Commonwealth Contribution) Scheme Amendment Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Health and Aged Care"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7282_first-reps/toc_pdf/24145b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-20
+    second_reading_hansard_url: null
   - bill_id: "r7226"
     title: "Migration Amendment (Limits on Immigration Detention) Bill 2024"
     status: "Before Reps"
@@ -2771,6 +2807,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7247_first-reps/toc_pdf/24111b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-10
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28033%2F0016%22"
+  - bill_id: "r7283"
+    title: "Workplace Gender Equality Amendment (Setting Gender Equality Targets) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Women"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7283_first-reps/toc_pdf/24149b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-20
+    second_reading_hansard_url: null
 passed:
   - bill_id: "r6930"
     title: "Aboriginal Land Grant (Jervis Bay Territory) Amendment (Strengthening Land and Governance Provisions) Bill 2022"
@@ -7903,6 +7957,24 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1395_first-senate/toc_pdf/23S3020.pdf;fileType=application%2Fpdf"
     last_updated: 2023-10-19
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27131%2F0116%22"
+  - bill_id: "s1428"
+    title: "Blayney Gold Mine Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Repeals the Aboriginal and Torres Strait Islander Heritage Protection (Kings Plains) Declaration 2024 and prevents the minister from making a declaration that would affect the construction or operation of a gold mine in the Blayney gold mine area."
+    sponsor_name: "Jonathon Duniam"
+    sponsor_party: "Liberal"
+    sponsor_id: "10847"
+    sponsor_division: "Tasmania"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1428_first-senate/toc_pdf/24S1820.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-09-19
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28053%2F0005%22"
   - bill_id: "r7078"
     title: "Brisbane Airport Curfew and Demand Management Bill 2023"
     status: "Not Proceeding"
