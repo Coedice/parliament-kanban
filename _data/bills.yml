@@ -987,7 +987,7 @@ pending:
     minister_id: "10911"
     minister_division: "Perth"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7280_first-reps/toc_pdf/24146b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-19
+    last_updated: 2024-11-20
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28037%2F0122%22"
   - bill_id: "s1414"
     title: "Electoral Legislation Amendment (Fair and Transparent Elections) Bill 2024 (No. 2)"
@@ -1007,6 +1007,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1414_first-senate/toc_pdf/24S0720.pdf;fileType=application%2Fpdf"
     last_updated: 2024-07-04
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28050%2F0011%22"
+  - bill_id: "s1435"
+    title: "Electoral Legislation Amendment (Fair Territory Representation) Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "David Pocock"
+    sponsor_party: "Independent"
+    sponsor_id: "11009"
+    sponsor_division: "ACT"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1435_first-senate/toc_pdf/24S2420.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-20
+    second_reading_hansard_url: null
   - bill_id: "s1389"
     title: "Electoral Legislation Amendment (Fairer Contracts and Grants) Bill 2023"
     status: "Before Senate"
@@ -2013,7 +2031,7 @@ pending:
     minister_id: "10081"
     minister_division: "Watson"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7276_first-reps/toc_pdf/24136b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-19
+    last_updated: 2024-11-20
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0057%22"
   - bill_id: "s1375"
     title: "Murdoch Media Inquiry Bill 2023"
