@@ -71,6 +71,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7237_first-reps/toc_pdf/24103b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-09-11
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28028%2F0018%22"
+  - bill_id: "r7288"
+    title: "Aged Care (Consequential and Transitional Provisions) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Health and Aged Care"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7288_first-reps/toc_pdf/24151b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-21
+    second_reading_hansard_url: null
   - bill_id: "r7238"
     title: "Aged Care Bill 2024"
     status: "Before Reps"
@@ -753,7 +771,7 @@ pending:
     minister_id: "10885"
     minister_division: "Bruce"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7267_first-reps/toc_pdf/24131b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-19
+    last_updated: 2024-11-21
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0009%22"
   - bill_id: "s1356"
     title: "Customs Amendment (Banning Goods Produced By Forced Labour) Bill 2022"
@@ -1401,7 +1419,7 @@ pending:
     minister_id: "10812"
     minister_division: "Scullin"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7271_first-reps/toc_pdf/24134b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-20
+    last_updated: 2024-11-21
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0005%22"
   - bill_id: "s1379"
     title: "Freeze on Rent and Rate Increases Bill 2023"
@@ -1547,6 +1565,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7281_first-reps/toc_pdf/24144b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-20
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28040%2F0026%22"
+  - bill_id: "r7290"
+    title: "Health Legislation Amendment (Modernising My Health Record&mdash;Sharing by Default) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Health and Aged Care"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7290_first-reps/toc_pdf/24152b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-21
+    second_reading_hansard_url: null
   - bill_id: "r7124"
     title: "Help to Buy (Consequential Provisions) Bill 2023"
     status: "Before Senate"
@@ -1979,6 +2015,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1384_third-senate/toc_pdf/23s2020.pdf;fileType=application%2Fpdf"
     last_updated: 2024-08-21
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26737%2F0053%22"
+  - bill_id: "r7291"
+    title: "Migration Amendment (Prohibiting Items in Immigration Detention Facilities) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Home Affairs"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7291_first-reps/toc_pdf/24155b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-21
+    second_reading_hansard_url: null
   - bill_id: "r7179"
     title: "Migration Amendment (Removal and Other Measures) Bill 2024"
     status: "Before Senate"
@@ -2229,7 +2283,7 @@ pending:
     minister_id: "10368"
     minister_division: "Ballarat"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7268_first-reps/toc_pdf/24132b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-19
+    last_updated: 2024-11-21
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28587%2F0009%22"
   - bill_id: "s1364"
     title: "Northern Territory Safe Measures Bill 2023"
@@ -2285,6 +2339,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1346_first-senate/toc_pdf/22S0720.pdf;fileType=application%2Fpdf"
     last_updated: 2023-02-09
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F25940%2F0074%22"
+  - bill_id: "r7284"
+    title: "Online Safety Amendment (Social Media Minimum Age) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Communications"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7284_first-reps/toc_pdf/24150b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-21
+    second_reading_hansard_url: null
   - bill_id: "r7258"
     title: "Oversight Legislation Amendment (Robodebt Royal Commission Response and Other Measures) Bill 2024"
     status: "Before Reps"
