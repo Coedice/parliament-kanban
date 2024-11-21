@@ -599,7 +599,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Competition and Consumer Act 2010 to enable the court to order the divestiture of assets in certain cases of misuse of market power by supermarket and hardware businesses."
     sponsor_name: "Angus Taylor"
     sponsor_party: "Liberal"
     sponsor_id: "10817"
@@ -635,7 +635,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Corporations Act 2001 to: introduce additional requirements in relation to the provision of personal advice to a retail client by a financial advisor; and make consequential amendments."
     sponsor_name: "Bert Van Manen"
     sponsor_party: "Liberal"
     sponsor_id: "10729"
@@ -761,7 +761,7 @@ pending:
     type: "Government"
     portfolio: "Home Affairs"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Customs Act 1901 to: implement Australia’s obligations under the Second Protocol to Amend the Agreement Establishing the ASEAN-Australia-New Zealand Free Trade Area; and amend certain provisions relating to the Regional Comprehensive Economic Partnership Agreement, the Pacific Agreement on Closer Economic Relations Plus and the Malaysia-Australia Free Trade Agreement."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -851,7 +851,7 @@ pending:
     type: "Government"
     portfolio: "Home Affairs"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Customs Tariff Act 1995 to: set the general rate of customs duty applicable to over 450 tariff headings and subheadings to free; provide that the preferential rate of customs duty applied to goods covered by the Regional Comprehensive Economic Partnership Agreement is not higher than the general rate of customs duty; repeal spent phasing rates of duty; and extend for 24 months the free rate of customs duty for certain goods that are the produce or manufacture of Ukraine."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -1391,7 +1391,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Applies the Food and Grocery Code of Conduct as a mandatory industry code for retailers and wholesalers who have an annual turnover of over $5 billion and provides for civil penalties for contraventions of the mandatory industry code."
     sponsor_name: "David Littleproud"
     sponsor_party: "Nationals"
     sponsor_id: "10890"
@@ -1661,7 +1661,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Higher Education Support Act 2003 to reduce the maximum student contribution amount for a place in a unit of study relating to subjects specified as ‘society and culture’."
     sponsor_name: "Dai Le"
     sponsor_party: "Independent"
     sponsor_id: "10978"
@@ -2075,7 +2075,7 @@ pending:
     type: "Government"
     portfolio: "Home Affairs"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Migration Act 1958 to: provide for the cessation of certain bridging visas where the holder of the visa has been granted permission by a foreign country to enter and remain in that country; enable the minister to make a decision that a protection finding would no longer be made in relation to a non-citizen who holds a visa as a removal pathway non-citizen; create an immunity from civil liability in relation to certain acts or omissions; provide for the collection, use and disclosure of criminal history information or information to foreign countries; provide for spending authority for third country reception arrangements; and make technical amendments."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -2273,7 +2273,7 @@ pending:
     type: "Government"
     portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Navigation Act 2012 to give effect to an amendment to the International Convention for the Safety of Life at Sea, 1974."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -2471,7 +2471,7 @@ pending:
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Competition and Consumer Act 2010 to establish a scams prevention framework which requires service providers in selected sectors of the economy to take a variety of actions to combat scams relating to, connected with, or using their services. Also makes consequential amendments to 4 Acts."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -2573,6 +2573,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7111_first-reps/toc_pdf/23144b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-03-20
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27181%2F0049%22"
+  - bill_id: "r7294"
+    title: "Surveillance Legislation (Confirmation of Application) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Attorney-General"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7294_first-reps/toc_pdf/24158b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-21
+    second_reading_hansard_url: null
   - bill_id: "r7256"
     title: "Sydney Airport Demand Management Amendment Bill 2024"
     status: "Before Reps"
