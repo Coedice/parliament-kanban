@@ -89,24 +89,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7288_first-reps/toc_pdf/24151b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-21
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28041%2F0013%22"
-  - bill_id: "r7238"
-    title: "Aged Care Bill 2024"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Health and Aged Care"
-    originating_house: "House of Representatives"
-    summary: "Responds to certain recommendations of the Royal Commission into Aged Care Quality and Safety and the Final Report of the Aged Care Taskforce by establishing a new framework for the delivery of funded aged care services to individuals under the Commonwealth aged care system, including providing for: a Statement of Rights for individuals and a Statement of Principles for government agencies and bodies; requirements for an individual to access funded aged care services; mechanisms for the Aged Care Quality and Safety Commissioner to consider and decide on applications for registration as a provider and applications for approval of a residential care home; arrangements for funding of aged care services; governance arrangements for the broader aged care system; regulatory mechanisms; the use and disclosure of information; and the establishment of a First Nations Aged Care Commissioner."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Anika Wells"
-    minister_party: "Labor"
-    minister_id: "10931"
-    minister_division: "Lilley"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7238_first-reps/toc_pdf/24104b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-10
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28033%2F0173%22"
   - bill_id: "r7215"
     title: "Aged Care Legislation Amendment Bill 2024"
     status: "Before Reps"
@@ -521,6 +503,60 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1357_first-senate/toc_pdf/22S1320.pdf;fileType=application%2Fpdf"
     last_updated: 2022-12-01
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26121%2F0093%22"
+  - bill_id: "r7295"
+    title: "Commonwealth Entities (Payment Surcharges) (Consequential Provisions and Other Matters) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Andrew Leigh"
+    minister_party: "Labor"
+    minister_id: "10746"
+    minister_division: "Fenner"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7295_first-reps/toc_pdf/24159b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-25
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28042%2F0092%22"
+  - bill_id: "r7287"
+    title: "Commonwealth Entities (Payment Surcharges) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Andrew Leigh"
+    minister_party: "Labor"
+    minister_id: "10746"
+    minister_division: "Fenner"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7287_first-reps/toc_pdf/24153b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-25
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28042%2F0084%22"
+  - bill_id: "r7289"
+    title: "Commonwealth Entities (Payment Surcharges) Tax (Imposition) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Andrew Leigh"
+    minister_party: "Labor"
+    minister_id: "10746"
+    minister_division: "Fenner"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7289_first-reps/toc_pdf/24154b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-25
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28042%2F0088%22"
   - bill_id: "r7213"
     title: "Communications Legislation Amendment (Regional Broadcasting Continuity) Bill 2024"
     status: "Before Senate"
@@ -845,24 +881,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7269_first-reps/toc_pdf/24133b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-20
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0013%22"
-  - bill_id: "r7250"
-    title: "Cyber Security Bill 2024"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Home Affairs"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Intelligence Services and Other Legislation Amendment (Cyber Security) Bill 2024 and Security of Critical Infrastructure and Other Legislation Amendment (Enhanced Response and Prevention) Bill 2024 to implement certain measures proposed by the 2023-2030 Australian Cyber Security Strategy, the bill provides for: mandatory security standards for smart devices; mandatory obligations on certain businesses to report ransomware and cyber extortion payments; a ‘limited use’ obligation that restricts how cyber security information voluntarily provided to the National Cyber Security Coordinator can be used and disclosed; and the establishment of a Cyber Incident Review Board to conduct post-incident reviews into significant cyber security incidents."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Tony Burke"
-    minister_party: "Labor"
-    minister_id: "10081"
-    minister_division: "Watson"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7250_first-reps/toc_pdf/24116b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-09
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28035%2F0125%22"
   - bill_id: "s1377"
     title: "Defence Capability Assurance and Oversight Bill 2024"
     status: "Before Reps"
@@ -934,7 +952,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7285_first-reps/toc_pdf/24162b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-25
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28042%2F0036%22"
   - bill_id: "s1355"
     title: "Education and Other Legislation Amendment (Abolishing Indexation and Raising the Minimum Repayment Income for Education and Training Loans) Bill 2022"
     status: "Before Senate"
@@ -1511,6 +1529,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7223_third-reps/toc_pdf/24088b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-09
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28020%2F0030%22"
+  - bill_id: "r7297"
+    title: "Future Made in Australia (Production Tax Credits and Other Measures) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Jim Chalmers"
+    minister_party: "Labor"
+    minister_id: "10809"
+    minister_division: "Rankin"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7297_first-reps/toc_pdf/24161b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-25
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28042%2F0080%22"
   - bill_id: "r7219"
     title: "Future Made in Australia Bill 2024"
     status: "Before Senate"
@@ -1781,24 +1817,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1368_first-senate/toc_pdf/23S00820.pdf;fileType=application%2Fpdf"
     last_updated: 2023-03-22
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26444%2F0076%22"
-  - bill_id: "r7252"
-    title: "Intelligence Services and Other Legislation Amendment (Cyber Security) Bill 2024"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Home Affairs"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Cyber Security Bill 2024 and Security of Critical Infrastructure and Other Legislation Amendment (Enhanced Response and Prevention) Bill 2024 to implement certain measures proposed by the 2023-2030 Australian Cyber Security Strategy, the bill amends the: Intelligence Services Act 2001 to establish a ‘limited use’ obligation that restricts how cyber security information voluntarily provided to the Australian Signals Directorate can be used and disclosed; and Freedom of Information Act 1982 to exempt cyber security information voluntarily provided to the National Cyber Security Coordinator from the operation of the Act."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Tony Burke"
-    minister_party: "Labor"
-    minister_id: "10081"
-    minister_division: "Watson"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7252_first-reps/toc_pdf/24118b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-09
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28035%2F0129%22"
   - bill_id: "r7056"
     title: "Intelligence Services Legislation Amendment Bill 2023"
     status: "Before Reps"
@@ -2031,7 +2049,7 @@ pending:
     minister_id: "10081"
     minister_division: "Watson"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7291_first-reps/toc_pdf/24155b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-21
+    last_updated: 2024-11-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28041%2F0005%22"
   - bill_id: "r7179"
     title: "Migration Amendment (Removal and Other Measures) Bill 2024"
@@ -2356,7 +2374,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7286_first-reps/toc_pdf/24163b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-25
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28042%2F0041%22"
   - bill_id: "r7284"
     title: "Online Safety Amendment (Social Media Minimum Age) Bill 2024"
     status: "Before Reps"
@@ -2373,7 +2391,7 @@ pending:
     minister_id: "10751"
     minister_division: "Greenway"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7284_first-reps/toc_pdf/24150b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-21
+    last_updated: 2024-11-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28041%2F0017%22"
   - bill_id: "r7258"
     title: "Oversight Legislation Amendment (Robodebt Royal Commission Response and Other Measures) Bill 2024"
@@ -2501,24 +2519,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7275_first-reps/toc_pdf/24135b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-19
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0017%22"
-  - bill_id: "r7255"
-    title: "Security of Critical Infrastructure and Other Legislation Amendment (Enhanced Response and Prevention) Bill 2024"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Home Affairs"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Cyber Security Bill 2024 and Intelligence Services and Other Legislation Amendment (Cyber Security) Bill 2024 to implement certain measures proposed by the 2023-2030 Australian Cyber Security Strategy, the bill amends the: Security of Critical Infrastructure Act 2018 to: clarify obligations in relation to certain data storage systems that store or process business critical data; expand the government assistance framework to facilitate the management of consequences of impacts of incidents on critical infrastructure assets; amend the definition of ‘protected information’ to include a harms-based assessment and non-exhaustive list of relevant information; clarify the use and disclosure of protected information; enable the regulator to direct an entity to remedy a seriously deficient risk management program; consolidate security requirements for critical telecommunications assets; remove direct interest holders from reporting obligations associated with Systems of National Significance. Also makes consequential or contingent amendments to 5 Acts."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Tony Burke"
-    minister_party: "Labor"
-    minister_id: "10081"
-    minister_division: "Watson"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7255_first-reps/toc_pdf/24121b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-09
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28035%2F0133%22"
   - bill_id: "s1298"
     title: "Snowy Hydro Corporatisation Amendment (No New Fossil Fuels) Bill 2021 [No. 2]"
     status: "Before Senate"
