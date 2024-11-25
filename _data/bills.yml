@@ -521,24 +521,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1357_first-senate/toc_pdf/22S1320.pdf;fileType=application%2Fpdf"
     last_updated: 2022-12-01
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26121%2F0093%22"
-  - bill_id: "r7239"
-    title: "Communications Legislation Amendment (Combatting Misinformation and Disinformation) Bill 2024"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
-    originating_house: "House of Representatives"
-    summary: "Amends the Broadcasting Services Act 1992 to: impose obligations on digital communications platform providers in relation to the dissemination of content on a digital communications platform that contains information that is reasonably verifiable as false, misleading or deceptive, and is reasonably likely to cause or contribute to serious harm of a specified type (misinformation and disinformation); expand the Australian Communications and Media Authority’s compliance and enforcement powers in relation to misinformation and disinformation; and make consequential amendments. Also makes consequential amendments to 3 other Acts; and amends the Broadcasting Services Act 1992 to make an amendment contingent on the commencement of the Administrative Review Tribunal Act 2024."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Michelle Rowland"
-    minister_party: "Labor"
-    minister_id: "10751"
-    minister_division: "Greenway"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7239_first-reps/toc_pdf/24106b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-08
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28033%2F0020%22"
   - bill_id: "r7213"
     title: "Communications Legislation Amendment (Regional Broadcasting Continuity) Bill 2024"
     status: "Before Senate"
@@ -935,6 +917,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1419_first-senate/toc_pdf/24S1220.pdf;fileType=application%2Fpdf"
     last_updated: 2024-06-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27645%2F0232%22"
+  - bill_id: "r7285"
+    title: "Doctors for the Bush Bill 2024"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: "Andrew Gee"
+    sponsor_party: "Independent"
+    sponsor_id: "10883"
+    sponsor_division: "Calare"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7285_first-reps/toc_pdf/24162b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-25
+    second_reading_hansard_url: null
   - bill_id: "s1355"
     title: "Education and Other Legislation Amendment (Abolishing Indexation and Raising the Minimum Repayment Income for Education and Training Loans) Bill 2022"
     status: "Before Senate"
@@ -2339,6 +2339,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1346_first-senate/toc_pdf/22S0720.pdf;fileType=application%2Fpdf"
     last_updated: 2023-02-09
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F25940%2F0074%22"
+  - bill_id: "r7286"
+    title: "Online Safety Amendment (Digital Duty of Care) Bill 2024"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: "Zoe Daniel"
+    sponsor_party: "Independent"
+    sponsor_id: "10979"
+    sponsor_division: "Goldstein"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7286_first-reps/toc_pdf/24163b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-25
+    second_reading_hansard_url: null
   - bill_id: "r7284"
     title: "Online Safety Amendment (Social Media Minimum Age) Bill 2024"
     status: "Before Reps"
@@ -8263,6 +8281,24 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7101_first-reps/toc_pdf/23135b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-07-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27178%2F0092%22"
+  - bill_id: "r7239"
+    title: "Communications Legislation Amendment (Combatting Misinformation and Disinformation) Bill 2024"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
+    originating_house: "House of Representatives"
+    summary: "Amends the Broadcasting Services Act 1992 to: impose obligations on digital communications platform providers in relation to the dissemination of content on a digital communications platform that contains information that is reasonably verifiable as false, misleading or deceptive, and is reasonably likely to cause or contribute to serious harm of a specified type (misinformation and disinformation); expand the Australian Communications and Media Authority’s compliance and enforcement powers in relation to misinformation and disinformation; and make consequential amendments. Also makes consequential amendments to 3 other Acts; and amends the Broadcasting Services Act 1992 to make an amendment contingent on the commencement of the Administrative Review Tribunal Act 2024."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Michelle Rowland"
+    minister_party: "Labor"
+    minister_id: "10751"
+    minister_division: "Greenway"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7239_first-reps/toc_pdf/24106b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-08
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28033%2F0020%22"
   - bill_id: "s1413"
     title: "Competition and Consumer Amendment (Divestiture Powers) Bill 2024"
     status: "Not Proceeding"
