@@ -449,24 +449,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1385_first-senate/toc_pdf/23S2120.pdf;fileType=application%2Fpdf"
     last_updated: 2023-08-03
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27117%2F0039%22"
-  - bill_id: "r7200"
-    title: "Commission of Inquiry into Antisemitism at Australian Universities Bill 2024"
-    status: "Before Reps"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Establishes a commission of inquiry into antisemitism at Australian universities."
-    sponsor_name: "Julian Leeser"
-    sponsor_party: "Liberal"
-    sponsor_id: "10888"
-    sponsor_division: "Berowra"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7200_first-reps/toc_pdf/24068b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-06-03
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27647%2F0096%22"
   - bill_id: "s1417"
     title: "Commission of Inquiry into Antisemitism at Australian Universities Bill 2024 (No. 2)"
     status: "Before Senate"
@@ -1871,24 +1853,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7214_first-reps/toc_pdf/24080b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-07-01
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28018%2F0069%22"
-  - bill_id: "r7202"
-    title: "Keeping Cash Transactions in Australia Bill 2024"
-    status: "Before Reps"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Requires businesses to accept cash payments for certain transactions."
-    sponsor_name: "Andrew Gee"
-    sponsor_party: "Independent"
-    sponsor_id: "10883"
-    sponsor_division: "Calare"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7202_first-reps/toc_pdf/24069b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-06-03
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27647%2F0100%22"
   - bill_id: "s996"
     title: "Landholders&rsquo; Right to Refuse (Gas and Coal) Bill 2015"
     status: "Before Senate"
@@ -8173,6 +8137,24 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6949_first-reps/toc_pdf/22133b01 .pdf;fileType=application%2Fpdf"
     last_updated: 2023-08-01
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F25523%2F0092%22"
+  - bill_id: "r7200"
+    title: "Commission of Inquiry into Antisemitism at Australian Universities Bill 2024"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: "Establishes a commission of inquiry into antisemitism at Australian universities."
+    sponsor_name: "Julian Leeser"
+    sponsor_party: "Liberal"
+    sponsor_id: "10888"
+    sponsor_division: "Berowra"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7200_first-reps/toc_pdf/24068b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-06-03
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27647%2F0096%22"
   - bill_id: "r6973"
     title: "Commonwealth Electoral Amendment (Cleaning up Political Donations) Bill 2023"
     status: "Not Proceeding"
@@ -8821,6 +8803,24 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7003_first-reps/toc_pdf/23041b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-11-14
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26433%2F0055%22"
+  - bill_id: "r7202"
+    title: "Keeping Cash Transactions in Australia Bill 2024"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: "Requires businesses to accept cash payments for certain transactions."
+    sponsor_name: "Andrew Gee"
+    sponsor_party: "Independent"
+    sponsor_id: "10883"
+    sponsor_division: "Calare"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7202_first-reps/toc_pdf/24069b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-06-03
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27647%2F0100%22"
   - bill_id: "r7100"
     title: "Lobbying (Improving Government Honesty and Trust) Bill 2023"
     status: "Not Proceeding"
