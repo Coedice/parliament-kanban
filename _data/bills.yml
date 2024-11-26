@@ -501,7 +501,7 @@ pending:
     minister_id: "10746"
     minister_division: "Fenner"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7295_first-reps/toc_pdf/24159b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-25
+    last_updated: 2024-11-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28042%2F0092%22"
   - bill_id: "r7287"
     title: "Commonwealth Entities (Payment Surcharges) Bill 2024"
@@ -519,7 +519,7 @@ pending:
     minister_id: "10746"
     minister_division: "Fenner"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7287_first-reps/toc_pdf/24153b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-25
+    last_updated: 2024-11-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28042%2F0084%22"
   - bill_id: "r7289"
     title: "Commonwealth Entities (Payment Surcharges) Tax (Imposition) Bill 2024"
@@ -537,7 +537,7 @@ pending:
     minister_id: "10746"
     minister_division: "Fenner"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7289_first-reps/toc_pdf/24154b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-25
+    last_updated: 2024-11-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28042%2F0088%22"
   - bill_id: "r7213"
     title: "Communications Legislation Amendment (Regional Broadcasting Continuity) Bill 2024"
@@ -1601,24 +1601,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7290_first-reps/toc_pdf/24152b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-21
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28041%2F0009%22"
-  - bill_id: "r7124"
-    title: "Help to Buy (Consequential Provisions) Bill 2023"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Treasury"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Help to Buy Bill 2023, the bill amends the Housing Australia Act 2018 to make amendments consequential on the establishment of the Help to Buy Scheme."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Julie Collins"
-    minister_party: "Labor"
-    minister_id: "10136"
-    minister_division: "Franklin"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7124_first-reps/toc_pdf/23158b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-09-18
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27184%2F0054%22"
   - bill_id: "r7251"
     title: "Help to Buy (Consequential Provisions) Bill 2023 [No. 2]"
     status: "Before Reps"
@@ -2355,7 +2337,7 @@ pending:
     minister_id: "10751"
     minister_division: "Greenway"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7284_first-reps/toc_pdf/24150b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-25
+    last_updated: 2024-11-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28041%2F0017%22"
   - bill_id: "r7258"
     title: "Oversight Legislation Amendment (Robodebt Royal Commission Response and Other Measures) Bill 2024"
@@ -2571,7 +2553,7 @@ pending:
     minister_id: "10181"
     minister_division: "Isaacs"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7294_first-reps/toc_pdf/24158b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-21
+    last_updated: 2024-11-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28041%2F0066%22"
   - bill_id: "r7256"
     title: "Sydney Airport Demand Management Amendment Bill 2024"
