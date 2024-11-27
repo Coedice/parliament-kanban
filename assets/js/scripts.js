@@ -125,8 +125,6 @@ function toggleStar(billId, editCookie = true) {
             }
         }
     }
-
-    console.log("GGG cookies: " + document.cookie);
 }
 
 window.onload = () => {

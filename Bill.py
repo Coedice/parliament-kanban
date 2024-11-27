@@ -24,6 +24,7 @@ class Bill:
             f"https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId={id}"
         )
         self.minister_name = self._get_minister_name()
+        self.parliament_number = self._get_parliament_number()
         print(f"Loaded bill \t{self._colored_id()}: {self._get_title()}\n")
 
     def _get_ruling_party(self) -> str:
@@ -57,6 +58,7 @@ class Bill:
             "summary",
             "last_updated",
             "second_reading_hansard_url",
+            "parliament_number",
         ]
         if self.existing_bill["type"] == "Private":
             required_fields.extend(
@@ -96,7 +98,12 @@ class Bill:
         # Download bill page
         download_worked = False
         while not download_worked:
-            response = requests.get(url)
+            response = requests.get(
+                url,
+                headers={
+                    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+                },
+            )
             download_worked = response.status_code // 100 == 2
 
             if not download_worked:
@@ -119,6 +126,16 @@ class Bill:
 
         return (
             self.soup.find("dt", string="Status").find_next_sibling("dd").text.strip()
+        )
+
+    def _get_parliament_number(self) -> int:
+        if self.soup is None:
+            return self.existing_bill["parliament_number"]
+
+        return int(
+            self.soup.find("dt", string="Parliament no")
+            .find_next_sibling("dd")
+            .text.strip()
         )
 
     def _get_type(self) -> str:
@@ -303,7 +320,7 @@ class Bill:
         month = datetime.strptime(month_word, "%b").month
         return f"{year}-{str(month).zfill(2)}-{str(day).zfill(2)}"
 
-    def _yaml_value_wrapper(self, value: str, yaml_string: bool = True) -> str:
+    def _yaml_value_wrapper(self, value, yaml_string: bool = True) -> str:
         if value is None:
             return "null"
         elif yaml_string:
@@ -335,6 +352,7 @@ class Bill:
     pdf_url: {self._yaml_value_wrapper(self._get_pdf_url())}
     last_updated: {self._yaml_value_wrapper(self._get_last_updated(), False)}
     second_reading_hansard_url: {self._yaml_value_wrapper(self._get_second_reading_hansard_url())}
+    parliament_number: {self._yaml_value_wrapper(self._get_parliament_number(), False)}
 """
 
     def __repr__(self) -> str:

@@ -10,20 +10,51 @@ import os
 from termcolor import colored
 
 
-PENDING_BILLS_URL = "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_before_Parliament?ps=100&page=1"
-PASSED_BILLS_URL = "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Assented_Bills_of_the_current_Parliament?ps=100&page=1"
-FAILED_BILLS_URL = "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_not_passed_current_Parliament?ps=100&page=1"
+SECTIONS = [
+    (
+        "pending",
+        "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_before_Parliament?ps=100&page=1",
+    ),
+    (
+        "passed",
+        "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Assented_Bills_of_the_current_Parliament?ps=100&page=1",
+    ),
+    (
+        "failed",
+        "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_not_passed_current_Parliament?ps=100&page=1",
+    ),
+]
 
 REPRESENTATIVES_URL = "http://data.openaustralia.org.au/members/representatives.xml"
 SENATORS_URL = "http://data.openaustralia.org.au/members/senators.xml"
 PEOPLE_URL = "http://data.openaustralia.org.au/members/people.xml"
 
 
-def get_bill_ids(bills_url: str) -> List[str]:
+def get_saved_bills(target_section_name: str = None) -> List[str]:
+    with open("_data/bills.yml", "r") as f:
+        saved_bills = yaml.safe_load(f)
+
+    existing_bills = []
+
+    if target_section_name is not None:
+        return saved_bills[target_section_name]
+
+    for section_name, _ in SECTIONS:
+        existing_bills += saved_bills[section_name]
+
+    return existing_bills
+
+
+def get_bill_ids(section_name: str, bills_url: str, ids: List[str] = []) -> List[str]:
     """Get bill IDs from bills URL."""
 
     # Get HTML from pending bills and parse it
-    response = requests.get(bills_url)
+    response = requests.get(
+        bills_url,
+        headers={
+            "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+        },
+    )
     soup = BeautifulSoup(response.text, "html.parser")
 
     # Get bill IDs
@@ -43,7 +74,17 @@ def get_bill_ids(bills_url: str) -> List[str]:
         url_base, page_number = bills_url.split("page=")
         next_url = url_base + "page=" + str(int(page_number) + 1)
 
-        return bill_ids + get_bill_ids(next_url)
+        return get_bill_ids(section_name, next_url, ids=ids + bill_ids)
+
+    # Add IDs from YAML, in case they are missing from page due to status change
+    bill_ids += [
+        bill["bill_id"]
+        for bill in get_saved_bills(section_name)
+        if bill["bill_id"] not in bill_ids
+    ]
+
+    # Remove duplicates
+    bill_ids = list(set(bill_ids))
 
     return bill_ids
 
@@ -96,24 +137,12 @@ for person in people:
         )
     )
 
-# Get existing bill data
-with open("_data/bills.yml", "r") as f:
-    existing_bills = yaml.safe_load(f)
-    existing_bills = (
-        existing_bills["pending"] + existing_bills["passed"] + existing_bills["failed"]
-    )
 
 # Create YAML file to capture all this information
-sections = [
-    ("pending", PENDING_BILLS_URL),
-    ("passed", PASSED_BILLS_URL),
-    ("failed", FAILED_BILLS_URL),
-]
-
 if os.path.exists("_data/bills.yml.tmp"):
     os.remove("_data/bills.yml.tmp")
 
-for section_name, url in sections:
+for section_name, url in SECTIONS:
     print(
         colored(
             f"\nDownloading {section_name.capitalize()} bills",
@@ -124,7 +153,10 @@ for section_name, url in sections:
     with open("_data/bills.yml.tmp", "a") as f:
         f.write(f"{section_name}:\n")
 
-    for bill_id in get_bill_ids(url):
+    # Download and write bills
+    current_parliament_number = None
+    existing_bills = get_saved_bills(section_name)
+    for bill_id in get_bill_ids(section_name, url):
         # Find matching existing bill
         matching_existing_bill = None
         for existing_bill in existing_bills:
@@ -132,8 +164,17 @@ for section_name, url in sections:
                 matching_existing_bill = existing_bill
                 break
 
-        # Download and write bill
-        with open("_data/bills.yml.tmp", "a") as f:
-            f.write(Bill(bill_id, mps, matching_existing_bill).yaml())
+        # Download bill
+        new_bill = Bill(bill_id, mps, matching_existing_bill)
+        if current_parliament_number is None:
+            current_parliament_number = new_bill.parliament_number
+
+        # Write if new bill is in the current parliament
+        if (
+            new_bill.parliament_number is None
+            or new_bill.parliament_number >= current_parliament_number
+        ):
+            with open("_data/bills.yml.tmp", "a") as f:
+                f.write(new_bill.yaml())
 
 os.rename("_data/bills.yml.tmp", "_data/bills.yml")
