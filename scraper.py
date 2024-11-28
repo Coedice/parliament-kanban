@@ -73,7 +73,6 @@ def get_bill_ids(section_name: str, bills_url: str, ids: List[str] = []) -> List
     if next_page:
         url_base, page_number = bills_url.split("page=")
         next_url = url_base + "page=" + str(int(page_number) + 1)
-
         return get_bill_ids(section_name, next_url, ids=ids + bill_ids)
 
     # Add IDs from YAML, in case they are missing from page due to status change
