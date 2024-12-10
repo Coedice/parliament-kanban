@@ -68,22 +68,15 @@ def get_bill_ids(section_name: str, bills_url: str, ids: List[str] = []) -> List
         bill_link_tag["href"].split("bId=")[1] for bill_link_tag in bill_link_tags
     ]
 
-    # Scrape additional pages
+    # Scrape any additional pages
     next_page = soup.find("a", attrs={"title": "Next page"})
     if next_page:
         url_base, page_number = bills_url.split("page=")
         next_url = url_base + "page=" + str(int(page_number) + 1)
         return get_bill_ids(section_name, next_url, ids=ids + bill_ids)
 
-    # Add IDs from YAML, in case they are missing from page due to status change
-    bill_ids += [
-        bill["bill_id"]
-        for bill in get_saved_bills(section_name)
-        if bill["bill_id"] not in bill_ids
-    ]
-
-    # Remove duplicates
-    bill_ids = list(set(bill_ids))
+    # Remove any duplicates and sort
+    bill_ids = sorted(list(set(bill_ids)))
 
     return bill_ids
 
@@ -136,7 +129,6 @@ for person in people:
         )
     )
 
-
 # Create YAML file to capture all this information
 if os.path.exists("_data/bills.yml.tmp"):
     os.remove("_data/bills.yml.tmp")
@@ -153,7 +145,6 @@ for section_name, url in SECTIONS:
         f.write(f"{section_name}:\n")
 
     # Download and write bills
-    current_parliament_number = None
     existing_bills = get_saved_bills(section_name)
     for bill_id in get_bill_ids(section_name, url):
         # Find matching existing bill
@@ -163,17 +154,9 @@ for section_name, url in SECTIONS:
                 matching_existing_bill = existing_bill
                 break
 
-        # Download bill
+        # Download and write bill
         new_bill = Bill(bill_id, mps, matching_existing_bill)
-        if current_parliament_number is None:
-            current_parliament_number = new_bill.parliament_number
-
-        # Write if new bill is in the current parliament
-        if (
-            new_bill.parliament_number is None
-            or new_bill.parliament_number >= current_parliament_number
-        ):
-            with open("_data/bills.yml.tmp", "a") as f:
-                f.write(new_bill.yaml())
+        with open("_data/bills.yml.tmp", "a") as f:
+            f.write(new_bill.yaml())
 
 os.rename("_data/bills.yml.tmp", "_data/bills.yml")

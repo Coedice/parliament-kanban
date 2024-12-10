@@ -24,7 +24,6 @@ class Bill:
             f"https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId={id}"
         )
         self.minister_name = self._get_minister_name()
-        self.parliament_number = self._get_parliament_number()
         print(f"Loaded bill \t{self._colored_id()}: {self._get_title()}\n")
 
     def _get_ruling_party(self) -> str:
@@ -58,7 +57,6 @@ class Bill:
             "summary",
             "last_updated",
             "second_reading_hansard_url",
-            "parliament_number",
         ]
         if self.existing_bill["type"] == "Private":
             required_fields.extend(
@@ -126,16 +124,6 @@ class Bill:
 
         return (
             self.soup.find("dt", string="Status").find_next_sibling("dd").text.strip()
-        )
-
-    def _get_parliament_number(self) -> int:
-        if self.soup is None:
-            return self.existing_bill["parliament_number"]
-
-        return int(
-            self.soup.find("dt", string="Parliament no")
-            .find_next_sibling("dd")
-            .text.strip()
         )
 
     def _get_type(self) -> str:
@@ -352,7 +340,6 @@ class Bill:
     pdf_url: {self._yaml_value_wrapper(self._get_pdf_url())}
     last_updated: {self._yaml_value_wrapper(self._get_last_updated(), False)}
     second_reading_hansard_url: {self._yaml_value_wrapper(self._get_second_reading_hansard_url())}
-    parliament_number: {self._yaml_value_wrapper(self._get_parliament_number(), False)}
 """
 
     def __repr__(self) -> str:
