@@ -504,6 +504,24 @@ pending:
     last_updated: 2024-11-28
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28077%2F0095%22"
 passed:
+  - bill_id: "r6923"
+    title: "Treasury Laws Amendment (More Competition, Better Prices) Bill 2022"
+    status: "Act"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Amends the: Competition and Consumer Act 2010 to increase the maximum penalty applicable for anti-competitive behaviour and certain breaches of competition consumer law; and Competition and Consumer Act 2010 and Australian Securities and Investments Commission Act 2001 to: establish a civil penalty regime prohibiting the use of, and reliance on, unfair contract terms in standard form contracts; and expand the class of contracts that are covered by the unfair contract terms."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Andrew Leigh"
+    minister_party: "Labor"
+    minister_id: "10746"
+    minister_division: "Fenner"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6923_aspassed/toc_pdf/22101b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-11-09
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26129%2F0054%22"
   - bill_id: "r6929"
     title: "Veterans&rsquo; Affairs Legislation Amendment (Budget Measures) Bill 2022"
     status: "Act"
@@ -522,6 +540,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6929_aspassed/toc_pdf/22105b01.pdf;fileType=application%2Fpdf"
     last_updated: 2022-11-30
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26227%2F0024%22"
+  - bill_id: "r6945"
+    title: "Treasury Laws Amendment (Modernising Business Communications and Other Measures) Bill 2023"
+    status: "Act"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Amends the: Corporations Act 2001 to: enable all documents under the Act to be signed electronically and for certain documents to be sent in either hard copy or electronic form; and provide that companies are not required to send documents to a member where contact details are known to be incorrect; Australian Prudential Regulation Authority Act 1998, Australian Securities and Investments Commission Act 2001, Competition and Consumer Act 2010, National Consumer Credit Protection Act 2009 and Tax Agent Services Act 2009 to enable certain regulatory bodies to hold virtual hearings and examinations; Corporations Act 2001, Excise Act 1901 and Small Superannuation Accounts Act 1995 to allow electronic payments to be used; 11 Acts to require notices in newspapers to be published in an accessible and reasonably prominent manner; Australian Securities and Investments Commission Act 2001, Corporations Act 2001, ASIC Supervisory Cost Recovery Levy Act 2017 and Taxation Administration Act 1953 to: remove erroneous references and redundant definitions; apply consistent headings to definitions sections; and make minor technical amendments; Corporations Act 2001, National Consumer Credit Protection Act 2009 and National Consumer Credit Protection (Transitional and Consequential Provisions) Act 2009 to move five legislative instruments into primary law; and 15 Acts to make minor technical amendments."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Stephen Jones"
+    minister_party: "Labor"
+    minister_id: "10740"
+    minister_division: "Whitlam"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6945_aspassed/toc_pdf/22125b01 (2).pdf;fileType=application%2Fpdf"
+    last_updated: 2023-09-14
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26231%2F0022%22"
   - bill_id: "r6954"
     title: "Work Health and Safety Amendment Bill 2022"
     status: "Act"
@@ -540,6 +576,78 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6954_aspassed/toc_pdf/22129b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-03-21
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26234%2F0024%22"
+  - bill_id: "r6969"
+    title: "Treasury Laws Amendment (Energy Price Relief Plan) Bill 2022"
+    status: "Act"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Amends the: Competition and Consumer Act 2010 to: establish regulation-making powers in relation to dealings between persons who supply or acquire a gas commodity, dealing with and resolving disputes or complaints between persons who supply or acquire a gas commodity, and gas market emergency price orders; enable the Australian Competition and Consumer Commission to order the production of certain information and documents, investigate suspected non-compliance and utilise a range of sanctions for non-compliance; provide for civil penalty provisions of gas market instruments; and prohibit schemes designed to avoid the application of a civil penalty provision of a gas market instrument; and Federal Financial Relations Act 2009 to introduce a payment to states and territories to support temporary energy bill relief for households and small businesses."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Milton Dick"
+    minister_party: "Labor"
+    minister_id: "10880"
+    minister_division: "Oxley"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6969_aspassed/toc_pdf/22147b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-12-16
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26394%2F0044%22"
+  - bill_id: "r6972"
+    title: "Treasury Laws Amendment (Housing Measures No. 1) Bill 2023"
+    status: "Act"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Housing Australia Future Fund Bill 2023 and National Housing Supply and Affordability Council Bill 2023, the bill amends: the National Housing Finance and Investment Corporation Act 2018 to rename the National Housing Finance and Investment Corporation to Housing Australia; the renamed Housing Australia Act 2018 to: streamline the functions of Housing Australia; establish an annual review mechanism for the National Housing Infrastructure Facility; and extend the Commonwealth guarantee of the liabilities of Housing Australia to apply to contracts entered into until 30 June 2028; and 10 Acts to make consequential amendments."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Julie Collins"
+    minister_party: "Labor"
+    minister_id: "10136"
+    minister_division: "Franklin"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6972_aspassed/toc_pdf/23004b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-09-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26420%2F0013%22"
+  - bill_id: "r6985"
+    title: "Treasury Laws Amendment (Financial Services Compensation Scheme of Last Resort) Bill 2023"
+    status: "Act"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Financial Accountability Regime Bill 2023, Financial Accountability Regime (Consequential Amendments) Bill 2023, Financial Services Compensation Scheme of Last Resort Levy Bill 2023 and Financial Services Compensation Scheme of Last Resort Levy (Collection) Bill 2023, the bill amends the Corporations Act 2001, Australian Securities and Investments Commission Act 2001 and National Consumer Credit Protection Act 2009 to establish the financial services compensation scheme of last resort to provide compensation to eligible consumers in circumstances where an Australian Financial Complaints Authority determination awarding monetary compensation has been made in their favour, but which the relevant entity has not paid."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Stephen Jones"
+    minister_party: "Labor"
+    minister_id: "10740"
+    minister_division: "Whitlam"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6985_aspassed/toc_pdf/23017b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-07-03
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26427%2F0017%22"
+  - bill_id: "r6996"
+    title: "Treasury Laws Amendment (Refining and Improving Our Tax System) Bill 2023"
+    status: "Act"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Amends the: International Tax Agreements Act 1953 to: give legislative authority to the Convention between Australia and Iceland for the elimination of double taxation with respect to taxes on income and the prevention of tax evasion and avoidance; and make minor amendments to update various notes; Income Tax Assessment Act 1997 to: exempt certain subsidiaries of the Future Fund Board from income tax and include them as entities eligible for a refund of a tax offset relating to a franked distribution; and transfer administration of three register deductible gift recipient categories and the Overseas Aid Gift Deduction Scheme to the Commissioner of Taxation; Customs Act 1901 and Excise Act 1901 to enable an eligible business entity liable for excise duty for excisable goods or customs duty for excise-equivalent goods, being fuel and alcohol, to align their excise returns and customs returns with the return period for other indirect taxes which are separately lodged through a business activity statement; Excise Act 1901 to provide that the repackaging of beer that would otherwise be excise manufacture is not taken to be the manufacture of beer if it meets certain requirements; and Income Tax Assessment Act 1997 and Taxation Administration Act 1953 to make consequential amendments."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Andrew Leigh"
+    minister_party: "Labor"
+    minister_id: "10746"
+    minister_division: "Fenner"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6996_aspassed/toc_pdf/23028b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-06-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26431%2F0054%22"
   - bill_id: "r7002"
     title: "Veterans&rsquo; Affairs Legislation Amendment (Miscellaneous Measures) Bill 2023"
     status: "Act"
@@ -576,6 +684,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7037_aspassed/toc_pdf/23066b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-06-28
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26698%2F0033%22"
+  - bill_id: "r7057"
+    title: "Treasury Laws Amendment (Making Multinationals Pay Their Fair Share&mdash;Integrity and Transparency) Bill 2023"
+    status: "Act"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Amends the: Corporations Act 2001 to require Australian public companies to disclose information about their subsidiaries in their annual financial reports by way of a ‘consolidated entity disclosure statement’; and Income Tax Assessment Act 1936, Income Tax Assessment Act 1997 and Taxation Administration Act 1953 to amend the thin capitalisation rules to limit the amount of debt deductions that multinational entities can claim in an income year."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Andrew Leigh"
+    minister_party: "Labor"
+    minister_id: "10746"
+    minister_division: "Fenner"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7057_aspassed/toc_pdf/23087b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-04-08
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26709%2F0035%22"
   - bill_id: "r7076"
     title: "Water Amendment (Restoring Our Rivers) Bill 2023"
     status: "Act"
@@ -594,6 +720,222 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7076_aspassed/toc_pdf/23109b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-12-07
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27164%2F0019%22"
+  - bill_id: "r7081"
+    title: "Treasury Laws Amendment (Support for Small Business and Charities and Other Measures) Bill 2023"
+    status: "Act"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Amends the: Income Tax (Transitional Provisions) Act 1997 to: increase the instant asset write-off threshold from $1,000 to $20,000 for the 2023-24 financial year; and provide small and medium businesses with access to a bonus tax deduction for the 2023-24 financial year relating to electrification and more efficient energy use; Income Tax Assessment Act 1997, Taxation Administration Act 1953 and A New Tax System (Australian Business Number) Act 1999 to facilitate certain community charities achieving deductible gift recipient status; Income Tax Assessment Act 1997 to: include two new entities on the list of deductible gift recipients and extend the listing for two other entities; extend the Global Infrastructure Hub’s income tax exemption for an additional year; broadly align existing tax requirements with a new accounting standard for insurance contracts; and amend the rules for non-arm’s length expenses for superannuation entities; Corporations Act 2001 to reinstate the Australian Financial Complaint Authority’s jurisdiction to hear certain complaints relating to superannuation; and Treasury Laws Amendment (2023 Law Improvement Package No. 1) Act 2023 to make contingent amendments."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Stephen Jones"
+    minister_party: "Labor"
+    minister_id: "10740"
+    minister_division: "Whitlam"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7081_aspassed/toc_pdf/23113b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-06-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27168%2F0013%22"
+  - bill_id: "r7107"
+    title: "Treasury Laws Amendment (Tax Accountability and Fairness) Bill 2023"
+    status: "Act"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Amends the: Tax Agent Services Act 2009 and Taxation Administration Act 1953: to expand the operation of the promoter penalty provisions; and enable the sharing of certain protected information; Taxation Administration Act 1953 to extend whistleblower protections to eligible whistleblowers who make disclosures to the Tax Practitioners Board (TPB); and reverse the burden of proof for certain claims of protection; Tax Agent Services Act 2009 in relation to the TPB Register and the TPB’s delegation powers; and Petroleum Resource Rent Tax Assessment Act 1987 to limit the proportion of petroleum resource rent tax assessable income that can be offset by deductions to 90 per cent."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Stephen Jones"
+    minister_party: "Labor"
+    minister_id: "10740"
+    minister_division: "Whitlam"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7107_aspassed/toc_pdf/23141b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-05-31
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27181%2F0053%22"
+  - bill_id: "r7126"
+    title: "Treasury Laws Amendment (Reserve Bank Reforms) Bill 2023"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Partially implements the Government’s response to the review of the Reserve Bank of Australia (RBA) by amending the Reserve Bank Act 1959 to: remove the Government’s power to override monetary policy decisions of the RBA and remove the RBA’s power to determine the lending policy of banks; clarify the objectives and functions of the RBA; replace the existing Reserve Bank Board with a Monetary Policy Board and Governance Board; and make consequential and minor amendments."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Jim Chalmers"
+    minister_party: "Labor"
+    minister_id: "10809"
+    minister_division: "Rankin"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7126_aspassed/toc_pdf/23160b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-29
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27183%2F0005%22"
+  - bill_id: "r7142"
+    title: "Treasury Laws Amendment (Foreign Investment) Bill 2024"
+    status: "Act"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Foreign Acquisitions and Takeovers Fees Imposition Amendment Bill 2024, the bill amends the International Tax Agreements Act 1953 to clarify any uncertainty associated with the interaction between certain taxes, such as foreign investment fees and similar state and territory property taxes, and double tax agreements implemented domestically."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Julie Collins"
+    minister_party: "Labor"
+    minister_id: "10136"
+    minister_division: "Franklin"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7142_aspassed/toc_pdf/24012b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-04-08
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27585%2F0039%22"
+  - bill_id: "r7176"
+    title: "Treasury Laws Amendment (Financial Market Infrastructure and Other Measures) Bill 2024"
+    status: "Act"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Amends the: Corporations Act 2001 and 8 other Acts to implement recommendations by the Council of Financial Regulators in relation to Australia’s financial market infrastructure by: introducing a crisis management and resolution regime for domestic clearing and settlement (CS) facilities; expanding the licensing, supervisory and enforcement powers of the Australian Securities and Investments Commission (ASIC) and the Reserve Bank of Australia (RBA); and transferring certain powers relating to the licensing and supervision of CS facilities and financial markets to ASIC and the RBA; Australian Securities and Investments Commission Act 2001 and Corporations Act 2001 to phase-in new climate-related financial reporting requirements for entities; and Australian Securities and Investments Commission Act 2001, Corporations Act 2001 and Insurance Act 1973 to make minor and technical amendments."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Jim Chalmers"
+    minister_party: "Labor"
+    minister_id: "10809"
+    minister_division: "Rankin"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7176_aspassed/toc_pdf/24042b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-09-17
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27626%2F0011%22"
+  - bill_id: "r7199"
+    title: "Treasury Laws Amendment (Responsible Buy Now Pay Later and Other Measures) Bill 2024"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Capital Works (Build to Rent Misuse Tax) Bill 2024, the bill amends the: Income Tax Assessment Act 1936, Income Tax Assessment Act 1997 and Taxation Administration Act 1953 to provide incentives for investors to support the construction of new build to rent developments by increasing the capital works deduction rate to 4 per cent per year and reducing the final withholding tax rate on eligible fund payments from eligible managed investment trust investments to 15 per cent; National Consumer Credit Protection Act 2009 to extend the application of the Credit Code to buy now, pay later contracts and establish low cost credit contracts as a new category of regulated credit; Medicare Levy Act 1986 to exempt eligible lump sum payments in arrears from the Medicare Levy; Taxation Administration Act 1953 to impose a new reporting obligation on certain large multinational enterprises; Income Tax Assessment Act 1997 to update the list of deductible gift recipients; Federal Financial Relations Act 2009 to update funding arrangements to support payments from the Commonwealth to the States in relation to skills and workforce development; and Income Tax (Transitional Provisions) Act 1997 to extend the $20,000 instant asset write-off by 12 months until 30 June 2025."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Stephen Jones"
+    minister_party: "Labor"
+    minister_id: "10740"
+    minister_division: "Whitlam"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7199_aspassed/toc_pdf/24065b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-12-10
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27649%2F0020%22"
+  - bill_id: "r7222"
+    title: "Treasury Laws Amendment (Multinational&mdash;Global and Domestic Minimum Tax) (Consequential) Bill 2024"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Taxation (Multinational—Global and Domestic Minimum Tax) Bill 2024 and Taxation (Multinational—Global and Domestic Minimum Tax) Imposition Bill 2024, the bill amends 5 Acts to make amendments consequential on the introduction of global and domestic minimum taxes in Australia, including amendments to ensure that the taxes interact appropriately with existing Australian taxation laws."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Andrew Leigh"
+    minister_party: "Labor"
+    minister_id: "10746"
+    minister_division: "Fenner"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7222_aspassed/toc_pdf/24086b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-12-10
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28021%2F0030%22"
+  - bill_id: "r7231"
+    title: "Universities Accord (Student Support and Other Measures) Bill 2024"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Education"
+    originating_house: "House of Representatives"
+    summary: "Amends the: Higher Education Support Act 2003 and 4 other Acts providing students with income contingent loans to provide that the calculation of a person’s loan or debt will take into account changes in the consumer price index or the wage price index; and Higher Education Support Act 2003 to require higher education providers to allocate a minimum of 40 per cent of their student services and amenities fees revenue to student-led organisations; rename enabling courses ‘FEE-FREE Uni Ready Courses’ for students in Commonwealth supported places and establish a Commonwealth Grant Scheme funding cluster for these courses; facilitate the establishment of a grant for eligible domestic students undertaking mandatory placements in identified priority areas (the Commonwealth Prac Payment); add Adelaide University to the list of Table A providers to reflect the merger of the University of Adelaide and the University of South Australia; and provide a power for the minister to make transitional rules."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Jason Clare"
+    minister_party: "Labor"
+    minister_id: "10123"
+    minister_division: "Blaxland"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7231_aspassed/toc_pdf/24092b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-12-05
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28025%2F0017%22"
+  - bill_id: "r7244"
+    title: "Universities Accord (National Student Ombudsman) Bill 2024"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Education"
+    originating_house: "House of Representatives"
+    summary: "Amends the: Ombudsman Act 1976 to establish the National Student Ombudsman as a new statutory function of the Commonwealth Ombudsman to deal with complaints about, and conduct investigations into, actions of higher education providers. Also makes consequential amendments to the Ombudsman Act 1976 and 3 other Acts."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7244_aspassed/toc_pdf/24110b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-12-10
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28034%2F0282%22"
+  - bill_id: "r7247"
+    title: "Wage Justice for Early Childhood Education and Care Workers (Special Account) Bill 2024"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Education"
+    originating_house: "House of Representatives"
+    summary: "Establishes the Wage Justice for Early Childhood Education and Care Workers Special Account to make grants of financial assistance to support remuneration increases for workers in the early childhood education and care sector."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Jason Clare"
+    minister_party: "Labor"
+    minister_id: "10123"
+    minister_division: "Blaxland"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7247_aspassed/toc_pdf/24111b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-12-10
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28033%2F0016%22"
+  - bill_id: "r7257"
+    title: "Treasury Laws Amendment (Mergers and Acquisitions Reform) Bill 2024"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Amends the Competition and Consumer Act 2010 to replace the existing framework for mergers review with a mandatory and suspensory administrative system for acquisitions, with the Australian Competition and Consumer Commission as the first instance administrative decision-maker. Also makes consequential amendments to 5 Acts."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Jim Chalmers"
+    minister_party: "Labor"
+    minister_id: "10809"
+    minister_division: "Rankin"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7257_aspassed/toc_pdf/24120b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-12-10
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28036%2F0011%22"
+  - bill_id: "r7296"
+    title: "Treasury Laws Amendment (Fairer for Families and Farmers and Other Measures) Bill 2024"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Andrew Leigh"
+    minister_party: "Labor"
+    minister_id: "10746"
+    minister_division: "Fenner"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7296_aspassed/toc_pdf/24160b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-12-10
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28044%2F0206%22"
   - bill_id: "s1363"
     title: "Workplace Gender Equality Amendment (Closing the Gender Pay Gap) Bill 2023"
     status: "Act"
