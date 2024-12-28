@@ -45,7 +45,6 @@ function filterByParty(party) {
     console.log(party);
     // Update active filter
     const previous_active_filter = document.getElementById("filters").getElementsByClassName("active-filter")[0];
-
     if (previous_active_filter != undefined) {
         previous_active_filter.classList.remove("active-filter");
     }
@@ -59,7 +58,6 @@ function filterByParty(party) {
 
     // Update tickets
     const tickets = document.getElementsByClassName("ticket");
-
     for (const ticket of tickets) {
         if (ticket.classList.contains(party) || party == "clear-filter" || party == "coalition" && ticketIsInCoalition(ticket)) {
             ticket.style.display = "block";
@@ -97,46 +95,61 @@ function filterByDate(start, end) {
 
 function toggleStar(billId, editCookie = true) {
     const billElement = document.getElementById(billId);
-    let cookieValue = "";
+    const billAlreadyStarred = billElement.classList.contains("starred");
 
-    if (editCookie) {
-        if (document.cookie == "") {
-            document.cookie = "starred=";
-        }
-        cookieValue = document.cookie.split("=")[1];
-    }
+    // Determine cookie expiration date
+    const expiraryDays = 365;
+    const expiraryDate = new Date();
+    expiraryDate.setTime(expiraryDate.getTime() + (expiraryDays*24*60*60*1000));
+    const expiryString = "expires=" + expiraryDate.toUTCString();
 
-    if (billElement.classList.contains("starred")) {
+    // Modify UI
+    if (billAlreadyStarred) {
         billElement.classList.remove("starred");
-
-        // Remove cookie from list of starred tickets
-        if (editCookie) {
-            document.cookie = "starred=" + cookieValue.split(",").filter((starredBillId) => starredBillId != billId).join(",");
-        }
     } else {
         billElement.classList.add("starred");
+    }
 
-        // Append cookie to list of starred tickets
-        if (editCookie) {
-            if (cookieValue == "") {
-                document.cookie = "starred=" + billId;
+    // Update cookie
+    if (editCookie) {
+        if (billAlreadyStarred) {
+            // Remove ticket from cookie
+            if (getStarredBills().length == 1) {
+                // Delete cookie if only one ticket is starred
+                document.cookie = "starred=; " + "; expires=Thu, 01 Jan 1970 00:00:00 UTC";
             } else {
-                document.cookie = document.cookie + "," + billId;
+                // Remove ticket from list of starred tickets
+                document.cookie = "starred=" + getStarredBills().filter((starredBillId) => starredBillId != billId).join(",") + "; " + expiryString;
+            }
+        } else {
+            // Append cookie to list of starred tickets
+            if (getStarredBills().length == 0) {
+                document.cookie = "starred=" + billId + "; " + expiryString;
+            } else {
+                document.cookie = "starred=" + getStarredBills().join(",") + "," + billId + "; " + expiryString;
             }
         }
     }
 }
 
+function getStarredBills() {
+    for (const cookie of document.cookie.split(";")) {
+        if (cookie.split("=")[0].trim() == "starred") {
+            return cookie.split("=")[1].split(",");
+        }
+    }
+    return [];
+}
+
 window.onload = () => {
     // Update starred tickets
-    const starredBills = document.cookie.split("=")[1].split(",");
+    const starredBills = getStarredBills();
     for (const starredBill of starredBills) {
         toggleStar(starredBill, false);
     }
 
     // Update active ticket based on hash
     const hash = window.location.hash;
-
     if (hash) {
         const id = hash.substring(1); // Remove the '#' character
         openBill(id);
