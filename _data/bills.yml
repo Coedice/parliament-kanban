@@ -502,7 +502,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1440_first-senate/toc_pdf/24S2720.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-28
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28077%2F0095%22"
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28077%2F0093%22"
 passed:
   - bill_id: "r6923"
     title: "Treasury Laws Amendment (More Competition, Better Prices) Bill 2022"
