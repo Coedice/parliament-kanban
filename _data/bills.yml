@@ -149,7 +149,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Imposes obligations on providers of energy infrastructure projects to rehabilitate the environment affected by these projects in accordance with approved rehabilitation plans."
     sponsor_name: "Sam Birrell"
     sponsor_party: "Nationals"
     sponsor_id: "10991"
@@ -221,7 +221,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Online Safety Act 2021 to: impose certain reporting requirements on providers of regulated online services; and impose obligations on large providers of regulated online services to identify, mitigate and manage the risks of harm or detriment from those services to Australian end-users."
     sponsor_name: "Zoe Daniel"
     sponsor_party: "Independent"
     sponsor_id: "10979"
@@ -239,7 +239,7 @@ pending:
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the: A New Tax System (Luxury Car Tax) Act 1999 to: reduce the maximum fuel consumption for a car to be considered fuel-efficient to 3.5 litres per 100 kilometres; and align the indexation rates for luxury car tax thresholds; Income Tax Assessment Act 1997 to remove income tax deductions for amounts of general interest charge and shortfall interest charge; and Taxation Administration Act 1953 to extend the period within which the Commissioner of Taxation must notify a taxpayer of their decision to retain a business activity statement refund."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
