@@ -203,7 +203,7 @@ pending:
     type: "Government"
     portfolio: "Women"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Workplace Gender Equality Act 2012 to require certain employers with 500 or more employees to select and meet, or improve against, certain gender equality targets over a 3 year period."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -257,7 +257,7 @@ pending:
     type: "Government"
     portfolio: "Home Affairs"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Implements certain recommendations of the Independent Review into Australia’s Aviation and Maritime Transport Security Settings by amending the Aviation Transport Security Act 2004 and Maritime Transport and Offshore Facilities Security Act 2003 to update legislative and policy frameworks to enable iterative, risk-based and scalable regulation for the security of aviation, maritime and offshore facility sectors."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -491,7 +491,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "Amends the Future Fund Act 2006, Income Tax Assessment Act 1997, Australian Charities and Not-for-profits Commission Act 2012 and Australian Charities and Not-for-profits Commission Regulations 2022 to end investments in companies associated with disputed Israeli settlements by the Future Fund Board or registered Australian charities."
     sponsor_name: "Lidia Thorpe"
     sponsor_party: "Independent"
     sponsor_id: "10961"
@@ -924,7 +924,7 @@ passed:
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the: Australian Securities and Investments Commission Act 2001 and Corporate Collective Investment Vehicle Framework and Other Measures Act 2002 to facilitate the return of responsibility and resources for administering Commonwealth business registers from the Australian Taxation Office to the Australian Securities and Investments Commission, in winding up the Modernising Business Registers Program; Competition and Consumer Act 2010 in relation to the regulation of safety and information standards and the penalty regime for industry codes; Housing Australia Act 2018 to increase the cap on the Housing Australia Special Account to $4 billion; and Income Tax Assessment Act 1997 to update the list of deductible gift recipients. Also amends 6 Acts in the Treasury portfolio to make miscellaneous and technical amendments and 2 other Acts to make contingent amendments."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
