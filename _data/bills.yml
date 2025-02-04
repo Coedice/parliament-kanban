@@ -59,7 +59,7 @@ pending:
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
-    summary: "Introduced with the Superannuation (Better Targeted Superannuation Concessions) Imposition Bill 2023, the bill amends: 7 Acts to make consequential amendments; the Australian Charities and Not-for-profits Commission Act 2012 to enable the disclosure of information about a recognised assessment activity in relation to a registered entity in certain circumstances; the Financial Regulator Assessment Authority Act 2021 to reduce the frequency of certain periodic reviews; 6 Acts to make miscellaneous and technical amendments in the Treasury portfolio; the Corporations Act 2001 to provide four licensing exemptions for foreign financial services providers; and the Payment Systems (Regulation) Act 1998 and 4 other Acts in relation to the payments regulatory framework."
+    summary: "Introduced with the Superannuation (Better Targeted Superannuation Concessions) Imposition Bill 2023, the bill amends: 9 Acts to make consequential amendments; the Australian Charities and Not-for-profits Commission Act 2012 to enable the disclosure of information about a recognised assessment activity in relation to a registered entity in certain circumstances; the Financial Regulator Assessment Authority Act 2021 to reduce the frequency of certain periodic reviews; 6 Acts to make miscellaneous and technical amendments in the Treasury portfolio; the Corporations Act 2001 to provide four licensing exemptions for foreign financial services providers; and the Payment Systems (Regulation) Act 1998 and 4 other Acts in relation to the payments regulatory framework."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -68,7 +68,7 @@ pending:
     minister_party: "Labor"
     minister_id: "10740"
     minister_division: "Whitlam"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7133_first-reps/toc_pdf/23154b01.pdf;fileType=application%2Fpdf"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7133_first-senate/toc_pdf/treasury laws amendment (better targeted superannuation concessions) bill 2023.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-10
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27184%2F0042%22"
   - bill_id: "r7192"
@@ -145,7 +145,7 @@ pending:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27651%2F0069%22"
   - bill_id: "r7217"
     title: "Veterans' Entitlements, Treatment and Support (Simplification and Harmonisation) Bill 2024"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Veterans' Affairs"
     originating_house: "House of Representatives"
@@ -159,11 +159,11 @@ pending:
     minister_id: "10861"
     minister_division: "Burt"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7217_first-reps/toc_pdf/24082b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-08-13
+    last_updated: 2024-11-18
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28020%2F0034%22"
   - bill_id: "r7258"
     title: "Oversight Legislation Amendment (Robodebt Royal Commission Response and Other Measures) Bill 2024"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Attorney-General"
     originating_house: "House of Representatives"
@@ -177,7 +177,7 @@ pending:
     minister_id: "10181"
     minister_division: "Isaacs"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7258_first-reps/toc_pdf/24124b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-10
+    last_updated: 2024-11-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28036%2F0015%22"
   - bill_id: "r7265"
     title: "Requiring Energy Infrastructure Providers to Obtain Rehabilitation Bonds Bill 2024"
@@ -199,7 +199,7 @@ pending:
     second_reading_hansard_url: null
   - bill_id: "r7268"
     title: "Navigation Amendment Bill 2024"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
     originating_house: "House of Representatives"
@@ -213,7 +213,7 @@ pending:
     minister_id: "10368"
     minister_division: "Ballarat"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7268_first-reps/toc_pdf/24132b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-21
+    last_updated: 2025-02-04
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28587%2F0009%22"
   - bill_id: "r7275"
     title: "Scams Prevention Framework Bill 2024"
@@ -285,7 +285,7 @@ pending:
     minister_id: "10740"
     minister_division: "Whitlam"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7299_first-reps/toc_pdf/24165b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-28
+    last_updated: 2025-02-04
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28045%2F0217%22"
   - bill_id: "r7300"
     title: "Transport Security Amendment (Security of Australia&rsquo;s Transport Sector) Bill 2024"
@@ -830,7 +830,7 @@ passed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27181%2F0053%22"
   - bill_id: "r7126"
     title: "Treasury Laws Amendment (Reserve Bank Reforms) Bill 2023"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
@@ -884,7 +884,7 @@ passed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27626%2F0011%22"
   - bill_id: "r7199"
     title: "Treasury Laws Amendment (Responsible Buy Now Pay Later and Other Measures) Bill 2024"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
@@ -902,7 +902,7 @@ passed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27649%2F0020%22"
   - bill_id: "r7222"
     title: "Treasury Laws Amendment (Multinational&mdash;Global and Domestic Minimum Tax) (Consequential) Bill 2024"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
@@ -920,7 +920,7 @@ passed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28021%2F0030%22"
   - bill_id: "r7231"
     title: "Universities Accord (Student Support and Other Measures) Bill 2024"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Education"
     originating_house: "House of Representatives"
@@ -938,7 +938,7 @@ passed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28025%2F0017%22"
   - bill_id: "r7244"
     title: "Universities Accord (National Student Ombudsman) Bill 2024"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Education"
     originating_house: "House of Representatives"
@@ -956,7 +956,7 @@ passed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28032%2F0020%22"
   - bill_id: "r7247"
     title: "Wage Justice for Early Childhood Education and Care Workers (Special Account) Bill 2024"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Education"
     originating_house: "House of Representatives"
@@ -974,7 +974,7 @@ passed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28033%2F0016%22"
   - bill_id: "r7257"
     title: "Treasury Laws Amendment (Mergers and Acquisitions Reform) Bill 2024"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
@@ -992,7 +992,7 @@ passed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28036%2F0011%22"
   - bill_id: "r7296"
     title: "Treasury Laws Amendment (Fairer for Families and Farmers and Other Measures) Bill 2024"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
@@ -1713,7 +1713,7 @@ failed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27591%2F0093%22"
   - bill_id: "r7166"
     title: "Crimes and Online Safety Legislation Amendment (Combatting Online Notoriety) Bill 2024"
-    status: "Before Reps"
+    status: "Not Proceeding"
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
@@ -1727,11 +1727,11 @@ failed:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7166_first-reps/toc_pdf/24033b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-03-25
+    last_updated: 2024-11-19
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27620%2F0031%22"
   - bill_id: "r7167"
     title: "Reducing Supermarket Dominance Bill 2024"
-    status: "Before Reps"
+    status: "Not Proceeding"
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
@@ -1745,11 +1745,11 @@ failed:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7167_first-reps/toc_pdf/24034b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-03-25
+    last_updated: 2024-11-19
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27620%2F0036%22"
   - bill_id: "r7168"
     title: "Electoral Legislation Amendment (Fair and Transparent Elections) Bill 2024"
-    status: "Before Reps"
+    status: "Not Proceeding"
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
@@ -1763,11 +1763,11 @@ failed:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7168_first-reps/toc_pdf/24035b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-03-25
+    last_updated: 2024-11-19
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27620%2F0041%22"
   - bill_id: "r7200"
     title: "Commission of Inquiry into Antisemitism at Australian Universities Bill 2024"
-    status: "Before Reps"
+    status: "Not Proceeding"
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
@@ -1781,7 +1781,7 @@ failed:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7200_first-reps/toc_pdf/24068b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-06-03
+    last_updated: 2024-11-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27647%2F0096%22"
   - bill_id: "r7201"
     title: "Defence Amendment (Parliamentary Joint Committee on Defence) Bill 2024"
@@ -1803,7 +1803,7 @@ failed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27643%2F0019%22"
   - bill_id: "r7202"
     title: "Keeping Cash Transactions in Australia Bill 2024"
-    status: "Before Reps"
+    status: "Not Proceeding"
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
@@ -1817,7 +1817,7 @@ failed:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7202_first-reps/toc_pdf/24069b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-06-03
+    last_updated: 2024-11-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27647%2F0100%22"
   - bill_id: "r7225"
     title: "Treasury Laws Amendment (Build to Rent) Bill 2024"
@@ -1839,7 +1839,7 @@ failed:
     second_reading_hansard_url: null
   - bill_id: "r7239"
     title: "Communications Legislation Amendment (Combatting Misinformation and Disinformation) Bill 2024"
-    status: "Before Reps"
+    status: "Not Proceeding"
     type: "Government"
     portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
     originating_house: "House of Representatives"
@@ -1852,8 +1852,8 @@ failed:
     minister_party: "Labor"
     minister_id: "10751"
     minister_division: "Greenway"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7239_first-reps/toc_pdf/24106b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-08
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7239_third-reps/toc_pdf/24106b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28033%2F0020%22"
   - bill_id: "s1130"
     title: "Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018"
@@ -2217,7 +2217,7 @@ failed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27644%2F0105%22"
   - bill_id: "s1428"
     title: "Blayney Gold Mine Bill 2024"
-    status: "Before Senate"
+    status: "Not Proceeding"
     type: "Private"
     portfolio: null
     originating_house: "Senate"
@@ -2231,7 +2231,7 @@ failed:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1428_first-senate/toc_pdf/24S1820.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-09-19
+    last_updated: 2024-11-20
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28053%2F0005%22"
   - bill_id: "s1429"
     title: "Sex Discrimination Amendment (Acknowledging Biological Reality) Bill 2024"

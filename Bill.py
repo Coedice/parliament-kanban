@@ -47,6 +47,16 @@ class Bill:
             print(colored("No existing bill", "yellow"))
             return False
 
+        # Check if bill's status indicates it is in progress
+        if self.existing_bill["status"] not in ["Act", "Not Proceeding"]:
+            print(
+                colored(
+                    f"Updating bill data due to status {self.existing_bill['status']}",
+                    "yellow",
+                )
+            )
+            return False
+
         # Check if all required fields are present
         required_fields = [
             "bill_id",
