@@ -17,6 +17,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7062_first-reps/toc_pdf/23096b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-08-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27156%2F0017%22"
+  - bill_id: "r7064"
+    title: "National Housing Supply and Affordability Council Bill 2023 [No. 2]"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Housing Australia Future Fund Bill 2023 [No. 2] and Treasury Laws Amendment (Housing Measures No. 1) Bill 2023 [No. 2], the bill establishes the National Housing Supply and Affordability Council as an independent advisory body to the Commonwealth Government on matters relating to housing supply and affordability."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Julie Collins"
+    minister_party: "Labor"
+    minister_id: "10136"
+    minister_division: "Franklin"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7064_first-reps/toc_pdf/23097b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-08-02
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27156%2F0013%22"
   - bill_id: "r7120"
     title: "Superannuation (Better Targeted Superannuation Concessions) Imposition Bill 2023"
     status: "Before Senate"
@@ -107,6 +125,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7195_first-reps/toc_pdf/24061b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-08-12
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27640%2F0024%22"
+  - bill_id: "r7207"
+    title: "National Housing and Homelessness Plan Bill 2024"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: "The bill: provides for a National Housing and Homelessness Plan; establishes the National Housing Consumer Council to provide advice on the plan from the perspective of consumers; and establishes a National Housing and Homelessness Advocate to independently monitor the progress of the plan and to undertake reviews into systemic housing issues."
+    sponsor_name: "Kylea Tink"
+    sponsor_party: "Independent"
+    sponsor_id: "10992"
+    sponsor_division: "North Sydney"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7207_first-reps/toc_pdf/24073b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-06-24
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27651%2F0069%22"
   - bill_id: "r7217"
     title: "Veterans' Entitlements, Treatment and Support (Simplification and Harmonisation) Bill 2024"
     status: "Before Reps"
@@ -449,6 +485,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1415_first-senate/toc_pdf/24S0820.pdf;fileType=application%2Fpdf"
     last_updated: 2024-05-15
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27621%2F0151%22"
+  - bill_id: "s1416"
+    title: "National Housing and Homelessness Plan Bill 2024 (No. 2)"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "The bill: provides for a National Housing and Homelessness Plan; establishes the National Housing Consumer Council to provide advice on the plan from the perspective of consumers; and establishes a National Housing and Homelessness Advocate to independently monitor the progress of the plan and to undertake reviews into systemic housing issues."
+    sponsor_name: "David Pocock"
+    sponsor_party: "Independent"
+    sponsor_id: "11009"
+    sponsor_division: "ACT"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1416_first-senate/toc_pdf/24S1120.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-06-25
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27644%2F0100%22"
   - bill_id: "s1420"
     title: "Truth and Justice Commission Bill 2024"
     status: "Before Senate"
