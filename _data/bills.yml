@@ -485,6 +485,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1421_first-senate/toc_pdf/24S1320.pdf;fileType=application%2Fpdf"
     last_updated: 2024-07-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28048%2F0107%22"
+  - bill_id: "s1434"
+    title: "National Organic Standard Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Creates a framework for regulating the sale or importation of organic goods in Australia."
+    sponsor_name: "Bridget Mckenzie"
+    sponsor_party: "Nationals"
+    sponsor_id: "10758"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1434_first-senate/toc_pdf/24S2320.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-19
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28071%2F0104%22"
   - bill_id: "s1440"
     title: "Treasury Laws Amendment (Divesting from Illegal Israeli Settlements) Bill 2024"
     status: "Before Senate"
