@@ -71,60 +71,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7133_first-senate/toc_pdf/treasury laws amendment (better targeted superannuation concessions) bill 2023.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-10
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27184%2F0042%22"
-  - bill_id: "r7192"
-    title: "Nature Positive (Environment Protection Australia) Bill 2024"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Climate Change, Energy, the Environment and Water"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Nature Positive (Environment Information Australia) Bill 2024 and Nature Positive (Environment Law Amendments and Transitional Provisions) Bill 2024, the bill establishes Environment Protection Australia as a statutory Commonwealth entity to undertake regulatory and implementation functions under a range of environmental Commonwealth laws."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Tanya Plibersek"
-    minister_party: "Labor"
-    minister_id: "10513"
-    minister_division: "Sydney"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7192_first-reps/toc_pdf/24058b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-08-12
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27640%2F0016%22"
-  - bill_id: "r7193"
-    title: "Nature Positive (Environment Information Australia) Bill 2024"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Climate Change, Energy, the Environment and Water"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Nature Positive (Environment Protection Australia) Bill 2024 and Nature Positive (Environment Law Amendments and Transitional Provisions) Bill 2024, the bill establishes the statutory position of the Head of Environment Information Australia to provide access to, assess and report on environmental information and data."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Tanya Plibersek"
-    minister_party: "Labor"
-    minister_id: "10513"
-    minister_division: "Sydney"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7193_first-reps/toc_pdf/24059b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-08-12
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27640%2F0020%22"
-  - bill_id: "r7195"
-    title: "Nature Positive (Environment Law Amendments and Transitional Provisions) Bill 2024"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Climate Change, Energy, the Environment and Water"
-    originating_house: "House of Representatives"
-    summary: "Australia) Bill 2024, the bill provides for transitional provisions and amends the Environment Protection and Biodiversity Conservation Act 1999 and 8 other Acts to support the establishment of Environment Protection Australia (EPA) and the Head of Environment Information Australia. Also amends the Environment Protection and Biodiversity Conservation Act 1999 to: confer compliance powers on the EPA; introduce protection orders and audit powers; and provide for the minister and secretary to delegate powers to the Chief Executive Officer of the EPA."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Tanya Plibersek"
-    minister_party: "Labor"
-    minister_id: "10513"
-    minister_division: "Sydney"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7195_first-reps/toc_pdf/24061b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-08-12
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27640%2F0024%22"
   - bill_id: "r7207"
     title: "National Housing and Homelessness Plan Bill 2024"
     status: "Before Reps"
@@ -249,7 +195,7 @@ pending:
     minister_id: "10740"
     minister_division: "Whitlam"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7275_first-reps/toc_pdf/24135b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-19
+    last_updated: 2025-02-05
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0017%22"
   - bill_id: "r7283"
     title: "Workplace Gender Equality Amendment (Setting Gender Equality Targets) Bill 2024"
@@ -629,6 +575,60 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1440_first-senate/toc_pdf/24S2720.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-28
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28077%2F0093%22"
+  - bill_id: "s1442"
+    title: "Superannuation Guarantee (Administration) Amendment (Frontline Emergency Service Workers) Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Nick Mckim"
+    sponsor_party: "Greens"
+    sponsor_id: "10841"
+    sponsor_division: "Tasmania"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-05
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0197%22"
+  - bill_id: "s1443"
+    title: "Tertiary Education Legislation Amendment (There For Education, Not Profit) Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Jacqui Lambie"
+    sponsor_party: "Jacqui Lambie Network"
+    sponsor_id: "10830"
+    sponsor_division: "Tasmania"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-05
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22"
+  - bill_id: "s1444"
+    title: "Remuneration Tribunal Amendment (There For Public Service, Not Profit) Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Jacqui Lambie"
+    sponsor_party: "Jacqui Lambie Network"
+    sponsor_id: "10830"
+    sponsor_division: "Tasmania"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1444_first-senate/toc_pdf/25S0220.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-05
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22"
 passed:
   - bill_id: "r6923"
     title: "Treasury Laws Amendment (More Competition, Better Prices) Bill 2022"
@@ -1819,6 +1819,60 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7168_first-reps/toc_pdf/24035b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-19
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27620%2F0041%22"
+  - bill_id: "r7192"
+    title: "Nature Positive (Environment Protection Australia) Bill 2024"
+    status: "Not Proceeding"
+    type: "Government"
+    portfolio: "Climate Change, Energy, the Environment and Water"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Nature Positive (Environment Information Australia) Bill 2024 and Nature Positive (Environment Law Amendments and Transitional Provisions) Bill 2024, the bill establishes Environment Protection Australia as a statutory Commonwealth entity to undertake regulatory and implementation functions under a range of environmental Commonwealth laws."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Tanya Plibersek"
+    minister_party: "Labor"
+    minister_id: "10513"
+    minister_division: "Sydney"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7192_first-reps/toc_pdf/24058b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-05
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27640%2F0016%22"
+  - bill_id: "r7193"
+    title: "Nature Positive (Environment Information Australia) Bill 2024"
+    status: "Not Proceeding"
+    type: "Government"
+    portfolio: "Climate Change, Energy, the Environment and Water"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Nature Positive (Environment Protection Australia) Bill 2024 and Nature Positive (Environment Law Amendments and Transitional Provisions) Bill 2024, the bill establishes the statutory position of the Head of Environment Information Australia to provide access to, assess and report on environmental information and data."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Tanya Plibersek"
+    minister_party: "Labor"
+    minister_id: "10513"
+    minister_division: "Sydney"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7193_first-reps/toc_pdf/24059b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-05
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27640%2F0020%22"
+  - bill_id: "r7195"
+    title: "Nature Positive (Environment Law Amendments and Transitional Provisions) Bill 2024"
+    status: "Not Proceeding"
+    type: "Government"
+    portfolio: "Climate Change, Energy, the Environment and Water"
+    originating_house: "House of Representatives"
+    summary: "Australia) Bill 2024, the bill provides for transitional provisions and amends the Environment Protection and Biodiversity Conservation Act 1999 and 8 other Acts to support the establishment of Environment Protection Australia (EPA) and the Head of Environment Information Australia. Also amends the Environment Protection and Biodiversity Conservation Act 1999 to: confer compliance powers on the EPA; introduce protection orders and audit powers; and provide for the minister and secretary to delegate powers to the Chief Executive Officer of the EPA."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Tanya Plibersek"
+    minister_party: "Labor"
+    minister_id: "10513"
+    minister_division: "Sydney"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7195_first-reps/toc_pdf/24061b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-05
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27640%2F0024%22"
   - bill_id: "r7200"
     title: "Commission of Inquiry into Antisemitism at Australian Universities Bill 2024"
     status: "Not Proceeding"
