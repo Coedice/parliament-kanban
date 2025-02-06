@@ -125,24 +125,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7258_first-reps/toc_pdf/24124b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28036%2F0015%22"
-  - bill_id: "r7259"
-    title: "National Broadband Network Companies Amendment (Commitment to Public Ownership) Bill 2024"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
-    originating_house: "House of Representatives"
-    summary: "Amends the: National Broadband Network Companies Act 2011 to provide that NBN Co Limited, the company that operates the National Broadband Network, remains wholly owned by the Commonwealth; and Telecommunications Act 1997 to make consequential amendments."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Michelle Rowland"
-    minister_party: "Labor"
-    minister_id: "10751"
-    minister_division: "Greenway"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7259_first-reps/toc_pdf/24125b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28035%2F0012%22"
   - bill_id: "r7265"
     title: "Requiring Energy Infrastructure Providers to Obtain Rehabilitation Bonds Bill 2024"
     status: "Before Reps"
@@ -161,24 +143,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7265_first-reps/toc_pdf/24138b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-18
     second_reading_hansard_url: null
-  - bill_id: "r7268"
-    title: "Navigation Amendment Bill 2024"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
-    originating_house: "House of Representatives"
-    summary: "Amends the Navigation Act 2012 to give effect to an amendment to the International Convention for the Safety of Life at Sea, 1974."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Catherine King"
-    minister_party: "Labor"
-    minister_id: "10368"
-    minister_division: "Ballarat"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7268_first-reps/toc_pdf/24132b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-04
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28587%2F0009%22"
   - bill_id: "r7275"
     title: "Scams Prevention Framework Bill 2024"
     status: "Before Reps"
@@ -249,7 +213,7 @@ pending:
     minister_id: "10740"
     minister_division: "Whitlam"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7299_first-reps/toc_pdf/24165b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-04
+    last_updated: 2025-02-06
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28045%2F0217%22"
   - bill_id: "r7300"
     title: "Transport Security Amendment (Security of Australia&rsquo;s Transport Sector) Bill 2024"
