@@ -268,7 +268,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7301_first-reps/toc_pdf/25011b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-10
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28685%2F0165%22"
   - bill_id: "r7302"
     title: "Treasury Laws Amendment (Miscellaneous Measures) Bill 2024"
     status: "Before Senate"
@@ -358,7 +358,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7314_first-reps/toc_pdf/25012b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-10
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28685%2F0170%22"
   - bill_id: "r7315"
     title: "Wellbeing of Future Generations Bill 2025"
     status: "Before Reps"
@@ -376,7 +376,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7315_first-reps/toc_pdf/25013b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-10
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28685%2F0175%22"
   - bill_id: "s1298"
     title: "Snowy Hydro Corporatisation Amendment (No New Fossil Fuels) Bill 2021 [No. 2]"
     status: "Before Senate"
@@ -485,6 +485,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1364_first-senate/toc_pdf/23S0020.pdf;fileType=application%2Fpdf"
     last_updated: 2023-03-23
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26438%2F0162%22"
+  - bill_id: "s1375"
+    title: "Murdoch Media Inquiry Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Sarah Hanson-Young"
+    sponsor_party: "Greens"
+    sponsor_id: "10711"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1375_first-senate/toc_pdf/23S1720.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-06-13
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26730%2F0114%22"
   - bill_id: "s1387"
     title: "Public Governance, Performance and Accountability Amendment (Vaccine Indemnity) Bill 2023"
     status: "Before Senate"
