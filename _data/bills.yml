@@ -181,7 +181,7 @@ pending:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0017%22"
   - bill_id: "r7283"
     title: "Workplace Gender Equality Amendment (Setting Gender Equality Targets) Bill 2024"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Women"
     originating_house: "House of Representatives"
@@ -195,7 +195,7 @@ pending:
     minister_id: "10930"
     minister_division: "Jagajaga"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7283_first-reps/toc_pdf/24149b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-06
+    last_updated: 2025-02-10
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28040%2F0033%22"
   - bill_id: "r7286"
     title: "Online Safety Amendment (Digital Duty of Care) Bill 2024"
@@ -231,7 +231,7 @@ pending:
     minister_id: "10740"
     minister_division: "Whitlam"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7299_first-reps/toc_pdf/24165b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-06
+    last_updated: 2025-02-10
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28045%2F0217%22"
   - bill_id: "r7300"
     title: "Transport Security Amendment (Security of Australia&rsquo;s Transport Sector) Bill 2024"
@@ -485,24 +485,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1364_first-senate/toc_pdf/23S0020.pdf;fileType=application%2Fpdf"
     last_updated: 2023-03-23
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26438%2F0162%22"
-  - bill_id: "s1375"
-    title: "Murdoch Media Inquiry Bill 2023"
-    status: "Before Senate"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: null
-    sponsor_name: "Sarah Hanson-Young"
-    sponsor_party: "Greens"
-    sponsor_id: "10711"
-    sponsor_division: "SA"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1375_first-senate/toc_pdf/23S1720.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-06-13
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26730%2F0114%22"
   - bill_id: "s1387"
     title: "Public Governance, Performance and Accountability Amendment (Vaccine Indemnity) Bill 2023"
     status: "Before Senate"
