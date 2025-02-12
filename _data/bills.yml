@@ -89,24 +89,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7217_first-reps/toc_pdf/24082b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-12
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28020%2F0034%22"
-  - bill_id: "r7258"
-    title: "Oversight Legislation Amendment (Robodebt Royal Commission Response and Other Measures) Bill 2024"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Attorney-General"
-    originating_house: "House of Representatives"
-    summary: "Amends the: Ombudsman Act 1976 and Inspector-General of Taxation Act 2003 to implement two recommendations of the Report of the Royal Commission into the Robodebt Scheme by: imposing a statutory duty on agency heads and their staff to assist the Commonwealth Ombudsman and the Inspector-General of Taxation and Taxation Ombudsman (IGTO) in the performance of their functions; and expanding the powers of the Ombudsman and IGTO to access agency records; Inspector-General of Intelligence and Security Act 1986 to clarify that the Inspector-General of Security and Intelligence is entitled to reasonable facilities and assistance when making preliminary inquiries of the head of an intelligence agency; and Ombudsman Act 1976 to: enable the Ombudsman and IGTO to access documents and other records by remote means; and make technical and contingent amendments."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Mark Dreyfus"
-    minister_party: "Labor"
-    minister_id: "10181"
-    minister_division: "Isaacs"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7258_first-reps/toc_pdf/24124b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28036%2F0015%22"
   - bill_id: "r7265"
     title: "Requiring Energy Infrastructure Providers to Obtain Rehabilitation Bonds Bill 2024"
     status: "Before Reps"
@@ -141,7 +123,7 @@ pending:
     minister_id: "10740"
     minister_division: "Whitlam"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7275_third-reps/toc_pdf/24135b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-11
+    last_updated: 2025-02-12
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0017%22"
   - bill_id: "r7283"
     title: "Workplace Gender Equality Amendment (Setting Gender Equality Targets) Bill 2024"
@@ -269,24 +251,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7303_first-reps/toc_pdf/25001b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-12
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28687%2F0011%22"
-  - bill_id: "r7310"
-    title: "Social Security Legislation Amendment (Technical Changes) Bill 2025"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Social Services"
-    originating_house: "House of Representatives"
-    summary: null
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Amanda Rishworth"
-    minister_party: "Labor"
-    minister_id: "10543"
-    minister_division: "Kingston"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7310_first-reps/toc_pdf/25008b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-11
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28683%2F0020%22"
   - bill_id: "r7311"
     title: "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Bill 2025"
     status: "Before Reps"
