@@ -87,7 +87,7 @@ pending:
     minister_id: "10861"
     minister_division: "Burt"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7217_first-reps/toc_pdf/24082b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-18
+    last_updated: 2025-02-12
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28020%2F0034%22"
   - bill_id: "r7258"
     title: "Oversight Legislation Amendment (Robodebt Royal Commission Response and Other Measures) Bill 2024"
@@ -107,24 +107,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7258_first-reps/toc_pdf/24124b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28036%2F0015%22"
-  - bill_id: "r7259"
-    title: "National Broadband Network Companies Amendment (Commitment to Public Ownership) Bill 2024"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
-    originating_house: "House of Representatives"
-    summary: "Amends the: National Broadband Network Companies Act 2011 to provide that NBN Co Limited, the company that operates the National Broadband Network, remains wholly owned by the Commonwealth; and Telecommunications Act 1997 to make consequential amendments."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Michelle Rowland"
-    minister_party: "Labor"
-    minister_id: "10751"
-    minister_division: "Greenway"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7259_first-reps/toc_pdf/24125b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28035%2F0012%22"
   - bill_id: "r7265"
     title: "Requiring Energy Infrastructure Providers to Obtain Rehabilitation Bonds Bill 2024"
     status: "Before Reps"
@@ -145,7 +127,7 @@ pending:
     second_reading_hansard_url: null
   - bill_id: "r7275"
     title: "Scams Prevention Framework Bill 2025"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
@@ -159,7 +141,7 @@ pending:
     minister_id: "10740"
     minister_division: "Whitlam"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7275_third-reps/toc_pdf/24135b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-06
+    last_updated: 2025-02-11
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0017%22"
   - bill_id: "r7283"
     title: "Workplace Gender Equality Amendment (Setting Gender Equality Targets) Bill 2024"
@@ -269,6 +251,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7302_first-senate/toc_pdf/treasury laws amendment (miscellaneous measures) bill 2024.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-10
     second_reading_hansard_url: null
+  - bill_id: "r7303"
+    title: "Pacific Banking Guarantee Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7303_first-reps/toc_pdf/25001b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-12
+    second_reading_hansard_url: null
   - bill_id: "r7310"
     title: "Social Security Legislation Amendment (Technical Changes) Bill 2025"
     status: "Before Reps"
@@ -359,6 +359,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7315_first-reps/toc_pdf/25013b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-10
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28685%2F0175%22"
+  - bill_id: "r7317"
+    title: "Telecommunications Amendment (Enhancing Consumer Safeguards) Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7317_first-reps/toc_pdf/25015b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-12
+    second_reading_hansard_url: null
   - bill_id: "s1298"
     title: "Snowy Hydro Corporatisation Amendment (No New Fossil Fuels) Bill 2021 [No. 2]"
     status: "Before Senate"
@@ -431,24 +449,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1348_first-senate/toc_pdf/22S0920.pdf;fileType=application%2Fpdf"
     last_updated: 2022-09-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F25575%2F0138%22"
-  - bill_id: "s1352"
-    title: "National Energy Transition Authority Bill 2022"
-    status: "Before Senate"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Establishes the National Energy Transition Authority as a statutory authority to plan, coordinate and provide advice on the transition to renewable energy, focusing on the facilitation of new economic opportunities for workers and communities who are currently involved in fossil fuel production and associated industries."
-    sponsor_name: "Penny Allman-Payne"
-    sponsor_party: "Greens"
-    sponsor_id: "11002"
-    sponsor_division: "Queensland"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1352_first-senate/toc_pdf/22S1020.pdf;fileType=application%2Fpdf"
-    last_updated: 2022-09-27
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26115%2F0125%22"
   - bill_id: "s1364"
     title: "Northern Territory Safe Measures Bill 2023"
     status: "Before Senate"
@@ -467,24 +467,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1364_first-senate/toc_pdf/23S0020.pdf;fileType=application%2Fpdf"
     last_updated: 2023-03-23
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26438%2F0162%22"
-  - bill_id: "s1375"
-    title: "Murdoch Media Inquiry Bill 2023"
-    status: "Before Senate"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: null
-    sponsor_name: "Sarah Hanson-Young"
-    sponsor_party: "Greens"
-    sponsor_id: "10711"
-    sponsor_division: "SA"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1375_first-senate/toc_pdf/23S1720.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-06-13
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26730%2F0114%22"
   - bill_id: "s1387"
     title: "Public Governance, Performance and Accountability Amendment (Vaccine Indemnity) Bill 2023"
     status: "Before Senate"
@@ -1873,6 +1855,60 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7154_first-reps/toc_pdf/24021b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-09-10
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27591%2F0093%22"
+  - bill_id: "r7157"
+    title: "Agriculture (Biosecurity Protection) Charges Bill 2024"
+    status: "Not Proceeding"
+    type: "Government"
+    portfolio: "Agriculture, Fisheries and Forestry"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Agriculture (Biosecurity Protection) Levies Bill 2024 and Agriculture (Biosecurity Protection) Levies and Charges Collection Bill 2024, the bill provides for the imposition of biosecurity protection charges to be payable by certain producers of agricultural, forestry and fisheries products within Australia."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Catherine King"
+    minister_party: "Labor"
+    minister_id: "10368"
+    minister_division: "Ballarat"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7157_first-reps/toc_pdf/24025b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-12
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27595%2F0015%22"
+  - bill_id: "r7158"
+    title: "Agriculture (Biosecurity Protection) Levies Bill 2024"
+    status: "Not Proceeding"
+    type: "Government"
+    portfolio: "Agriculture, Fisheries and Forestry"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Agriculture (Biosecurity Protection) Charges Bill 2024 and Agriculture (Biosecurity Protection) Levies and Charges Collection Bill 2024, the bill provides for the imposition of biosecurity protection levies to be payable by certain producers of agricultural, forestry and fisheries products within Australia."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Catherine King"
+    minister_party: "Labor"
+    minister_id: "10368"
+    minister_division: "Ballarat"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7158_first-reps/toc_pdf/24024b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-12
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27595%2F0011%22"
+  - bill_id: "r7159"
+    title: "Agriculture (Biosecurity Protection) Levies and Charges Collection Bill 2024"
+    status: "Not Proceeding"
+    type: "Government"
+    portfolio: "Agriculture, Fisheries and Forestry"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Agriculture (Biosecurity Protection) Levies Bill 2024 and Agriculture (Biosecurity Protection) Charges Bill 2024, the bill: provides for the collection and administration of biosecurity protection levies and charges; applies the standard provisions of the Regulatory Powers (Standard Provisions) Act 2014; and provides for the use and disclosure of certain information."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Catherine King"
+    minister_party: "Labor"
+    minister_id: "10368"
+    minister_division: "Ballarat"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7159_first-reps/toc_pdf/24026b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-12
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27595%2F0019%22"
   - bill_id: "r7166"
     title: "Crimes and Online Safety Legislation Amendment (Combatting Online Notoriety) Bill 2024"
     status: "Not Proceeding"
