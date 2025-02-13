@@ -17,24 +17,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7062_first-reps/toc_pdf/23096b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-08-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27156%2F0017%22"
-  - bill_id: "r7064"
-    title: "National Housing Supply and Affordability Council Bill 2023 [No. 2]"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Treasury"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Housing Australia Future Fund Bill 2023 [No. 2] and Treasury Laws Amendment (Housing Measures No. 1) Bill 2023 [No. 2], the bill establishes the National Housing Supply and Affordability Council as an independent advisory body to the Commonwealth Government on matters relating to housing supply and affordability."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Julie Collins"
-    minister_party: "Labor"
-    minister_id: "10136"
-    minister_division: "Franklin"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7064_first-reps/toc_pdf/23097b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-08-02
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27156%2F0013%22"
   - bill_id: "r7120"
     title: "Superannuation (Better Targeted Superannuation Concessions) Imposition Bill 2023"
     status: "Before Senate"
@@ -87,7 +69,7 @@ pending:
     minister_id: "10861"
     minister_division: "Burt"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7217_first-reps/toc_pdf/24082b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-12
+    last_updated: 2025-02-13
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28020%2F0034%22"
   - bill_id: "r7265"
     title: "Requiring Energy Infrastructure Providers to Obtain Rehabilitation Bonds Bill 2024"
@@ -107,24 +89,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7265_first-reps/toc_pdf/24138b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-18
     second_reading_hansard_url: null
-  - bill_id: "r7275"
-    title: "Scams Prevention Framework Bill 2025"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Treasury"
-    originating_house: "House of Representatives"
-    summary: "Amends the Competition and Consumer Act 2010 to establish a scams prevention framework which requires service providers in selected sectors of the economy to take a variety of actions to combat scams relating to, connected with, or using their services. Also makes consequential amendments to 4 Acts."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Stephen Jones"
-    minister_party: "Labor"
-    minister_id: "10740"
-    minister_division: "Whitlam"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7275_third-reps/toc_pdf/24135b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-12
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28588%2F0017%22"
   - bill_id: "r7283"
     title: "Workplace Gender Equality Amendment (Setting Gender Equality Targets) Bill 2024"
     status: "Before Senate"
@@ -503,24 +467,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1415_first-senate/toc_pdf/24S0820.pdf;fileType=application%2Fpdf"
     last_updated: 2024-05-15
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27621%2F0151%22"
-  - bill_id: "s1416"
-    title: "National Housing and Homelessness Plan Bill 2024 (No. 2)"
-    status: "Before Senate"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "The bill: provides for a National Housing and Homelessness Plan; establishes the National Housing Consumer Council to provide advice on the plan from the perspective of consumers; and establishes a National Housing and Homelessness Advocate to independently monitor the progress of the plan and to undertake reviews into systemic housing issues."
-    sponsor_name: "David Pocock"
-    sponsor_party: "Independent"
-    sponsor_id: "11009"
-    sponsor_division: "ACT"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1416_first-senate/toc_pdf/24S1120.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-06-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27644%2F0100%22"
   - bill_id: "s1420"
     title: "Truth and Justice Commission Bill 2024"
     status: "Before Senate"
@@ -2413,6 +2359,24 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1401_first-senate/toc_pdf/23S3720.pdf;fileType=application%2Fpdf"
     last_updated: 2023-11-13
     second_reading_hansard_url: null
+  - bill_id: "s1406"
+    title: "Human Rights (Parliamentary Scrutiny) Amendment (Consideration of UNDRIP) Bill 2023"
+    status: "Not Proceeding"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Human Rights (Parliamentary Scrutiny) Act 2011 to amend the definition of ‘human rights’ to include the rights and freedoms outlined in the United Nations Declaration on the Rights of Indigenous Peoples."
+    sponsor_name: "Lidia Thorpe"
+    sponsor_party: "Independent"
+    sponsor_id: "10961"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1406_first-senate/toc_pdf/23S3920.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-13
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27148%2F0319%22"
   - bill_id: "s1413"
     title: "Competition and Consumer Amendment (Divestiture Powers) Bill 2024"
     status: "Not Proceeding"
