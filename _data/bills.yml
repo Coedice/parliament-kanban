@@ -53,24 +53,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7133_first-senate/toc_pdf/treasury laws amendment (better targeted superannuation concessions) bill 2023.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-10
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27184%2F0042%22"
-  - bill_id: "r7217"
-    title: "Veterans' Entitlements, Treatment and Support (Simplification and Harmonisation) Bill 2024"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Veterans' Affairs"
-    originating_house: "House of Representatives"
-    summary: "Amends the: Military Rehabilitation and Compensation Act 2004, Safety, Rehabilitation and Compensation (Defence-related Claims) Act 1988 and Veterans’ Entitlements Act 1986 to: consolidate compensation and rehabilitation entitlements; amend various allowance and support schemes; and standardise the merits review pathway for veterans’ entitlements decisions; Military Rehabilitation and Compensation Act 2004, Safety, Rehabilitation and Compensation (Defence-related Claims) Act 1988 and Veterans’ Entitlements Act 1986 to consolidate the Repatriation Commission and the Military Rehabilitation and Compensation Commission; Military Rehabilitation and Compensation Act 2004 and Veterans’ Entitlements Act 1986 to transfer provisions relating to the Repatriation Medical Authority and the Specialist Medical Review Council; Veterans’ Entitlements Act 1986 to change the disability compensation cessation date; and Military Rehabilitation and Compensation Act 2004 and Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004 to include application and transitional provisions. Also makes consequential amendments to 30 Acts."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Matt Keogh"
-    minister_party: "Labor"
-    minister_id: "10861"
-    minister_division: "Burt"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7217_first-reps/toc_pdf/24082b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-13
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28020%2F0034%22"
   - bill_id: "r7265"
     title: "Requiring Energy Infrastructure Providers to Obtain Rehabilitation Bonds Bill 2024"
     status: "Before Reps"
@@ -105,7 +87,7 @@ pending:
     minister_id: "10930"
     minister_division: "Jagajaga"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7283_first-reps/toc_pdf/24149b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-10
+    last_updated: 2025-02-13
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28040%2F0033%22"
   - bill_id: "r7286"
     title: "Online Safety Amendment (Digital Duty of Care) Bill 2024"
@@ -251,24 +233,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7312_first-reps/toc_pdf/25010b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-06
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28684%2F0009%22"
-  - bill_id: "r7314"
-    title: "National Land Transport Act Amendment (Better Value for Taxpayers) Bill 2025"
-    status: "Before Reps"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: null
-    sponsor_name: "Allegra Spender"
-    sponsor_party: "Independent"
-    sponsor_id: "11001"
-    sponsor_division: "Wentworth"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7314_first-reps/toc_pdf/25012b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-10
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28685%2F0170%22"
   - bill_id: "r7315"
     title: "Wellbeing of Future Generations Bill 2025"
     status: "Before Reps"
@@ -377,24 +341,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1348_first-senate/toc_pdf/22S0920.pdf;fileType=application%2Fpdf"
     last_updated: 2022-09-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F25575%2F0138%22"
-  - bill_id: "s1364"
-    title: "Northern Territory Safe Measures Bill 2023"
-    status: "Before Senate"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Reinstates measures that previously applied under the Stronger Futures in the Northern Territory Act 2012 which were aimed at reducing alcohol-related harm to vulnerable communities in the Northern Territory."
-    sponsor_name: "Jacinta Nampijinpa Price"
-    sponsor_party: "Country Liberal Party"
-    sponsor_id: "11006"
-    sponsor_division: "NT"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1364_first-senate/toc_pdf/23S0020.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-03-23
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26438%2F0162%22"
   - bill_id: "s1387"
     title: "Public Governance, Performance and Accountability Amendment (Vaccine Indemnity) Bill 2023"
     status: "Before Senate"
@@ -503,24 +449,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1421_first-senate/toc_pdf/24S1320.pdf;fileType=application%2Fpdf"
     last_updated: 2024-07-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28048%2F0107%22"
-  - bill_id: "s1434"
-    title: "National Organic Standard Bill 2024"
-    status: "Before Senate"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Creates a framework for regulating the sale or importation of organic goods in Australia."
-    sponsor_name: "Bridget Mckenzie"
-    sponsor_party: "Nationals"
-    sponsor_id: "10758"
-    sponsor_division: "Victoria"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1434_first-senate/toc_pdf/24S2320.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-19
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28071%2F0104%22"
   - bill_id: "s1436"
     title: "Whistleblower Protection Authority Bill 2025 (No. 2)"
     status: "Before Senate"
@@ -611,6 +539,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1444_first-senate/toc_pdf/25S0220.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-05
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22"
+  - bill_id: "s1449"
+    title: "Right to Protest Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "David Shoebridge"
+    sponsor_party: "Greens"
+    sponsor_id: "11010"
+    sponsor_division: "NSW"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1449_first-senate/toc_pdf/25S0920.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-13
+    second_reading_hansard_url: null
 passed:
   - bill_id: "r6876"
     title: "Treasury Laws Amendment (Electric Car Discount) Bill 2022"
@@ -2467,3 +2413,21 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1430_first-senate/toc_pdf/24S2020.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-09
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28046%2F0126%22"
+  - bill_id: "s1431"
+    title: "Environment Protection and Biodiversity Conservation Amendment (Reconsideration of Decisions) Bill 2024"
+    status: "Not Proceeding"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Environment Protection and Biodiversity Conservation Act 1999 to introduce limitations on timeframes permissible for reconsideration of certain decisions, and on those who may seek reconsideration after a period of 3 years."
+    sponsor_name: "Richard Colbeck"
+    sponsor_party: "Liberal"
+    sponsor_id: "10131"
+    sponsor_division: "Tasmania"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1431_first-senate/toc_pdf/24S2120.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-12
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28066%2F0097%22"
