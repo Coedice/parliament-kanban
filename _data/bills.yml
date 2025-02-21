@@ -89,6 +89,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7283_first-reps/toc_pdf/24149b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-13
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28040%2F0033%22"
+  - bill_id: "r7286"
+    title: "Online Safety Amendment (Digital Duty of Care) Bill 2024"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: "Amends the Online Safety Act 2021 to: impose certain reporting requirements on providers of regulated online services; and impose obligations on large providers of regulated online services to identify, mitigate and manage the risks of harm or detriment from those services to Australian end-users."
+    sponsor_name: "Zoe Daniel"
+    sponsor_party: "Independent"
+    sponsor_id: "10979"
+    sponsor_division: "Goldstein"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7286_first-reps/toc_pdf/24163b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-25
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28042%2F0041%22"
   - bill_id: "r7299"
     title: "Treasury Laws Amendment (Tax Incentives and Integrity) Bill 2024"
     status: "Before Reps"
@@ -2647,21 +2665,3 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1430_first-senate/toc_pdf/24S2020.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-09
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28046%2F0126%22"
-  - bill_id: "s1431"
-    title: "Environment Protection and Biodiversity Conservation Amendment (Reconsideration of Decisions) Bill 2024"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Environment Protection and Biodiversity Conservation Act 1999 to introduce limitations on timeframes permissible for reconsideration of certain decisions, and on those who may seek reconsideration after a period of 3 years."
-    sponsor_name: "Richard Colbeck"
-    sponsor_party: "Liberal"
-    sponsor_id: "10131"
-    sponsor_division: "Tasmania"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1431_first-senate/toc_pdf/24S2120.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-12
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28066%2F0097%22"
