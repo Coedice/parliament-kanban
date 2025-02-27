@@ -149,7 +149,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
-    summary: null
+    summary: "The bill: establishes the Whistleblower Protection Authority to receive and facilitate the investigation of whistleblower disclosures, provide advice, assistance, guidance and support to persons and agencies relating to the making of whistleblower disclosures and investigate any mistreatment of whistleblowers and undertake enforcement activities; establishes the Whistleblower Protection Advisory Council to provide advice to the Whistleblower Protection Commissioner; and establishes the Parliamentary Joint Committee on the Whistleblower Protection Authority to consider proposed recommendations for the appointment of the commissioner and deputy commissioners and to monitor and review the performance of the commissioner."
     sponsor_name: "Andrew Wilkie"
     sponsor_party: "Independent"
     sponsor_id: "10727"
@@ -185,7 +185,7 @@ pending:
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Appropriates money out of the Consolidated Revenue Fund for the purpose of meeting any liabilities that the Commonwealth may incur under a Pacific banking guarantee entered into with an Australian-headquartered authorised deposit-taking institution operating in the Pacific region."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -203,7 +203,7 @@ pending:
     type: "Government"
     portfolio: "Education"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Introduced with the Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) Bill 2025, the bill amends the Higher Education Support Act 2003 to make compliance with the National Higher Education Code to Prevent and Respond to Gender-based Violence a quality and accountability requirement for higher education providers approved under the Act."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -221,7 +221,7 @@ pending:
     type: "Government"
     portfolio: "Education"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Introduced with the Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Bill 2025, the bill provides for a National Higher Education Code to Prevent and Respond to Gender-based Violence which may impose certain requirements and standards on higher education providers in relation to gender-based violence."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -239,7 +239,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
-    summary: null
+    summary: "The bill: requires public bodies to act in pursuit of the economic, social, environmental and cultural wellbeing of current and future generations of Australians; and establishes an independent statutory Commissioner for Future Generations."
     sponsor_name: "Sophie Scamps"
     sponsor_party: "Independent"
     sponsor_id: "10989"
@@ -257,7 +257,7 @@ pending:
     type: "Government"
     portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Telecommunications Act 1997 to: establish a carriage service provider registration scheme; make industry codes directly enforceable by the Australian Communications and Media Authority; and amend existing arrangements relating to the application of penalty amounts for infringement notices and civil penalties."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -419,7 +419,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "The bill: establishes the Whistleblower Protection Authority to receive and facilitate the investigation of whistleblower disclosures, provide advice, assistance, guidance and support to persons and agencies relating to the making of whistleblower disclosures and investigate any mistreatment of whistleblowers and undertake enforcement activities; establishes the Whistleblower Protection Advisory Council to provide advice to the Whistleblower Protection Commissioner; and establishes the Parliamentary Joint Committee on the Whistleblower Protection Authority to consider proposed recommendations for the appointment of the commissioner and deputy commissioners and to monitor and review the performance of the commissioner."
     sponsor_name: "David Pocock"
     sponsor_party: "Independent"
     sponsor_id: "11009"
@@ -455,7 +455,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "Amends the Superannuation Guarantee (Administration) Act 1992 to increase the superannuation guarantee rate for firefighters and paramedics by 4.4 per cent to match the base rate of superannuation contributions provided to Australian Defence Force personnel."
     sponsor_name: "Nick Mckim"
     sponsor_party: "Greens"
     sponsor_id: "10841"
@@ -473,7 +473,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "Introduced with the Remuneration Tribunal Amendment (There For Public Service, Not Profit) Bill 2025, the bill amends the Australian National University Act 1991 and Tertiary Education Quality and Standards Agency Act 2011 to set a statutory limit on the remuneration of vice-chancellors of Australian universities."
     sponsor_name: "Jacqui Lambie"
     sponsor_party: "Jacqui Lambie Network"
     sponsor_id: "10830"
@@ -491,7 +491,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "Introduced with the Tertiary Education Legislation Amendment (There For Education, Not Profit) Bill 2025, the bill amends the Remuneration Tribunal Act 1973 to set a statutory limit on the remuneration of departmental secretaries and other public office holders."
     sponsor_name: "Jacqui Lambie"
     sponsor_party: "Jacqui Lambie Network"
     sponsor_id: "10830"
@@ -509,7 +509,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "Recognises the right to engage in peaceful protest in a public place."
     sponsor_name: "David Shoebridge"
     sponsor_party: "Greens"
     sponsor_id: "11010"
