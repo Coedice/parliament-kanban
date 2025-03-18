@@ -34,11 +34,13 @@ def get_saved_bills(target_section_name: str = None) -> List[str]:
     with open("_data/bills.yml", "r") as f:
         saved_bills = yaml.safe_load(f)
 
-    existing_bills = []
-
+    # Return existing bills for target section
     if target_section_name is not None:
-        return saved_bills[target_section_name]
+        existing_bills = saved_bills[target_section_name]
+        return existing_bills if existing_bills is not None else []
 
+    # Collect all existing bills
+    existing_bills = []
     for section_name, _ in SECTIONS:
         existing_bills += saved_bills[section_name]
 
