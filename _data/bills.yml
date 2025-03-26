@@ -17,24 +17,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7062_first-reps/toc_pdf/23096b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-08-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27156%2F0017%22"
-  - bill_id: "r7064"
-    title: "National Housing Supply and Affordability Council Bill 2023 [No. 2]"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Treasury"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Housing Australia Future Fund Bill 2023 [No. 2] and Treasury Laws Amendment (Housing Measures No. 1) Bill 2023 [No. 2], the bill establishes the National Housing Supply and Affordability Council as an independent advisory body to the Commonwealth Government on matters relating to housing supply and affordability."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Julie Collins"
-    minister_party: "Labor"
-    minister_id: "10136"
-    minister_division: "Franklin"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7064_first-reps/toc_pdf/23097b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-08-02
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27156%2F0013%22"
   - bill_id: "r7120"
     title: "Superannuation (Better Targeted Superannuation Concessions) Imposition Bill 2023"
     status: "Before Senate"
@@ -89,24 +71,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7265_first-reps/toc_pdf/24138b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-18
     second_reading_hansard_url: null
-  - bill_id: "r7283"
-    title: "Workplace Gender Equality Amendment (Setting Gender Equality Targets) Bill 2024"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Women"
-    originating_house: "House of Representatives"
-    summary: "Amends the Workplace Gender Equality Act 2012 to require certain employers with 500 or more employees to select and meet, or improve against, certain gender equality targets over a 3 year period."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Kate Thwaites"
-    minister_party: "Labor"
-    minister_id: "10930"
-    minister_division: "Jagajaga"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7283_first-reps/toc_pdf/24149b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-03-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28040%2F0033%22"
   - bill_id: "r7286"
     title: "Online Safety Amendment (Digital Duty of Care) Bill 2024"
     status: "Before Reps"
@@ -125,42 +89,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7286_first-reps/toc_pdf/24163b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28042%2F0041%22"
-  - bill_id: "r7299"
-    title: "Treasury Laws Amendment (Tax Incentives and Integrity) Bill 2024"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Treasury"
-    originating_house: "House of Representatives"
-    summary: "Amends the: A New Tax System (Luxury Car Tax) Act 1999 to: reduce the maximum fuel consumption for a car to be considered fuel-efficient to 3.5 litres per 100 kilometres; and align the indexation rates for luxury car tax thresholds; Income Tax Assessment Act 1997 to remove income tax deductions for amounts of general interest charge and shortfall interest charge; and Taxation Administration Act 1953 to extend the period within which the Commissioner of Taxation must notify a taxpayer of their decision to retain a business activity statement refund."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Stephen Jones"
-    minister_party: "Labor"
-    minister_id: "10740"
-    minister_division: "Whitlam"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7299_third-reps/toc_pdf/24165b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-03-26
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28045%2F0217%22"
-  - bill_id: "r7300"
-    title: "Transport Security Amendment (Security of Australia&rsquo;s Transport Sector) Bill 2025"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Home Affairs"
-    originating_house: "House of Representatives"
-    summary: "Implements certain recommendations of the Independent Review into Australia’s Aviation and Maritime Transport Security Settings by amending the Aviation Transport Security Act 2004 and Maritime Transport and Offshore Facilities Security Act 2003 to update legislative and policy frameworks to enable iterative, risk-based and scalable regulation for the security of aviation, maritime and offshore facility sectors."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Matt Thistlethwaite"
-    minister_party: "Labor"
-    minister_id: "10762"
-    minister_division: "Kingsford Smith"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7300_third-reps/toc_pdf/24166b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-03-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28045%2F0209%22"
   - bill_id: "r7301"
     title: "Whistleblower Protection Authority Bill 2025"
     status: "Before Reps"
@@ -251,24 +179,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7312_first-reps/toc_pdf/25010b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-13
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28684%2F0009%22"
-  - bill_id: "r7314"
-    title: "National Land Transport Act Amendment (Better Value for Taxpayers) Bill 2025"
-    status: "Before Reps"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the National Land Transport Act 2014 to: require the Government to publish a National Land Transport Infrastructure Plan which outlines strategic priorities for national land transport projects; require the publication of business cases for certain Commonwealth-funded projects; and require post-completion reviews of major Commonwealth-funded projects."
-    sponsor_name: "Allegra Spender"
-    sponsor_party: "Independent"
-    sponsor_id: "11001"
-    sponsor_division: "Wentworth"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7314_first-reps/toc_pdf/25012b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-10
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28685%2F0170%22"
   - bill_id: "r7315"
     title: "Wellbeing of Future Generations Bill 2025"
     status: "Before Reps"
@@ -305,96 +215,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7317_first-reps/toc_pdf/25015b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-03-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28687%2F0015%22"
-  - bill_id: "r7322"
-    title: "Parliamentary Business Resources Legislation Amendment (Machinery of Government Change) Bill 2025"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Special Minister of State"
-    originating_house: "House of Representatives"
-    summary: null
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Patrick Gorman"
-    minister_party: "Labor"
-    minister_id: "10911"
-    minister_division: "Perth"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7322_first-reps/toc_pdf/25024b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-03-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28772%2F0044%22"
-  - bill_id: "r7324"
-    title: "Supply Bill (No. 1) 2025-2026"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Finance"
-    originating_house: "House of Representatives"
-    summary: null
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Stephen Jones"
-    minister_party: "Labor"
-    minister_id: "10740"
-    minister_division: "Whitlam"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7324_first-reps/toc_pdf/25018b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-03-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28772%2F0032%22"
-  - bill_id: "r7325"
-    title: "Supply Bill (No. 2) 2025-2026"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Finance"
-    originating_house: "House of Representatives"
-    summary: null
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Stephen Jones"
-    minister_party: "Labor"
-    minister_id: "10740"
-    minister_division: "Whitlam"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7325_first-reps/toc_pdf/25020b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-03-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28772%2F0036%22"
-  - bill_id: "r7326"
-    title: "Supply (Parliamentary Departments) Bill (No. 1) 2025-2026"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Finance"
-    originating_house: "House of Representatives"
-    summary: null
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Stephen Jones"
-    minister_party: "Labor"
-    minister_id: "10740"
-    minister_division: "Whitlam"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7326_first-reps/toc_pdf/25021b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-03-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28772%2F0040%22"
-  - bill_id: "r7331"
-    title: "Treasury Laws Amendment (More Cost of Living Relief) Bill 2025"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Treasury"
-    originating_house: "House of Representatives"
-    summary: null
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: null
-    minister_party: "Labor"
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7331_first-reps/toc_pdf/1 Bill - Treasury Laws Amendment (More Cost of Living Relief) Bill 2025.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-03-26
-    second_reading_hansard_url: null
   - bill_id: "s1298"
     title: "Snowy Hydro Corporatisation Amendment (No New Fossil Fuels) Bill 2021 [No. 2]"
     status: "Before Senate"
@@ -467,24 +287,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1348_first-senate/toc_pdf/22S0920.pdf;fileType=application%2Fpdf"
     last_updated: 2022-09-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F25575%2F0138%22"
-  - bill_id: "s1364"
-    title: "Northern Territory Safe Measures Bill 2023"
-    status: "Before Senate"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Reinstates measures that previously applied under the Stronger Futures in the Northern Territory Act 2012 which were aimed at reducing alcohol-related harm to vulnerable communities in the Northern Territory."
-    sponsor_name: "Jacinta Nampijinpa Price"
-    sponsor_party: "Country Liberal Party"
-    sponsor_id: "11006"
-    sponsor_division: "NT"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1364_first-senate/toc_pdf/23S0020.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-03-23
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26438%2F0162%22"
   - bill_id: "s1387"
     title: "Public Governance, Performance and Accountability Amendment (Vaccine Indemnity) Bill 2023"
     status: "Before Senate"
@@ -593,24 +395,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1421_first-senate/toc_pdf/24S1320.pdf;fileType=application%2Fpdf"
     last_updated: 2024-07-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28048%2F0107%22"
-  - bill_id: "s1434"
-    title: "National Organic Standard Bill 2024"
-    status: "Before Senate"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Creates a framework for regulating the sale or importation of organic goods in Australia."
-    sponsor_name: "Bridget Mckenzie"
-    sponsor_party: "Nationals"
-    sponsor_id: "10758"
-    sponsor_division: "Victoria"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1434_first-senate/toc_pdf/24S2320.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-19
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28071%2F0104%22"
   - bill_id: "s1436"
     title: "Whistleblower Protection Authority Bill 2025 (No. 2)"
     status: "Before Senate"
@@ -736,7 +520,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1454_first-senate/toc_pdf/25S1320.pdf;fileType=application%2Fpdf"
     last_updated: 2025-03-26
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28776%2F0157%22"
 passed:
   - bill_id: "r6876"
     title: "Treasury Laws Amendment (Electric Car Discount) Bill 2022"
