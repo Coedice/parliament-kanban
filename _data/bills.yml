@@ -520,7 +520,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1454_first-senate/toc_pdf/25S1320.pdf;fileType=application%2Fpdf"
     last_updated: 2025-03-26
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28776%2F0157%22"
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28776%2F0155%22"
 passed:
   - bill_id: "r6876"
     title: "Treasury Laws Amendment (Electric Car Discount) Bill 2022"
