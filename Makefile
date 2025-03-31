@@ -1,8 +1,8 @@
 generate:
-	docker run -it --rm -v $$PWD:/app -w /app python:3.11 /bin/sh -c " \
+	docker run --rm -v $$PWD:/app -w /app python:3.11 /bin/sh -c " \
 		python3 -m pip install --upgrade pip; \
 		pip3 install -r requirements.txt; \
-		python3 scraper.py \
+		python3 -u scraper.py \
 	"
 
 build:

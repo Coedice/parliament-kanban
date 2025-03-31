@@ -8,7 +8,7 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 40
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
@@ -19,6 +19,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     - name: Update bill data
-      run: python3 scraper.py
+      run: python3 -u scraper.py
     - name: Add, commit, and push any changes
       run: git add .; git diff-index --quiet HEAD || git commit -m "Update bill data"; git push
