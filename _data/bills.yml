@@ -648,6 +648,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6929_aspassed/toc_pdf/22105b01.pdf;fileType=application%2Fpdf"
     last_updated: 2022-11-30
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26227%2F0024%22"
+  - bill_id: "r6943"
+    title: "Telecommunications Legislation Amendment (Information Disclosure, National Interest and Other Measures) Bill 2022"
+    status: "Act"
+    type: "Government"
+    portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
+    originating_house: "House of Representatives"
+    summary: "Amends the: Telecommunications Act 1997 to: enable carriers and carriage service providers to use and disclose information for purposes connected to the prevention of a serious threat to the life or health of a person; authorise the use and disclosure of unlisted numbers and associated addresses for the purposes of dealing with matters raised by a call to an emergency service number; confer civil immunities on telecommunications companies for the provision of reasonably necessary assistance to the Commonwealth, states or territories where a national emergency declaration is in force; and require more detailed records of information to be recorded for authorised disclosures; and Telstra Corporation and Other Legislation Amendment Act 2021 and Telecommunications Act 1997 to make minor technical amendments."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Michelle Rowland"
+    minister_party: "Labor"
+    minister_id: "10751"
+    minister_division: "Greenway"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6943_aspassed/toc_pdf/22122b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-04-11
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26230%2F0009%22"
   - bill_id: "r6945"
     title: "Treasury Laws Amendment (Modernising Business Communications and Other Measures) Bill 2023"
     status: "Act"
@@ -702,6 +720,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6950_aspassed/toc_pdf/22126b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-08-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26233%2F0195%22"
+  - bill_id: "r6953"
+    title: "Therapeutic Goods Amendment (2022 Measures No. 1) Bill 2022"
+    status: "Act"
+    type: "Government"
+    portfolio: "Health and Aged Care"
+    originating_house: "House of Representatives"
+    summary: "Amends the Therapeutic Goods Act 1989 to: require mandatory reporting of adverse events involving medical devices; provide a marketing approval pathway for biologicals that are for export only; remove merits review rights for a decision by the secretary to require a person to provide information or documents under the Act; enable the secretary to extend the period for a person to pay the amount stated in an infringement notice, and require a person to provide information or documents that are relevant to a contravention of the Act; extend the period for which seized goods can be held; provide that therapeutic goods advertising is excluded from advertising restrictions for certain health professionals or to persons purchasing goods on behalf of governments, registered charities or health facilities; enable the secretary to withdraw approval for the use of a restricted representation in an advertisement about therapeutic goods; enable the secretary to approve the importation or supply of substitute overseas prescription medicine that has been previously approved within Australia; provide that the secretary is not required to observe any requirements of the natural justice hearing rule when releasing therapeutic goods information; provide that sponsors of reportable medicines that are in shortage must provide updated information to the secretary; and make technical amendments."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Ged Kearney"
+    minister_party: "Labor"
+    minister_id: "10907"
+    minister_division: "Cooper"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6953_aspassed/toc_pdf/22128b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-03-21
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26234%2F0040%22"
   - bill_id: "r6954"
     title: "Work Health and Safety Amendment Bill 2022"
     status: "Act"
@@ -864,6 +900,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7023_aspassed/toc_pdf/23052b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-06-23
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26693%2F0034%22"
+  - bill_id: "r7036"
+    title: "Trade Support Loans Amendment Bill 2023"
+    status: "Act"
+    type: "Government"
+    portfolio: "Employment and Workplace Relations"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Student Loans (Overseas Debtors Repayment Levy) Amendment Bill 2023, the bill amends the Trade Support Loans Act 2014 to: cause the Trade Support Loans Priority List to lapse; enable the minister to determine a new Australian Apprenticeships Priority List; provide that a qualifying apprenticeship is, among other things, an apprenticeship through which a person is undertaking a qualification that leads to an occupation or qualification specified on the Australian Apprenticeships Priority List; amend the title of the Act to the Australian Apprenticeship Support Loans Act 2014; and enable the secretary to extend the day by which an application for a particular payment instalment period may be made. Also makes consequential amendments to 5 Acts."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Brendan O'Connor"
+    minister_party: "Labor"
+    minister_id: "10496"
+    minister_division: "Gorton"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7036_aspassed/toc_pdf/22077b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-08-21
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26698%2F0025%22"
   - bill_id: "r7037"
     title: "Veterans&rsquo; Affairs Legislation Amendment (Miscellaneous Measures No. 2) Bill 2023"
     status: "Act"
@@ -936,6 +990,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7057_aspassed/toc_pdf/23087b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-04-08
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26709%2F0035%22"
+  - bill_id: "r7070"
+    title: "Telecommunications (Interception and Access) Amendment Bill 2023"
+    status: "Act"
+    type: "Government"
+    portfolio: "Attorney-General"
+    originating_house: "House of Representatives"
+    summary: "Amends the Telecommunications (Interception and Access) Act 1979 in relation to the communication of foreign intelligence information."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Clare O'Neil"
+    minister_party: "Labor"
+    minister_id: "10814"
+    minister_division: "Hotham"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7070_aspassed/toc_pdf/23104b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-08-10
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27158%2F0254%22"
   - bill_id: "r7076"
     title: "Water Amendment (Restoring Our Rivers) Bill 2023"
     status: "Act"
@@ -990,6 +1062,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7107_aspassed/toc_pdf/23141b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-05-31
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27181%2F0053%22"
+  - bill_id: "r7116"
+    title: "Telecommunications Legislation Amendment (Enhancing Consumer Safeguards and Other Measures) Bill 2023"
+    status: "Act"
+    type: "Government"
+    portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
+    originating_house: "House of Representatives"
+    summary: "Amends the: Competition and Consumer Act 2010, Telecommunications Act 1997 and Telecommunications (Consumer Protection and Service Standards Act 1999 to amend the operation of the statutory infrastructure provider regime; Telecommunications Act 1997 to enable the Australian Communications and Media Authority (ACMA) to issue remedial notices to developers who do not install functional fibre-ready facilities in proximity to a development; Australian Communications and Media Authority Act 2005 to enable the disclosure by the ACMA of certain information; Telecommunications (Consumer Protection and Service Standards) Act 1999 to enable the minister to determine service areas that relate to a primary universal service provider; and Telecommunications Act 1997 and Telecommunications (Consumer Protection and Service Standards) Act 1999 to make technical amendments."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Michelle Rowland"
+    minister_party: "Labor"
+    minister_id: "10751"
+    minister_division: "Greenway"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7116_aspassed/toc_pdf/23149b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-05-31
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27533%2F0031%22"
   - bill_id: "r7126"
     title: "Treasury Laws Amendment (Reserve Bank Reforms) Bill 2023"
     status: "Act"
@@ -1062,6 +1152,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7142_aspassed/toc_pdf/24012b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-04-08
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27585%2F0039%22"
+  - bill_id: "r7169"
+    title: "Therapeutic Goods and Other Legislation Amendment (Vaping Reforms) Bill 2024"
+    status: "Act"
+    type: "Government"
+    portfolio: "Health and Aged Care"
+    originating_house: "House of Representatives"
+    summary: "Amends the Therapeutic Goods Act 1989 to provide a national framework to regulate the importation, domestic manufacture, supply, commercial possession and advertisement of all vapes, irrespective of nicotine content or therapeutic claims. Also makes consequential amendments to the Customs Act 1901, Industrial Chemicals Act 2019 and Public Health (Tobacco and Other Products) Act 2023."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Mark Butler"
+    minister_party: "Labor"
+    minister_id: "10086"
+    minister_division: "Hindmarsh"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7169_aspassed/toc_pdf/24032b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-06-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27616%2F0014%22"
   - bill_id: "r7176"
     title: "Treasury Laws Amendment (Financial Market Infrastructure and Other Measures) Bill 2024"
     status: "Act"
@@ -1116,6 +1224,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7199_aspassed/toc_pdf/24065b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-12-10
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27649%2F0020%22"
+  - bill_id: "r7211"
+    title: "Telecommunications Amendment (SMS Sender ID Register) Bill 2024"
+    status: "Act"
+    type: "Government"
+    portfolio: "Communications"
+    originating_house: "House of Representatives"
+    summary: "Amends the Telecommunications Act 1997 to require the Australian Communications and Media Authority to establish and maintain an SMS Sender ID Register."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Michelle Rowland"
+    minister_party: "Labor"
+    minister_id: "10751"
+    minister_division: "Greenway"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7211_aspassed/toc_pdf/24077b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-09-05
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27656%2F0018%22"
   - bill_id: "r7217"
     title: "Veterans' Entitlements, Treatment and Support (Simplification and Harmonisation) Bill 2024"
     status: "Act"
@@ -1134,6 +1260,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7217_aspassed/toc_pdf/24082b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-20
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28020%2F0034%22"
+  - bill_id: "r7221"
+    title: "Taxation (Multinational&mdash;Global and Domestic Minimum Tax) Imposition Bill 2024"
+    status: "Act"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Taxation (Multinational—Global and Domestic Minimum Tax) Bill 2024 and Treasury Laws Amendment (Multinational—Global and Domestic Minimum Tax) (Consequential) Bill 2024, the bill imposes global and domestic minimum taxes in respect of profits of multinational enterprises that have been undertaxed."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Andrew Leigh"
+    minister_party: "Labor"
+    minister_id: "10746"
+    minister_division: "Fenner"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7221_aspassed/toc_pdf/24085b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-12-10
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28021%2F0026%22"
   - bill_id: "r7222"
     title: "Treasury Laws Amendment (Multinational&mdash;Global and Domestic Minimum Tax) (Consequential) Bill 2024"
     status: "Act"
@@ -1242,6 +1386,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7257_aspassed/toc_pdf/24120b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-12-10
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28036%2F0011%22"
+  - bill_id: "r7283"
+    title: "Workplace Gender Equality Amendment (Setting Gender Equality Targets) Bill 2024"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Women"
+    originating_house: "House of Representatives"
+    summary: "Amends the Workplace Gender Equality Act 2012 to require certain employers with 500 or more employees to select and meet, or improve against, certain gender equality targets over a 3 year period."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Kate Thwaites"
+    minister_party: "Labor"
+    minister_id: "10930"
+    minister_division: "Jagajaga"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7283_aspassed/toc_pdf/24149b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-03-26
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28040%2F0033%22"
   - bill_id: "r7296"
     title: "Treasury Laws Amendment (Fairer for Families and Farmers and Other Measures) Bill 2024"
     status: "Act"
@@ -1260,6 +1422,60 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7296_aspassed/toc_pdf/24160b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-12-10
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28044%2F0206%22"
+  - bill_id: "r7299"
+    title: "Treasury Laws Amendment (Tax Incentives and Integrity) Bill 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Amends the: A New Tax System (Luxury Car Tax) Act 1999 to: reduce the maximum fuel consumption for a car to be considered fuel-efficient to 3.5 litres per 100 kilometres; and align the indexation rates for luxury car tax thresholds; Income Tax Assessment Act 1997 to remove income tax deductions for amounts of general interest charge and shortfall interest charge; and Taxation Administration Act 1953 to extend the period within which the Commissioner of Taxation must notify a taxpayer of their decision to retain a business activity statement refund."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Stephen Jones"
+    minister_party: "Labor"
+    minister_id: "10740"
+    minister_division: "Whitlam"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7299_aspassed/toc_pdf/24165b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-03-26
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28045%2F0217%22"
+  - bill_id: "r7300"
+    title: "Transport Security Amendment (Security of Australia&rsquo;s Transport Sector) Bill 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Home Affairs"
+    originating_house: "House of Representatives"
+    summary: "Implements certain recommendations of the Independent Review into Australia’s Aviation and Maritime Transport Security Settings by amending the Aviation Transport Security Act 2004 and Maritime Transport and Offshore Facilities Security Act 2003 to update legislative and policy frameworks to enable iterative, risk-based and scalable regulation for the security of aviation, maritime and offshore facility sectors."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Matt Thistlethwaite"
+    minister_party: "Labor"
+    minister_id: "10762"
+    minister_division: "Kingsford Smith"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7300_aspassed/toc_pdf/24166b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-03-26
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28045%2F0209%22"
+  - bill_id: "r7331"
+    title: "Treasury Laws Amendment (More Cost of Living Relief) Bill 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7331_aspassed/toc_pdf/25026b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-03-26
+    second_reading_hansard_url: null
   - bill_id: "s1363"
     title: "Workplace Gender Equality Amendment (Closing the Gender Pay Gap) Bill 2023"
     status: "Act"
