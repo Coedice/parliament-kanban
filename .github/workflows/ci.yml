@@ -2,7 +2,7 @@ name: Update page with new data
 
 on:
   schedule:
-    - cron: '0 0,5,13 * * 1-5' # 12:00, 17:00, and 23:00 in UTC+10, Mon-Fri
+    - cron: '0 6 * * 1-5' # 18:00 in UTC+10, Mon-Fri
   workflow_dispatch:
 
 jobs:

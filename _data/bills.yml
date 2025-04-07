@@ -1,22 +1,22 @@
 pending:
-  - bill_id: "r7062"
-    title: "Treasury Laws Amendment (Housing Measures No. 1) Bill 2023 [No. 2]"
+  - bill_id: "r6873"
+    title: "Customs Amendment Bill 2022"
     status: "Before Reps"
     type: "Government"
-    portfolio: "Treasury"
+    portfolio: "Prime Minister"
     originating_house: "House of Representatives"
-    summary: "Introduced with the Housing Australia Future Fund Bill 2023 [No. 2] and National Housing Supply and Affordability Council Bill 2023 [No. 2], the bill amends: the National Housing Finance and Investment Corporation Act 2018 to rename the National Housing Finance and Investment Corporation to Housing Australia; the renamed Housing Australia Act 2018 to: streamline the functions of Housing Australia; establish an annual review mechanism for the National Housing Infrastructure Facility; and extend the Commonwealth guarantee of the liabilities of Housing Australia to apply to contracts entered into until 30 June 2028; and 10 Acts to make consequential amendments."
+    summary: "Amends the Customs Act 1901 to remove a duplicate definition."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: "Julie Collins"
+    minister_name: null
     minister_party: "Labor"
-    minister_id: "10136"
-    minister_division: "Franklin"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7062_first-reps/toc_pdf/23096b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-08-02
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27156%2F0017%22"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6873_first-reps/toc_pdf/2249b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-07-26
+    second_reading_hansard_url: null
   - bill_id: "r7120"
     title: "Superannuation (Better Targeted Superannuation Concessions) Imposition Bill 2023"
     status: "Before Senate"
@@ -53,60 +53,132 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7133_first-senate/toc_pdf/treasury laws amendment (better targeted superannuation concessions) bill 2023.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-10
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27184%2F0042%22"
-  - bill_id: "r7265"
-    title: "Requiring Energy Infrastructure Providers to Obtain Rehabilitation Bonds Bill 2024"
-    status: "Before Reps"
-    type: "Private"
-    portfolio: null
+  - bill_id: "r7191"
+    title: "Education Services for Overseas Students Amendment (Quality and Integrity) Bill 2024"
+    status: "Before Senate"
+    type: "Government"
+    portfolio: "Education"
     originating_house: "House of Representatives"
-    summary: "Imposes obligations on providers of energy infrastructure projects to rehabilitate the environment affected by these projects in accordance with approved rehabilitation plans."
-    sponsor_name: "Sam Birrell"
-    sponsor_party: "Nationals"
-    sponsor_id: "10991"
-    sponsor_division: "Nicholls"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7265_first-reps/toc_pdf/24138b01.pdf;fileType=application%2Fpdf"
+    summary: "Amends the Education Services for Overseas Students Act 2000 in relation to: new requirements for the ‘fit and proper’ provider test; giving certain information to registered providers; management of provider applications; registration requirements; automatic cancellation of a provider’s registration in certain circumstances; ministerial powers to determine enrolment limits on overseas students; and automatic suspension and cancellation of specified courses."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Jason Clare"
+    minister_party: "Labor"
+    minister_id: "10123"
+    minister_division: "Blaxland"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7191_third-reps/toc_pdf/24057b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-18
-    second_reading_hansard_url: null
-  - bill_id: "r7286"
-    title: "Online Safety Amendment (Digital Duty of Care) Bill 2024"
-    status: "Before Reps"
-    type: "Private"
-    portfolio: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27634%2F0015%22"
+  - bill_id: "r7215"
+    title: "Aged Care Legislation Amendment Bill 2024"
+    status: "Before Senate"
+    type: "Government"
+    portfolio: "Health and Aged Care"
     originating_house: "House of Representatives"
-    summary: "Amends the Online Safety Act 2021 to: impose certain reporting requirements on providers of regulated online services; and impose obligations on large providers of regulated online services to identify, mitigate and manage the risks of harm or detriment from those services to Australian end-users."
-    sponsor_name: "Zoe Daniel"
-    sponsor_party: "Independent"
-    sponsor_id: "10979"
-    sponsor_division: "Goldstein"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7286_first-reps/toc_pdf/24163b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28042%2F0041%22"
-  - bill_id: "r7301"
-    title: "Whistleblower Protection Authority Bill 2025"
-    status: "Before Reps"
-    type: "Private"
-    portfolio: null
+    summary: "Amends the: Aged Care Act 1997 to: enable the secretary to conduct residential care data assurance reviews; and clarify the maximum accommodation payment that may apply for voluntary moves within a residential aged care service; and Aged Care Act 1997 and Aged Care (Transitional Provisions) Act 1997 to: enable refundable deposit balance information held by approved providers to be used to verify care recipients’ income and asset details; enable an income and assets determination to be varied; and align income and assets determination processes."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Anika Wells"
+    minister_party: "Labor"
+    minister_id: "10931"
+    minister_division: "Lilley"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7215_first-reps/toc_pdf/24081b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-21
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28036%2F0023%22"
+  - bill_id: "r7224"
+    title: "Migration Amendment (Strengthening Sponsorship and Nomination Processes) Bill 2024"
+    status: "Before Senate"
+    type: "Government"
+    portfolio: "Home Affairs"
     originating_house: "House of Representatives"
-    summary: "The bill: establishes the Whistleblower Protection Authority to receive and facilitate the investigation of whistleblower disclosures, provide advice, assistance, guidance and support to persons and agencies relating to the making of whistleblower disclosures and investigate any mistreatment of whistleblowers and undertake enforcement activities; establishes the Whistleblower Protection Advisory Council to provide advice to the Whistleblower Protection Commissioner; and establishes the Parliamentary Joint Committee on the Whistleblower Protection Authority to consider proposed recommendations for the appointment of the commissioner and deputy commissioners and to monitor and review the performance of the commissioner."
-    sponsor_name: "Andrew Wilkie"
-    sponsor_party: "Independent"
-    sponsor_id: "10727"
-    sponsor_division: "Clark"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7301_first-reps/toc_pdf/25011b01.pdf;fileType=application%2Fpdf"
+    summary: "Amends the Migration Act 1958 to: establish a framework for a new temporary skilled worker visa, the Skills in Demand visa; and establish a public register of approved sponsors who have nominated skilled workers for entry to Australia."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Andrew Giles"
+    minister_party: "Labor"
+    minister_id: "10812"
+    minister_division: "Scullin"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7224_first-reps/toc_pdf/24089b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-18
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28021%2F0018%22"
+  - bill_id: "r7277"
+    title: "Competition and Consumer Amendment (Australian Energy Regulator Separation) Bill 2024"
+    status: "Before Senate"
+    type: "Government"
+    portfolio: "Climate Change, Energy, the Environment and Water"
+    originating_house: "House of Representatives"
+    summary: "Amends the Competition and Consumer Act 2010 to separate the Australian Energy Regulator (AER) from the Australian Competition and Consumer Commission and establish the AER as a non-corporate Commonwealth entity."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Josh Wilson"
+    minister_party: "Labor"
+    minister_id: "10893"
+    minister_division: "Fremantle"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7277_first-reps/toc_pdf/24147b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-10
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28685%2F0165%22"
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28040%2F0037%22"
+  - bill_id: "r7281"
+    title: "Health Insurance (Pathology) (Fees) (Repeal) Bill 2024"
+    status: "Before Senate"
+    type: "Government"
+    portfolio: "Health and Aged Care"
+    originating_house: "House of Representatives"
+    summary: "Removes fees imposed on the pathology sector for the approval of certain categories of pathology accreditation applications by repealing the Health Insurance (Pathology (Fees) Act 1991 and Health Insurance (Pathology) (Fees) Amendment (Norfolk Island) Act 2015. Also makes consequential amendments to the Health Insurance Act 1973."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Ged Kearney"
+    minister_party: "Labor"
+    minister_id: "10907"
+    minister_division: "Cooper"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7281_first-reps/toc_pdf/24144b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-04
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28040%2F0025%22"
+  - bill_id: "r7292"
+    title: "Health Legislation Amendment (Improved Medicare Integrity and Other Measures) Bill 2025"
+    status: "Before Senate"
+    type: "Government"
+    portfolio: "Health and Aged Care"
+    originating_house: "House of Representatives"
+    summary: "Amends the: Dental Benefits Act 2008 and Health Insurance Act 1973 to change the timeframe for making claims relating to bulk-billed Medicare and dental services from 2 years to 1 year; Human Services (Medicare) Act 1973 to update investigative powers in relation to Medicare fraud offences; National Health Act 1953 to streamline pharmacy approval processes; Therapeutic Goods Act 1989 to: enable the department to manage and alleviate the consequences of therapeutic goods shortages; and support compliance and enforcement activities undertaken in relation to unlawful therapeutic and vaping goods; and Public Health (Tobacco and Other Products) Act 2023 to clarify the intended operation of certain provisions."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Ged Kearney"
+    minister_party: "Labor"
+    minister_id: "10907"
+    minister_division: "Cooper"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7292_third-reps/toc_pdf/24157b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-10
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28045%2F0221%22"
+  - bill_id: "r7298"
+    title: "Commonwealth Workplace Protection Orders Bill 2024"
+    status: "Before Senate"
+    type: "Government"
+    portfolio: "Attorney-General"
+    originating_house: "House of Representatives"
+    summary: "Establishes a scheme for courts to make Commonwealth workplace protection orders to prevent personal violence against Commonwealth workers or in Commonwealth workplaces."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Mark Dreyfus"
+    minister_party: "Labor"
+    minister_id: "10181"
+    minister_division: "Isaacs"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7298_first-reps/toc_pdf/24164b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-10
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28044%2F0193%22"
   - bill_id: "r7302"
     title: "Treasury Laws Amendment (Miscellaneous Measures) Bill 2024"
     status: "Before Senate"
@@ -125,96 +197,78 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7302_first-senate/toc_pdf/treasury laws amendment (miscellaneous measures) bill 2024.pdf;fileType=application%2Fpdf"
     last_updated: 2024-10-10
     second_reading_hansard_url: null
-  - bill_id: "r7303"
-    title: "Pacific Banking Guarantee Bill 2025"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Treasury"
-    originating_house: "House of Representatives"
-    summary: "Appropriates money out of the Consolidated Revenue Fund for the purpose of meeting any liabilities that the Commonwealth may incur under a Pacific banking guarantee entered into with an Australian-headquartered authorised deposit-taking institution operating in the Pacific region."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Jim Chalmers"
-    minister_party: "Labor"
-    minister_id: "10809"
-    minister_division: "Rankin"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7303_first-reps/toc_pdf/25001b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-03-27
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28687%2F0011%22"
-  - bill_id: "r7311"
-    title: "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Bill 2025"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Education"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) Bill 2025, the bill amends the Higher Education Support Act 2003 to make compliance with the National Higher Education Code to Prevent and Respond to Gender-based Violence a quality and accountability requirement for higher education providers approved under the Act."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Jason Clare"
-    minister_party: "Labor"
-    minister_id: "10123"
-    minister_division: "Blaxland"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7311_first-reps/toc_pdf/25009b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-06
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28684%2F0013%22"
-  - bill_id: "r7312"
-    title: "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) Bill 2025"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Education"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Bill 2025, the bill provides for a National Higher Education Code to Prevent and Respond to Gender-based Violence which may impose certain requirements and standards on higher education providers in relation to gender-based violence."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Jason Clare"
-    minister_party: "Labor"
-    minister_id: "10123"
-    minister_division: "Blaxland"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7312_first-reps/toc_pdf/25010b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-13
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28684%2F0009%22"
-  - bill_id: "r7315"
-    title: "Wellbeing of Future Generations Bill 2025"
-    status: "Before Reps"
+  - bill_id: "s1174"
+    title: "Broadcasting Services Amendment (Audio Description) Bill 2019"
+    status: "Before Senate"
     type: "Private"
     portfolio: null
-    originating_house: "House of Representatives"
-    summary: "The bill: requires public bodies to act in pursuit of the economic, social, environmental and cultural wellbeing of current and future generations of Australians; and establishes an independent statutory Commissioner for Future Generations."
-    sponsor_name: "Sophie Scamps"
-    sponsor_party: "Independent"
-    sponsor_id: "10989"
-    sponsor_division: "Mackellar"
+    originating_house: "Senate"
+    summary: "Amends the Broadcasting Services Act 1992 to: require national broadcasters, commercial television broadcasting licensees and subscription television licensees to provide a minimum number of hours of television audio description per week; and provide for the Australian Communications and Media Authority to enforce and review the new requirement."
+    sponsor_name: "Jordon Steele-John"
+    sponsor_party: "Greens"
+    sponsor_id: "10901"
+    sponsor_division: "WA"
     minister_name: null
     minister_party: null
     minister_id: null
     minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7315_first-reps/toc_pdf/25013b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-10
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28685%2F0175%22"
-  - bill_id: "r7317"
-    title: "Telecommunications Amendment (Enhancing Consumer Safeguards) Bill 2025"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
-    originating_house: "House of Representatives"
-    summary: "Amends the Telecommunications Act 1997 to: establish a carriage service provider registration scheme; make industry codes directly enforceable by the Australian Communications and Media Authority; and amend existing arrangements relating to the application of penalty amounts for infringement notices and civil penalties."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Michelle Rowland"
-    minister_party: "Labor"
-    minister_id: "10751"
-    minister_division: "Greenway"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7317_first-reps/toc_pdf/25015b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-03-27
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28687%2F0015%22"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1174_first-senate/toc_pdf/1904320.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-07-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F1b090c4f-e4d9-4785-a733-b5270139d035%2F0116%22"
+  - bill_id: "s1254"
+    title: "Australian Education Legislation Amendment (Prohibiting the Indoctrination of Children) Bill 2020"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the: Australian Curriculum, Assessment and Reporting Authority Act 2008 to require the Australian Curriculum, Assessment and Reporting Authority to ensure that school education provides a balanced presentation of opposing views on political, historical and scientific issues; and Australian Education Act 2013 to make financial assistance to a state or territory conditional on the state or territory having certain laws in force."
+    sponsor_name: "Pauline Hanson"
+    sponsor_party: "One Nation"
+    sponsor_id: "10280"
+    sponsor_division: "Queensland"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1254_first-senate/toc_pdf/20S0220.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-11-23
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F9d240fa9-ef9a-4ac9-ae29-3090a8cdcd5e%2F0131%22"
+  - bill_id: "s1286"
+    title: "Environment Protection and Biodiversity Conservation Amendment (Regional Forest Agreements) Bill 2020"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Environment Protection and Biodiversity Conservation Act 1999 and Regional Forest Agreements Act 2002 to provide that forestry operations covered by a regional forest agreement are exempted from Part 3 of the Environment Protection and Biodiversity Conservation Act 1999."
+    sponsor_name: "Bridget Mckenzie"
+    sponsor_party: "Nationals"
+    sponsor_id: "10758"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1286_first-senate/toc_pdf/20S2320.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-08-01
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2Ffd2295d6-3f93-487a-95ba-ab6d5334b30f%2F0104%22"
+  - bill_id: "s1288"
+    title: "Environment Protection and Biodiversity Conservation Amendment (Save the Koala) Bill 2021"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Environment Protection and Biodiversity Conservation Act 1999 to: prevent the minister from approving an action which involves the clearing of koala habitat; and remove the exemption of regional forest agreements from requirements of the Act where there is, may, or is likely to have significant impacts on koalas."
+    sponsor_name: "Sarah Hanson-Young"
+    sponsor_party: "Greens"
+    sponsor_id: "10711"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1288_first-senate/toc_pdf/21S0120.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-10-26
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F7382dbf2-84fe-44c1-ac2c-73362a97febf%2F0101%22"
   - bill_id: "s1298"
     title: "Snowy Hydro Corporatisation Amendment (No New Fossil Fuels) Bill 2021 [No. 2]"
     status: "Before Senate"
@@ -233,6 +287,114 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1298_first-senate/toc_pdf/21S0320.pdf;fileType=application%2Fpdf"
     last_updated: 2022-07-27
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F6de46e74-cae0-4ac6-a6f2-bdf6bcfe357c%2F0070%22"
+  - bill_id: "s1302"
+    title: "Electric Vehicles Accountability Bill 2021"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "The bill: requires the Minister for Energy and Emission Reduction to table in each House of Parliament an annual statement outlining Australia's strategy on electric vehicles; and provides for the reference of matters to the Productivity Commission, including Australia’s support for the manufacture, purchase and use of electric vehicles."
+    sponsor_name: "Janet Rice"
+    sponsor_party: "Greens"
+    sponsor_id: "10836"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1302_first-senate/toc_pdf/21S0420.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-07-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F45612f2f-5760-4b4c-80ce-b98ae28d42a9%2F0123%22"
+  - bill_id: "s1314"
+    title: "Live Performance Federal Insurance Guarantee Fund Bill 2021"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Requires the Treasurer to establish a Live Performance Federal Insurance Guarantee Fund to underwrite insurance for the live performance industry to enable future live performance events."
+    sponsor_name: "Sarah Hanson-Young"
+    sponsor_party: "Greens"
+    sponsor_id: "10711"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1314_first-senate/toc_pdf/21S1420.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-07-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F38aecaea-ebc3-40c8-b36a-5c9638090797%2F0219%22"
+  - bill_id: "s1317"
+    title: "Federal Environment Watchdog Bill 2021"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the: Environment Protection and Biodiversity Conservation Act 1999 to: establish the Commonwealth Environment Protection Authority (EPA) to exercise the routine administrative regulatory functions currently undertaken by the Commonwealth in relation to the Act and other Commonwealth legislation relating to the environment and undertake certain functions relating to communities; establish an Office of Monitoring, Compliance, Enforcement and Assurance within the EPA; and establish the Parliamentary Joint Committee on Environment and Energy; and Environment Protection and Biodiversity Conservation Act 1999 and Water Act 2007 to make consequential amendments."
+    sponsor_name: "Sarah Hanson-Young"
+    sponsor_party: "Greens"
+    sponsor_id: "10711"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1317_first-senate/toc_pdf/21S1520.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-07-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2Fa86b340f-82cb-4256-9315-46770f200584%2F0093%22"
+  - bill_id: "s1320"
+    title: "Customs Legislation Amendment (Commercial Greyhound Export and Import Prohibition) Bill 2021"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Customs (Prohibited Exports) Regulations 1958 and Customs (Prohibited Imports) Regulations 1956 to prohibit the export and import of greyhounds for racing, breeding and commercial purposes."
+    sponsor_name: "Mehreen Faruqi"
+    sponsor_party: "Greens"
+    sponsor_id: "10912"
+    sponsor_division: "NSW"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1320_first-senate/toc_pdf/21S1820.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-07-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F47441081-a4e6-4d49-8446-77d0cf8c6f82%2F0171%22"
+  - bill_id: "s1337"
+    title: "Fair Work Amendment (Equal Pay for Equal Work) Bill 2022"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Fair Work Act 2009 to require that labour hire workers covered by certain modern awards receive at least the same rate of pay as other employees performing the same work."
+    sponsor_name: "Malcolm Roberts"
+    sponsor_party: "One Nation"
+    sponsor_id: "10856"
+    sponsor_division: "Queensland"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1337_first-senate/toc_pdf/22S0320.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-11-30
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F25529%2F0239%22"
+  - bill_id: "s1344"
+    title: "Environment Protection and Biodiversity Conservation Amendment (Climate Trigger) Bill 2022 [No. 2]"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Environment Protection and Biodiversity Conservation Act 1999 to: require actions that would emit between 25,000 to 100,000 tonnes of carbon dioxide equivalent scope 1 emissions in any one year to be assessed for approval under Part 9 of the Act; require the minister, when approving any such action or when considering whether to enter into a conservation agreement, to consider Australia’s national carbon budget and greenhouse gas emissions reduction targets; require the minister to reject the approval of actions that would emit over 100,000 tonnes of carbon dioxide equivalent scope 1 emissions; require the Climate Change Authority to develop a national carbon budget to 2050 and to annually assess the budget; prohibit the minister, subject to certain exceptions, from using alternative approval processes for certain emissions intensive actions; and introduce penalties for undertaking certain emissions intensive actions without approval if the action has, will have or is likely to have a significant impact on the environment."
+    sponsor_name: "Sarah Hanson-Young"
+    sponsor_party: "Greens"
+    sponsor_id: "10711"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1344_first-senate/toc_pdf/22S0820.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-02-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F25573%2F0111%22"
   - bill_id: "s1346"
     title: "Offshore Petroleum and Greenhouse Gas Storage Amendment (Fight for Australia&rsquo;s Coastline) Bill 2022"
     status: "Before Senate"
@@ -287,6 +449,384 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1348_first-senate/toc_pdf/22S0920.pdf;fileType=application%2Fpdf"
     last_updated: 2022-09-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F25575%2F0138%22"
+  - bill_id: "s1352"
+    title: "National Energy Transition Authority Bill 2022"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Establishes the National Energy Transition Authority as a statutory authority to plan, coordinate and provide advice on the transition to renewable energy, focusing on the facilitation of new economic opportunities for workers and communities who are currently involved in fossil fuel production and associated industries."
+    sponsor_name: "Penny Allman-Payne"
+    sponsor_party: "Greens"
+    sponsor_id: "11002"
+    sponsor_division: "Queensland"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1352_first-senate/toc_pdf/22S1020.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-09-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26115%2F0125%22"
+  - bill_id: "s1354"
+    title: "Environment and Other Legislation Amendment (Removing Nuclear Energy Prohibitions) Bill 2022"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the: Australian Radiation Protection and Nuclear Safety Act 1998 to remove the prohibition on the construction or operation of certain nuclear installations; and Environment Protection and Biodiversity Conservation Act 1999 to remove the prohibition on the Minister for Environment and Water declaring, approving or considering actions relating to the construction or operation of certain nuclear installations."
+    sponsor_name: "Matthew Canavan"
+    sponsor_party: "Liberal National Party"
+    sponsor_id: "10827"
+    sponsor_division: "Queensland"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1354_first-senate/toc_pdf/22S1120.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-09-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26174%2F0189%22"
+  - bill_id: "s1355"
+    title: "Education and Other Legislation Amendment (Abolishing Indexation and Raising the Minimum Repayment Income for Education and Training Loans) Bill 2022"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the: Higher Education Support Act 2003, Social Security Act 1991, Student Assistance Act 1973, Trade Support Loans Act 2014 and VET Student Loans Act 2016 to remove indexation on certain education and training loans; and Higher Education Support Act 2003, Social Security Act 1991 and Student Assistance Act 1973 to: define 'median wage'; and raise the minimum repayment income and amend the percentage of income a person is liable to repay the Commonwealth for certain education and training loans."
+    sponsor_name: "Mehreen Faruqi"
+    sponsor_party: "Greens"
+    sponsor_id: "10912"
+    sponsor_division: "NSW"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1355_first-senate/toc_pdf/22S1520.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-11-30
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26123%2F0123%22"
+  - bill_id: "s1356"
+    title: "Customs Amendment (Banning Goods Produced By Forced Labour) Bill 2022"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Customs Act 1901 to prohibit the importation into Australia of goods that are produced in whole or in part by forced labour."
+    sponsor_name: "Jordon Steele-John"
+    sponsor_party: "Greens"
+    sponsor_id: "10901"
+    sponsor_division: "WA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1356_first-senate/toc_pdf/22S1220.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-11-22
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F25595%2F0102%22"
+  - bill_id: "s1357"
+    title: "Commonwealth Electoral Amendment (Banning Dirty Donations) Bill 2022"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Commonwealth Electoral Act 1918 to: prohibit political donations from the fossil fuel industry, property developers, the tobacco industry, the banking industry, liquor and gambling businesses, pharmaceutical companies and representative organisations for these industries; impose a cumulative limit on political donations from any source of $3,000 per election term; and extend the definition of 'gift' to include subscription and membership fees, as well as attendance at fundraising events."
+    sponsor_name: "Larissa Waters"
+    sponsor_party: "Greens"
+    sponsor_id: "10764"
+    sponsor_division: "Queensland"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1357_first-senate/toc_pdf/22S1320.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-12-01
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26121%2F0093%22"
+  - bill_id: "s1359"
+    title: "Human Rights (Children Born Alive Protection) Bill 2022"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "The bill: clarifies that children born alive are persons; requires health practitioners to provide medical care, treatment and statistics on children born alive as a result of terminations; and provides that the mother of a child born alive is not liable to prosecution for an offence in respect of that child."
+    sponsor_name: "Matthew Canavan"
+    sponsor_party: "Liberal National Party"
+    sponsor_id: "10827"
+    sponsor_division: "Queensland"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1359_first-senate/toc_pdf/22S1620.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-11-30
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26123%2F0133%22"
+  - bill_id: "s1361"
+    title: "Electoral Legislation Amendment (Lowering the Voting Age) Bill 2023 [No. 2]"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Commonwealth Electoral Act 1918 and Referendum (Machinery Provisions) Act 1984 to: lower the minimum voting age in Australian federal elections and referenda from 18 to 16 years; provide for 16 and 17 year olds to be included in the certified list of voters (but not to be given a penalty notice if they do not vote); and provide that an eligible voter, who is not yet on the electoral roll or enrolled at their correct address, is able to cast a provisional vote on election day."
+    sponsor_name: "Jordon Steele-John"
+    sponsor_party: "Greens"
+    sponsor_id: "10901"
+    sponsor_division: "WA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1361_first-senate/toc_pdf/23S00420.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-02-08
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26439%2F0177%22"
+  - bill_id: "s1364"
+    title: "Northern Territory Safe Measures Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Reinstates measures that previously applied under the Stronger Futures in the Northern Territory Act 2012 which were aimed at reducing alcohol-related harm to vulnerable communities in the Northern Territory."
+    sponsor_name: "Jacinta Nampijinpa Price"
+    sponsor_party: "Country Liberal Party"
+    sponsor_id: "11006"
+    sponsor_division: "NT"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1364_first-senate/toc_pdf/23S0020.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-03-23
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26438%2F0162%22"
+  - bill_id: "s1366"
+    title: "Criminal Code Amendment (Inciting Illegal Disruptive Activities) Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Criminal Code Act 1995 to introduce three new offences relating to the incitement of trespass, property damage or theft and unlawful obstruction of traffic in central business districts and other centres of significant business or cultural activity in Australia."
+    sponsor_name: "Alex Antic"
+    sponsor_party: "Liberal"
+    sponsor_id: "10954"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1366_first-senate/toc_pdf/23S00320.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-02-08
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26439%2F0202%22"
+  - bill_id: "s1367"
+    title: "Fair Work Amendment (Prohibiting COVID-19 Vaccine Discrimination) Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Fair Work Act 2009 to add COVID-19 vaccination status as an attribute protected from discrimination."
+    sponsor_name: "Matthew Canavan"
+    sponsor_party: "Liberal National Party"
+    sponsor_id: "10827"
+    sponsor_division: "Queensland"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1367_first-senate/toc_pdf/23S00520.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-02-08
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26439%2F0207%22"
+  - bill_id: "s1368"
+    title: "Improving Access to Medicinal Cannabis Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Therapeutic Goods (Poisons Standard—February 2023) Instrument 2023 to amend the regulatory framework for medicinal cannabis by: re-scheduling medicinal cannabis, thereby allowing prescription by any medical practitioner; adopting a definition for cannabis as a regulated product that allows a higher level of tetrahydrocannabinol (THC); and allowing whole plant cannabis products with certain limits of THC and cannabidiol to be sold over the counter at a chemist or veterinary clinic to persons over 18 years of age."
+    sponsor_name: "Pauline Hanson"
+    sponsor_party: "One Nation"
+    sponsor_id: "10280"
+    sponsor_division: "Queensland"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1368_first-senate/toc_pdf/23S00820.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-03-22
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26444%2F0076%22"
+  - bill_id: "s1369"
+    title: "Governor-General Amendment (Cessation of Allowances in the Public Interest) Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Governor-General Act 1974 to cease the payment of allowances to a former Governor-General, or a spouse of a former Governor-General, where they have engaged in serious misconduct."
+    sponsor_name: "David Shoebridge"
+    sponsor_party: "Greens"
+    sponsor_id: "11010"
+    sponsor_division: "NSW"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1369_first-senate/toc_pdf/23S00620.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-03-06
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26441%2F0138%22"
+  - bill_id: "s1371"
+    title: "Fair Work Amendment (Right to Disconnect) Bill 2023 [No. 2]"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Fair Work Act 2009 to: prevent employers from contacting employees outside of work hours; and provide that employees are not required to monitor, read or respond to work communications from their employer outside of work hours."
+    sponsor_name: "Barbara Pocock"
+    sponsor_party: "Greens"
+    sponsor_id: "11008"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1371_first-senate/toc_pdf/23S1120.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-03-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26450%2F0102%22"
+  - bill_id: "s1373"
+    title: "Criminal Code Amendment (Prohibition of Nazi Symbols) Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Criminal Code Act 1995 to prohibit a person from knowingly, and without reasonable excuse, displaying a Nazi symbol."
+    sponsor_name: "Michaelia Cash"
+    sponsor_party: "Liberal"
+    sponsor_id: "10707"
+    sponsor_division: "WA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1373_first-senate/toc_pdf/23S01020.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-03-23
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26448%2F0059%22"
+  - bill_id: "s1374"
+    title: "Ending Poverty in Australia (Antipoverty Commission) Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "The bill: establishes the Antipoverty Commission as a statutory authority to provide independent advice on poverty in Australia, the causes of poverty in Australia, approaches to reducing poverty in Australia and minimum levels for social security payments; and establishes a Parliamentary Joint Committee on combatting poverty in Australia."
+    sponsor_name: "Janet Rice"
+    sponsor_party: "Greens"
+    sponsor_id: "10836"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1374_first-senate/toc_pdf/23S1320.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-09-07
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26453%2F0113%22"
+  - bill_id: "s1375"
+    title: "Murdoch Media Inquiry Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Sarah Hanson-Young"
+    sponsor_party: "Greens"
+    sponsor_id: "10711"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1375_first-senate/toc_pdf/23S1720.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-06-13
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26730%2F0114%22"
+  - bill_id: "s1376"
+    title: "Digital Assets (Market Regulation) Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Implements certain recommendations of the final report of the Senate Select Committee on Australia as a Technology and Financial Centre by: providing for a framework for digital asset exchanges, digital asset custody services and the issuing of stablecoins; requiring authorised deposit-taking institutions to comply with certain reporting requirements in relation to designated central bank digital currency; and providing for additional duties of the Parliamentary Joint Committee on Corporations and Financial Services in relation to the regulation of activities relating to digital assets and designated central bank digital currency."
+    sponsor_name: "Andrew Bragg"
+    sponsor_party: "Liberal"
+    sponsor_id: "10945"
+    sponsor_division: "NSW"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1376_first-senate/toc_pdf/23S1220.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-11-15
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26452%2F0192%22"
+  - bill_id: "s1379"
+    title: "Freeze on Rent and Rate Increases Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the: Federal Financial Relations Act 2009 to: provide for additional designated housing agreements to include model tenancy standards; and create an instrument-making power allowing the minister to make additional payments to the states on the basis that the states agree to adopt the model tenancy standards, which would include implementing controls on rents and a ban on no-grounds eviction; and Reserve Bank Act 1959 to: insert an object stating that, in relation to differences of opinion between the Reserve Bank and the Government on questions of policy, the Government is ultimately responsible for monetary and banking policy; and provide that orders made to determine monetary policy can include freezing interest rates for a specified period of time."
+    sponsor_name: "Mehreen Faruqi"
+    sponsor_party: "Greens"
+    sponsor_id: "10912"
+    sponsor_division: "NSW"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1379_first-senate/toc_pdf/23S1620.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-10-18
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26734%2F0126%22"
+  - bill_id: "s1381"
+    title: "Broadcasting Services Amendment (Ban on Gambling Advertisements During Live Sport) Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Broadcasting Services Act 1992 to ban gambling advertisements during the broadcast of live sporting events on television, radio and live streaming and for one hour before and after the event."
+    sponsor_name: "Sarah Henderson"
+    sponsor_party: "Liberal"
+    sponsor_id: "10790"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1381_first-senate/toc_pdf/23S1820.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-06-22
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26731%2F0163%22"
+  - bill_id: "s1385"
+    title: "Climate Change Amendment (Duty of Care and Intergenerational Climate Equity) Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Climate Change Act 2022 to: require decision-makers to consider the health and wellbeing of children in Australia when making significant decisions; and require decision-makers not to make significant decisions in relation to the exploration or extraction of coal, oil or natural gas if the decision poses a material risk of harm to the health and wellbeing of children in Australia."
+    sponsor_name: "David Pocock"
+    sponsor_party: "Independent"
+    sponsor_id: "11009"
+    sponsor_division: "ACT"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1385_first-senate/toc_pdf/23S2120.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-08-03
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27117%2F0039%22"
+  - bill_id: "s1386"
+    title: "Copyright Legislation Amendment (Fair Pay for Radio Play) Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Copyright Act 1968 to remove restrictions limiting the Copyright Tribunal from: determining the amount payable to copyright owners, in respect of published sound recordings, to one per cent of the commercial broadcaster’s gross earnings; and determining the amount payable by the Australian Broadcasting Corporation from to copyright owners, in respect of published sound recordings, to an amount not exceeding 0.5 cents per head of the Australian population."
+    sponsor_name: "David Pocock"
+    sponsor_party: "Independent"
+    sponsor_id: "11009"
+    sponsor_division: "ACT"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1386_first-senate/toc_pdf/23S2220.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-08-09
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27117%2F0045%22"
   - bill_id: "s1387"
     title: "Public Governance, Performance and Accountability Amendment (Vaccine Indemnity) Bill 2023"
     status: "Before Senate"
@@ -323,6 +863,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1388_first-senate/toc_pdf/23S2420.pdf;fileType=application%2Fpdf"
     last_updated: 2023-08-08
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27121%2F0161%22"
+  - bill_id: "s1389"
+    title: "Electoral Legislation Amendment (Fairer Contracts and Grants) Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Commonwealth Electoral Act 1918 to prohibit political donations being made by corporations or close associates of the corporation in certain circumstances."
+    sponsor_name: "Larissa Waters"
+    sponsor_party: "Greens"
+    sponsor_id: "10764"
+    sponsor_division: "Queensland"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1389_first-senate/toc_pdf/23S2620.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-09-04
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27124%2F0171%22"
   - bill_id: "s1390"
     title: "Offshore Petroleum and Greenhouse Gas Storage Amendment (Domestic Reserve) Bill 2023"
     status: "Before Senate"
@@ -341,6 +899,186 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1390_first-senate/toc_pdf/23S2720.pdf;fileType=application%2Fpdf"
     last_updated: 2023-09-14
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27125%2F0194%22"
+  - bill_id: "s1392"
+    title: "Competition and Consumer Amendment (Continuing ACCC Monitoring of Domestic Airline Competition) Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "The bill: amends the Competition and Consumer Act 2010 to require the Australian Competition and Consumer Commission to continue its price monitoring of domestic air passenger transport services and related goods and services for 3 years; and repeals the Competition and Consumer (Price Monitoring—Domestic Air Passenger Transport) Direction 2020."
+    sponsor_name: "Dean Smith"
+    sponsor_party: "Liberal"
+    sponsor_id: "10768"
+    sponsor_division: "WA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1392_first-senate/toc_pdf/23S2820.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-11-08
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27129%2F0089%22"
+  - bill_id: "s1393"
+    title: "Australian Education Amendment (Save Our Public Schools) Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Australian Education Act 2013 to: redefine the Commonwealth share of funding for a government school to 25%; and introduce an obligation on the minister to be satisfied when determining the Commonwealth share that it is consistent with the objective that every school-aged child in Australia has access to a fully-funded government school."
+    sponsor_name: "Penny Allman-Payne"
+    sponsor_party: "Greens"
+    sponsor_id: "11002"
+    sponsor_division: "Queensland"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1393_first-senate/toc_pdf/23S3120.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-02-08
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27131%2F0098%22"
+  - bill_id: "s1396"
+    title: "Environment Protection and Biodiversity Conservation Amendment (Expanding the Water Trigger) Bill 2023 [No. 2]"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Environment Protection and Biodiversity Conservation Act 1999 to expand the circumstances in which certain petroleum mining developments must be assessed and approved by the minister."
+    sponsor_name: "Sarah Hanson-Young"
+    sponsor_party: "Greens"
+    sponsor_id: "10711"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1396_first-senate/toc_pdf/23S3320.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-11-16
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27134%2F0197%22"
+  - bill_id: "s1397"
+    title: "Childhood Gender Transition Prohibition Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "The bill: prohibits health practitioners from performing gender clinical interventions intended to transition a minor’s biological sex, subject to limited exemptions; and prohibits the Commonwealth from entering into arrangements involving the expenditure or payment of money that provides or facilitates the provision of such a procedure or treatment."
+    sponsor_name: "Alex Antic"
+    sponsor_party: "Liberal"
+    sponsor_id: "10954"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1397_first-senate/toc_pdf/23S3220.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-10-18
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27134%2F0202%22"
+  - bill_id: "s1403"
+    title: "Customs Amendment (Preventing Child Labour) Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Customs Act 1901 to prohibit a person from importing goods involving child labour into Australia in certain circumstances where the importer has not complied with a notice in relation to the goods."
+    sponsor_name: "Malcolm Roberts"
+    sponsor_party: "One Nation"
+    sponsor_id: "10856"
+    sponsor_division: "Queensland"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1403_first-senate/toc_pdf/23S3820.pdf;fileType=application%2Fpdf"
+    last_updated: 2023-11-29
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27148%2F0298%22"
+  - bill_id: "s1409"
+    title: "Environment Protection and Biodiversity Conservation Amendment (Protecting Environmental Heritage) Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Environment Protection and Biodiversity Conservation Act 1999 to prohibit actions involving large-scale wind and solar energy projects that have, will have, or are likely to have a significant impact on the natural environment, unless done in accordance with an approval by the Minister under Part 9 of the Act."
+    sponsor_name: "Matthew Canavan"
+    sponsor_party: "Liberal National Party"
+    sponsor_id: "10827"
+    sponsor_division: "Queensland"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1409_first-senate/toc_pdf/24S0320.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-02-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27576%2F0112%22"
+  - bill_id: "s1410"
+    title: "Airline Passenger Protections (Pay on Delay) Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Requires the Transport Minister to make carriers’ obligations rules and an aviation industry code of conduct to provide for the protection of passengers in certain circumstances."
+    sponsor_name: "Bridget Mckenzie"
+    sponsor_party: "Nationals"
+    sponsor_id: "10758"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1410_first-senate/toc_pdf/24S0220.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-05-15
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27576%2F0117%22"
+  - bill_id: "s1411"
+    title: "Fair Work (Registered Organisations) Amendment (Protecting Vulnerable Workers) Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Fair Work (Registered Organisations) Act 2009 to enable the Manufacturing Division to de-merge from the Construction, Forestry and Maritime Employees Union."
+    sponsor_name: "Jacqui Lambie"
+    sponsor_party: "Jacqui Lambie Network"
+    sponsor_id: "10830"
+    sponsor_division: "Tasmania"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1411_first-senate/toc_pdf/24S0420.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-02-29
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27576%2F0163%22"
+  - bill_id: "s1412"
+    title: "Legislate the Date to End Live Sheep Export Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Export Control Act 2020 to prohibit livestock sheep export by sea from Australian territory on and after 1 May 2026."
+    sponsor_name: "Mehreen Faruqi"
+    sponsor_party: "Greens"
+    sponsor_id: "10912"
+    sponsor_division: "NSW"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1412_first-senate/toc_pdf/24S0520.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-02-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27577%2F0142%22"
+  - bill_id: "s1414"
+    title: "Electoral Legislation Amendment (Fair and Transparent Elections) Bill 2024 (No. 2)"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the: Commonwealth Electoral Act 1918 in relation to: lowering the disclosure threshold to $1,000; real-time disclosure of donations; prohibiting misleading or deceptive electoral or referendum matter; broadening the definition of gift; funding disclosure requirements; introduction of a major-donor donation cap; prohibiting certain political donations; limiting pre-election government advertising; postal vote processes; and increasing Senate representation for the Australian Capital Territory and the Northern Territory; and Commonwealth Electoral Act 1918 and Do Not Call Register Act 2006 to provide that registered independent candidates are treated the same as political parties."
+    sponsor_name: "David Pocock"
+    sponsor_party: "Independent"
+    sponsor_id: "11009"
+    sponsor_division: "ACT"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1414_first-senate/toc_pdf/24S0720.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-07-04
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28050%2F0011%22"
   - bill_id: "s1415"
     title: "Treasury Laws Amendment (Extending the FBT Exemption for Plug-In Hybrid Electric Vehicles) Bill 2024"
     status: "Before Senate"
@@ -359,6 +1097,60 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1415_first-senate/toc_pdf/24S0820.pdf;fileType=application%2Fpdf"
     last_updated: 2024-05-15
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27621%2F0151%22"
+  - bill_id: "s1416"
+    title: "National Housing and Homelessness Plan Bill 2024 (No. 2)"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "The bill: provides for a National Housing and Homelessness Plan; establishes the National Housing Consumer Council to provide advice on the plan from the perspective of consumers; and establishes a National Housing and Homelessness Advocate to independently monitor the progress of the plan and to undertake reviews into systemic housing issues."
+    sponsor_name: "David Pocock"
+    sponsor_party: "Independent"
+    sponsor_id: "11009"
+    sponsor_division: "ACT"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1416_first-senate/toc_pdf/24S1120.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-06-25
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27644%2F0100%22"
+  - bill_id: "s1417"
+    title: "Commission of Inquiry into Antisemitism at Australian Universities Bill 2024 (No. 2)"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Establishes a commission of inquiry into antisemitism at Australian universities."
+    sponsor_name: "Sarah Henderson"
+    sponsor_party: "Liberal"
+    sponsor_id: "10790"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1417_first-senate/toc_pdf/24S0920.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-06
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27644%2F0095%22"
+  - bill_id: "s1419"
+    title: "Digital ID Repeal Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Repeals the Digital ID Act 2024 and Digital ID (Transitional and Consequential Provisions) Act 2024. Also makes consequential amendments to 6 Acts."
+    sponsor_name: "Alex Antic"
+    sponsor_party: "Liberal"
+    sponsor_id: "10954"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1419_first-senate/toc_pdf/24S1220.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-06-26
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27645%2F0232%22"
   - bill_id: "s1420"
     title: "Truth and Justice Commission Bill 2024"
     status: "Before Senate"
@@ -395,6 +1187,132 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1421_first-senate/toc_pdf/24S1320.pdf;fileType=application%2Fpdf"
     last_updated: 2024-07-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28048%2F0107%22"
+  - bill_id: "s1425"
+    title: "Building and Construction Industry (Restoring Integrity and Reducing Building Costs) Bill 2024 (No. 2)"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Re-establishes the Australian Building and Construction Commissioner."
+    sponsor_name: "Michaelia Cash"
+    sponsor_party: "Liberal"
+    sponsor_id: "10707"
+    sponsor_division: "WA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1425_first-senate/toc_pdf/24S1520.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-10-10
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28060%2F0185%22"
+  - bill_id: "s1426"
+    title: "Fair Work (Registered Organisations) Amendment (Removing Criminals from Worksites) Bill 2024 (No. 2)"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Fair Work (Registered Organisations) Act 2009 to: expand the circumstances in which a person may be automatically disqualified from office and make it a criminal offence for a person who is disqualified from holding office in a registered organisation to continue to hold office or act in a manner that would significantly influence the organisation; provide for a disqualification scheme that allows the Federal Court to disqualify an official from holding office in certain circumstances; expand the grounds for the cancellation of registration of organisations by the Federal Court; and enable the Federal Court to make orders instead of cancellation of registration."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1426_first-senate/toc_pdf/24S1620.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-09-18
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28060%2F0185%22"
+  - bill_id: "s1427"
+    title: "Housing Investment Probity Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Housing Australia Future Fund Act 2023 to prohibit the Housing Australia Future Fund from investing in housing-related assets or entities financed by the Construction and Building Unions Superannuation Fund."
+    sponsor_name: "Andrew Bragg"
+    sponsor_party: "Liberal"
+    sponsor_id: "10945"
+    sponsor_division: "NSW"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1427_first-senate/toc_pdf/24S1720.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-08-21
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28060%2F0198%22"
+  - bill_id: "s1431"
+    title: "Environment Protection and Biodiversity Conservation Amendment (Reconsideration of Decisions) Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Environment Protection and Biodiversity Conservation Act 1999 to introduce limitations on timeframes permissible for reconsideration of certain decisions, and on those who may seek reconsideration after a period of 3 years."
+    sponsor_name: "Richard Colbeck"
+    sponsor_party: "Liberal"
+    sponsor_id: "10131"
+    sponsor_division: "Tasmania"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1431_first-senate/toc_pdf/24S2120.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-12
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28066%2F0097%22"
+  - bill_id: "s1432"
+    title: "Interactive Gambling Amendment (Ban Gambling Ads) Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Interactive Gambling Act 2001 to provide for a staged implementation of a prohibition on the advertising of licensed interactive wagering services."
+    sponsor_name: "Sarah Hanson-Young"
+    sponsor_party: "Greens"
+    sponsor_id: "10711"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1432_first-senate/toc_pdf/24S2220.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-05
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28067%2F0196%22"
+  - bill_id: "s1434"
+    title: "National Organic Standard Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Creates a framework for regulating the sale or importation of organic goods in Australia."
+    sponsor_name: "Bridget Mckenzie"
+    sponsor_party: "Nationals"
+    sponsor_id: "10758"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1434_first-senate/toc_pdf/24S2320.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-19
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28071%2F0104%22"
+  - bill_id: "s1435"
+    title: "Electoral Legislation Amendment (Fair Territory Representation) Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Commonwealth Electoral Act 1918 to: increase the number of senators from the Australia Capital Territory and the Northern Territory to half the number of senators for a state; and provide for 3 senators from each of the territories to be elected at each federal election giving territory senators a 6 year term."
+    sponsor_name: "David Pocock"
+    sponsor_party: "Independent"
+    sponsor_id: "11009"
+    sponsor_division: "ACT"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1435_first-senate/toc_pdf/24S2420.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-20
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28072%2F0144%22"
   - bill_id: "s1436"
     title: "Whistleblower Protection Authority Bill 2025 (No. 2)"
     status: "Before Senate"
@@ -413,6 +1331,42 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1436_first-senate/toc_pdf/25S0420.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-11
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28693%2F0177%22"
+  - bill_id: "s1438"
+    title: "Defence Trade Controls Amendment (Genocide, War Crimes and Crimes Against Humanity) Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Customs Act 1901 and Defence Trade Controls Act 2012 to ensure that Australia aligns with international obligations in relation to genocide, war crimes and crimes against humanity, specifically relating to the use of Australian made defence technology."
+    sponsor_name: "Lidia Thorpe"
+    sponsor_party: "Independent"
+    sponsor_id: "10961"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1438_first-senate/toc_pdf/24S2520.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28077%2F0098%22"
+  - bill_id: "s1439"
+    title: "Genocide Risk Reporting Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "The bill: requires certain entities to report annually on the risks of genocide in their operations and supply chains and take action to address those risks; and establishes the Australian Anti-Genocide Commissioner to address genocide and support victims of genocide."
+    sponsor_name: "Lidia Thorpe"
+    sponsor_party: "Independent"
+    sponsor_id: "10961"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1439_first-senate/toc_pdf/24S2620.pdf;fileType=application%2Fpdf"
+    last_updated: 2024-11-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28077%2F0103%22"
   - bill_id: "s1440"
     title: "Treasury Laws Amendment (Divesting from Illegal Israeli Settlements) Bill 2024"
     status: "Before Senate"
@@ -448,7 +1402,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-05
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22"
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22"
   - bill_id: "s1443"
     title: "Tertiary Education Legislation Amendment (There For Education, Not Profit) Bill 2025"
     status: "Before Senate"
@@ -485,6 +1439,78 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1444_first-senate/toc_pdf/25S0220.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-05
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22"
+  - bill_id: "s1445"
+    title: "Great Australian Bight (World Heritage Protection) Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "The bill: prohibits mining operations in the Great Australian Bight area; and requires the minister to submit the Great Australian Bight for consideration as a World Heritage Site."
+    sponsor_name: "Sarah Hanson-Young"
+    sponsor_party: "Greens"
+    sponsor_id: "10711"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1445_first-senate/toc_pdf/25S0520.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-11
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28693%2F0187%22"
+  - bill_id: "s1446"
+    title: "Lobbying (Improving Government Honesty and Trust) Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Establishes a scheme in relation to dealings between lobbyists and Government representatives."
+    sponsor_name: "David Pocock"
+    sponsor_party: "Independent"
+    sponsor_id: "11009"
+    sponsor_division: "ACT"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1446_first-senate/toc_pdf/25S0620.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-12
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28694%2F0151%22"
+  - bill_id: "s1447"
+    title: "Constitution Alteration (Right to Free Speech) 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Ralph Babet"
+    sponsor_party: "United Australia Party"
+    sponsor_id: "11003"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1447_first-senate/toc_pdf/25S0720.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-12
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28694%2F0172%22"
+  - bill_id: "s1448"
+    title: "Migration Amendment (Restoring Medevac) Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Migration Act 1958 to enable the transfer to Australia of transitory persons, and their families, currently held in Papua New Guinea and Nauru, if they are assessed by two or more treating doctors as requiring medical treatment."
+    sponsor_name: "David Shoebridge"
+    sponsor_party: "Greens"
+    sponsor_id: "11010"
+    sponsor_division: "NSW"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1448_first-senate/toc_pdf/25S0820.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-12
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28694%2F0146%22"
   - bill_id: "s1449"
     title: "Right to Protest Bill 2025"
     status: "Before Senate"
@@ -503,6 +1529,60 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1449_first-senate/toc_pdf/25S0920.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-13
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28695%2F0077%22"
+  - bill_id: "s1451"
+    title: "Higher Education Support Amendment (End Dirty University Partnerships) Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Higher Education Support Act 2003 to: require higher education providers who receive Commonwealth funding to disclose existing partnerships with, or investments in, defined prohibited entities and divest from these partnerships and investments within a 6-month period; and prohibit higher education providers from appointing to their governing bodies any individual that has investments in a prohibited entity or is a member of the board of a prohibited entity."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1451_first-senate/toc_pdf/25S1020.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-02-13
+    second_reading_hansard_url: null
+  - bill_id: "s1452"
+    title: "Liability for Climate Change Damage (Make the Polluters Pay) Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Mehreen Faruqi"
+    sponsor_party: "Greens"
+    sponsor_id: "10912"
+    sponsor_division: "NSW"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1452_first-senate/toc_pdf/25S1120.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-03-26
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28776%2F0146%22"
+  - bill_id: "s1453"
+    title: "Fair Work Amendment (Paid Reproductive Health Leave and Flexible Work Arrangements) Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Larissa Waters"
+    sponsor_party: "Greens"
+    sponsor_id: "10764"
+    sponsor_division: "Queensland"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1453_first-senate/toc_pdf/25S1220.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-03-26
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28776%2F0151%22"
   - bill_id: "s1454"
     title: "We All Come Together For Country Bill 2025"
     status: "Before Senate"
@@ -520,7 +1600,43 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1454_first-senate/toc_pdf/25S1320.pdf;fileType=application%2Fpdf"
     last_updated: 2025-03-26
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28776%2F0155%22"
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28776%2F0156%22"
+  - bill_id: "s1455"
+    title: "Crimes Amendment (Repeal Mandatory Minimum Sentences) Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Mehreen Faruqi"
+    sponsor_party: "Greens"
+    sponsor_id: "10912"
+    sponsor_division: "NSW"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1455_first-senate/toc_pdf/25S1420.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-03-26
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28776%2F0161%22"
+  - bill_id: "s996"
+    title: "Landholders&rsquo; Right to Refuse (Gas and Coal) Bill 2015"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "The bill: provides that Australian landholders have the right to refuse the undertaking of gas and coal mining activities by corporations on their land without prior written authorisation; sets out the requirements of a prior written authorisation; provides for relief which a court may grant a land owner when prior written authorisation is not provided; prohibits hydraulic fracturing for coal seam gas, shale gas and tight gas by corporations; and provides for civil penalties."
+    sponsor_name: "Larissa Waters"
+    sponsor_party: "Greens"
+    sponsor_id: "10764"
+    sponsor_division: "Queensland"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s996_first-senate/toc_pdf/1502820.pdf;fileType=application%2Fpdf"
+    last_updated: 2022-07-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F1da66012-4613-4c01-8369-b2c1421daaaf%2F0088%22"
 passed:
   - bill_id: "r6876"
     title: "Treasury Laws Amendment (Electric Car Discount) Bill 2022"
@@ -1388,7 +2504,7 @@ passed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28036%2F0011%22"
   - bill_id: "r7283"
     title: "Workplace Gender Equality Amendment (Setting Gender Equality Targets) Bill 2024"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Women"
     originating_house: "House of Representatives"
@@ -1402,7 +2518,7 @@ passed:
     minister_id: "10930"
     minister_division: "Jagajaga"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7283_aspassed/toc_pdf/24149b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-03-26
+    last_updated: 2025-03-27
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28040%2F0033%22"
   - bill_id: "r7296"
     title: "Treasury Laws Amendment (Fairer for Families and Farmers and Other Measures) Bill 2024"
@@ -1424,7 +2540,7 @@ passed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28044%2F0206%22"
   - bill_id: "r7299"
     title: "Treasury Laws Amendment (Tax Incentives and Integrity) Bill 2025"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
@@ -1438,11 +2554,11 @@ passed:
     minister_id: "10740"
     minister_division: "Whitlam"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7299_aspassed/toc_pdf/24165b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-03-26
+    last_updated: 2025-03-27
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28045%2F0217%22"
   - bill_id: "r7300"
     title: "Transport Security Amendment (Security of Australia&rsquo;s Transport Sector) Bill 2025"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Home Affairs"
     originating_house: "House of Representatives"
@@ -1456,11 +2572,11 @@ passed:
     minister_id: "10762"
     minister_division: "Kingsford Smith"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7300_aspassed/toc_pdf/24166b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-03-26
+    last_updated: 2025-03-27
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28045%2F0209%22"
   - bill_id: "r7331"
     title: "Treasury Laws Amendment (More Cost of Living Relief) Bill 2025"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
@@ -1469,13 +2585,13 @@ passed:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Jim Chalmers"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10809"
+    minister_division: "Rankin"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7331_aspassed/toc_pdf/25026b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-03-26
-    second_reading_hansard_url: null
+    last_updated: 2025-03-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28773%2F0021%22"
   - bill_id: "s1363"
     title: "Workplace Gender Equality Amendment (Closing the Gender Pay Gap) Bill 2023"
     status: "Act"
@@ -1495,258 +2611,6 @@ passed:
     last_updated: 2023-04-11
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26439%2F0170%22"
 failed:
-  - bill_id: "r6888"
-    title: "Ending Indefinite and Arbitrary Immigration Detention Bill 2022"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "The bill: establishes a legal framework governing immigration detention in Australia; provides alternatives to immigration detention; and prioritises non-citizens' immediate needs and refugee and international human rights law."
-    sponsor_name: "Andrew Wilkie"
-    sponsor_party: "Independent"
-    sponsor_id: "10727"
-    sponsor_division: "Clark"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6888_first-reps/toc_pdf/2266b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-03-06
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F25920%2F0012%22"
-  - bill_id: "r6894"
-    title: "Anti-Money Laundering and Counter-Terrorism Financing Amendment (Making Gambling Businesses Accountable) Bill 2022"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 to: require gambling companies to report to the Australian Transaction Reports and Analysis Centre if they have reason to suspect a person is paying for gambling services with money obtained illegally; and enable the Federal Court to make compensation orders where gambling companies have provided gambling services to a person who they suspect has paid for the gambling service using money obtained illegally."
-    sponsor_name: "Andrew Wilkie"
-    sponsor_party: "Independent"
-    sponsor_id: "10727"
-    sponsor_division: "Clark"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6894_first-reps/toc_pdf/2284b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-03-20
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F25503%2F0003%22"
-  - bill_id: "r6895"
-    title: "Environment Protection and Biodiversity Conservation Amendment (Climate Trigger) Bill 2022"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Environment Protection and Biodiversity Conservation Act 1999 to: require actions that would emit between 25,000 to 100,000 tonnes of carbon dioxide equivalent scope 1 emissions in any one year to be assessed for approval under Part 9 of the Act; require the minister, when approving any such action or when considering whether to enter into a conservation agreement, to consider Australia’s national carbon budget and greenhouse gas emissions reduction targets; require the minister to reject the approval of actions that would emit over 100,000 tonnes of carbon dioxide equivalent scope 1 emissions; require the Climate Change Authority to develop a national carbon budget to 2050 and to annually assess the budget; prohibit the minister, subject to certain exceptions, from using alternative approval processes for certain emissions intensive actions; and introduce penalties for undertaking certain emissions intensive actions without approval if the action has, will have or is likely to have a significant impact on the environment."
-    sponsor_name: "Adam Bandt"
-    sponsor_party: "Greens"
-    sponsor_id: "10734"
-    sponsor_division: "Melbourne"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6895_first-reps/toc_pdf/2285b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-03-20
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F25503%2F0008%22"
-  - bill_id: "r6896"
-    title: "Financial Services Compensation Scheme of Last Resort Levy Bill 2022"
-    status: "Not Proceeding"
-    type: "Government"
-    portfolio: "Treasury"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Financial Accountability Regime Bill 2022, Financial Sector Reform Bill 2022 and Financial Services Compensation Scheme of Last Resort Levy (Collection) Bill 2022, the bill imposes a levy on certain industry entities to recover the cost of the compensation scheme of last resort."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Stephen Jones"
-    minister_party: "Labor"
-    minister_id: "10740"
-    minister_division: "Whitlam"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6896_first-reps/toc_pdf/2274b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-03-09
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F25977%2F0025%22"
-  - bill_id: "r6902"
-    title: "Financial Services Compensation Scheme of Last Resort Levy (Collection) Bill 2022"
-    status: "Not Proceeding"
-    type: "Government"
-    portfolio: "Treasury"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Financial Accountability Regime Bill 2022, Financial Sector Reform Bill 2022 and Financial Services Compensation Scheme of Last Resort Levy Bill 2022, the bill provides for the collection and administration of the levy imposed by the Financial Services Compensation Scheme of Last Resort Levy Act 2022."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Stephen Jones"
-    minister_party: "Labor"
-    minister_id: "10740"
-    minister_division: "Whitlam"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6902_first-reps/toc_pdf/2279b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-03-09
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F25977%2F0029%22"
-  - bill_id: "r6905"
-    title: "Financial Accountability Regime Bill 2022"
-    status: "Not Proceeding"
-    type: "Government"
-    portfolio: "Treasury"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Financial Sector Reform Bill 2022, Financial Services Compensation Scheme of Last Resort Levy Bill 2022 and Financial Services Compensation Scheme of Last Resort Levy (Collection) Bill 2022, the bill establishes a financial accountability regime to impose accountability, key personnel, deferred remuneration and notification obligations on directors and senior executives of financial entities in the banking, insurance and superannuation industries."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Stephen Jones"
-    minister_party: "Labor"
-    minister_id: "10740"
-    minister_division: "Whitlam"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6905_first-reps/toc_pdf/22082b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-03-09
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F25977%2F0017%22"
-  - bill_id: "r6910"
-    title: "Crimes Legislation Amendment (Ransomware Action Plan) Bill 2022"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the: Criminal Code Act 1995 to: amend the geographical jurisdiction provision for computer offences; introduce standalone offences for extortive conduct associated with ransomware and dealing with data obtained by unauthorised access or modification; introduce aggravated offences relating to cyber attacks on critical infrastructure assets and producing, supplying or obtaining data under arrangement for payment; and increase maximum penalties for certain other computer offences; Proceeds of Crime Act 2002 to ensure that existing information gathering powers and freezing orders in relation to financial institutions can also be exercised in relation to digital currency exchanges; and Crime Act 1914 and Proceeds of Crime Act 2002 to ensure that law enforcement agencies can seize digital assets (including cryptocurrency) discovered during the execution of a warrant and suspected to be proceeds of crime."
-    sponsor_name: "Karen Andrews"
-    sponsor_party: "Liberal"
-    sponsor_id: "10745"
-    sponsor_division: "McPherson"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6910_first-reps/toc_pdf/22102b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-03-27
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26127%2F0186%22"
-  - bill_id: "r6947"
-    title: "Commonwealth Electoral Amendment (Stop the Lies) Bill 2022"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Commonwealth Electoral Act 1918 to: prohibit misleading or deceptive electoral or referendum matter; prohibit persons or bodies corporate from deceptively impersonating, or falsely attributing material to, a person, candidate, campaigner, political party or entity; and give the Australian Electoral Commissioner the power to investigate possible breaches, order retractions, publish corrections, and pursue complaints through the courts."
-    sponsor_name: "Zali Steggall"
-    sponsor_party: "Independent"
-    sponsor_id: "10941"
-    sponsor_division: "Warringah"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6947_first-reps/toc_pdf/22134b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-08-01
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F25523%2F0097%22"
-  - bill_id: "r6948"
-    title: "Fuel and Vehicle Standards Legislation Amendment (Reducing Vehicle Pollution) Bill 2022"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Fuel Quality Standards Act 2000 and Road Vehicle Standards Act 2018 to require light vehicles to meet Euro 6d vehicle pollution standards."
-    sponsor_name: "Kylea Tink"
-    sponsor_party: "Independent"
-    sponsor_id: "10992"
-    sponsor_division: "North Sydney"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6948_first-reps/toc_pdf/22132b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-08-01
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F25523%2F0087%22"
-  - bill_id: "r6949"
-    title: "Classification (Publications, Films and Computer Games) Amendment (Loot Boxes) Bill 2022"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Classification (Publications, Films and Computer Games) Act 1995 to: require the Classification Board to classify computer games which contain 'loot boxes' as either R 18+ or RC; and require a warning to displayed when games contain loot boxes or similar features."
-    sponsor_name: "Andrew Wilkie"
-    sponsor_party: "Independent"
-    sponsor_id: "10727"
-    sponsor_division: "Clark"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6949_first-reps/toc_pdf/22133b01 .pdf;fileType=application%2Fpdf"
-    last_updated: 2023-08-01
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F25523%2F0092%22"
-  - bill_id: "r6966"
-    title: "Electoral Legislation Amendment (Lowering the Voting Age) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Commonwealth Electoral Act 1918 and Referendum (Machinery Provisions) Act 1984 to: lower the minimum voting age in Australian federal elections and referenda from 18 to 16 years; provide for 16 and 17 year olds to be included in the certified list of voters (but not to be given a penalty notice if they do not vote); and provide that an eligible voter, who is not yet on the electoral roll or enrolled at their correct address, is able to cast a provisional vote on election day."
-    sponsor_name: "Stephen Bates"
-    sponsor_party: "Greens"
-    sponsor_id: "10970"
-    sponsor_division: "Brisbane"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6966_first-reps/toc_pdf/23003b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-08-08
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26417%2F0098%22"
-  - bill_id: "r6973"
-    title: "Commonwealth Electoral Amendment (Cleaning up Political Donations) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Commonwealth Electoral Act 1918 to: lower the donation disclosure threshold from $13,800 to $1,000 for individual donations and require aggregation under the threshold; expand the definition of 'gift'; introduce a cap of $50,000 on the total amount of donations a donor can provide during an electoral cycle; require real-time disclosure by gift recipients to the Australian Electoral Commission (AEC) within two business days of the donation threshold being reached or exceeded; require the AEC to publish donation returns by reporting entities on the Transparency Register as soon as reasonably practicable; introduce an electoral expenditure cap to limit the amount of money that can be spent on federal election campaigns; prohibit political donations from particular industries, including fossil fuel entities, gambling companies, liquor companies and the tobacco industry; and increase certain penalties for corporations."
-    sponsor_name: "Andrew Wilkie"
-    sponsor_party: "Independent"
-    sponsor_id: "10727"
-    sponsor_division: "Clark"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6973_first-reps/toc_pdf/23011b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-09-05
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26421%2F0044%22"
-  - bill_id: "r6974"
-    title: "Migration Amendment (Strengthening the Character Test) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Migration Act 1958 to: amend the character test by providing grounds to consider visa cancellation or refusal where a non-citizen has been convicted of offences involving violence against a person, weapons, breaching of an apprehended violence order (or similar) or non-consensual sexual acts; provide that, for an offence involving violence against a person, a person's conviction for an offence of common assault, or equivalent, will not be taken to be a conviction for a designated offence unless the act constituting the offence causes or substantially contributes to bodily harm to another person, or harm to another person's mental health, or involves family violence; and make consequential amendments."
-    sponsor_name: "Dan Tehan"
-    sponsor_party: "Liberal"
-    sponsor_id: "10742"
-    sponsor_division: "Wannon"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6974_first-reps/toc_pdf/23013b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-09-05
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26421%2F0054%22"
-  - bill_id: "r6975"
-    title: "Offshore Petroleum and Greenhouse Gas Storage Amendment (Stop PEP11 and Protect Our Coast) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Offshore Petroleum and Greenhouse Gas Storage Act 2006 to cancel Petroleum Exploration Permit 11 (PEP11) and prohibit any further petroleum exploration in the PEP11."
-    sponsor_name: "Zali Steggall"
-    sponsor_party: "Independent"
-    sponsor_id: "10941"
-    sponsor_division: "Warringah"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6975_first-reps/toc_pdf/23012b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-09-05
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26421%2F0049%22"
   - bill_id: "r6981"
     title: "Transparent and Quality Public Appointments Bill 2023"
     status: "Not Proceeding"
@@ -1765,78 +2629,6 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6981_first-reps/toc_pdf/23018b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-09-12
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26425%2F0084%22"
-  - bill_id: "r6982"
-    title: "Fair Work Amendment (Right to Disconnect) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Fair Work Act 2009 to: prevent employers from contacting employees outside of work hours; and provide that employees are not required to monitor, read or respond to work communications from their employer outside of work hours."
-    sponsor_name: "Adam Bandt"
-    sponsor_party: "Greens"
-    sponsor_id: "10734"
-    sponsor_division: "Melbourne"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6982_first-reps/toc_pdf/23030b01 Bandt.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-10-17
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26429%2F0064%22"
-  - bill_id: "r7000"
-    title: "Australia Day Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Declares Australia Day as the national day of Australia to be observed on 26 January every year."
-    sponsor_name: "Henry Pike"
-    sponsor_party: "Liberal National Party"
-    sponsor_id: "10969"
-    sponsor_division: "Bowman"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7000_first-reps/toc_pdf/23039b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-11-14
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26433%2F0047%22"
-  - bill_id: "r7001"
-    title: "Online Safety Amendment (Breaking Online Notoriety) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Online Safety Act 2021 to: define ‘criminal activity material’ as material that is hosted on a social media service, a relevant electronic service, or a designated internet service, and depicts conduct that could be deemed to be a criminal offence; and expand the functions of the eSafety Commissioner to include administering a complaints system for criminal activity material."
-    sponsor_name: "Garth Hamilton"
-    sponsor_party: "Liberal National Party"
-    sponsor_id: "10963"
-    sponsor_division: "Groom"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7001_first-reps/toc_pdf/23040b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-11-14
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26433%2F0051%22"
-  - bill_id: "r7003"
-    title: "Interactive Gambling Amendment (Credit Card Ban and Acknowledgement of Losses) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Interactive Gambling Act 2001 to: prohibit the use of credit cards for online gambling using regulated interactive gambling services; and require customers of licensed interactive wagering services to provide an acknowledgement of losses before being allowed to participate in licensed wagering services."
-    sponsor_name: "Rebekha Sharkie"
-    sponsor_party: "Centre Alliance"
-    sponsor_id: "10874"
-    sponsor_division: "Mayo"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7003_first-reps/toc_pdf/23041b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-11-14
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26433%2F0055%22"
   - bill_id: "r7005"
     title: "Renewable Energy (Electricity) Amendment (Cheaper Home Batteries) Bill 2023"
     status: "Not Proceeding"
@@ -1855,276 +2647,24 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7005_first-reps/toc_pdf/23042b01.pdf;fileType=application%2Fpdf"
     last_updated: 2023-11-14
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26433%2F0060%22"
-  - bill_id: "r7006"
-    title: "Criminal Code Amendment (Prohibition of Nazi Symbols) Bill 2023 [No. 2]"
+  - bill_id: "r7062"
+    title: "Treasury Laws Amendment (Housing Measures No. 1) Bill 2023 [No. 2]"
     status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
+    type: "Government"
+    portfolio: "Treasury"
     originating_house: "House of Representatives"
-    summary: "Amends the Criminal Code Act 1995 to prohibit a person from knowingly, and without reasonable excuse, displaying a Nazi symbol."
-    sponsor_name: "Julian Leeser"
-    sponsor_party: "Liberal"
-    sponsor_id: "10888"
-    sponsor_division: "Berowra"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7006_first-reps/toc_pdf/23059b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-11-28
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26695%2F0086%22"
-  - bill_id: "r7015"
-    title: "Interactive Gambling Amendment (Ban on Gambling Advertisements) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Interactive Gambling Act 2001 to ban the broadcast, datacast and publication of licensed interactive wagering services."
-    sponsor_name: "Rebekha Sharkie"
-    sponsor_party: "Centre Alliance"
-    sponsor_id: "10874"
-    sponsor_division: "Mayo"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7015_first-reps/toc_pdf/23080b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-02-13
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26706%2F0101%22"
-  - bill_id: "r7016"
-    title: "Broadcasting Services Amendment (Prohibition of Gambling Advertisements) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Broadcasting Services Act 1992 to: prohibit the broadcasting of gambling advertisements on certain television and radio broadcasting services; and prohibit the provision of gambling advertisements on certain online content services."
-    sponsor_name: "Zoe Daniel"
-    sponsor_party: "Independent"
-    sponsor_id: "10979"
-    sponsor_division: "Goldstein"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7016_first-reps/toc_pdf/23060b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-11-28
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26695%2F0094%22"
-  - bill_id: "r7017"
-    title: "Commonwealth Electoral Amendment (Lowering the Donation Disclosure Threshold) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Commonwealth Electoral Act 1918 to: lower the political donation disclosure threshold from $16,300 to $1,000 and remove the indexation of the disclosure threshold; and expand the definition of ‘gift’ to include electoral expenditure and gift-in-kind to a political entity where the value is over $1,000 and include amounts paid to attend political fundraisers or functions."
-    sponsor_name: "Rebekha Sharkie"
-    sponsor_party: "Centre Alliance"
-    sponsor_id: "10874"
-    sponsor_division: "Mayo"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7017_first-reps/toc_pdf/23091b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-03-26
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27162%2F0034%22"
-  - bill_id: "r7018"
-    title: "Commonwealth Electoral Amendment (Real Time Disclosure of Political Donations) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Commonwealth Electoral Act 1918 to: require political parties, state branches of political parties, significant third parties and candidates to provide a notice to the Australian Electoral Commission (AEC) of political donations received over the disclosure threshold amount of $13,800 within five business days of receiving the donation; and require annual returns to be provided to the AEC where political donations made by a single person exceeds the annual disclosure threshold amount."
-    sponsor_name: "Rebekha Sharkie"
-    sponsor_party: "Centre Alliance"
-    sponsor_id: "10874"
-    sponsor_division: "Mayo"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7018_first-reps/toc_pdf/23090b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-03-26
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27162%2F0029%22"
-  - bill_id: "r7047"
-    title: "Broadcasting Services Amendment (Healthy Kids Advertising) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Broadcasting Services Act 1992 to prohibit the broadcasting of marketing relating to certain food or drink products on television and radio broadcasting services, and online services."
-    sponsor_name: "Sophie Scamps"
-    sponsor_party: "Independent"
-    sponsor_id: "10989"
-    sponsor_division: "Mackellar"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7047_first-reps/toc_pdf/23081b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-02-13
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F26706%2F0106%22"
-  - bill_id: "r7067"
-    title: "Electoral Legislation Amendment (Restoring Trust) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the: Commonwealth Electoral Act 1918 in relation to: the disclosure threshold; disclosure and publication of donations; misleading or deceptive electoral or referendum matter; definition of gift; prohibited donors; government advertising; postal vote applications; independent campaign entities; and nomination of candidates; Privacy Act 1988 to remove exemptions relating to data protection that apply to  political parties and members of Parliament; Spam Act 2003 to remove exemptions relating to unsolicited electronic messages that apply to political parties; and Do Not Call Register Act 2006 to provide that independent candidates are treated the same as registered political parties under the provisions of the Act."
-    sponsor_name: "Kate Chaney"
-    sponsor_party: "Independent"
-    sponsor_id: "10974"
-    sponsor_division: "Curtin"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7067_first-reps/toc_pdf/23100b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-03-19
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27158%2F0107%22"
-  - bill_id: "r7077"
-    title: "National Housing Finance and Investment Corporation Amendment (Unlocking Regional Housing) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the: National Housing Finance and Investment Corporation Act 2018 to enable the National Housing Finance and Investment Corporation to provide finance, grants or investments that support the provision of housing-enabling infrastructure, including for housing in regional, rural or remote Australia; and Housing Australia Act 2018 to make contingent amendments."
-    sponsor_name: "Helen Haines"
-    sponsor_party: "Independent"
-    sponsor_id: "10929"
-    sponsor_division: "Indi"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7077_first-reps/toc_pdf/23110b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-06-04
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27166%2F0123%22"
-  - bill_id: "r7078"
-    title: "Brisbane Airport Curfew and Demand Management Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "The bill: imposes a curfew and certain related restrictions on aircraft movements at Brisbane Airport; provides for the development of a long term operating plan for managing aircraft movements and airspace at Brisbane Airport; and provides for consultation procedures in certain circumstances. Also makes consequential amendments to the Airports Act 1996 and National Emergency Declaration Act 2020."
-    sponsor_name: "Elizabeth Watson-Brown"
-    sponsor_party: "Greens"
-    sponsor_id: "10997"
-    sponsor_division: "Ryan"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7078_first-reps/toc_pdf/23120b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-06-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27170%2F0101%22"
-  - bill_id: "r7086"
-    title: "Environment Protection and Biodiversity Conservation Amendment (Expanding the Water Trigger) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Environment Protection and Biodiversity Conservation Act 1999 to expand the circumstances in which certain petroleum mining developments must be assessed and approved by the minister."
-    sponsor_name: "Sophie Scamps"
-    sponsor_party: "Independent"
-    sponsor_id: "10989"
-    sponsor_division: "Mackellar"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7086_first-reps/toc_pdf/23121b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-06-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27170%2F0233%22"
-  - bill_id: "r7100"
-    title: "Lobbying (Improving Government Honesty and Trust) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Establishes a scheme in relation to dealings between lobbyists and Government representatives."
-    sponsor_name: "Monique Ryan"
-    sponsor_party: "Independent"
-    sponsor_id: "10987"
-    sponsor_division: "Kooyong"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7100_first-reps/toc_pdf/23134b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-07-02
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27178%2F0087%22"
-  - bill_id: "r7101"
-    title: "Commonwealth Electoral Amendment (Voter Protections in Political Advertising) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Commonwealth Electoral Act 1918 to prohibit misleading or deceptive electoral or referendum matter."
-    sponsor_name: "Zali Steggall"
-    sponsor_party: "Independent"
-    sponsor_id: "10941"
-    sponsor_division: "Warringah"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7101_first-reps/toc_pdf/23135b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-07-02
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27178%2F0092%22"
-  - bill_id: "r7112"
-    title: "Migration Amendment (Limits on Immigration Detention) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Migration Act 1958 to: prohibit the detention of minors; and introduce a 90-day limit on immigration detention which can only be extended in certain circumstances."
-    sponsor_name: "Kylea Tink"
-    sponsor_party: "Independent"
-    sponsor_id: "10992"
-    sponsor_division: "North Sydney"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7112_first-reps/toc_pdf/23146b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-08-13
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27182%2F0135%22"
-  - bill_id: "r7113"
-    title: "Online Safety Amendment (Protecting Australian Children from Online Harm) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Online Safety Act 2021 to require the minister to conduct a trial of age verification technologies."
-    sponsor_name: "David Coleman"
-    sponsor_party: "Liberal"
-    sponsor_id: "10783"
-    sponsor_division: "Banks"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7113_first-reps/toc_pdf/23147b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-08-13
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27182%2F0140%22"
-  - bill_id: "r7146"
-    title: "Criminal Code Amendment (Telecommunications Offences for Suicide Related Material&mdash;Exception for Lawful Voluntary Assisted Dying) Bill 2024"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Criminal Code Act 1995 to provide that the offence of using a carriage service to incite committing or attempting to commit suicide does not apply to acts or omissions carried out in accordance with a voluntary assisted dying law of a state or territory."
-    sponsor_name: "Kate Chaney"
-    sponsor_party: "Independent"
-    sponsor_id: "10974"
-    sponsor_division: "Curtin"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7146_first-reps/toc_pdf/24014b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-08-20
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27600%2F0222%22"
+    summary: "Introduced with the Housing Australia Future Fund Bill 2023 [No. 2] and National Housing Supply and Affordability Council Bill 2023 [No. 2], the bill amends: the National Housing Finance and Investment Corporation Act 2018 to rename the National Housing Finance and Investment Corporation to Housing Australia; the renamed Housing Australia Act 2018 to: streamline the functions of Housing Australia; establish an annual review mechanism for the National Housing Infrastructure Facility; and extend the Commonwealth guarantee of the liabilities of Housing Australia to apply to contracts entered into until 30 June 2028; and 10 Acts to make consequential amendments."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Julie Collins"
+    minister_party: "Labor"
+    minister_id: "10136"
+    minister_division: "Franklin"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7062_first-reps/toc_pdf/23096b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-03-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27156%2F0017%22"
   - bill_id: "r7147"
     title: "Prohibition on the Purchase of Residential Property by Foreign Entities Bill 2024"
     status: "Not Proceeding"
@@ -2143,114 +2683,6 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7147_first-reps/toc_pdf/24015b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-08-20
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27600%2F0227%22"
-  - bill_id: "r7153"
-    title: "Accountability of Grants, Investment Mandates and Use of Public Resources Amendment (End Pork Barrelling) Bill 2024"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends: the Public Governance, Performance and Accountability Act 2013 to provide a resource management framework for the use and management of public resources, including for grants administration; the Public Service Act 1999 to provide the Public Service Commissioner with certain powers in relation to breaches of the code of conduct relating to the resource management framework; and 9 Acts in relation to oversight of investment mandates."
-    sponsor_name: "Helen Haines"
-    sponsor_party: "Independent"
-    sponsor_id: "10929"
-    sponsor_division: "Indi"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7153_first-reps/toc_pdf/24020b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-09-10
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27591%2F0088%22"
-  - bill_id: "r7154"
-    title: "Offshore Petroleum and Greenhouse Gas Storage Amendment (Stop PEP11 Forever and Protect Our Coastal Waters) Bill 2024"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the Offshore Petroleum and Greenhouse Gas Storage Act 2006 to cancel Petroleum Exploration Permit 11 (PEP11) and prohibit any further petroleum exploration in the PEP11 area."
-    sponsor_name: "Zali Steggall"
-    sponsor_party: "Independent"
-    sponsor_id: "10941"
-    sponsor_division: "Warringah"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7154_first-reps/toc_pdf/24021b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-09-10
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27591%2F0093%22"
-  - bill_id: "r7157"
-    title: "Agriculture (Biosecurity Protection) Charges Bill 2024"
-    status: "Not Proceeding"
-    type: "Government"
-    portfolio: "Agriculture, Fisheries and Forestry"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Agriculture (Biosecurity Protection) Levies Bill 2024 and Agriculture (Biosecurity Protection) Levies and Charges Collection Bill 2024, the bill provides for the imposition of biosecurity protection charges to be payable by certain producers of agricultural, forestry and fisheries products within Australia."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Catherine King"
-    minister_party: "Labor"
-    minister_id: "10368"
-    minister_division: "Ballarat"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7157_first-reps/toc_pdf/24025b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-12
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27595%2F0015%22"
-  - bill_id: "r7158"
-    title: "Agriculture (Biosecurity Protection) Levies Bill 2024"
-    status: "Not Proceeding"
-    type: "Government"
-    portfolio: "Agriculture, Fisheries and Forestry"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Agriculture (Biosecurity Protection) Charges Bill 2024 and Agriculture (Biosecurity Protection) Levies and Charges Collection Bill 2024, the bill provides for the imposition of biosecurity protection levies to be payable by certain producers of agricultural, forestry and fisheries products within Australia."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Catherine King"
-    minister_party: "Labor"
-    minister_id: "10368"
-    minister_division: "Ballarat"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7158_first-reps/toc_pdf/24024b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-12
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27595%2F0011%22"
-  - bill_id: "r7159"
-    title: "Agriculture (Biosecurity Protection) Levies and Charges Collection Bill 2024"
-    status: "Not Proceeding"
-    type: "Government"
-    portfolio: "Agriculture, Fisheries and Forestry"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Agriculture (Biosecurity Protection) Levies Bill 2024 and Agriculture (Biosecurity Protection) Charges Bill 2024, the bill: provides for the collection and administration of biosecurity protection levies and charges; applies the standard provisions of the Regulatory Powers (Standard Provisions) Act 2014; and provides for the use and disclosure of certain information."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Catherine King"
-    minister_party: "Labor"
-    minister_id: "10368"
-    minister_division: "Ballarat"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7159_first-reps/toc_pdf/24026b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-12
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27595%2F0019%22"
-  - bill_id: "r7166"
-    title: "Crimes and Online Safety Legislation Amendment (Combatting Online Notoriety) Bill 2024"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the: Criminal Code Act 1995 to insert an offence provision relating to the posting of harmful material to increase notoriety; Online Safety Act 2021 to expand the powers of the eSafety Commissioner to include administering a complaints system for criminal activity material; and Crimes Act 1914 to enable a court to make an order directing a person to cease using certain online services."
-    sponsor_name: "David Coleman"
-    sponsor_party: "Liberal"
-    sponsor_id: "10783"
-    sponsor_division: "Banks"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7166_first-reps/toc_pdf/24033b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-19
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27620%2F0031%22"
   - bill_id: "r7167"
     title: "Reducing Supermarket Dominance Bill 2024"
     status: "Not Proceeding"
@@ -2269,150 +2701,6 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7167_first-reps/toc_pdf/24034b01.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-19
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27620%2F0036%22"
-  - bill_id: "r7168"
-    title: "Electoral Legislation Amendment (Fair and Transparent Elections) Bill 2024"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Amends the: Commonwealth Electoral Act 1918 in relation to: lowering the disclosure threshold to $1,000; real-time disclosure of donations; prohibiting misleading or deceptive electoral or referendum matter; broadening the definition of gift; funding disclosure requirements; introduction of a major-donor donation cap; prohibiting certain political donations; limiting pre-election government advertising; and postal vote processes; and Commonwealth Electoral Act 1918 and Do Not Call Register Act 2006 to provide that registered independent candidates are treated the same as political parties."
-    sponsor_name: "Kate Chaney"
-    sponsor_party: "Independent"
-    sponsor_id: "10974"
-    sponsor_division: "Curtin"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7168_first-reps/toc_pdf/24035b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-19
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27620%2F0041%22"
-  - bill_id: "r7192"
-    title: "Nature Positive (Environment Protection Australia) Bill 2024"
-    status: "Not Proceeding"
-    type: "Government"
-    portfolio: "Climate Change, Energy, the Environment and Water"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Nature Positive (Environment Information Australia) Bill 2024 and Nature Positive (Environment Law Amendments and Transitional Provisions) Bill 2024, the bill establishes Environment Protection Australia as a statutory Commonwealth entity to undertake regulatory and implementation functions under a range of environmental Commonwealth laws."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Tanya Plibersek"
-    minister_party: "Labor"
-    minister_id: "10513"
-    minister_division: "Sydney"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7192_first-reps/toc_pdf/24058b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-05
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27640%2F0016%22"
-  - bill_id: "r7193"
-    title: "Nature Positive (Environment Information Australia) Bill 2024"
-    status: "Not Proceeding"
-    type: "Government"
-    portfolio: "Climate Change, Energy, the Environment and Water"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Nature Positive (Environment Protection Australia) Bill 2024 and Nature Positive (Environment Law Amendments and Transitional Provisions) Bill 2024, the bill establishes the statutory position of the Head of Environment Information Australia to provide access to, assess and report on environmental information and data."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Tanya Plibersek"
-    minister_party: "Labor"
-    minister_id: "10513"
-    minister_division: "Sydney"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7193_first-reps/toc_pdf/24059b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-05
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27640%2F0020%22"
-  - bill_id: "r7195"
-    title: "Nature Positive (Environment Law Amendments and Transitional Provisions) Bill 2024"
-    status: "Not Proceeding"
-    type: "Government"
-    portfolio: "Climate Change, Energy, the Environment and Water"
-    originating_house: "House of Representatives"
-    summary: "Australia) Bill 2024, the bill provides for transitional provisions and amends the Environment Protection and Biodiversity Conservation Act 1999 and 8 other Acts to support the establishment of Environment Protection Australia (EPA) and the Head of Environment Information Australia. Also amends the Environment Protection and Biodiversity Conservation Act 1999 to: confer compliance powers on the EPA; introduce protection orders and audit powers; and provide for the minister and secretary to delegate powers to the Chief Executive Officer of the EPA."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Tanya Plibersek"
-    minister_party: "Labor"
-    minister_id: "10513"
-    minister_division: "Sydney"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7195_first-reps/toc_pdf/24061b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-05
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27640%2F0024%22"
-  - bill_id: "r7200"
-    title: "Commission of Inquiry into Antisemitism at Australian Universities Bill 2024"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Establishes a commission of inquiry into antisemitism at Australian universities."
-    sponsor_name: "Julian Leeser"
-    sponsor_party: "Liberal"
-    sponsor_id: "10888"
-    sponsor_division: "Berowra"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7200_first-reps/toc_pdf/24068b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-26
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27647%2F0096%22"
-  - bill_id: "r7201"
-    title: "Defence Amendment (Parliamentary Joint Committee on Defence) Bill 2024"
-    status: "Not Proceeding"
-    type: "Government"
-    portfolio: "Defence"
-    originating_house: "House of Representatives"
-    summary: "Amends the Defence Act 1903 to establish the Parliamentary Joint Committee on Defence to have general oversight of Australian defence agencies, other than the Australian Geospatial-Intelligence Organisation, the Australian Signals Directorate and the Defence Intelligence Organisation."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Matt Thistlethwaite"
-    minister_party: "Labor"
-    minister_id: "10762"
-    minister_division: "Kingsford Smith"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7201_first-reps/toc_pdf/24066b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-07-04
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27643%2F0019%22"
-  - bill_id: "r7202"
-    title: "Keeping Cash Transactions in Australia Bill 2024"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "Requires businesses to accept cash payments for certain transactions."
-    sponsor_name: "Andrew Gee"
-    sponsor_party: "Independent"
-    sponsor_id: "10883"
-    sponsor_division: "Calare"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7202_first-reps/toc_pdf/24069b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-26
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27647%2F0100%22"
-  - bill_id: "r7207"
-    title: "National Housing and Homelessness Plan Bill 2024"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "House of Representatives"
-    summary: "The bill: provides for a National Housing and Homelessness Plan; establishes the National Housing Consumer Council to provide advice on the plan from the perspective of consumers; and establishes a National Housing and Homelessness Advocate to independently monitor the progress of the plan and to undertake reviews into systemic housing issues."
-    sponsor_name: "Kylea Tink"
-    sponsor_party: "Independent"
-    sponsor_id: "10992"
-    sponsor_division: "North Sydney"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7207_first-reps/toc_pdf/24073b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-11
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F27651%2F0069%22"
   - bill_id: "r7225"
     title: "Treasury Laws Amendment (Build to Rent) Bill 2024"
     status: "Not Proceeding"
@@ -2431,13 +2719,103 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7225_first-senate/toc_pdf/treasury laws amendment (build to rent) bill 2024.pdf;fileType=application%2Fpdf"
     last_updated: 2024-11-28
     second_reading_hansard_url: null
-  - bill_id: "r7239"
-    title: "Communications Legislation Amendment (Combatting Misinformation and Disinformation) Bill 2024"
+  - bill_id: "r7265"
+    title: "Requiring Energy Infrastructure Providers to Obtain Rehabilitation Bonds Bill 2024"
+    status: "Not Proceeding"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: "Imposes obligations on providers of energy infrastructure projects to rehabilitate the environment affected by these projects in accordance with approved rehabilitation plans."
+    sponsor_name: "Sam Birrell"
+    sponsor_party: "Nationals"
+    sponsor_id: "10991"
+    sponsor_division: "Nicholls"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7265_first-reps/toc_pdf/24138b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-03-28
+    second_reading_hansard_url: null
+  - bill_id: "r7301"
+    title: "Whistleblower Protection Authority Bill 2025"
+    status: "Not Proceeding"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: "The bill: establishes the Whistleblower Protection Authority to receive and facilitate the investigation of whistleblower disclosures, provide advice, assistance, guidance and support to persons and agencies relating to the making of whistleblower disclosures and investigate any mistreatment of whistleblowers and undertake enforcement activities; establishes the Whistleblower Protection Advisory Council to provide advice to the Whistleblower Protection Commissioner; and establishes the Parliamentary Joint Committee on the Whistleblower Protection Authority to consider proposed recommendations for the appointment of the commissioner and deputy commissioners and to monitor and review the performance of the commissioner."
+    sponsor_name: "Andrew Wilkie"
+    sponsor_party: "Independent"
+    sponsor_id: "10727"
+    sponsor_division: "Clark"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7301_first-reps/toc_pdf/25011b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-03-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28685%2F0165%22"
+  - bill_id: "r7311"
+    title: "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Bill 2025"
+    status: "Not Proceeding"
+    type: "Government"
+    portfolio: "Education"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) Bill 2025, the bill amends the Higher Education Support Act 2003 to make compliance with the National Higher Education Code to Prevent and Respond to Gender-based Violence a quality and accountability requirement for higher education providers approved under the Act."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Jason Clare"
+    minister_party: "Labor"
+    minister_id: "10123"
+    minister_division: "Blaxland"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7311_first-reps/toc_pdf/25009b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-03-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28684%2F0013%22"
+  - bill_id: "r7312"
+    title: "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) Bill 2025"
+    status: "Not Proceeding"
+    type: "Government"
+    portfolio: "Education"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Bill 2025, the bill provides for a National Higher Education Code to Prevent and Respond to Gender-based Violence which may impose certain requirements and standards on higher education providers in relation to gender-based violence."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Jason Clare"
+    minister_party: "Labor"
+    minister_id: "10123"
+    minister_division: "Blaxland"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7312_first-reps/toc_pdf/25010b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-03-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28684%2F0009%22"
+  - bill_id: "r7315"
+    title: "Wellbeing of Future Generations Bill 2025"
+    status: "Not Proceeding"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: "The bill: requires public bodies to act in pursuit of the economic, social, environmental and cultural wellbeing of current and future generations of Australians; and establishes an independent statutory Commissioner for Future Generations."
+    sponsor_name: "Sophie Scamps"
+    sponsor_party: "Independent"
+    sponsor_id: "10989"
+    sponsor_division: "Mackellar"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7315_first-reps/toc_pdf/25013b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-03-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28685%2F0175%22"
+  - bill_id: "r7317"
+    title: "Telecommunications Amendment (Enhancing Consumer Safeguards) Bill 2025"
     status: "Not Proceeding"
     type: "Government"
     portfolio: "Infrastructure, Transport, Regional Development, Communications and the Arts"
     originating_house: "House of Representatives"
-    summary: "Amends the Broadcasting Services Act 1992 to: impose obligations on digital communications platform providers in relation to the dissemination of content on a digital communications platform that contains information that is reasonably verifiable as false, misleading or deceptive, and is reasonably likely to cause or contribute to serious harm of a specified type (misinformation and disinformation); expand the Australian Communications and Media Authority’s compliance and enforcement powers in relation to misinformation and disinformation; and make consequential amendments. Also makes consequential amendments to 3 other Acts; and amends the Broadcasting Services Act 1992 to make an amendment contingent on the commencement of the Administrative Review Tribunal Act 2024."
+    summary: "Amends the Telecommunications Act 1997 to: establish a carriage service provider registration scheme; make industry codes directly enforceable by the Australian Communications and Media Authority; and amend existing arrangements relating to the application of penalty amounts for infringement notices and civil penalties."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -2446,27 +2824,9 @@ failed:
     minister_party: "Labor"
     minister_id: "10751"
     minister_division: "Greenway"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7239_third-reps/toc_pdf/24106b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28033%2F0020%22"
-  - bill_id: "s1130"
-    title: "Commonwealth Electoral Amendment (Lowering Voting Age and Increasing Voter Participation) Bill 2018"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Commonwealth Electoral Act 1918 and Referendum (Machinery Provisions) Act 1984 to: lower the minimum (non-compulsory) voting age in Australian federal elections and referenda from 18 to 16 years; allow 14 and 15 year olds to be added to the electoral roll in preparation for their eligibility to vote at 16 years of age; provide for 16 and 17 year olds to be included in the certified list of voters (but not to be given a penalty notice if they do not vote); and provide that an eligible voter, who is not yet on the electoral roll or enrolled at their correct address, is able to cast a provisional vote on election day."
-    sponsor_name: "Jordon Steele-John"
-    sponsor_party: "Greens"
-    sponsor_id: "10901"
-    sponsor_division: "WA"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1130_first-senate/toc_pdf/1812420.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-02-08
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F20055de3-ef7b-4bac-8354-24f8264a64fa%2F0109%22"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7317_first-reps/toc_pdf/25015b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-03-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28687%2F0015%22"
   - bill_id: "s1138"
     title: "Plebiscite (Future Migration Level) Bill 2018"
     status: "Not Proceeding"
@@ -2485,42 +2845,6 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1138_first-senate/toc_pdf/1815920.pdf;fileType=application%2Fpdf"
     last_updated: 2024-03-21
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F1703c122-ac05-4aec-8eb4-12be103b0120%2F0105%22"
-  - bill_id: "s1281"
-    title: "Defence Amendment (Parliamentary Approval of Overseas Service) Bill 2020"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Defence Act 1903 to require parliamentary approval of overseas service by members of the Australian Defence Force."
-    sponsor_name: "Jordon Steele-John"
-    sponsor_party: "Greens"
-    sponsor_id: "10901"
-    sponsor_division: "WA"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1281_first-senate/toc_pdf/20S2020.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-03-29
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2Fe1262e2b-99c1-4c75-af0f-1d08750020d5%2F0074%22"
-  - bill_id: "s1283"
-    title: "Offshore Petroleum and Greenhouse Gas Storage Amendment (Benefit to Australia) Bill 2020"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Offshore Petroleum and Greenhouse Gas Storage Act 2006 to broaden the objects clause of the Act to require the National Offshore Petroleum Titles Administrator and the National Offshore Petroleum Safety and Environmental Management Authority to take into account the benefit to the Australian community when granting new leases or renewing existing leases."
-    sponsor_name: "Pauline Hanson"
-    sponsor_party: "One Nation"
-    sponsor_id: "10280"
-    sponsor_division: "Queensland"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1283_first-senate/toc_pdf/20S2220.pdf;fileType=application%2Fpdf"
-    last_updated: 2022-09-26
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2Ff2c5c3be-0fb8-4db1-9392-dba6ced55207%2F0144%22"
   - bill_id: "s1341"
     title: "United Nations Declaration on the Rights of Indigenous Peoples Bill 2022"
     status: "Not Proceeding"
@@ -2539,78 +2863,6 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1341_first-senate/toc_pdf/22S0520.pdf;fileType=application%2Fpdf"
     last_updated: 2023-12-06
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F25720%2F0116%22"
-  - bill_id: "s1353"
-    title: "Legalising Cannabis Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Establishes the Cannabis Australia National Agency as a statutory agency to register cannabis strains and regulate activities relating to cannabis including: growing and possessing cannabis plants; manufacturing and selling cannabis products; operating cannabis cafes; and importing and exporting cannabis products."
-    sponsor_name: "David Shoebridge"
-    sponsor_party: "Greens"
-    sponsor_id: "11010"
-    sponsor_division: "NSW"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1353_first-senate/toc_pdf/23S2520.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-27
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27123%2F0064%22"
-  - bill_id: "s1358"
-    title: "COVID-19 Vaccination Status (Prevention of Discrimination) Bill 2022"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Prohibits discrimination based on a person's COVID-19 vaccination status by the Commonwealth, state and territory governments, statutory authorities, local governments, and private enterprises."
-    sponsor_name: "Pauline Hanson"
-    sponsor_party: "One Nation"
-    sponsor_id: "10280"
-    sponsor_division: "Queensland"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1358_first-senate/toc_pdf/22S1420.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-08-14
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F25600%2F0147%22"
-  - bill_id: "s1362"
-    title: "Migration Amendment (Evacuation to Safety) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Migration Act 1958 to: require the minister to provide an offer of transfer to Australia to all persons in the offshore cohort in Papua New Guinea or the Republic of Nauru who have not had an adverse security assessment made against them by the Australian Security Intelligence Organisation; and provide that transferred persons will be placed in community detention while they pursue a durable solution, being resettlement in a third country which is a state party to the 1951 Refugee Convention or the 1967 Refugee Protocol."
-    sponsor_name: "Nick Mckim"
-    sponsor_party: "Greens"
-    sponsor_id: "10841"
-    sponsor_division: "Tasmania"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1362_first-senate/toc_pdf/23S00120.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-03-08
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26438%2F0152%22"
-  - bill_id: "s1370"
-    title: "Ending Native Forest Logging Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "The bill: repeals the Regional Forest Agreements Act 2002; and amends the Environment Protection and Biodiversity Conservation Act 1999 to: make consequential amendments; and provide for annual statements from the minister and the Threatened Species Commissioner on the impact of native forest logging."
-    sponsor_name: "Janet Rice"
-    sponsor_party: "Greens"
-    sponsor_id: "10836"
-    sponsor_division: "Victoria"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1370_first-senate/toc_pdf/23S00720.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-06-15
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26444%2F0081%22"
   - bill_id: "s1372"
     title: "Productivity Commission Amendment (Electricity Reporting) Bill 2023"
     status: "Not Proceeding"
@@ -2629,240 +2881,6 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1372_first-senate/toc_pdf/23S00920.pdf;fileType=application%2Fpdf"
     last_updated: 2023-08-03
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26447%2F0191%22"
-  - bill_id: "s1378"
-    title: "Acts Interpretation Amendment (Aboriginality) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Acts Interpretation Act 1901 in relation to references to a person or member of the Aboriginal race of Australia or a descendant of an indigenous habitant of Australia or the Torres Strait Islands."
-    sponsor_name: "Pauline Hanson"
-    sponsor_party: "One Nation"
-    sponsor_id: "10280"
-    sponsor_division: "Queensland"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1378_first-senate/toc_pdf/23s1520.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-06-14
-    second_reading_hansard_url: null
-  - bill_id: "s1382"
-    title: "Australian Capital Territory (Self-Government) Amendment Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Australian Capital Territory (Self-Government) Act 1988 to require the Australian Capital Territory Government to conduct an inquiry into the Health Infrastructure Enabling Act 2023 (ACT) and report by 30 June 2024."
-    sponsor_name: "Matthew Canavan"
-    sponsor_party: "Liberal National Party"
-    sponsor_id: "10827"
-    sponsor_division: "Queensland"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1382_first-senate/toc_pdf/23S1920.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-09-13
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26734%2F0156%22"
-  - bill_id: "s1394"
-    title: "Ending Native Forest Logging Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "The bill: repeals the Regional Forest Agreements Act 2002; and amends the Environment Protection and Biodiversity Conservation Act 1999 to: make consequential amendments; and provide for annual statements from the minister and the Threatened Species Commissioner on the impact of native forest logging."
-    sponsor_name: "Janet Rice"
-    sponsor_party: "Greens"
-    sponsor_id: "10836"
-    sponsor_division: "Victoria"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1394_first-senate/toc_pdf/23S2920.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-09-11
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27129%2F0094%22"
-  - bill_id: "s1395"
-    title: "Australian Capital Territory Dangerous Drugs Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Provides that the Drugs of Dependence (Personal Use) Amendment Act 2022 (ACT) has no force or effect as a law of the Australian Capital Territory."
-    sponsor_name: "Michaelia Cash"
-    sponsor_party: "Liberal"
-    sponsor_id: "10707"
-    sponsor_division: "WA"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1395_first-senate/toc_pdf/23S3020.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-10-19
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27131%2F0116%22"
-  - bill_id: "s1398"
-    title: "Fair Work Legislation Amendment (Asbestos Safety and Eradication Agency) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Asbestos Safety and Eradication Agency Act 2013 to expand the functions of the Asbestos and Silica Safety and Eradication Agency in relation to silica safety and silica-related diseases."
-    sponsor_name: "Jacqui Lambie"
-    sponsor_party: "Jacqui Lambie Network"
-    sponsor_id: "10830"
-    sponsor_division: "Tasmania"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1398_first-senate/toc_pdf/23S3420.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-11-13
-    second_reading_hansard_url: null
-  - bill_id: "s1399"
-    title: "Fair Work Legislation Amendment (First Responders) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Safety, Rehabilitation and Compensation Act 1988 to implement presumptive liability provisions for first responders who suffer from post-traumatic stress disorder."
-    sponsor_name: "Jacqui Lambie"
-    sponsor_party: "Jacqui Lambie Network"
-    sponsor_id: "10830"
-    sponsor_division: "Tasmania"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1399_first-senate/toc_pdf/23S3520.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-11-13
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27136%2F0122%22"
-  - bill_id: "s1400"
-    title: "Fair Work Legislation Amendment (Small Business Redundancy Exemption) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Fair Work Act 2009 to provide an exception to the operation of the small business redundancy exemption when a larger business downsizes to become a smaller business employer due to insolvency."
-    sponsor_name: "Jacqui Lambie"
-    sponsor_party: "Jacqui Lambie Network"
-    sponsor_id: "10830"
-    sponsor_division: "Tasmania"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1400_first-senate/toc_pdf/23S3620.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-11-13
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27136%2F0122%22"
-  - bill_id: "s1401"
-    title: "Fair Work Legislation Amendment (Strengthening Protections Against Discrimination) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Fair Work Act 2009 to provide workplace protections against discrimination for employees who have been, or continue to be, subjected to family and domestic violence."
-    sponsor_name: "Jacqui Lambie"
-    sponsor_party: "Jacqui Lambie Network"
-    sponsor_id: "10830"
-    sponsor_division: "Tasmania"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1401_first-senate/toc_pdf/23S3720.pdf;fileType=application%2Fpdf"
-    last_updated: 2023-11-13
-    second_reading_hansard_url: null
-  - bill_id: "s1406"
-    title: "Human Rights (Parliamentary Scrutiny) Amendment (Consideration of UNDRIP) Bill 2023"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Human Rights (Parliamentary Scrutiny) Act 2011 to amend the definition of ‘human rights’ to include the rights and freedoms outlined in the United Nations Declaration on the Rights of Indigenous Peoples."
-    sponsor_name: "Lidia Thorpe"
-    sponsor_party: "Independent"
-    sponsor_id: "10961"
-    sponsor_division: "Victoria"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1406_first-senate/toc_pdf/23S3920.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-02-13
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27148%2F0319%22"
-  - bill_id: "s1407"
-    title: "Criminal Code Amendment (Genocide, Crimes Against Humanity and War Crimes) Bill 2024"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Criminal Code Act 1995 to: provide that the consent of the Attorney-General will not be required for proceedings relating to genocide and related atrocity crimes; and remove the restrictions on review of decisions of the Attorney-General to give or refuse consent to institute proceedings for such offences."
-    sponsor_name: "Lidia Thorpe"
-    sponsor_party: "Independent"
-    sponsor_id: "10961"
-    sponsor_division: "Victoria"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1407_first-senate/toc_pdf/24S0120.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-03-26
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27573%2F0171%22"
-  - bill_id: "s1413"
-    title: "Competition and Consumer Amendment (Divestiture Powers) Bill 2024"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Competition and Consumer Act 2010 to enable the Court, following an application by the Australian Competition and Consumer Commission, to give directions for the purpose of securing a reduction in a corporation’s power in, or share of, the market."
-    sponsor_name: "Nick Mckim"
-    sponsor_party: "Greens"
-    sponsor_id: "10841"
-    sponsor_division: "Tasmania"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1413_first-senate/toc_pdf/24S0620.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-06-26
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27581%2F0158%22"
-  - bill_id: "s1418"
-    title: "COVID-19 Response Commission of Inquiry Bill 2024"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Establishes a commission of inquiry into Australia’s response to the COVID-19 pandemic."
-    sponsor_name: "Matthew Canavan"
-    sponsor_party: "Liberal National Party"
-    sponsor_id: "10827"
-    sponsor_division: "Queensland"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1418_first-senate/toc_pdf/24S1020.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-08-22
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27644%2F0105%22"
-  - bill_id: "s1428"
-    title: "Blayney Gold Mine Bill 2024"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Repeals the Aboriginal and Torres Strait Islander Heritage Protection (Kings Plains) Declaration 2024 and prevents the minister from making a declaration that would affect the construction or operation of a gold mine in the Blayney gold mine area."
-    sponsor_name: "Jonathon Duniam"
-    sponsor_party: "Liberal"
-    sponsor_id: "10847"
-    sponsor_division: "Tasmania"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1428_first-senate/toc_pdf/24S1820.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-11-20
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28053%2F0005%22"
   - bill_id: "s1429"
     title: "Sex Discrimination Amendment (Acknowledging Biological Reality) Bill 2024"
     status: "Not Proceeding"
@@ -2881,21 +2899,3 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1429_first-senate/toc_pdf/24s1920.pdf;fileType=application%2Fpdf"
     last_updated: 2024-09-12
     second_reading_hansard_url: null
-  - bill_id: "s1430"
-    title: "Competition and Consumer Amendment (Make Price Gouging Illegal) Bill 2024"
-    status: "Not Proceeding"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Competition and Consumer Act 2010 to prohibit a corporation with substantial market power from engaging in conduct that results in, or is likely to result in, an excessive price being charged for a good or service."
-    sponsor_name: "Nick Mckim"
-    sponsor_party: "Greens"
-    sponsor_id: "10841"
-    sponsor_division: "Tasmania"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1430_first-senate/toc_pdf/24S2020.pdf;fileType=application%2Fpdf"
-    last_updated: 2024-10-09
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28046%2F0126%22"
