@@ -1,22 +1,4 @@
 pending:
-  - bill_id: "r6873"
-    title: "Customs Amendment Bill 2022"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Prime Minister"
-    originating_house: "House of Representatives"
-    summary: "Amends the Customs Act 1901 to remove a duplicate definition."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: null
-    minister_party: "Labor"
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6873_first-reps/toc_pdf/2249b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2022-07-26
-    second_reading_hansard_url: null
   - bill_id: "r7120"
     title: "Superannuation (Better Targeted Superannuation Concessions) Imposition Bill 2023"
     status: "Before Senate"
@@ -1420,7 +1402,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-05
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22"
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22"
   - bill_id: "s1444"
     title: "Remuneration Tribunal Amendment (There For Public Service, Not Profit) Bill 2025"
     status: "Before Senate"
@@ -1438,7 +1420,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1444_first-senate/toc_pdf/25S0220.pdf;fileType=application%2Fpdf"
     last_updated: 2025-02-05
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22"
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22"
   - bill_id: "s1445"
     title: "Great Australian Bight (World Heritage Protection) Bill 2025"
     status: "Before Senate"
@@ -1553,7 +1535,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "The bill: provides that fossil fuel companies are liable for climate change damage in proportion to their greenhouse gas emissions; and enables certain persons, including those impacted by climate change, to bring legal actions against major greenhouse gas emitters for damage caused by climate change."
     sponsor_name: "Mehreen Faruqi"
     sponsor_party: "Greens"
     sponsor_id: "10912"
@@ -1571,7 +1553,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "Amends the: Fair Work Act 2009 to enable employees to access 12 days of paid reproduction health leave in a 12 month period and to request flexible working arrangements when experiencing symptoms of perimenopause and menopause; and Workplace Gender Equality (Matters in relation to Gender Equality Indicators) Instrument 2023 to enable the collection of certain data."
     sponsor_name: "Larissa Waters"
     sponsor_party: "Greens"
     sponsor_id: "10764"
@@ -1589,7 +1571,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "Amends the Environment Protection and Biodiversity Conservation Act 1999 to establish a class of controlled action relating to emissions which damage the surfaces of national and world heritage monuments."
     sponsor_name: "Dorinda Cox"
     sponsor_party: "Greens"
     sponsor_id: "10964"
@@ -1607,7 +1589,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "Amends the Crimes Act 1914 to remove mandatory minimum sentences for certain offences."
     sponsor_name: "Mehreen Faruqi"
     sponsor_party: "Greens"
     sponsor_id: "10912"
@@ -2580,7 +2562,7 @@ passed:
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the: Income Tax Rates Act 1986 to reduce the first income tax marginal rate to 15 per cent for the 2026-27 financial year and to 14 per cent for the 2027-28 and later financial years; and A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999 and Medicare Levy Act 1986 to: increase the Medicare levy and Medicare levy surcharge low-income threshold amounts for individuals, families and individual taxpayers and families eligible for the seniors and pensioners tax offset; and increase the phase-in limits as a result of the increased threshold amounts."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -2755,6 +2737,24 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7301_first-reps/toc_pdf/25011b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-03-28
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28685%2F0165%22"
+  - bill_id: "r7303"
+    title: "Pacific Banking Guarantee Bill 2025"
+    status: "Not Proceeding"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Appropriates money out of the Consolidated Revenue Fund for the purpose of meeting any liabilities that the Commonwealth may incur under a Pacific banking guarantee entered into with an Australian-headquartered authorised deposit-taking institution operating in the Pacific region."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Jim Chalmers"
+    minister_party: "Labor"
+    minister_id: "10809"
+    minister_division: "Rankin"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7303_first-reps/toc_pdf/25001b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-03-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28687%2F0011%22"
   - bill_id: "r7311"
     title: "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Bill 2025"
     status: "Not Proceeding"
