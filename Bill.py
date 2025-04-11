@@ -196,6 +196,12 @@ class Bill:
 
             loaded_hansard = response.status_code // 100 == 2
 
+            if not loaded_hansard:
+                print(
+                    f"Retrying hansard download\t{colored(f'error {response.status_code}', 'red')}"
+                )
+                time.sleep(20)
+
         hansard_soup = BeautifulSoup(response.text, "html.parser")
 
         # Get MP name
