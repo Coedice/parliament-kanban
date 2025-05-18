@@ -17,6 +17,10 @@ function openBill(billId) {
     }
 }
 
+function childClick(event) {
+    event.stopPropagation();
+}
+
 function ticketIsInCoalition(ticket) {
     coalitionParties = ["{{ site.data.parties | where: "group", "Coalition" | map: "name" | join: 'QQQ' | slugify | split: 'qqq' | join: '", "' }}"];
     for (const party of coalitionParties) {
@@ -130,6 +134,9 @@ function toggleStar(billId, editCookie = true) {
             }
         }
     }
+
+    // Prevent event from propagating
+    event.stopPropagation();
 }
 
 function getStarredBills() {
