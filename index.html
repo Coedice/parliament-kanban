@@ -115,7 +115,7 @@ columns:
                                         {% if bill.originating_house == "Senate" %}Senator for {{ assignee_division }},{% endif %}
                                         {{ assignee_name }}
                                         {% if bill.originating_house == "House of Representatives" %}MP{% endif %}
-                                        ({{ assignee_party }}){% if bill.originating_house == "House of Representatives" %}, member for <a href="http://www.aec.gov.au/{{ assignee_division | downcase }}" target="_blank">{{ assignee_division }}</a>{% endif %}
+                                        ({{ assignee_party }}){% if bill.originating_house == "House of Representatives" %}, member for <a href="http://www.aec.gov.au/{{ assignee_division | downcase }}" onclick="childClick(event)" target="_blank">{{ assignee_division }}</a>{% endif %}
                                     </li>
                                 {% endif %}
                                 <li>Type: {% if bill.type == "Government" %}Government{% else %}Private member's{% endif %} bill</li>
@@ -155,11 +155,11 @@ columns:
                             </ul>
                             <h4>Links:</h4>
                             <ul>
-                                <li><a href="{{ bill.pdf_url }}" target="_blank">Download the {% if bill.status == "Act" %}act{% else %}bill{% endif %}</a></li>
+                                <li><a href="{{ bill.pdf_url }}" onclick="childClick(event)" target="_blank">Download the {% if bill.status == "Act" %}act{% else %}bill{% endif %}</a></li>
                                 {% if bill.second_reading_hansard_url %}
-                                    <li><a href="{{ bill.second_reading_hansard_url }}" target="_blank">Second reading speech</a></li>
+                                    <li><a href="{{ bill.second_reading_hansard_url }}" onclick="childClick(event)" target="_blank">Second reading speech</a></li>
                                 {% endif %}
-                                <li><a href="https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId={{ bill.bill_id }}" target="_blank">More info</a></li>
+                                <li><a href="https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId={{ bill.bill_id }}" onclick="childClick(event)" target="_blank">More info</a></li>
                             </ul>
                         </div>
                     {% endfor %}
