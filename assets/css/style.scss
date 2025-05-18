@@ -15,12 +15,19 @@ input {
     color: #000;
 }
 
+.row {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}
+
 .column {
     float: left;
     width: 33.33%;
     padding: 0px;
     display: flex;
     flex-direction: column;
+    min-width: min(calc(4/5 * 100vw), 300px);
 
     h2 {
         text-align: center;
