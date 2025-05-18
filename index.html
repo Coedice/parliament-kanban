@@ -95,7 +95,9 @@ columns:
                                 {% endif %}
                                 {% for party in site.data.parties %}
                                     {% if assignee_party == party.name and party.icon %}
-                                        <img class="partyIcon" src="{{ party.icon }}" alt="{{ party.name }} icon" title="{{ party.name }}">
+                                        <a href="{{ party.url }}" onclick="childClick(event)" target="_blank">
+                                            <img class="partyIcon" src="{{ party.icon }}" alt="{{ party.name }} icon" title="{{ party.name }}">
+                                        </a>
                                     {% endif %}
                                 {% endfor %}
                             </div>
