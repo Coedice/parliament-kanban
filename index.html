@@ -159,7 +159,9 @@ columns:
                                 {% if bill.second_reading_hansard_url %}
                                     <li><a href="{{ bill.second_reading_hansard_url }}" onclick="childClick(event)" target="_blank">Second reading speech</a></li>
                                 {% endif %}
-                                <li><a href="https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId={{ bill.bill_id }}" onclick="childClick(event)" target="_blank">More info</a></li>
+                                {% assign bill_url = "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=" | append: bill.bill_id %}
+                                <li><a href="{{ bill_url }}" onclick="childClick(event)" target="_blank">More info</a></li>
+                                <li><a href="https://www.perplexity.ai/search/?q=Summarise%20this%20bill%3A%20{{ bill_url | url_encode }}" onclick="childClick(event)" target="_blank">AI summary</a></li>
                             </ul>
                         </div>
                     {% endfor %}
