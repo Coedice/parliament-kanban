@@ -180,6 +180,28 @@ input {
         }
     }
 
+    p.progress-diagram {
+        font-size: xx-large;
+        margin-top: 0px;
+        margin-bottom: 0px;
+
+        sup {
+            font-size: small;
+        }
+
+        .reps-u {
+            color: green;
+            font-weight: bolder;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        .sen-u {
+            color: red;
+            font-weight: bolder;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+    }
+
     {% for party in site.data.parties %}
         &.{{ party.name | slugify }} {
             border-color: {{ party.color }};

@@ -124,6 +124,33 @@ columns:
                                 <li>Last changed: {{ bill.last_updated | date: "%d/%m/%Y" }}</li>
                             </ul>
                             <h4>Progress:</h4>
+                            <p class="progress-diagram">
+                                {% if column.data == "pending" %}
+                                    {% if bill.originating_house == "House of Representatives" %}
+                                        <span class="reps-u">U</span>{% if bill.status != "Before Reps" %}<sup>✅</sup>{% endif %} - <span class="sen-u">U</span>
+                                    {% elsif bill.originating_house == "Senate" %}
+                                        <span class="sen-u">U</span>{% if bill.status != "Before Senate" %}<sup>✅</sup>{% endif %} - <span class="reps-u">U</span>
+                                    {% endif %}
+                                    - 👑
+                                    - 📜
+                                {% elsif column.data == "passed" %}
+                                    {% if bill.originating_house == "House of Representatives" %}
+                                        <span class="reps-u">U</span><sup>✅</sup> - <span class="sen-u">U</span><sup>✅</sup>
+                                    {% elsif bill.originating_house == "Senate" %}
+                                        <span class="sen-u">U</span><sup>✅</sup> - <span class="reps-u">U</span><sup>✅</sup>
+                                    {% endif %}
+                                    - 👑{% if bill.status == "Assent" or bill.status == "Act" %}<sup>✅</sup>{% endif %}
+                                    - 📜{% if bill.status == "Act" %}<sup>✅</sup>{% endif %}
+                                {% elsif column.data == "failed" %}
+                                    {% if bill.originating_house == "House of Representatives" %}
+                                        <span class="reps-u">U</span><sup>❌</sup> - <span class="sen-u">U</span>
+                                    {% elsif bill.originating_house == "Senate" %}
+                                        <span class="sen-u">U</span><sup>❌</sup> - <span class="reps-u">U</span>
+                                    {% endif %}
+                                    - 👑
+                                    - 📜
+                                {% endif %}
+                            </p>
                             <ul class="progress">
                                 <li>✅ Presented in {{ bill.originating_house }}</li>
                                 {% if column.data == "pending" %}
