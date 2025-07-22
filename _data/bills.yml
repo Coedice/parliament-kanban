@@ -1,3 +1,21 @@
 pending:
+  - bill_id: "r7332"
+    title: "Therapeutic Goods Amendment Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Prime Minister"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7332_first-reps/toc_pdf/25027b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-07-22
+    second_reading_hansard_url: null
 passed:
 failed:
