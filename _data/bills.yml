@@ -17,42 +17,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7332_first-reps/toc_pdf/25027b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-22
     second_reading_hansard_url: null
-  - bill_id: "r7333"
-    title: "Customs Tariff Amendment (Australia-United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Bill 2025"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Home Affairs"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Customs Amendment (Australia-United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Bill 2025 to implement Australia’s obligations under the Comprehensive Economic Partnership Agreement between Australia and the United Arab Emirates, the bill amends the Customs Tariff Act 1995 to give effect to the preferential tariff treatment applicable to eligible goods in accordance with the agreement"
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Julian Hill"
-    minister_party: "Labor"
-    minister_id: "10885"
-    minister_division: "Bruce"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7333_first-reps/toc_pdf/25028b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-29
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0032%22"
-  - bill_id: "r7334"
-    title: "Customs Amendment (Australia-United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Bill 2025"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Home Affairs"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Customs Tariff Amendment (Australia-United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Bill 2025 to implement Australia’s obligations under the Comprehensive Economic Partnership Agreement between Australia and the United Arab Emirates, the bill amends the Customs Act 1901 to introduce rules of origin to determine if goods imported from the United Arab Emirates into Australia are eligible for preferential tariff treatment in accordance with the agreement."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Julian Hill"
-    minister_party: "Labor"
-    minister_id: "10885"
-    minister_division: "Bruce"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7334_first-reps/toc_pdf/25029b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-29
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0028%22"
   - bill_id: "r7335"
     title: "Fair Work Amendment (Protecting Penalty and Overtime Rates) Bill 2025"
     status: "Before Reps"
@@ -68,30 +32,12 @@ pending:
     minister_party: "Labor"
     minister_id: "10543"
     minister_division: "Kingston"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7335_first-reps/toc_pdf/25030b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-24
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7335_third-reps/toc_pdf/25030b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-07-31
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0012%22"
-  - bill_id: "r7336"
-    title: "Early Childhood Education and Care (Strengthening Regulation of Early Education) Bill 2025"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Education"
-    originating_house: "House of Representatives"
-    summary: "Amends the A New Tax System (Family Assistance) (Administration) Act 1999 to: strengthen powers to take action in relation to child care subsidy (CCS) providers based on quality and safety; expand powers to publicise action taken against CCS providers; broaden powers of entry to enable authorised persons to enter premises without consent and streamline the process for seeking entry under a monitoring warrant; enable the delegation of powers to appoint an expert to conduct an independent audit of a large child care provider; and require Family Day Care and In Home Care providers to collect CCS gap fees directly from families."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Jason Clare"
-    minister_party: "Labor"
-    minister_id: "10123"
-    minister_division: "Blaxland"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7336_first-reps/toc_pdf/25031b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-29
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0012%22"
   - bill_id: "r7337"
     title: "Defence Housing Australia Amendment Bill 2025"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Defence"
     originating_house: "House of Representatives"
@@ -105,11 +51,11 @@ pending:
     minister_id: "10861"
     minister_division: "Burt"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7337_first-reps/toc_pdf/25037b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-24
+    last_updated: 2025-07-31
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0016%22"
   - bill_id: "r7338"
     title: "Australian Security Intelligence Organisation Amendment Bill (No. 1) 2025"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Home Affairs"
     originating_house: "House of Representatives"
@@ -123,7 +69,7 @@ pending:
     minister_id: "10081"
     minister_division: "Watson"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7338_first-reps/toc_pdf/25032b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-23
+    last_updated: 2025-07-31
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0091%22"
   - bill_id: "r7339"
     title: "Australian Security Intelligence Organisation Amendment Bill (No. 2) 2025"
@@ -145,7 +91,7 @@ pending:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0095%22"
   - bill_id: "r7340"
     title: "Health Insurance (Pathology) (Fees) (Repeal) Bill 2025"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Health, Disability and Ageing"
     originating_house: "House of Representatives"
@@ -159,11 +105,11 @@ pending:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7340_first-reps/toc_pdf/25034b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-24
+    last_updated: 2025-07-31
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0036%22"
   - bill_id: "r7341"
     title: "Pacific Banking Guarantee Bill 2025"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
@@ -177,33 +123,15 @@ pending:
     minister_id: "10925"
     minister_division: "Fraser"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7341_first-reps/toc_pdf/25038b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-24
+    last_updated: 2025-07-31
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0040%22"
-  - bill_id: "r7342"
-    title: "Universities Accord (Cutting Student Debt by 20 Per Cent) Bill 2025"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Education"
-    originating_house: "House of Representatives"
-    summary: "Amends the Higher Education Support Act 2003 and 5 other Acts to: provide a one-off 20 per cent reduction to Higher Education Loan Program debts and certain other student loans that are incurred on or before 1 June 2025; and increase the minimum repayment threshold from $54,435 in the 2024-25 financial year to $67,000 in the 2025-26 financial year and provide that compulsory student loan repayments are calculated on income above the new threshold rather than being based on a percentage of the repayment income."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Jason Clare"
-    minister_party: "Labor"
-    minister_id: "10123"
-    minister_division: "Blaxland"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7342_first-reps/toc_pdf/25041b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-29
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0008%22"
   - bill_id: "r7343"
     title: "Aged Care and Other Legislation Amendment Bill 2025"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Health, Disability and Ageing"
     originating_house: "House of Representatives"
-    summary: "Supports the commencement of the Aged Care Act 2024 by amending: the Aged Care Act 2024 and Aged Care (Consequential and Transitional Provisions) Act 2024 to make technical amendments and editorial corrections; 23 Acts to make consequential amendments; and the Healthcare Identifiers Act 2010 to enable healthcare identifiers and other identifying information to be used in relation to the delivery and administration of health and aged care and other support services, including disability services."
+    summary: "Introduced with the Aged Care (Accommodation Payment Security) Levy Amendment Bill 2025, the bill supports the commencement of the Aged Care Act 2024 by amending: the Aged Care Act 2024 and Aged Care (Consequential and Transitional Provisions) Act 2024 to make technical amendments and editorial corrections; 23 Acts to make consequential amendments; and the Healthcare Identifiers Act 2010 to enable healthcare identifiers and other identifying information to be used in relation to the delivery and administration of health and aged care and other support services, including disability services."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -213,15 +141,15 @@ pending:
     minister_id: "10982"
     minister_division: "Hawke"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7343_first-reps/toc_pdf/25042b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-24
+    last_updated: 2025-07-31
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0020%22"
   - bill_id: "r7344"
     title: "Aged Care (Accommodation Payment Security) Levy Amendment Bill 2025"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Health, Disability and Ageing"
     originating_house: "House of Representatives"
-    summary: "Amends the Aged Care (Accommodation Payment Security) Levy Act 2006 to make amendments consequential on the Aged Care Act 2004, to ensure that the Act operates as intended."
+    summary: "Introduced with the Aged Care and Other Legislation Amendment Bill 2025, the bill supports the commencement of the Aged Care Act 2024 by amending the Aged Care (Accommodation Payment Security) Levy Act 2006 to ensure that the Act operates as intended."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -231,15 +159,33 @@ pending:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7344_first-reps/toc_pdf/25043b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-24
-    second_reading_hansard_url: null
+    last_updated: 2025-07-31
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0045%22"
+  - bill_id: "r7345"
+    title: "National Health Amendment (Cheaper Medicines) Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Health, Disability and Ageing"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Mark Butler"
+    minister_party: "Labor"
+    minister_id: "10086"
+    minister_division: "Hindmarsh"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7345_first-reps/toc_pdf/25044b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-07-30
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0009%22"
   - bill_id: "r7346"
     title: "Repeal Net Zero Bill 2025"
     status: "Before Reps"
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Repeals the Climate Change Act 2022, Future Made in Australia (Guarantee of Origin) Act 2024, Future Made in Australia (Guarantee of Origin Charges) Act 2024, Net Zero Economy Authority Act 2024 and New Vehicle Efficiency Standards Act 2024. Also amends the: Export Finance and Insurance Corporation Act 1991 and Future Made in Australia Act 2024 to remove references to net zero greenhouse gas emissions and the Paris Agreement; and National Greenhouse and Energy Reporting Act 2007 to remove the emissions reduction safeguard mechanism"
     sponsor_name: "Barnaby Joyce"
     sponsor_party: "Nationals"
     sponsor_id: "10350"
@@ -257,7 +203,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Criminal Code Act 1995 to create new offences for generating child abuse material using a carriage service."
     sponsor_name: "Kate Chaney"
     sponsor_party: "Independent"
     sponsor_id: "10974"
@@ -275,7 +221,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the: Commonwealth Electoral Act 1918 and Referendum (Machinery Provisions) Act 1984 to prohibit the authorisation of certain electoral and referendum matter that is inaccurate and misleading to a material extent, including material that has been modified using digital technology, such as ‘deepfakes’; and require electoral and referendum matter that has been created or modified using digital technology (including AI) to carry a statement to that effect; Commonwealth Electoral Act 1918 to establish an Electoral Communications Panel; and Broadcasting Services Act 1992 and Special Broadcasting Service Act 1991 to remove the ‘media blackout’ period that prohibits electoral or referendum advertising in the last 3 days of voting in an election or referendum."
     sponsor_name: "Zali Steggall"
     sponsor_party: "Independent"
     sponsor_id: "10941"
@@ -287,6 +233,114 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7348_first-reps/toc_pdf/25052b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-28
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28812%2F0020%22"
+  - bill_id: "r7349"
+    title: "Commonwealth Workplace Protection Orders Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Home Affairs"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Tony Burke"
+    minister_party: "Labor"
+    minister_id: "10081"
+    minister_division: "Watson"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7349_first-reps/toc_pdf/25048b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-07-31
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28815%2F0019%22"
+  - bill_id: "r7350"
+    title: "Strengthening Oversight of the National Intelligence Community Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Attorney-General"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Michelle Rowland"
+    minister_party: "Labor"
+    minister_id: "10751"
+    minister_division: "Greenway"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7350_first-reps/toc_pdf/25049b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-07-30
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0013%22"
+  - bill_id: "r7351"
+    title: "Treasury Laws Amendment (Payments System Modernisation) Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Daniel Mulino"
+    minister_party: "Labor"
+    minister_id: "10925"
+    minister_division: "Fraser"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7351_first-reps/toc_pdf/25053b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-07-30
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0029%22"
+  - bill_id: "r7352"
+    title: "Appropriation (Parliamentary Departments) Bill (No. 1) 2025-2026"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Finance"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Daniel Mulino"
+    minister_party: "Labor"
+    minister_id: "10925"
+    minister_division: "Fraser"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7352_first-reps/toc_pdf/25045b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-07-30
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0025%22"
+  - bill_id: "r7353"
+    title: "Appropriation Bill (No. 2) 2025-2026"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Finance"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Daniel Mulino"
+    minister_party: "Labor"
+    minister_id: "10925"
+    minister_division: "Fraser"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7353_first-reps/toc_pdf/25046b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-07-30
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0021%22"
+  - bill_id: "r7354"
+    title: "Appropriation Bill (No. 1) 2025-2026"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Finance"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7354_first-reps/toc_pdf/25047b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-07-30
+    second_reading_hansard_url: null
   - bill_id: "s1174"
     title: "Broadcasting Services Amendment (Audio Description) Bill 2019"
     status: "Before Senate"
@@ -447,7 +501,7 @@ pending:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1427_first-senate/toc_pdf/24S1720.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-24
+    last_updated: 2025-07-30
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28060%2F0198%22"
   - bill_id: "s1432"
     title: "Interactive Gambling Amendment (Ban Gambling Ads) Bill 2024"
@@ -520,7 +574,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-23
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22"
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22"
   - bill_id: "s1443"
     title: "Tertiary Education Legislation Amendment (There For Education, Not Profit) Bill 2025"
     status: "Before Senate"
@@ -538,7 +592,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-23
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22"
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22"
   - bill_id: "s1444"
     title: "Remuneration Tribunal Amendment (There For Public Service, Not Profit) Bill 2025"
     status: "Before Senate"
@@ -735,7 +789,7 @@ pending:
     minister_id: "10838"
     minister_division: "ACT"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1459_first-senate/toc_pdf/2504020.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-29
+    last_updated: 2025-07-31
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22"
   - bill_id: "s1460"
     title: "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Bill 2025"
@@ -753,8 +807,44 @@ pending:
     minister_id: "10838"
     minister_division: "ACT"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1460_first-senate/toc_pdf/2503920.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-29
+    last_updated: 2025-07-31
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22"
+  - bill_id: "s1461"
+    title: "Electoral Legislation Amendment (Electoral Communications) Bill 2025 (No. 2)"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the: Commonwealth Electoral Act 1918 and Referendum (Machinery Provisions) Act 1984 to prohibit the authorisation of certain electoral and referendum matter that is inaccurate and misleading to a material extent, including material that has been modified using digital technology, such as ‘deepfakes’; and require electoral and referendum matter that has been created or modified using digital technology (including AI) to carry a statement to that effect; Commonwealth Electoral Act 1918 to establish an Electoral Communications Panel; and Broadcasting Services Act 1992 and Special Broadcasting Service Act 1991 to remove the ‘media blackout’ period that prohibits electoral or referendum advertising in the last 3 days of voting in an election or referendum."
+    sponsor_name: "David Pocock"
+    sponsor_party: "Independent"
+    sponsor_id: "11009"
+    sponsor_division: "ACT"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1461_first-senate/toc_pdf/25S1520.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-07-30
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28821%2F0153%22"
+  - bill_id: "s1462"
+    title: "Parliamentary Joint Committee on Public Consultancy and Services Contracts Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Richard Colbeck"
+    sponsor_party: "Liberal"
+    sponsor_id: "10131"
+    sponsor_division: "Tasmania"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1462_first-senate/toc_pdf/25S1620.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-07-30
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28821%2F0208%22"
   - bill_id: "s996"
     title: "Landholders&rsquo; Right to Refuse (Gas and Coal) Bill 2015"
     status: "Before Senate"
@@ -774,4 +864,94 @@ pending:
     last_updated: 2025-07-23
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F1da66012-4613-4c01-8369-b2c1421daaaf%2F0088%22"
 passed:
+  - bill_id: "r7333"
+    title: "Customs Tariff Amendment (Australia-United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Bill 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Home Affairs"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Customs Amendment (Australia-United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Bill 2025 to implement Australia’s obligations under the Comprehensive Economic Partnership Agreement between Australia and the United Arab Emirates, the bill amends the Customs Tariff Act 1995 to give effect to the preferential tariff treatment applicable to eligible goods in accordance with the agreement"
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Julian Hill"
+    minister_party: "Labor"
+    minister_id: "10885"
+    minister_division: "Bruce"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7333_aspassed/toc_pdf/25028b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-02
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0032%22"
+  - bill_id: "r7334"
+    title: "Customs Amendment (Australia-United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Bill 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Home Affairs"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Customs Tariff Amendment (Australia-United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Bill 2025 to implement Australia’s obligations under the Comprehensive Economic Partnership Agreement between Australia and the United Arab Emirates, the bill amends the Customs Act 1901 to introduce rules of origin to determine if goods imported from the United Arab Emirates into Australia are eligible for preferential tariff treatment in accordance with the agreement."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Julian Hill"
+    minister_party: "Labor"
+    minister_id: "10885"
+    minister_division: "Bruce"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7334_aspassed/toc_pdf/25029b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-02
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0028%22"
+  - bill_id: "r7336"
+    title: "Early Childhood Education and Care (Strengthening Regulation of Early Education) Bill 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Education"
+    originating_house: "House of Representatives"
+    summary: "Amends the A New Tax System (Family Assistance) (Administration) Act 1999 to: strengthen powers to take action in relation to child care subsidy (CCS) providers based on quality and safety; expand powers to publicise action taken against CCS providers; broaden powers of entry to enable authorised persons to enter premises without consent and streamline the process for seeking entry under a monitoring warrant; enable the delegation of powers to appoint an expert to conduct an independent audit of a large child care provider; and require Family Day Care and In Home Care providers to collect CCS gap fees directly from families."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Jason Clare"
+    minister_party: "Labor"
+    minister_id: "10123"
+    minister_division: "Blaxland"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7336_aspassed/toc_pdf/25031b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-02
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0012%22"
+  - bill_id: "r7342"
+    title: "Universities Accord (Cutting Student Debt by 20 Per Cent) Bill 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Education"
+    originating_house: "House of Representatives"
+    summary: "Amends the Higher Education Support Act 2003 and 5 other Acts to: provide a one-off 20 per cent reduction to Higher Education Loan Program debts and certain other student loans that are incurred on or before 1 June 2025; and increase the minimum repayment threshold from $54,435 in the 2024-25 financial year to $67,000 in the 2025-26 financial year and provide that compulsory student loan repayments are calculated on income above the new threshold rather than being based on a percentage of the repayment income."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Jason Clare"
+    minister_party: "Labor"
+    minister_id: "10123"
+    minister_division: "Blaxland"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7342_aspassed/toc_pdf/25041b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-02
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0008%22"
 failed:
+  - bill_id: "s1463"
+    title: "Sex Discrimination Amendment (Restoring Biological Definitions) Bill 2025"
+    status: "Not Proceeding"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Alex Antic"
+    sponsor_party: "Liberal"
+    sponsor_id: "10954"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1463_first-senate/toc_pdf/25s1720.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-07-31
+    second_reading_hansard_url: null
