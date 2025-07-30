@@ -8,6 +8,9 @@ from termcolor import colored
 
 from MP import MP
 
+_DOWNLOAD_RETRIES = 10
+_DOWNLOAD_DELAY_SECONDS = 30
+
 
 class Bill:
     """Bill data."""
@@ -97,6 +100,27 @@ class Bill:
 
         print(colored("Existing bill data is sufficient", "yellow"))
         return True
+    
+    def _download_page(self, url: str) -> BeautifulSoup:
+        for _ in range(_DOWNLOAD_RETRIES):
+            response = requests.get(
+                url,
+                headers={
+                    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+                },
+            )
+
+            if response.status_code // 100 == 2:
+                break
+
+            print(
+                f"Retrying download of {url}\t{colored(f'error {response.status_code}', 'red')}"
+            )
+            time.sleep(_DOWNLOAD_DELAY_SECONDS)
+        else:
+            raise Exception(f"Failed to download {url}")
+
+        return BeautifulSoup(response.text, "html.parser")
 
     def _parse_webpage(self, url: str) -> Optional[BeautifulSoup]:
         # Check if bill has any need to be updated
@@ -104,23 +128,7 @@ class Bill:
             return None
 
         # Download bill page
-        download_worked = False
-        while not download_worked:
-            response = requests.get(
-                url,
-                headers={
-                    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-                },
-            )
-            download_worked = response.status_code // 100 == 2
-
-            if not download_worked:
-                print(
-                    f"Retrying download\t{colored(f'error {response.status_code}', 'red')}"
-                )
-                time.sleep(20)
-
-        return BeautifulSoup(response.text, "html.parser")
+        return self._download_page(url)
 
     def _get_title(self) -> str:
         if self.soup is None:
@@ -184,25 +192,7 @@ class Bill:
             return None
 
         # Get Hansard page
-        loaded_hansard = False
-
-        while not loaded_hansard:
-            response = requests.get(
-                minister_second_reading_url,
-                headers={
-                    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-                },
-            )
-
-            loaded_hansard = response.status_code // 100 == 2
-
-            if not loaded_hansard:
-                print(
-                    f"Retrying hansard download\t{colored(f'error {response.status_code}', 'red')}"
-                )
-                time.sleep(20)
-
-        hansard_soup = BeautifulSoup(response.text, "html.parser")
+        hansard_soup = self._download_page(minister_second_reading_url)
 
         # Get MP name
         name_text = hansard_soup.find("span", {"class": "selectedTOCItem"}).text
