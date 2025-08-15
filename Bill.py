@@ -1,10 +1,12 @@
-import requests
+import json
+import re
 import time
-from bs4 import BeautifulSoup
-from typing import List, Optional
 from datetime import datetime
-from termcolor import colored
+from typing import List, Optional
 
+import requests
+from bs4 import BeautifulSoup
+from termcolor import colored
 
 from MP import MP
 
@@ -100,8 +102,8 @@ class Bill:
 
         print(colored("Existing bill data is sufficient", "yellow"))
         return True
-    
-    def _download_page(self, url: str) -> BeautifulSoup:
+
+    def _download_page(self, url: str) -> str:
         for _ in range(_DOWNLOAD_RETRIES):
             response = requests.get(
                 url,
@@ -120,7 +122,7 @@ class Bill:
         else:
             raise Exception(f"Failed to download {url}")
 
-        return BeautifulSoup(response.text, "html.parser")
+        return response.text
 
     def _parse_webpage(self, url: str) -> Optional[BeautifulSoup]:
         # Check if bill has any need to be updated
@@ -128,7 +130,7 @@ class Bill:
             return None
 
         # Download bill page
-        return self._download_page(url)
+        return BeautifulSoup(self._download_page(url), "html.parser")
 
     def _get_title(self) -> str:
         if self.soup is None:
@@ -191,14 +193,19 @@ class Bill:
         if minister_second_reading_url is None:
             return None
 
-        # Get Hansard page
-        hansard_soup = self._download_page(minister_second_reading_url)
+        # Convert parlinfo URL to aph.gov.au JSON URL
+        minister_second_reading_url = re.sub(
+            r"https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22(\w+)%2F(\w+)%2F(\d+)%2F(\d+)%22",
+            r"https://www.aph.gov.au/api/hansard/transcript?id=\1%2F\2%2F\3%2F\4",
+            minister_second_reading_url,
+        )
+
+        # Get speech JSON
+        json_str = self._download_page(minister_second_reading_url)
+        speech_json = json.loads(json_str)
 
         # Get MP name
-        name_text = hansard_soup.find("span", {"class": "selectedTOCItem"}).text
-
-        if " Reading" in name_text:
-            return None
+        name_text = speech_json.get("Speaker")
 
         # Format name
         name_parts = (
