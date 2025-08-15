@@ -154,13 +154,13 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Sam Rae"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10982"
+    minister_division: "Hawke"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7344_first-reps/toc_pdf/25043b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-31
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0045%22"
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0024%22"
   - bill_id: "r7345"
     title: "National Health Amendment (Cheaper Medicines) Bill 2025"
     status: "Before Reps"
@@ -826,7 +826,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1461_first-senate/toc_pdf/25S1520.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-30
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28821%2F0153%22"
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28821%2F0152%22"
   - bill_id: "s1462"
     title: "Parliamentary Joint Committee on Public Consultancy and Services Contracts Bill 2025"
     status: "Before Senate"
@@ -844,7 +844,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1462_first-senate/toc_pdf/25S1620.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-30
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28821%2F0208%22"
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28821%2F0206%22"
   - bill_id: "s996"
     title: "Landholders&rsquo; Right to Refuse (Gas and Coal) Bill 2015"
     status: "Before Senate"
@@ -866,7 +866,7 @@ pending:
 passed:
   - bill_id: "r7333"
     title: "Customs Tariff Amendment (Australia-United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Bill 2025"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Home Affairs"
     originating_house: "House of Representatives"
@@ -884,7 +884,7 @@ passed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0032%22"
   - bill_id: "r7334"
     title: "Customs Amendment (Australia-United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Bill 2025"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Home Affairs"
     originating_house: "House of Representatives"
@@ -902,7 +902,7 @@ passed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0028%22"
   - bill_id: "r7336"
     title: "Early Childhood Education and Care (Strengthening Regulation of Early Education) Bill 2025"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Education"
     originating_house: "House of Representatives"
@@ -920,7 +920,7 @@ passed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0012%22"
   - bill_id: "r7342"
     title: "Universities Accord (Cutting Student Debt by 20 Per Cent) Bill 2025"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Education"
     originating_house: "House of Representatives"
