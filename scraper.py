@@ -1,14 +1,15 @@
 """Scrapes data from aph.gov.au for current bills and outputs to YAML."""
 
-import requests
-from bs4 import BeautifulSoup
-from typing import List
-from MP import MP
-from Bill import Bill
-import yaml
 import os
+from typing import List
+
+import requests
+import yaml
+from bs4 import BeautifulSoup
 from termcolor import colored
 
+from Bill import Bill
+from MP import MP
 
 SECTIONS = [
     (
