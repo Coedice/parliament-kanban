@@ -272,18 +272,24 @@ class Bill:
         return None
 
     def _get_introducer_party(self, name: str, is_minister: bool = False) -> str:
+        # If introducer name is not found, assume ruling party for Government bills
         if name is None:
             if self._get_type() == "Government" and is_minister:
                 return self._ruling_party
 
             return None
 
+        # If introducer name is found, get their party
         for mp in self.mps:
             if mp.name.lower() == name.lower():
                 if mp.party == "SPK":  # Special case for the Speaker
                     return self._ruling_party
 
                 return mp.party
+
+        # If introducer name is known but their party is unknown, assume ruling party for Government bills
+        if self._get_type() == "Government" and is_minister:
+            return self._ruling_party
 
         return None
 
