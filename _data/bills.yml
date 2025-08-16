@@ -101,7 +101,7 @@ pending:
     sponsor_id: null
     sponsor_division: null
     minister_name: "Rebecca White"
-    minister_party: null
+    minister_party: "Labor"
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7340_first-reps/toc_pdf/25034b01.pdf;fileType=application%2Fpdf"
