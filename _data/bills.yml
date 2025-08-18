@@ -167,7 +167,7 @@ pending:
     type: "Government"
     portfolio: "Health, Disability and Ageing"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the National Health Act 1953 to reduce the Pharmaceutical Benefits Scheme general patient charge from $31.60 to $25.00 from 1 January 2026."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -239,7 +239,7 @@ pending:
     type: "Government"
     portfolio: "Home Affairs"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Establishes a scheme for courts to make Commonwealth workplace protection orders to prevent personal violence against Commonwealth workers or in Commonwealth workplaces."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -257,7 +257,7 @@ pending:
     type: "Government"
     portfolio: "Attorney-General"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the: Inspector-General of Intelligence and Security Act 1986 and Intelligence Services Act 2001 to: expand the jurisdictions of the Inspector-General of Intelligence and Security (IGIS) and the Parliamentary Joint Committee on Intelligence and Security (PJCIS) to include the Australian Criminal Intelligence Commission (ACIC), the Australian Transaction Reports and Analysis Centre, the Australian Federal Police and the Department of Home Affairs; provide that the PJCIS may review proposed counter-terrorism and national security legislation, and all such expiring legislation; enable the PJCIS to request the IGIS to conduct an inquiry into certain operational activities of the agencies within the IGIS’s jurisdiction; clarify the legislation which enables the PJCIS to request a briefing from the Independent National Security Legislation Monitor (INSLM); clarify the IGIS’s complaints jurisdiction; and make technical amendments; Inspector-General of Intelligence and Security Act 1986 and Office of National Intelligence Act 2018 to require the IGIS and the Office of National Intelligence to provide annual briefings to the PJCIS; Parliamentary Joint Committee on Law Enforcement Act 2010 to require the IGIS to provide annual briefings to the committee; Administrative Appeals Tribunal Act 1975 to amend the review and access of ACIC criminal intelligence assessment records; Criminal Code Act 1995 to include an exemption from civil and criminal liability for defence officials and others for certain computer-related conduct; and Independent National Security Legislation Monitor Act 2010 to: ensure that the INSLM is able to review counter-terrorism or national security legislation; and make minor amendments. Also makes consequential amendments to 15 Acts."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -275,7 +275,7 @@ pending:
     type: "Government"
     portfolio: "Treasury"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Payment Systems (Regulation) Act 1998 to: expand the coverage of the payments regulatory framework to include new and emerging payment systems and participants; provide for new ministerial powers to designate payment systems when it is in the national interest to do so; and introduce civil penalty provisions and enforceable undertakings, and increase maximum penalties for certain criminal offences. Also makes consequential amendments to 4 other Acts."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -293,7 +293,7 @@ pending:
     type: "Government"
     portfolio: "Finance"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Appropriates money out of the Consolidated Revenue Fund for expenditure in relation to the parliamentary departments."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -311,7 +311,7 @@ pending:
     type: "Government"
     portfolio: "Finance"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Appropriates money out of the Consolidated Revenue Fund for certain expenditure."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -329,7 +329,7 @@ pending:
     type: "Government"
     portfolio: "Finance"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Appropriates money out of the Consolidated Revenue Fund for the ordinary annual services of the government."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -833,7 +833,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "Establishes a Parliamentary Joint Committee on Public Consultancy and Services Contracts to review, consider and report on consultancy and services contracts entered into by Commonwealth entities."
     sponsor_name: "Richard Colbeck"
     sponsor_party: "Liberal"
     sponsor_id: "10131"
@@ -943,7 +943,7 @@ failed:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "Amends the Sex Discrimination Act 1984 to remove references to ‘gender identity’ and insert definitions of ‘man’ and ‘woman’."
     sponsor_name: "Alex Antic"
     sponsor_party: "Liberal"
     sponsor_id: "10954"
