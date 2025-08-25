@@ -51,7 +51,7 @@ pending:
     minister_id: "10861"
     minister_division: "Burt"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7337_first-reps/toc_pdf/25037b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-31
+    last_updated: 2025-08-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0016%22"
   - bill_id: "r7338"
     title: "Australian Security Intelligence Organisation Amendment Bill (No. 1) 2025"
@@ -195,7 +195,7 @@ pending:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7346_first-reps/toc_pdf/25050b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-28
+    last_updated: 2025-08-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28812%2F0010%22"
   - bill_id: "r7347"
     title: "Criminal Code Amendment (Using Technology to Generate Child Abuse Material) Bill 2025"
@@ -341,6 +341,60 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7354_first-reps/toc_pdf/25047b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-30
     second_reading_hansard_url: null
+  - bill_id: "r7355"
+    title: "Social Security and Other Legislation Amendment (Responding to Robodebt) Bill 2025"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: "Andrew Wilkie"
+    sponsor_party: "Independent"
+    sponsor_id: "10727"
+    sponsor_division: "Clark"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7355_first-reps/toc_pdf/25054b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-25
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28830%2F0181%22"
+  - bill_id: "r7356"
+    title: "Climate Change (National Framework for Adaptation) Bill 2025"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: "Zali Steggall"
+    sponsor_party: "Independent"
+    sponsor_id: "10941"
+    sponsor_division: "Warringah"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7356_first-reps/toc_pdf/25055b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-25
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28830%2F0186%22"
+  - bill_id: "r7357"
+    title: "Higher Education Support Amendment (Fair Study and Opportunity) Bill 2025"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: "Dai Le"
+    sponsor_party: "Independent"
+    sponsor_id: "10978"
+    sponsor_division: "Fowler"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7357_first-reps/toc_pdf/25056b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-25
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28830%2F0191%22"
   - bill_id: "s1174"
     title: "Broadcasting Services Amendment (Audio Description) Bill 2019"
     status: "Before Senate"
@@ -771,7 +825,7 @@ pending:
     minister_id: "10838"
     minister_division: "ACT"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1458_first-senate/toc_pdf/2503620.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-29
+    last_updated: 2025-08-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0165%22"
   - bill_id: "s1459"
     title: "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) Bill 2025"
@@ -789,7 +843,7 @@ pending:
     minister_id: "10838"
     minister_division: "ACT"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1459_first-senate/toc_pdf/2504020.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-31
+    last_updated: 2025-08-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22"
   - bill_id: "s1460"
     title: "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Bill 2025"
@@ -807,7 +861,7 @@ pending:
     minister_id: "10838"
     minister_division: "ACT"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1460_first-senate/toc_pdf/2503920.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-31
+    last_updated: 2025-08-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22"
   - bill_id: "s1461"
     title: "Electoral Legislation Amendment (Electoral Communications) Bill 2025 (No. 2)"
@@ -845,6 +899,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1462_first-senate/toc_pdf/25S1620.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-30
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28821%2F0206%22"
+  - bill_id: "s1464"
+    title: "Members of Parliament (Staff) Amendment (Providing Certainty and Improving Integrity) Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Michaelia Cash"
+    sponsor_party: "Liberal"
+    sponsor_id: "10707"
+    sponsor_division: "WA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1464_first-senate/toc_pdf/S25S1820.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-25
+    second_reading_hansard_url: null
   - bill_id: "s996"
     title: "Landholders&rsquo; Right to Refuse (Gas and Coal) Bill 2015"
     status: "Before Senate"
