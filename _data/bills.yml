@@ -33,7 +33,7 @@ pending:
     minister_id: "10543"
     minister_division: "Kingston"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7335_third-reps/toc_pdf/25030b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-26
+    last_updated: 2025-08-27
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0012%22"
   - bill_id: "r7338"
     title: "Australian Security Intelligence Organisation Amendment Bill (No. 1) 2025"
@@ -123,7 +123,7 @@ pending:
     minister_id: "10982"
     minister_division: "Hawke"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7343_first-reps/toc_pdf/25042b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-31
+    last_updated: 2025-08-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0020%22"
   - bill_id: "r7344"
     title: "Aged Care (Accommodation Payment Security) Levy Amendment Bill 2025"
@@ -141,7 +141,7 @@ pending:
     minister_id: "10982"
     minister_division: "Hawke"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7344_first-reps/toc_pdf/25043b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-31
+    last_updated: 2025-08-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0024%22"
   - bill_id: "r7345"
     title: "National Health Amendment (Cheaper Medicines) Bill 2025"
@@ -159,7 +159,7 @@ pending:
     minister_id: "10086"
     minister_division: "Hindmarsh"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7345_first-reps/toc_pdf/25044b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-26
+    last_updated: 2025-08-27
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0009%22"
   - bill_id: "r7346"
     title: "Repeal Net Zero Bill 2025"
@@ -377,6 +377,42 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7357_first-reps/toc_pdf/25056b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28830%2F0192%22"
+  - bill_id: "r7360"
+    title: "Telecommunications and Other Legislation Amendment Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Home Affairs"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Tony Burke"
+    minister_party: "Labor"
+    minister_id: "10081"
+    minister_division: "Watson"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7360_first-reps/toc_pdf/25060b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28836%2F0014%22"
+  - bill_id: "r7361"
+    title: "Environment Protection and Biodiversity Conservation Amendment (Board of Management Functions) Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Climate Change, Energy, the Environment and Water"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Josh Wilson"
+    minister_party: "Labor"
+    minister_id: "10893"
+    minister_division: "Fremantle"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7361_first-reps/toc_pdf/25058b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28836%2F0018%22"
   - bill_id: "r7363"
     title: "Home Affairs Legislation Amendment (2025 Measures No. 1) Bill 2025"
     status: "Before Reps"
@@ -388,13 +424,13 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Tony Burke"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "10081"
+    minister_division: "Watson"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7363_first-reps/toc_pdf/25061b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-26
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28833%2F0005%22"
   - bill_id: "s1174"
     title: "Broadcasting Services Amendment (Audio Description) Bill 2019"
     status: "Before Senate"
@@ -521,6 +557,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1389_first-senate/toc_pdf/23S2620.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-23
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27124%2F0171%22"
+  - bill_id: "s1413"
+    title: "Competition and Consumer Amendment (Divestiture Powers) Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Competition and Consumer Act 2010 to enable the Court, following an application by the Australian Competition and Consumer Commission, to give directions for the purpose of securing a reduction in a corporation’s power in, or share of, the market."
+    sponsor_name: "Nick Mckim"
+    sponsor_party: "Greens"
+    sponsor_id: "10841"
+    sponsor_division: "Tasmania"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1413_first-senate/toc_pdf/24S0620.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27581%2F0158%22"
   - bill_id: "s1416"
     title: "National Housing and Homelessness Plan Bill 2024"
     status: "Before Senate"
@@ -539,6 +593,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1416_first-senate/toc_pdf/24S1120.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-23
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27644%2F0100%22"
+  - bill_id: "s1419"
+    title: "Digital ID Repeal Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Repeals the Digital ID Act 2024 and Digital ID (Transitional and Consequential Provisions) Act 2024. Also makes consequential amendments to 6 Acts."
+    sponsor_name: "Alex Antic"
+    sponsor_party: "Liberal"
+    sponsor_id: "10954"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1419_first-senate/toc_pdf/24S1220.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-27
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27645%2F0232%22"
   - bill_id: "s1427"
     title: "Housing Investment Probity Bill 2024"
     status: "Before Senate"
@@ -557,6 +629,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1427_first-senate/toc_pdf/24S1720.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-30
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28060%2F0198%22"
+  - bill_id: "s1430"
+    title: "Competition and Consumer Amendment (Make Price Gouging Illegal) Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Competition and Consumer Act 2010 to prohibit a corporation with substantial market power from engaging in conduct that results in, or is likely to result in, an excessive price being charged for a good or service."
+    sponsor_name: "Nick Mckim"
+    sponsor_party: "Greens"
+    sponsor_id: "10841"
+    sponsor_division: "Tasmania"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1430_first-senate/toc_pdf/24S2020.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-26
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28046%2F0126%22"
   - bill_id: "s1432"
     title: "Interactive Gambling Amendment (Ban Gambling Ads) Bill 2024"
     status: "Before Senate"
@@ -735,7 +825,7 @@ pending:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1449_first-senate/toc_pdf/25S0920.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-23
+    last_updated: 2025-08-27
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28695%2F0077%22"
   - bill_id: "s1451"
     title: "Higher Education Support Amendment (End Dirty University Partnerships) Bill 2025"
@@ -827,42 +917,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1458_first-senate/toc_pdf/2503620.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0165%22"
-  - bill_id: "s1459"
-    title: "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) Bill 2025"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Education"
-    originating_house: "Senate"
-    summary: "Introduced with the Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Bill 2025, the bill provides for a National Higher Education Code to Prevent and Respond to Gender-based Violence which may impose certain requirements and standards on higher education providers in relation to gender-based violence."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Katy Gallagher"
-    minister_party: "Labor"
-    minister_id: "10838"
-    minister_division: "ACT"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1459_first-senate/toc_pdf/2504020.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22"
-  - bill_id: "s1460"
-    title: "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Bill 2025"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Education"
-    originating_house: "Senate"
-    summary: "Introduced with the Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) Bill 2025, the bill amends the Higher Education Support Act 2003 to make compliance with the National Higher Education Code to Prevent and Respond to Gender-based Violence a quality and accountability requirement for higher education providers approved under the Act."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Katy Gallagher"
-    minister_party: "Labor"
-    minister_id: "10838"
-    minister_division: "ACT"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1460_first-senate/toc_pdf/2503920.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-25
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22"
   - bill_id: "s1461"
     title: "Electoral Legislation Amendment (Electoral Communications) Bill 2025 (No. 2)"
     status: "Before Senate"
@@ -934,7 +988,7 @@ pending:
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1466_first-senate/toc_pdf/25S1920.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-26
-    second_reading_hansard_url: null
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28834%2F0127%22"
   - bill_id: "s996"
     title: "Landholders&rsquo; Right to Refuse (Gas and Coal) Bill 2015"
     status: "Before Senate"
