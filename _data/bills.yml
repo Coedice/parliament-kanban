@@ -17,24 +17,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7332_first-reps/toc_pdf/25027b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-22
     second_reading_hansard_url: null
-  - bill_id: "r7335"
-    title: "Fair Work Amendment (Protecting Penalty and Overtime Rates) Bill 2025"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Employment and Workplace Relations"
-    originating_house: "House of Representatives"
-    summary: "Amends the Fair Work Act 2009 to establish a principle requiring the Fair Work Commission to ensure that penalty and overtime rates are not reduced and that modern awards do not include terms that substitute employees’ entitlements to receive penalty or overtime rates where those terms would have the effect of reducing that additional remuneration employees would otherwise receive."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Amanda Rishworth"
-    minister_party: "Labor"
-    minister_id: "10543"
-    minister_division: "Kingston"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7335_third-reps/toc_pdf/25030b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-27
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0012%22"
   - bill_id: "r7338"
     title: "Australian Security Intelligence Organisation Amendment Bill (No. 1) 2025"
     status: "Before Senate"
@@ -105,7 +87,7 @@ pending:
     minister_id: "10925"
     minister_division: "Fraser"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7341_first-reps/toc_pdf/25038b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-31
+    last_updated: 2025-08-28
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0040%22"
   - bill_id: "r7343"
     title: "Aged Care and Other Legislation Amendment Bill 2025"
@@ -145,7 +127,7 @@ pending:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0024%22"
   - bill_id: "r7345"
     title: "National Health Amendment (Cheaper Medicines) Bill 2025"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Health, Disability and Ageing"
     originating_house: "House of Representatives"
@@ -159,7 +141,7 @@ pending:
     minister_id: "10086"
     minister_division: "Hindmarsh"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7345_first-reps/toc_pdf/25044b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-27
+    last_updated: 2025-08-28
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0009%22"
   - bill_id: "r7346"
     title: "Repeal Net Zero Bill 2025"
@@ -231,7 +213,7 @@ pending:
     minister_id: "10081"
     minister_division: "Watson"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7349_first-reps/toc_pdf/25048b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-31
+    last_updated: 2025-08-28
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28815%2F0019%22"
   - bill_id: "r7350"
     title: "Strengthening Oversight of the National Intelligence Community Bill 2025"
@@ -377,6 +359,42 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7357_first-reps/toc_pdf/25056b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-25
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28830%2F0192%22"
+  - bill_id: "r7358"
+    title: "Telecommunications Amendment (Enhancing Consumer Safeguards) Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Anika Wells"
+    minister_party: "Labor"
+    minister_id: "10931"
+    minister_division: "Lilley"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7358_first-reps/toc_pdf/25057b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0005%22"
+  - bill_id: "r7359"
+    title: "Defence Amendment (Defence Honours and Awards Appeals Tribunal) Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Defence"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7359_first-reps/toc_pdf/25059b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-28
+    second_reading_hansard_url: null
   - bill_id: "r7360"
     title: "Telecommunications and Other Legislation Amendment Bill 2025"
     status: "Before Reps"
@@ -969,7 +987,7 @@ pending:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1464_first-senate/toc_pdf/S25S1820.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-25
+    last_updated: 2025-08-28
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28831%2F0191%22"
   - bill_id: "s1466"
     title: "Social Security and Other Legislation Amendment (Responding to Robodebt) Bill 2025 [No. 2]"
