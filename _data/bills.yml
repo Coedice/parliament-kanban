@@ -34,7 +34,7 @@ pending:
     minister_division: "Watson"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7338_first-reps/toc_pdf/25032b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-31
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0091%22"
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0090%22"
   - bill_id: "r7339"
     title: "Australian Security Intelligence Organisation Amendment Bill (No. 2) 2025"
     status: "Before Reps"
@@ -52,7 +52,7 @@ pending:
     minister_division: "Watson"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7339_first-reps/toc_pdf/25033b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-23
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0095%22"
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0094%22"
   - bill_id: "r7340"
     title: "Health Insurance (Pathology) (Fees) (Repeal) Bill 2025"
     status: "Before Senate"
@@ -1062,6 +1062,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7334_aspassed/toc_pdf/25029b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0028%22"
+  - bill_id: "r7335"
+    title: "Fair Work Amendment (Protecting Penalty and Overtime Rates) Bill 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Employment and Workplace Relations"
+    originating_house: "House of Representatives"
+    summary: "Amends the Fair Work Act 2009 to establish a principle requiring the Fair Work Commission to ensure that penalty and overtime rates are not reduced and that modern awards do not include terms that substitute employees’ entitlements to receive penalty or overtime rates where those terms would have the effect of reducing that additional remuneration employees would otherwise receive."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Amanda Rishworth"
+    minister_party: "Labor"
+    minister_id: "10543"
+    minister_division: "Kingston"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7335_aspassed/toc_pdf/25030b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-29
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0012%22"
   - bill_id: "r7336"
     title: "Early Childhood Education and Care (Strengthening Regulation of Early Education) Bill 2025"
     status: "Act"
@@ -1080,6 +1098,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7336_aspassed/toc_pdf/25031b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0012%22"
+  - bill_id: "r7337"
+    title: "Defence Housing Australia Amendment Bill 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Defence"
+    originating_house: "House of Representatives"
+    summary: "Amends the Defence Housing Australia Act 1987 to enable Defence Housing Australia to provide housing and housing-related services to additional classes of persons."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Matt Keogh"
+    minister_party: "Labor"
+    minister_id: "10861"
+    minister_division: "Burt"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7337_aspassed/toc_pdf/25037b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0016%22"
   - bill_id: "r7342"
     title: "Universities Accord (Cutting Student Debt by 20 Per Cent) Bill 2025"
     status: "Act"
