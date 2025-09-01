@@ -141,7 +141,7 @@ pending:
     minister_id: "10086"
     minister_division: "Hindmarsh"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7345_first-reps/toc_pdf/25044b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-28
+    last_updated: 2025-09-01
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0009%22"
   - bill_id: "r7346"
     title: "Repeal Net Zero Bill 2025"
@@ -311,7 +311,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the A New Tax System (Family Assistance) (Administration) Act 1999, Social Security Act 1991, Social Security (Administration) Act 1999 and Student Assistance Act 1973 to respond to certain recommendations of the Report of the Royal Commission into the Robodebt Scheme."
     sponsor_name: "Andrew Wilkie"
     sponsor_party: "Independent"
     sponsor_id: "10727"
@@ -329,7 +329,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Establishes a national climate change adaptation framework which provides for the establishment of an authority, national climate change risk assessments, national adaptation plans, guiding principles of decision-making, reporting requirements and statements of consideration and compatibility."
     sponsor_name: "Zali Steggall"
     sponsor_party: "Independent"
     sponsor_id: "10941"
@@ -347,7 +347,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Higher Education Support Act 2003 to reduce the maximum student contribution amount for a place in a unit of study relating to subjects specified as ‘society and culture’."
     sponsor_name: "Dai Le"
     sponsor_party: "Independent"
     sponsor_id: "10978"
@@ -365,7 +365,7 @@ pending:
     type: "Government"
     portfolio: "Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Telecommunications Act 1997 to: establish a carriage service provider registration scheme; make industry codes directly enforceable by the Australian Communications and Media Authority; and amend existing arrangements relating to the application of penalty amounts for infringement notices and civil penalties."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -383,7 +383,7 @@ pending:
     type: "Government"
     portfolio: "Defence"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Defence Act 1903 to amend the arrangements for review by the Defence Honours and Awards Appeals Tribunal of decisions relating to defence honours, defence awards and foreign awards."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -401,7 +401,7 @@ pending:
     type: "Government"
     portfolio: "Home Affairs"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the: Surveillance Devices Act 2004 and Telecommunications (Interception and Access) Act 1979 to enable the disclosure and use of protected network activity warrant information and network activity warrant intercept information in certain circumstances; Telecommunications (Interception and Access) Act 1979 to transfer the statutory function of the Communications Access Coordinator; permit limited access to stored communications to enable agencies to undertake development and testing activities; and make a technical correction; and Crimes Act 1914 to clarify the threshold for authorising and varying controlled operations."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -419,7 +419,7 @@ pending:
     type: "Government"
     portfolio: "Climate Change, Energy, the Environment and Water"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "Amends the Environment Protection and Biodiversity Conservation Act 1999 to enable a Board for a Commonwealth reserve to continue making decisions after a management plan expires, provided those decisions are consistent with the expired management plan."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -431,13 +431,31 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7361_first-reps/toc_pdf/25058b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-27
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28836%2F0018%22"
+  - bill_id: "r7362"
+    title: "Australia Day Bill 2025"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: "Henry Pike"
+    sponsor_party: "Liberal National Party"
+    sponsor_id: "10969"
+    sponsor_division: "Bowman"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7362_first-reps/toc_pdf/25063b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-01
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28843%2F0020%22"
   - bill_id: "r7363"
     title: "Home Affairs Legislation Amendment (2025 Measures No. 1) Bill 2025"
     status: "Before Reps"
     type: "Government"
     portfolio: "Home Affairs"
     originating_house: "House of Representatives"
-    summary: null
+    summary: "The bill: amends the Migration Act 1958 to provide that the rules of natural justice do not apply in relation to third country reception arrangements with a foreign country; and responds to the decision of the Full Court of the Federal Court in AJN23 v Minister for Immigration, Citizenship and Multicultural Affairs (2024) 304 FCR 586; [2024] FCAFC 103 by validating certain visa decisions made on or before 8 November 2023."
     sponsor_name: null
     sponsor_party: null
     sponsor_id: null
@@ -449,6 +467,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7363_first-reps/toc_pdf/25061b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28833%2F0005%22"
+  - bill_id: "r7364"
+    title: "Road Vehicle Standards Amendment (Safer E-Bikes) Bill 2025"
+    status: "Before Reps"
+    type: "Private"
+    portfolio: null
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: "Sophie Scamps"
+    sponsor_party: "Independent"
+    sponsor_id: "10989"
+    sponsor_division: "Mackellar"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7364_first-reps/toc_pdf/25064b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-01
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28843%2F0024%22"
   - bill_id: "s1174"
     title: "Broadcasting Services Amendment (Audio Description) Bill 2019"
     status: "Before Senate"
@@ -575,6 +611,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1389_first-senate/toc_pdf/23S2620.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-23
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27124%2F0171%22"
+  - bill_id: "s1406"
+    title: "Human Rights (Parliamentary Scrutiny) Amendment (Consideration of UNDRIP) Bill 2023"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Human Rights (Parliamentary Scrutiny) Act 2011 to amend the definition of ‘human rights’ to include the rights and freedoms outlined in the United Nations Declaration on the Rights of Indigenous Peoples."
+    sponsor_name: "Lidia Thorpe"
+    sponsor_party: "Independent"
+    sponsor_id: "10961"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1406_first-senate/toc_pdf/23S3920.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-01
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27148%2F0319%22"
   - bill_id: "s1413"
     title: "Competition and Consumer Amendment (Divestiture Powers) Bill 2024"
     status: "Before Senate"
@@ -933,7 +987,7 @@ pending:
     minister_id: "10838"
     minister_division: "ACT"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1458_first-senate/toc_pdf/2503620.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-25
+    last_updated: 2025-09-01
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0165%22"
   - bill_id: "s1461"
     title: "Electoral Legislation Amendment (Electoral Communications) Bill 2025 (No. 2)"
@@ -977,7 +1031,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "Amends the Members of Parliament (Staff) Act 1984 to provide non-government parliamentarians with a guaranteed minimum number of non-ministerial personal employees."
     sponsor_name: "Michaelia Cash"
     sponsor_party: "Liberal"
     sponsor_id: "10707"
@@ -995,7 +1049,7 @@ pending:
     type: "Private"
     portfolio: null
     originating_house: "Senate"
-    summary: null
+    summary: "Amends the A New Tax System (Family Assistance) (Administration) Act 1999, Social Security Act 1991, Social Security (Administration) Act 1999 and Student Assistance Act 1973 to respond to certain recommendations of the Report of the Royal Commission into the Robodebt Scheme."
     sponsor_name: "Penny Allman-Payne"
     sponsor_party: "Greens"
     sponsor_id: "11002"
@@ -1064,7 +1118,7 @@ passed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0028%22"
   - bill_id: "r7335"
     title: "Fair Work Amendment (Protecting Penalty and Overtime Rates) Bill 2025"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Employment and Workplace Relations"
     originating_house: "House of Representatives"
@@ -1100,7 +1154,7 @@ passed:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0012%22"
   - bill_id: "r7337"
     title: "Defence Housing Australia Amendment Bill 2025"
-    status: "Assent"
+    status: "Act"
     type: "Government"
     portfolio: "Defence"
     originating_house: "House of Representatives"
@@ -1134,6 +1188,42 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7342_aspassed/toc_pdf/25041b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0008%22"
+  - bill_id: "s1459"
+    title: "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) Bill 2025"
+    status: "Act"
+    type: "Government"
+    portfolio: "Education"
+    originating_house: "Senate"
+    summary: "Introduced with the Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Bill 2025, the bill provides for a National Higher Education Code to Prevent and Respond to Gender-based Violence which may impose certain requirements and standards on higher education providers in relation to gender-based violence."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Katy Gallagher"
+    minister_party: "Labor"
+    minister_id: "10838"
+    minister_division: "ACT"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1459_aspassed/toc_pdf/2504020.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22"
+  - bill_id: "s1460"
+    title: "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Bill 2025"
+    status: "Act"
+    type: "Government"
+    portfolio: "Education"
+    originating_house: "Senate"
+    summary: "Introduced with the Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) Bill 2025, the bill amends the Higher Education Support Act 2003 to make compliance with the National Higher Education Code to Prevent and Respond to Gender-based Violence a quality and accountability requirement for higher education providers approved under the Act."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Katy Gallagher"
+    minister_party: "Labor"
+    minister_id: "10838"
+    minister_division: "ACT"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1460_aspassed/toc_pdf/2503920.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-08-28
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22"
 failed:
   - bill_id: "s1463"
     title: "Sex Discrimination Amendment (Restoring Biological Definitions) Bill 2025"
