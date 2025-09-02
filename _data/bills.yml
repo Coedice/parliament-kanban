@@ -53,42 +53,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7339_first-reps/toc_pdf/25033b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-23
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0094%22"
-  - bill_id: "r7340"
-    title: "Health Insurance (Pathology) (Fees) (Repeal) Bill 2025"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Health, Disability and Ageing"
-    originating_house: "House of Representatives"
-    summary: null
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Rebecca White"
-    minister_party: "Labor"
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7340_first-reps/toc_pdf/25034b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-31
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0036%22"
-  - bill_id: "r7341"
-    title: "Pacific Banking Guarantee Bill 2025"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Treasury"
-    originating_house: "House of Representatives"
-    summary: "Appropriates money out of the Consolidated Revenue Fund for the purpose of meeting any liabilities that the Commonwealth may incur under a Pacific banking guarantee entered into with an Australian-headquartered authorised deposit-taking institution operating in the Pacific region."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Daniel Mulino"
-    minister_party: "Labor"
-    minister_id: "10925"
-    minister_division: "Fraser"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7341_first-reps/toc_pdf/25038b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-28
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0040%22"
   - bill_id: "r7343"
     title: "Aged Care and Other Legislation Amendment Bill 2025"
     status: "Before Senate"
@@ -105,7 +69,7 @@ pending:
     minister_id: "10982"
     minister_division: "Hawke"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7343_first-reps/toc_pdf/25042b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-26
+    last_updated: 2025-09-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0020%22"
   - bill_id: "r7344"
     title: "Aged Care (Accommodation Payment Security) Levy Amendment Bill 2025"
@@ -123,26 +87,8 @@ pending:
     minister_id: "10982"
     minister_division: "Hawke"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7344_first-reps/toc_pdf/25043b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-26
+    last_updated: 2025-09-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0024%22"
-  - bill_id: "r7345"
-    title: "National Health Amendment (Cheaper Medicines) Bill 2025"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Health, Disability and Ageing"
-    originating_house: "House of Representatives"
-    summary: "Amends the National Health Act 1953 to reduce the Pharmaceutical Benefits Scheme general patient charge from $31.60 to $25.00 from 1 January 2026."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Mark Butler"
-    minister_party: "Labor"
-    minister_id: "10086"
-    minister_division: "Hindmarsh"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7345_first-reps/toc_pdf/25044b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-09-01
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0009%22"
   - bill_id: "r7346"
     title: "Repeal Net Zero Bill 2025"
     status: "Before Reps"
@@ -159,7 +105,7 @@ pending:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7346_first-reps/toc_pdf/25050b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-25
+    last_updated: 2025-09-01
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28812%2F0010%22"
   - bill_id: "r7347"
     title: "Criminal Code Amendment (Using Technology to Generate Child Abuse Material) Bill 2025"
@@ -199,7 +145,7 @@ pending:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28812%2F0020%22"
   - bill_id: "r7349"
     title: "Commonwealth Workplace Protection Orders Bill 2025"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Home Affairs"
     originating_house: "House of Representatives"
@@ -213,7 +159,7 @@ pending:
     minister_id: "10081"
     minister_division: "Watson"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7349_first-reps/toc_pdf/25048b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-28
+    last_updated: 2025-09-01
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28815%2F0019%22"
   - bill_id: "r7350"
     title: "Strengthening Oversight of the National Intelligence Community Bill 2025"
@@ -267,7 +213,7 @@ pending:
     minister_id: "10925"
     minister_division: "Fraser"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7352_first-reps/toc_pdf/25045b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-30
+    last_updated: 2025-09-01
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0025%22"
   - bill_id: "r7353"
     title: "Appropriation Bill (No. 2) 2025-2026"
@@ -285,7 +231,7 @@ pending:
     minister_id: "10925"
     minister_division: "Fraser"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7353_first-reps/toc_pdf/25046b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-30
+    last_updated: 2025-09-01
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0021%22"
   - bill_id: "r7354"
     title: "Appropriation Bill (No. 1) 2025-2026"
@@ -303,7 +249,7 @@ pending:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7354_first-reps/toc_pdf/25047b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-30
+    last_updated: 2025-09-01
     second_reading_hansard_url: null
   - bill_id: "r7355"
     title: "Social Security and Other Legislation Amendment (Responding to Robodebt) Bill 2025"
@@ -465,7 +411,7 @@ pending:
     minister_id: "10081"
     minister_division: "Watson"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7363_first-reps/toc_pdf/25061b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-26
+    last_updated: 2025-09-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28833%2F0005%22"
   - bill_id: "r7364"
     title: "Road Vehicle Standards Amendment (Safer E-Bikes) Bill 2025"
@@ -970,24 +916,6 @@ pending:
     minister_division: "ACT"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1457_first-senate/toc_pdf/2503520.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-23
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0165%22"
-  - bill_id: "s1458"
-    title: "Health Legislation Amendment (Improved Medicare Integrity and Other Measures) Bill 2025"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Health, Disability and Ageing"
-    originating_house: "Senate"
-    summary: "Amends the: Dental Benefits Act 2008 and Health Insurance Act 1973 to change the timeframe for making claims relating to bulk-billed Medicare and dental services from 2 years to 1 year; Human Services (Medicare) Act 1973 to update investigative powers in relation to Medicare fraud offences; National Health Act 1953 to streamline pharmacy approval processes; Therapeutic Goods Act 1989 to: enable the department to manage and alleviate the consequences of therapeutic goods shortages; and support compliance and enforcement activities undertaken in relation to unlawful therapeutic and vaping goods; and Public Health (Tobacco and Other Products) Act 2023 to clarify the intended operation of certain provisions."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Katy Gallagher"
-    minister_party: "Labor"
-    minister_id: "10838"
-    minister_division: "ACT"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1458_first-senate/toc_pdf/2503620.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-09-01
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0165%22"
   - bill_id: "s1461"
     title: "Electoral Legislation Amendment (Electoral Communications) Bill 2025 (No. 2)"
