@@ -17,24 +17,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7332_first-reps/toc_pdf/25027b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-22
     second_reading_hansard_url: null
-  - bill_id: "r7338"
-    title: "Australian Security Intelligence Organisation Amendment Bill (No. 1) 2025"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Home Affairs"
-    originating_house: "House of Representatives"
-    summary: "Amends the Australian Security Intelligence Organisation Act 1979 to extend the operation of the Australian Security Intelligence Organisation’s compulsory questioning warrant framework for a further 18 months."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Tony Burke"
-    minister_party: "Labor"
-    minister_id: "10081"
-    minister_division: "Watson"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7338_first-reps/toc_pdf/25032b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-31
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0090%22"
   - bill_id: "r7339"
     title: "Australian Security Intelligence Organisation Amendment Bill (No. 2) 2025"
     status: "Before Reps"
@@ -53,42 +35,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7339_first-reps/toc_pdf/25033b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-23
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0094%22"
-  - bill_id: "r7343"
-    title: "Aged Care and Other Legislation Amendment Bill 2025"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Health, Disability and Ageing"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Aged Care (Accommodation Payment Security) Levy Amendment Bill 2025, the bill supports the commencement of the Aged Care Act 2024 by amending: the Aged Care Act 2024 and Aged Care (Consequential and Transitional Provisions) Act 2024 to make technical amendments and editorial corrections; 23 Acts to make consequential amendments; and the Healthcare Identifiers Act 2010 to enable healthcare identifiers and other identifying information to be used in relation to the delivery and administration of health and aged care and other support services, including disability services."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Sam Rae"
-    minister_party: "Labor"
-    minister_id: "10982"
-    minister_division: "Hawke"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7343_first-reps/toc_pdf/25042b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-09-02
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0020%22"
-  - bill_id: "r7344"
-    title: "Aged Care (Accommodation Payment Security) Levy Amendment Bill 2025"
-    status: "Before Senate"
-    type: "Government"
-    portfolio: "Health, Disability and Ageing"
-    originating_house: "House of Representatives"
-    summary: "Introduced with the Aged Care and Other Legislation Amendment Bill 2025, the bill supports the commencement of the Aged Care Act 2024 by amending the Aged Care (Accommodation Payment Security) Levy Act 2006 to ensure that the Act operates as intended."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Sam Rae"
-    minister_party: "Labor"
-    minister_id: "10982"
-    minister_division: "Hawke"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7344_first-reps/toc_pdf/25043b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-09-02
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0024%22"
   - bill_id: "r7346"
     title: "Repeal Net Zero Bill 2025"
     status: "Before Reps"
@@ -179,24 +125,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7350_first-reps/toc_pdf/25049b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-30
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0013%22"
-  - bill_id: "r7351"
-    title: "Treasury Laws Amendment (Payments System Modernisation) Bill 2025"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Treasury"
-    originating_house: "House of Representatives"
-    summary: "Amends the Payment Systems (Regulation) Act 1998 to: expand the coverage of the payments regulatory framework to include new and emerging payment systems and participants; provide for new ministerial powers to designate payment systems when it is in the national interest to do so; and introduce civil penalty provisions and enforceable undertakings, and increase maximum penalties for certain criminal offences. Also makes consequential amendments to 4 other Acts."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Daniel Mulino"
-    minister_party: "Labor"
-    minister_id: "10925"
-    minister_division: "Fraser"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7351_first-reps/toc_pdf/25053b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-30
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0029%22"
   - bill_id: "r7352"
     title: "Appropriation (Parliamentary Departments) Bill (No. 1) 2025-2026"
     status: "Before Reps"
@@ -213,7 +141,7 @@ pending:
     minister_id: "10925"
     minister_division: "Fraser"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7352_first-reps/toc_pdf/25045b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-09-01
+    last_updated: 2025-09-04
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0025%22"
   - bill_id: "r7353"
     title: "Appropriation Bill (No. 2) 2025-2026"
@@ -231,7 +159,7 @@ pending:
     minister_id: "10925"
     minister_division: "Fraser"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7353_first-reps/toc_pdf/25046b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-09-01
+    last_updated: 2025-09-04
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0021%22"
   - bill_id: "r7354"
     title: "Appropriation Bill (No. 1) 2025-2026"
@@ -244,13 +172,13 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
+    minister_name: "Jodie Belyea"
     minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_id: "11018"
+    minister_division: "Dunkley"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7354_first-reps/toc_pdf/25047b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-09-01
-    second_reading_hansard_url: null
+    last_updated: 2025-09-04
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0171%22"
   - bill_id: "r7355"
     title: "Social Security and Other Legislation Amendment (Responding to Robodebt) Bill 2025"
     status: "Before Reps"
@@ -321,11 +249,11 @@ pending:
     minister_id: "10931"
     minister_division: "Lilley"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7358_first-reps/toc_pdf/25057b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-28
+    last_updated: 2025-09-04
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0005%22"
   - bill_id: "r7359"
     title: "Defence Amendment (Defence Honours and Awards Appeals Tribunal) Bill 2025"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Defence"
     originating_house: "House of Representatives"
@@ -334,13 +262,13 @@ pending:
     sponsor_party: null
     sponsor_id: null
     sponsor_division: null
-    minister_name: null
-    minister_party: "Labor"
-    minister_id: null
-    minister_division: null
+    minister_name: "Darren Chester"
+    minister_party: "Nationals"
+    minister_id: "10703"
+    minister_division: "Gippsland"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7359_first-reps/toc_pdf/25059b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-28
-    second_reading_hansard_url: null
+    last_updated: 2025-09-04
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0036%22"
   - bill_id: "r7360"
     title: "Telecommunications and Other Legislation Amendment Bill 2025"
     status: "Before Reps"
@@ -361,7 +289,7 @@ pending:
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28836%2F0014%22"
   - bill_id: "r7361"
     title: "Environment Protection and Biodiversity Conservation Amendment (Board of Management Functions) Bill 2025"
-    status: "Before Reps"
+    status: "Before Senate"
     type: "Government"
     portfolio: "Climate Change, Energy, the Environment and Water"
     originating_house: "House of Representatives"
@@ -375,7 +303,7 @@ pending:
     minister_id: "10893"
     minister_division: "Fremantle"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7361_first-reps/toc_pdf/25058b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-27
+    last_updated: 2025-09-04
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28836%2F0018%22"
   - bill_id: "r7362"
     title: "Australia Day Bill 2025"
@@ -395,24 +323,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7362_first-reps/toc_pdf/25063b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-09-01
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28843%2F0020%22"
-  - bill_id: "r7363"
-    title: "Home Affairs Legislation Amendment (2025 Measures No. 1) Bill 2025"
-    status: "Before Reps"
-    type: "Government"
-    portfolio: "Home Affairs"
-    originating_house: "House of Representatives"
-    summary: "The bill: amends the Migration Act 1958 to provide that the rules of natural justice do not apply in relation to third country reception arrangements with a foreign country; and responds to the decision of the Full Court of the Federal Court in AJN23 v Minister for Immigration, Citizenship and Multicultural Affairs (2024) 304 FCR 586; [2024] FCAFC 103 by validating certain visa decisions made on or before 8 November 2023."
-    sponsor_name: null
-    sponsor_party: null
-    sponsor_id: null
-    sponsor_division: null
-    minister_name: "Tony Burke"
-    minister_party: "Labor"
-    minister_id: "10081"
-    minister_division: "Watson"
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7363_first-reps/toc_pdf/25061b01.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-09-02
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28833%2F0005%22"
   - bill_id: "r7364"
     title: "Road Vehicle Standards Amendment (Safer E-Bikes) Bill 2025"
     status: "Before Reps"
@@ -431,6 +341,150 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7364_first-reps/toc_pdf/25064b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-09-01
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28843%2F0024%22"
+  - bill_id: "r7365"
+    title: "Administrative Review Tribunal and Other Legislation Amendment Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Attorney-General"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Michelle Rowland"
+    minister_party: "Labor"
+    minister_id: "10751"
+    minister_division: "Greenway"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7365_first-reps/toc_pdf/25066b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-03
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0020%22"
+  - bill_id: "r7366"
+    title: "Health Legislation Amendment (Miscellaneous Measures No. 1) Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Health, Disability and Ageing"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: null
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7366_first-reps/toc_pdf/25065b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-04
+    second_reading_hansard_url: null
+  - bill_id: "r7367"
+    title: "Treasury Laws Amendment (Strengthening Financial Systems and Other Measures) Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Andrew Leigh"
+    minister_party: "Labor"
+    minister_id: "10746"
+    minister_division: "Fenner"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7367_first-reps/toc_pdf/25067b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-04
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0031%22"
+  - bill_id: "r7368"
+    title: "Private Health Insurance (National Joint Replacement Register Levy) Amendment Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Health and Ageing"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Rebecca White"
+    minister_party: "Labor"
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7368_first-reps/toc_pdf/25062b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-04
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0039%22"
+  - bill_id: "r7369"
+    title: "Australian Centre for Disease Control Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Health, Disability and Ageing"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Mark Butler"
+    minister_party: "Labor"
+    minister_id: "10086"
+    minister_division: "Hindmarsh"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7369_first-reps/toc_pdf/25068b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-03
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0024%22"
+  - bill_id: "r7370"
+    title: "Social Security and Other Legislation Amendment (Technical Changes No. 2) Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Social Services"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Tanya Plibersek"
+    minister_party: "Labor"
+    minister_id: "10513"
+    minister_division: "Sydney"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7370_first-reps/toc_pdf/25070b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-04
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0027%22"
+  - bill_id: "r7371"
+    title: "Freedom of Information Amendment Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Attorney-General"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Michelle Rowland"
+    minister_party: "Labor"
+    minister_id: "10751"
+    minister_division: "Greenway"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7371_first-reps/toc_pdf/25071b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-03
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0016%22"
+  - bill_id: "r7372"
+    title: "Australian Centre for Disease Control (Consequential Amendments and Transitional Provisions) Bill 2025"
+    status: "Before Reps"
+    type: "Government"
+    portfolio: "Health, Disability and Ageing"
+    originating_house: "House of Representatives"
+    summary: null
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Mark Butler"
+    minister_party: "Labor"
+    minister_id: "10086"
+    minister_division: "Hindmarsh"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7372_first-reps/toc_pdf/25069b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-03
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0028%22"
   - bill_id: "s1174"
     title: "Broadcasting Services Amendment (Audio Description) Bill 2019"
     status: "Before Senate"
@@ -611,6 +665,24 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1416_first-senate/toc_pdf/24S1120.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-23
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27644%2F0100%22"
+  - bill_id: "s1417"
+    title: "Commission of Inquiry into Antisemitism at Australian Universities Bill 2024"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Establishes a commission of inquiry into antisemitism at Australian universities."
+    sponsor_name: "Sarah Henderson"
+    sponsor_party: "Liberal"
+    sponsor_id: "10790"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1417_first-senate/toc_pdf/24S0920.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-02
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27644%2F0095%22"
   - bill_id: "s1419"
     title: "Digital ID Repeal Bill 2024"
     status: "Before Senate"
@@ -807,7 +879,7 @@ pending:
     minister_id: null
     minister_division: null
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1446_first-senate/toc_pdf/25S0620.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-23
+    last_updated: 2025-09-04
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28694%2F0151%22"
   - bill_id: "s1447"
     title: "Constitution Alteration (Right to Free Speech) 2025"
@@ -915,7 +987,7 @@ pending:
     minister_id: "10838"
     minister_division: "ACT"
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1457_first-senate/toc_pdf/2503520.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-07-23
+    last_updated: 2025-09-04
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0165%22"
   - bill_id: "s1461"
     title: "Electoral Legislation Amendment (Electoral Communications) Bill 2025 (No. 2)"
@@ -953,24 +1025,6 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1462_first-senate/toc_pdf/25S1620.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-30
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28821%2F0206%22"
-  - bill_id: "s1464"
-    title: "Members of Parliament (Staff) Amendment (Providing Certainty and Improving Integrity) Bill 2025"
-    status: "Before Senate"
-    type: "Private"
-    portfolio: null
-    originating_house: "Senate"
-    summary: "Amends the Members of Parliament (Staff) Act 1984 to provide non-government parliamentarians with a guaranteed minimum number of non-ministerial personal employees."
-    sponsor_name: "Michaelia Cash"
-    sponsor_party: "Liberal"
-    sponsor_id: "10707"
-    sponsor_division: "WA"
-    minister_name: null
-    minister_party: null
-    minister_id: null
-    minister_division: null
-    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1464_first-senate/toc_pdf/S25S1820.pdf;fileType=application%2Fpdf"
-    last_updated: 2025-08-28
-    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28831%2F0191%22"
   - bill_id: "s1466"
     title: "Social Security and Other Legislation Amendment (Responding to Robodebt) Bill 2025 [No. 2]"
     status: "Before Senate"
@@ -989,6 +1043,78 @@ pending:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1466_first-senate/toc_pdf/25S1920.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-26
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28834%2F0127%22"
+  - bill_id: "s1467"
+    title: "Public Governance, Performance and Accountability Amendment (Ban Unethical Contractors) Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Barbara Pocock"
+    sponsor_party: "Greens"
+    sponsor_id: "11008"
+    sponsor_division: "SA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1467_first-senate/toc_pdf/25S2120.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-04
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0069%22"
+  - bill_id: "s1468"
+    title: "Housing Australia Amendment (Accountability) Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Andrew Bragg"
+    sponsor_party: "Liberal"
+    sponsor_id: "10945"
+    sponsor_division: "NSW"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1468_first-senate/toc_pdf/25S2020.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-04
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0074%22"
+  - bill_id: "s1469"
+    title: "Repeal Net Zero Bill 2025 [No. 2]"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Matthew Canavan"
+    sponsor_party: "Liberal National Party"
+    sponsor_id: "10827"
+    sponsor_division: "Queensland"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1469_first-senate/toc_pdf/25S2220.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-04
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0098%22"
+  - bill_id: "s1470"
+    title: "Superannuation Legislation Amendment (Tackling the Gender Super Gap) Bill 2025"
+    status: "Before Senate"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: null
+    sponsor_name: "Jane Hume"
+    sponsor_party: "Liberal"
+    sponsor_id: "10853"
+    sponsor_division: "Victoria"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1470_first-senate/toc_pdf/25S2320.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-04
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0196%22"
   - bill_id: "s996"
     title: "Landholders&rsquo; Right to Refuse (Gas and Coal) Bill 2015"
     status: "Before Senate"
@@ -1116,6 +1242,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7342_aspassed/toc_pdf/25041b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0008%22"
+  - bill_id: "s1458"
+    title: "Health Legislation Amendment (Improved Medicare Integrity and Other Measures) Bill 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Health, Disability and Ageing"
+    originating_house: "Senate"
+    summary: "Amends the: Dental Benefits Act 2008 and Health Insurance Act 1973 to change the timeframe for making claims relating to bulk-billed Medicare and dental services from 2 years to 1 year; Human Services (Medicare) Act 1973 to update investigative powers in relation to Medicare fraud offences; National Health Act 1953 to streamline pharmacy approval processes; Therapeutic Goods Act 1989 to: enable the department to manage and alleviate the consequences of therapeutic goods shortages; and support compliance and enforcement activities undertaken in relation to unlawful therapeutic and vaping goods; and Public Health (Tobacco and Other Products) Act 2023 to clarify the intended operation of certain provisions."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Katy Gallagher"
+    minister_party: "Labor"
+    minister_id: "10838"
+    minister_division: "ACT"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1458_aspassed/toc_pdf/2503620.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-04
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0165%22"
   - bill_id: "s1459"
     title: "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) Bill 2025"
     status: "Act"
@@ -1171,3 +1315,21 @@ failed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1463_first-senate/toc_pdf/25s1720.pdf;fileType=application%2Fpdf"
     last_updated: 2025-07-31
     second_reading_hansard_url: null
+  - bill_id: "s1464"
+    title: "Members of Parliament (Staff) Amendment (Providing Certainty and Improving Integrity) Bill 2025"
+    status: "Not Proceeding"
+    type: "Private"
+    portfolio: null
+    originating_house: "Senate"
+    summary: "Amends the Members of Parliament (Staff) Act 1984 to provide non-government parliamentarians with a guaranteed minimum number of non-ministerial personal employees."
+    sponsor_name: "Michaelia Cash"
+    sponsor_party: "Liberal"
+    sponsor_id: "10707"
+    sponsor_division: "WA"
+    minister_name: null
+    minister_party: null
+    minister_id: null
+    minister_division: null
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1464_first-senate/toc_pdf/S25S1820.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-03
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28831%2F0191%22"
