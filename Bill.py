@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 from termcolor import colored
 
 from MP import MP
+from SystemID import SystemID
 
 _DOWNLOAD_RETRIES = 10
 _DOWNLOAD_DELAY_SECONDS = 30
@@ -193,19 +194,24 @@ class Bill:
         if minister_second_reading_url is None:
             return None
 
-        # Convert parlinfo URL to aph.gov.au JSON URL
-        minister_second_reading_url = re.sub(
-            r"https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22(\w+)%2F(\w+)%2F(\d+)%2F(\d+)%22",
-            r"https://www.aph.gov.au/api/hansard/transcript?id=\1%2F\2%2F\3%2F\4",
-            minister_second_reading_url,
-        )
+        name_text = None
+        system_id = SystemID(minister_second_reading_url)
 
-        # Get speech JSON
-        json_str = self._download_page(minister_second_reading_url)
-        speech_json = json.loads(json_str)
+        while name_text is None:
+            # Get aph.gov.au JSON URL
+            minister_second_reading_url = system_id.json_url()
 
-        # Get MP name
-        name_text = speech_json.get("Speaker")
+            # Get speech JSON
+            json_str = self._download_page(minister_second_reading_url)
+            speech_json = json.loads(json_str)
+
+            # Ensure the speech is the minister's second reading
+            if speech_json.get("Title") != "":
+                system_id.progress()
+                continue
+
+            # Get MP name
+            name_text = speech_json.get("Speaker")
 
         # Format name
         name_parts = (
