@@ -1224,6 +1224,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7337_aspassed/toc_pdf/25037b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-28
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0016%22"
+  - bill_id: "r7340"
+    title: "Health Insurance (Pathology) (Fees) (Repeal) Bill 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Health, Disability and Ageing"
+    originating_house: "House of Representatives"
+    summary: "Removes fees imposed on the pathology sector for the approval of certain categories of pathology accreditation applications by repealing the Health Insurance (Pathology (Fees) Act 1991 and Health Insurance (Pathology) (Fees) Amendment (Norfolk Island) Act 2015. Also makes consequential amendments to the Health Insurance Act 1973."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Rebecca White"
+    minister_party: "Labor"
+    minister_id: "11052"
+    minister_division: "Lyons"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7340_aspassed/toc_pdf/25034b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-04
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0036%22"
   - bill_id: "r7342"
     title: "Universities Accord (Cutting Student Debt by 20 Per Cent) Bill 2025"
     status: "Act"
@@ -1242,6 +1260,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7342_aspassed/toc_pdf/25041b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0008%22"
+  - bill_id: "r7345"
+    title: "National Health Amendment (Cheaper Medicines) Bill 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Health, Disability and Ageing"
+    originating_house: "House of Representatives"
+    summary: "Amends the National Health Act 1953 to reduce the Pharmaceutical Benefits Scheme general patient charge from $31.60 to $25.00 from 1 January 2026."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Mark Butler"
+    minister_party: "Labor"
+    minister_id: "10086"
+    minister_division: "Hindmarsh"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7345_aspassed/toc_pdf/25044b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-04
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0009%22"
   - bill_id: "s1458"
     title: "Health Legislation Amendment (Improved Medicare Integrity and Other Measures) Bill 2025"
     status: "Assent"
