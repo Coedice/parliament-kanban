@@ -1224,6 +1224,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7337_aspassed/toc_pdf/25037b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-28
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0016%22"
+  - bill_id: "r7338"
+    title: "Australian Security Intelligence Organisation Amendment Bill (No. 1) 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Home Affairs"
+    originating_house: "House of Representatives"
+    summary: "Amends the Australian Security Intelligence Organisation Act 1979 to extend the operation of the Australian Security Intelligence Organisation’s compulsory questioning warrant framework for a further 18 months."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Tony Burke"
+    minister_party: "Labor"
+    minister_id: "10081"
+    minister_division: "Watson"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7338_aspassed/toc_pdf/25032b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-05
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0090%22"
   - bill_id: "r7340"
     title: "Health Insurance (Pathology) (Fees) (Repeal) Bill 2025"
     status: "Assent"
@@ -1242,6 +1260,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7340_aspassed/toc_pdf/25034b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-09-04
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0036%22"
+  - bill_id: "r7341"
+    title: "Pacific Banking Guarantee Bill 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Treasury"
+    originating_house: "House of Representatives"
+    summary: "Appropriates money out of the Consolidated Revenue Fund for the purpose of meeting any liabilities that the Commonwealth may incur under a Pacific banking guarantee entered into with an Australian-headquartered authorised deposit-taking institution operating in the Pacific region."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Daniel Mulino"
+    minister_party: "Labor"
+    minister_id: "10925"
+    minister_division: "Fraser"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7341_aspassed/toc_pdf/25038b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-05
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0040%22"
   - bill_id: "r7342"
     title: "Universities Accord (Cutting Student Debt by 20 Per Cent) Bill 2025"
     status: "Act"
@@ -1260,6 +1296,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7342_aspassed/toc_pdf/25041b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-08-02
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0008%22"
+  - bill_id: "r7344"
+    title: "Aged Care (Accommodation Payment Security) Levy Amendment Bill 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Health, Disability and Ageing"
+    originating_house: "House of Representatives"
+    summary: "Introduced with the Aged Care and Other Legislation Amendment Bill 2025, the bill supports the commencement of the Aged Care Act 2024 by amending the Aged Care (Accommodation Payment Security) Levy Act 2006 to ensure that the Act operates as intended."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Sam Rae"
+    minister_party: "Labor"
+    minister_id: "10982"
+    minister_division: "Hawke"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7344_aspassed/toc_pdf/25043b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-05
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0024%22"
   - bill_id: "r7345"
     title: "National Health Amendment (Cheaper Medicines) Bill 2025"
     status: "Assent"
@@ -1278,6 +1332,24 @@ passed:
     pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7345_aspassed/toc_pdf/25044b01.pdf;fileType=application%2Fpdf"
     last_updated: 2025-09-04
     second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0009%22"
+  - bill_id: "r7363"
+    title: "Home Affairs Legislation Amendment (2025 Measures No. 1) Bill 2025"
+    status: "Assent"
+    type: "Government"
+    portfolio: "Home Affairs"
+    originating_house: "House of Representatives"
+    summary: "The bill: amends the Migration Act 1958 to provide that the rules of natural justice do not apply in relation to third country reception arrangements with a foreign country; and responds to the decision of the Full Court of the Federal Court in AJN23 v Minister for Immigration, Citizenship and Multicultural Affairs (2024) 304 FCR 586; [2024] FCAFC 103 by validating certain visa decisions made on or before 8 November 2023."
+    sponsor_name: null
+    sponsor_party: null
+    sponsor_id: null
+    sponsor_division: null
+    minister_name: "Tony Burke"
+    minister_party: "Labor"
+    minister_id: "10081"
+    minister_division: "Watson"
+    pdf_url: "https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7363_aspassed/toc_pdf/25061b01.pdf;fileType=application%2Fpdf"
+    last_updated: 2025-09-05
+    second_reading_hansard_url: "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28833%2F0005%22"
   - bill_id: "s1458"
     title: "Health Legislation Amendment (Improved Medicare Integrity and Other Measures) Bill 2025"
     status: "Assent"
