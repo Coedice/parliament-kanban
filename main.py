@@ -4,7 +4,6 @@ import os
 from typing import List
 
 import requests
-import yaml
 from bs4 import BeautifulSoup
 from termcolor import colored
 
@@ -29,23 +28,6 @@ SECTIONS = [
 REPRESENTATIVES_URL = "http://data.openaustralia.org.au/members/representatives.xml"
 SENATORS_URL = "http://data.openaustralia.org.au/members/senators.xml"
 PEOPLE_URL = "http://data.openaustralia.org.au/members/people.xml"
-
-
-def get_saved_bills(target_section_name: str = None) -> List[str]:
-    with open("_data/bills.yml", "r") as f:
-        saved_bills = yaml.safe_load(f)
-
-    # Return existing bills for target section
-    if target_section_name is not None:
-        existing_bills = saved_bills[target_section_name]
-        return existing_bills if existing_bills is not None else []
-
-    # Collect all existing bills
-    existing_bills = []
-    for section_name, _ in SECTIONS:
-        existing_bills += saved_bills[section_name]
-
-    return existing_bills
 
 
 def get_bill_ids(section_name: str, bills_url: str, ids: List[str] = []) -> List[str]:
@@ -148,17 +130,8 @@ for section_name, url in SECTIONS:
         f.write(f"{section_name}:\n")
 
     # Download and write bills
-    existing_bills = get_saved_bills(section_name)
     for bill_id in get_bill_ids(section_name, url):
-        # Find matching existing bill
-        matching_existing_bill = None
-        for existing_bill in existing_bills:
-            if existing_bill["bill_id"] == bill_id:
-                matching_existing_bill = existing_bill
-                break
-
-        # Download and write bill
-        new_bill = Bill(bill_id, mps, matching_existing_bill)
+        new_bill = Bill(bill_id, mps)
         with open("_data/bills.yml.tmp", "a") as f:
             f.write(new_bill.yaml())
 
