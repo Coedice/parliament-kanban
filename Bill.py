@@ -1,9 +1,11 @@
 import json
+import re
 import time
 from datetime import datetime
 from typing import List, Optional
 
 import requests
+import yaml
 from bs4 import BeautifulSoup
 from termcolor import colored
 
@@ -235,39 +237,52 @@ class Bill:
         month = datetime.strptime(month_word, "%b").month
         return f"{year}-{str(month).zfill(2)}-{str(day).zfill(2)}"
 
-    def _yaml_value_wrapper(self, value, yaml_string: bool = True) -> str:
-        if value is None:
-            return "null"
-        elif yaml_string:
-            value = (
-                value.replace('"', "&quot;").replace("<", "&lt;").replace(">", "&gt;")
-            )
-            return f'"{value}"'
-
-        return value
-
     def yaml(self) -> str:
         """Convert bill to YAML."""
-        return f"""\
-  - bill_id: {self._yaml_value_wrapper(self.id)}
-    title: {self._yaml_value_wrapper(self._get_title())}
-    status: {self._yaml_value_wrapper(self._get_status())}
-    type: {self._yaml_value_wrapper(self._get_type())}
-    portfolio: {self._yaml_value_wrapper(self._get_portfolio())}
-    originating_house: {self._yaml_value_wrapper(self._get_originating_house())}
-    summary: {self._yaml_value_wrapper(self._get_summary())}
-    sponsor_name: {self._yaml_value_wrapper(self._get_sponsor_name())}
-    sponsor_party: {self._yaml_value_wrapper(self._get_introducer_party(self._get_sponsor_name()))}
-    sponsor_id: {self._yaml_value_wrapper(self._get_introducer_id(self._get_sponsor_name()))}
-    sponsor_division: {self._yaml_value_wrapper(self._get_introducer_division(self._get_sponsor_name()))}
-    minister_name: {self._yaml_value_wrapper(self.minister_name)}
-    minister_party: {self._yaml_value_wrapper(self._get_introducer_party(self.minister_name, True))}
-    minister_id: {self._yaml_value_wrapper(self._get_introducer_id(self.minister_name))}
-    minister_division: {self._yaml_value_wrapper(self._get_introducer_division(self.minister_name))}
-    pdf_url: {self._yaml_value_wrapper(self._get_pdf_url())}
-    last_updated: {self._yaml_value_wrapper(self._get_last_updated(), False)}
-    second_reading_hansard_url: {self._yaml_value_wrapper(self._get_second_reading_hansard_url())}
-"""
+
+        # Add null representer
+        yaml.add_representer(
+            type(None), lambda _, x: yaml.ScalarNode("tag:yaml.org,2002:null", "null")
+        )
+
+        # Add timestamp representer
+        yaml.add_representer(
+            str,
+            lambda _, x: yaml.ScalarNode(
+                "tag:yaml.org,2002:str"
+                if not re.compile(r"^\d{4}-\d{2}-\d{2}$").match(x)
+                else "tag:yaml.org,2002:timestamp",
+                x,
+            ),
+        )
+
+        # Construct YAML object
+        data = [
+            {
+                "bill_id": self.id,
+                "title": self._get_title(),
+                "status": self._get_status(),
+                "type": self._get_type(),
+                "portfolio": self._get_portfolio(),
+                "originating_house": self._get_originating_house(),
+                "summary": self._get_summary(),
+                "sponsor_name": self._get_sponsor_name(),
+                "sponsor_party": self._get_introducer_party(self._get_sponsor_name()),
+                "sponsor_id": self._get_introducer_id(self._get_sponsor_name()),
+                "sponsor_division": self._get_introducer_division(
+                    self._get_sponsor_name()
+                ),
+                "minister_name": self.minister_name,
+                "minister_party": self._get_introducer_party(self.minister_name, True),
+                "minister_id": self._get_introducer_id(self.minister_name),
+                "minister_division": self._get_introducer_division(self.minister_name),
+                "pdf_url": self._get_pdf_url(),
+                "last_updated": self._get_last_updated(),
+                "second_reading_hansard_url": self._get_second_reading_hansard_url(),
+            }
+        ]
+
+        return yaml.dump(data, default_flow_style=False, sort_keys=False)
 
     def __repr__(self) -> str:
         return f"{self.id}: {self._get_title()}"
