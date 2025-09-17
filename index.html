@@ -77,27 +77,15 @@ columns:
                         {% assign bills = bills | sort: "last_updated" | reverse %}
                     {% endif %}
                     {% for bill in bills %}
-                        {% if bill.type == "Government" %}
-                            {% assign assignee_id = bill.minister_id %}
-                            {% assign assignee_name = bill.minister_name %}
-                            {% assign assignee_party = bill.minister_party %}
-                            {% assign assignee_division = bill.minister_division %}
-                        {% else %}
-                            {% assign assignee_id = bill.sponsor_id %}
-                            {% assign assignee_name = bill.sponsor_name %}
-                            {% assign assignee_party = bill.sponsor_party %}
-                            {% assign assignee_division = bill.sponsor_division %}
-                        {% endif %}
-
-                        <div onclick="openBill('{{ bill.bill_id }}')" class="ticket {{ assignee_party | slugify }}" id="{{ bill.bill_id }}" data-date="{{ bill.last_updated }}">
+                        <div onclick="openBill('{{ bill.bill_id }}')" class="ticket {{ bill.introducer_party | slugify }}" id="{{ bill.bill_id }}" data-date="{{ bill.last_updated }}">
                             <img class="starIcon" alt="Star" title="Star this bill" onclick="toggleStar('{{ bill.bill_id }}')">
                             {% assign billTypeSlug = bill.type | slugify %}
                             <div class="assignee">
-                                {% if assignee_id %}
-                                    <img class="assigneeImage {{ bill.originating_house | slugify }}" src="https://www.openaustralia.org.au/images/mpsL/{{ assignee_id }}.jpg" alt="{{ assignee_name }}" title="{{ assignee_name }}">
+                                {% if bill.introducer_id %}
+                                    <img class="assigneeImage {{ bill.originating_house | slugify }}" src="https://www.openaustralia.org.au/images/mpsL/{{ bill.introducer_id }}.jpg" alt="{{ bill.introducer_name }}" title="{{ bill.introducer_name }}">
                                 {% endif %}
                                 {% for party in site.data.parties %}
-                                    {% if assignee_party == party.name and party.icon %}
+                                    {% if bill.introducer_party == party.name and party.icon %}
                                         <a href="{{ party.url }}" onclick="childClick(event)" target="_blank">
                                             <img class="partyIcon" src="{{ party.icon }}" alt="{{ party.name }} icon" title="{{ party.name }}">
                                         </a>
@@ -114,13 +102,13 @@ columns:
                                 {% if bill.type == "Government" %}
                                     <li>Portfolio: {{ bill.portfolio }}</li>
                                 {% endif %}
-                                {% if assignee_id %}
+                                {% if bill.introducer_id %}
                                     <li>
                                         {% if bill.type == "Government" %}Minister{% else %}Sponsor{% endif %}:
-                                        {% if bill.originating_house == "Senate" %}Senator for {{ assignee_division }},{% endif %}
-                                        {{ assignee_name }}
+                                        {% if bill.originating_house == "Senate" %}Senator for {{ bill.introducer_division }},{% endif %}
+                                        {{ bill.introducer_name }}
                                         {% if bill.originating_house == "House of Representatives" %}MP{% endif %}
-                                        ({{ assignee_party }}){% if bill.originating_house == "House of Representatives" %}, member for <a href="http://www.aec.gov.au/{{ assignee_division | downcase }}" onclick="childClick(event)" target="_blank">{{ assignee_division }}</a>{% endif %}
+                                        ({{ bill.introducer_party }}){% if bill.originating_house == "House of Representatives" %}, member for <a href="http://www.aec.gov.au/{{ bill.introducer_division | downcase }}" onclick="childClick(event)" target="_blank">{{ bill.introducer_division }}</a>{% endif %}
                                     </li>
                                 {% endif %}
                                 <li>Type: {% if bill.type == "Government" %}Government{% else %}Private member's{% endif %} bill</li>

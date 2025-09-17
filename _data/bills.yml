@@ -6,14 +6,10 @@ pending:
   portfolio: Prime Minister
   originating_house: House of Representatives
   summary: Amends the Therapeutic Goods Act 1989 to make a minor technical amendment.
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: null
-  minister_party: Labor
-  minister_id: null
-  minister_division: null
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7332_first-reps/toc_pdf/25027b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-22
   second_reading_hansard_url: null
@@ -33,14 +29,10 @@ pending:
     \ occur only before a prescribed authority who is a retired judge; and Intelligence\
     \ Services Act 2001 to enable a further review of the framework by the Parliamentary\
     \ Joint Committee on Intelligence and Security"
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Tony Burke
-  minister_party: Labor
-  minister_id: '10081'
-  minister_division: Watson
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7339_first-reps/toc_pdf/25033b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0094%22
@@ -57,14 +49,10 @@ pending:
     Future Made in Australia Act 2024 to remove references to net zero greenhouse
     gas emissions and the Paris Agreement; and National Greenhouse and Energy Reporting
     Act 2007 to remove the emissions reduction safeguard mechanism'
-  sponsor_name: Barnaby Joyce
-  sponsor_party: Nationals
-  sponsor_id: '10350'
-  sponsor_division: New England
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Barnaby Joyce
+  introducer_party: Nationals
+  introducer_id: '10350'
+  introducer_division: New England
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7346_first-reps/toc_pdf/25050b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28812%2F0010%22
@@ -77,14 +65,10 @@ pending:
   originating_house: House of Representatives
   summary: Amends the Criminal Code Act 1995 to create new offences for generating
     child abuse material using a carriage service.
-  sponsor_name: Kate Chaney
-  sponsor_party: Independent
-  sponsor_id: '10974'
-  sponsor_division: Curtin
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Kate Chaney
+  introducer_party: Independent
+  introducer_id: '10974'
+  introducer_division: Curtin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7347_first-reps/toc_pdf/25051b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28812%2F0015%22
@@ -104,14 +88,10 @@ pending:
     \ and Broadcasting Services Act 1992 and Special Broadcasting Service Act 1991\
     \ to remove the \u2018media blackout\u2019 period that prohibits electoral or\
     \ referendum advertising in the last 3 days of voting in an election or referendum."
-  sponsor_name: Zali Steggall
-  sponsor_party: Independent
-  sponsor_id: '10941'
-  sponsor_division: Warringah
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Zali Steggall
+  introducer_party: Independent
+  introducer_id: '10941'
+  introducer_division: Warringah
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7348_first-reps/toc_pdf/25052b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28812%2F0020%22
@@ -124,14 +104,10 @@ pending:
   summary: Establishes a scheme for courts to make Commonwealth workplace protection
     orders to prevent personal violence against Commonwealth workers or in Commonwealth
     workplaces.
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Tony Burke
-  minister_party: Labor
-  minister_id: '10081'
-  minister_division: Watson
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7349_first-reps/toc_pdf/25048b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28815%2F0019%22
@@ -164,14 +140,10 @@ pending:
     \ ensure that the INSLM is able to review counter-terrorism or national security\
     \ legislation; and make minor amendments. Also makes consequential amendments\
     \ to 15 Acts."
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Michelle Rowland
-  minister_party: Labor
-  minister_id: '10751'
-  minister_division: Greenway
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7350_first-reps/toc_pdf/25049b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0013%22
@@ -183,14 +155,10 @@ pending:
   originating_house: House of Representatives
   summary: Appropriates money out of the Consolidated Revenue Fund for expenditure
     in relation to the parliamentary departments.
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Daniel Mulino
-  minister_party: Labor
-  minister_id: '10925'
-  minister_division: Fraser
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7352_first-reps/toc_pdf/25045b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0025%22
@@ -201,14 +169,10 @@ pending:
   portfolio: Finance
   originating_house: House of Representatives
   summary: Appropriates money out of the Consolidated Revenue Fund for certain expenditure.
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Daniel Mulino
-  minister_party: Labor
-  minister_id: '10925'
-  minister_division: Fraser
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7353_first-reps/toc_pdf/25046b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0021%22
@@ -220,14 +184,10 @@ pending:
   originating_house: House of Representatives
   summary: Appropriates money out of the Consolidated Revenue Fund for the ordinary
     annual services of the government.
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Jodie Belyea
-  minister_party: Labor
-  minister_id: '11018'
-  minister_division: Dunkley
+  introducer_name: Jodie Belyea
+  introducer_party: Labor
+  introducer_id: '11018'
+  introducer_division: Dunkley
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7354_first-reps/toc_pdf/25047b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0171%22
@@ -242,14 +202,10 @@ pending:
     Social Security Act 1991, Social Security (Administration) Act 1999 and Student
     Assistance Act 1973 to respond to certain recommendations of the Report of the
     Royal Commission into the Robodebt Scheme.
-  sponsor_name: Andrew Wilkie
-  sponsor_party: Independent
-  sponsor_id: '10727'
-  sponsor_division: Clark
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Andrew Wilkie
+  introducer_party: Independent
+  introducer_id: '10727'
+  introducer_division: Clark
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7355_first-reps/toc_pdf/25054b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28830%2F0182%22
@@ -263,14 +219,10 @@ pending:
     for the establishment of an authority, national climate change risk assessments,
     national adaptation plans, guiding principles of decision-making, reporting requirements
     and statements of consideration and compatibility.
-  sponsor_name: Zali Steggall
-  sponsor_party: Independent
-  sponsor_id: '10941'
-  sponsor_division: Warringah
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Zali Steggall
+  introducer_party: Independent
+  introducer_id: '10941'
+  introducer_division: Warringah
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7356_first-reps/toc_pdf/25055b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28830%2F0187%22
@@ -283,14 +235,10 @@ pending:
   summary: "Amends the Higher Education Support Act 2003 to reduce the maximum student\
     \ contribution amount for a place in a unit of study relating to subjects specified\
     \ as \u2018society and culture\u2019."
-  sponsor_name: Dai Le
-  sponsor_party: Independent
-  sponsor_id: '10978'
-  sponsor_division: Fowler
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Dai Le
+  introducer_party: Independent
+  introducer_id: '10978'
+  introducer_division: Fowler
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7357_first-reps/toc_pdf/25056b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28830%2F0192%22
@@ -306,14 +254,10 @@ pending:
     Australian Communications and Media Authority; and amend existing arrangements
     relating to the application of penalty amounts for infringement notices and civil
     penalties.'
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Anika Wells
-  minister_party: Labor
-  minister_id: '10931'
-  minister_division: Lilley
+  introducer_name: Anika Wells
+  introducer_party: Labor
+  introducer_id: '10931'
+  introducer_division: Lilley
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7358_first-reps/toc_pdf/25057b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0005%22
@@ -326,14 +270,10 @@ pending:
   summary: Amends the Defence Act 1903 to amend the arrangements for review by the
     Defence Honours and Awards Appeals Tribunal of decisions relating to defence honours,
     defence awards and foreign awards.
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Darren Chester
-  minister_party: Nationals
-  minister_id: '10703'
-  minister_division: Gippsland
+  introducer_name: Darren Chester
+  introducer_party: Nationals
+  introducer_id: '10703'
+  introducer_division: Gippsland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7359_first-reps/toc_pdf/25059b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0036%22
@@ -351,14 +291,10 @@ pending:
     access to stored communications to enable agencies to undertake development and
     testing activities; and make a technical correction; and Crimes Act 1914 to clarify
     the threshold for authorising and varying controlled operations.'
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Tony Burke
-  minister_party: Labor
-  minister_id: '10081'
-  minister_division: Watson
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7360_first-reps/toc_pdf/25060b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28836%2F0014%22
@@ -373,14 +309,10 @@ pending:
     to enable a Board for a Commonwealth reserve to continue making decisions after
     a management plan expires, provided those decisions are consistent with the expired
     management plan.
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Josh Wilson
-  minister_party: Labor
-  minister_id: '10893'
-  minister_division: Fremantle
+  introducer_name: Josh Wilson
+  introducer_party: Labor
+  introducer_id: '10893'
+  introducer_division: Fremantle
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7361_first-reps/toc_pdf/25058b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28836%2F0018%22
@@ -391,14 +323,10 @@ pending:
   portfolio: null
   originating_house: House of Representatives
   summary: null
-  sponsor_name: Henry Pike
-  sponsor_party: Liberal National Party
-  sponsor_id: '10969'
-  sponsor_division: Bowman
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Henry Pike
+  introducer_party: Liberal National Party
+  introducer_id: '10969'
+  introducer_division: Bowman
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7362_first-reps/toc_pdf/25063b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28843%2F0020%22
@@ -409,14 +337,10 @@ pending:
   portfolio: null
   originating_house: House of Representatives
   summary: null
-  sponsor_name: Sophie Scamps
-  sponsor_party: Independent
-  sponsor_id: '10989'
-  sponsor_division: Mackellar
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Sophie Scamps
+  introducer_party: Independent
+  introducer_id: '10989'
+  introducer_division: Mackellar
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7364_first-reps/toc_pdf/25064b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28843%2F0024%22
@@ -427,14 +351,10 @@ pending:
   portfolio: Attorney-General
   originating_house: House of Representatives
   summary: null
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Michelle Rowland
-  minister_party: Labor
-  minister_id: '10751'
-  minister_division: Greenway
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7365_first-reps/toc_pdf/25066b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-03
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0020%22
@@ -445,14 +365,10 @@ pending:
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
   summary: null
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: null
-  minister_party: Labor
-  minister_id: null
-  minister_division: null
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7366_first-reps/toc_pdf/25065b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: null
@@ -464,14 +380,10 @@ pending:
   portfolio: Treasury
   originating_house: House of Representatives
   summary: null
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Andrew Leigh
-  minister_party: Labor
-  minister_id: '10746'
-  minister_division: Fenner
+  introducer_name: Andrew Leigh
+  introducer_party: Labor
+  introducer_id: '10746'
+  introducer_division: Fenner
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7367_first-reps/toc_pdf/25067b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0031%22
@@ -483,14 +395,10 @@ pending:
   portfolio: Health and Ageing
   originating_house: House of Representatives
   summary: null
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Rebecca White
-  minister_party: Labor
-  minister_id: '11052'
-  minister_division: Lyons
+  introducer_name: Rebecca White
+  introducer_party: Labor
+  introducer_id: '11052'
+  introducer_division: Lyons
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7368_first-reps/toc_pdf/25062b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0039%22
@@ -501,14 +409,10 @@ pending:
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
   summary: null
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Mark Butler
-  minister_party: Labor
-  minister_id: '10086'
-  minister_division: Hindmarsh
+  introducer_name: Mark Butler
+  introducer_party: Labor
+  introducer_id: '10086'
+  introducer_division: Hindmarsh
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7369_first-reps/toc_pdf/25068b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-03
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0024%22
@@ -520,14 +424,10 @@ pending:
   portfolio: Social Services
   originating_house: House of Representatives
   summary: null
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Tanya Plibersek
-  minister_party: Labor
-  minister_id: '10513'
-  minister_division: Sydney
+  introducer_name: Tanya Plibersek
+  introducer_party: Labor
+  introducer_id: '10513'
+  introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7370_first-reps/toc_pdf/25070b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0027%22
@@ -538,14 +438,10 @@ pending:
   portfolio: Attorney-General
   originating_house: House of Representatives
   summary: null
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Michelle Rowland
-  minister_party: Labor
-  minister_id: '10751'
-  minister_division: Greenway
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7371_first-reps/toc_pdf/25071b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-03
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0016%22
@@ -557,14 +453,10 @@ pending:
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
   summary: null
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Mark Butler
-  minister_party: Labor
-  minister_id: '10086'
-  minister_division: Hindmarsh
+  introducer_name: Mark Butler
+  introducer_party: Labor
+  introducer_id: '10086'
+  introducer_division: Hindmarsh
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7372_first-reps/toc_pdf/25069b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-03
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0028%22
@@ -579,14 +471,10 @@ pending:
     to provide a minimum number of hours of television audio description per week;
     and provide for the Australian Communications and Media Authority to enforce and
     review the new requirement.'
-  sponsor_name: Jordon Steele-John
-  sponsor_party: Greens
-  sponsor_id: '10901'
-  sponsor_division: WA
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Jordon Steele-John
+  introducer_party: Greens
+  introducer_id: '10901'
+  introducer_division: WA
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1174_first-senate/toc_pdf/1904320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F1b090c4f-e4d9-4785-a733-b5270139d035%2F0116%22
@@ -603,14 +491,10 @@ pending:
     on political, historical and scientific issues; and Australian Education Act 2013
     to make financial assistance to a state or territory conditional on the state
     or territory having certain laws in force.'
-  sponsor_name: Pauline Hanson
-  sponsor_party: One Nation
-  sponsor_id: '10280'
-  sponsor_division: Queensland
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Pauline Hanson
+  introducer_party: One Nation
+  introducer_id: '10280'
+  introducer_division: Queensland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1254_first-senate/toc_pdf/20S0220.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F9d240fa9-ef9a-4ac9-ae29-3090a8cdcd5e%2F0131%22
@@ -624,14 +508,10 @@ pending:
   summary: Amends the Customs (Prohibited Exports) Regulations 1958 and Customs (Prohibited
     Imports) Regulations 1956 to prohibit the export and import of greyhounds for
     racing, breeding and commercial purposes.
-  sponsor_name: Mehreen Faruqi
-  sponsor_party: Greens
-  sponsor_id: '10912'
-  sponsor_division: NSW
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Mehreen Faruqi
+  introducer_party: Greens
+  introducer_id: '10912'
+  introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1320_first-senate/toc_pdf/21S1820.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F47441081-a4e6-4d49-8446-77d0cf8c6f82%2F0171%22
@@ -656,14 +536,10 @@ pending:
     \ and introduce penalties for undertaking certain emissions intensive actions\
     \ without approval if the action has, will have or is likely to have a significant\
     \ impact on the environment."
-  sponsor_name: Sarah Hanson-Young
-  sponsor_party: Greens
-  sponsor_id: '10711'
-  sponsor_division: SA
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Sarah Hanson-Young
+  introducer_party: Greens
+  introducer_id: '10711'
+  introducer_division: SA
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1344_first-senate/toc_pdf/22S0820.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F25573%2F0111%22
@@ -680,14 +556,10 @@ pending:
     do not vote); and provide that an eligible voter, who is not yet on the electoral
     roll or enrolled at their correct address, is able to cast a provisional vote
     on election day.'
-  sponsor_name: Jordon Steele-John
-  sponsor_party: Greens
-  sponsor_id: '10901'
-  sponsor_division: WA
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Jordon Steele-John
+  introducer_party: Greens
+  introducer_id: '10901'
+  introducer_division: WA
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1361_first-senate/toc_pdf/23S00420.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F26439%2F0177%22
@@ -703,14 +575,10 @@ pending:
     s gross earnings; and determining the amount payable by the Australian Broadcasting\
     \ Corporation from to copyright owners, in respect of published sound recordings,\
     \ to an amount not exceeding 0.5 cents per head of the Australian population."
-  sponsor_name: David Pocock
-  sponsor_party: Independent
-  sponsor_id: '11009'
-  sponsor_division: ACT
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: David Pocock
+  introducer_party: Independent
+  introducer_id: '11009'
+  introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1386_first-senate/toc_pdf/23S2220.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27117%2F0045%22
@@ -722,14 +590,10 @@ pending:
   originating_house: Senate
   summary: Amends the Commonwealth Electoral Act 1918 to prohibit political donations
     being made by corporations or close associates of the corporation in certain circumstances.
-  sponsor_name: Larissa Waters
-  sponsor_party: Greens
-  sponsor_id: '10764'
-  sponsor_division: Queensland
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Larissa Waters
+  introducer_party: Greens
+  introducer_id: '10764'
+  introducer_division: Queensland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1389_first-senate/toc_pdf/23S2620.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27124%2F0171%22
@@ -743,14 +607,10 @@ pending:
   summary: "Amends the Human Rights (Parliamentary Scrutiny) Act 2011 to amend the\
     \ definition of \u2018human rights\u2019 to include the rights and freedoms outlined\
     \ in the United Nations Declaration on the Rights of Indigenous Peoples."
-  sponsor_name: Lidia Thorpe
-  sponsor_party: Independent
-  sponsor_id: '10961'
-  sponsor_division: Victoria
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Lidia Thorpe
+  introducer_party: Independent
+  introducer_id: '10961'
+  introducer_division: Victoria
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1406_first-senate/toc_pdf/23S3920.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27148%2F0319%22
@@ -764,14 +624,10 @@ pending:
     \ an application by the Australian Competition and Consumer Commission, to give\
     \ directions for the purpose of securing a reduction in a corporation\u2019s power\
     \ in, or share of, the market."
-  sponsor_name: Nick Mckim
-  sponsor_party: Greens
-  sponsor_id: '10841'
-  sponsor_division: Tasmania
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Nick Mckim
+  introducer_party: Greens
+  introducer_id: '10841'
+  introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1413_first-senate/toc_pdf/24S0620.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27581%2F0158%22
@@ -786,14 +642,10 @@ pending:
     of consumers; and establishes a National Housing and Homelessness Advocate to
     independently monitor the progress of the plan and to undertake reviews into systemic
     housing issues.'
-  sponsor_name: David Pocock
-  sponsor_party: Independent
-  sponsor_id: '11009'
-  sponsor_division: ACT
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: David Pocock
+  introducer_party: Independent
+  introducer_id: '11009'
+  introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1416_first-senate/toc_pdf/24S1120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27644%2F0100%22
@@ -804,14 +656,10 @@ pending:
   portfolio: null
   originating_house: Senate
   summary: Establishes a commission of inquiry into antisemitism at Australian universities.
-  sponsor_name: Sarah Henderson
-  sponsor_party: Liberal
-  sponsor_id: '10790'
-  sponsor_division: Victoria
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Sarah Henderson
+  introducer_party: Liberal
+  introducer_id: '10790'
+  introducer_division: Victoria
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1417_first-senate/toc_pdf/24S0920.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-02
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27644%2F0095%22
@@ -823,14 +671,10 @@ pending:
   originating_house: Senate
   summary: Repeals the Digital ID Act 2024 and Digital ID (Transitional and Consequential
     Provisions) Act 2024. Also makes consequential amendments to 6 Acts.
-  sponsor_name: Alex Antic
-  sponsor_party: Liberal
-  sponsor_id: '10954'
-  sponsor_division: SA
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Alex Antic
+  introducer_party: Liberal
+  introducer_id: '10954'
+  introducer_division: SA
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1419_first-senate/toc_pdf/24S1220.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F27645%2F0232%22
@@ -843,14 +687,10 @@ pending:
   summary: Amends the Housing Australia Future Fund Act 2023 to prohibit the Housing
     Australia Future Fund from investing in housing-related assets or entities financed
     by the Construction and Building Unions Superannuation Fund.
-  sponsor_name: Andrew Bragg
-  sponsor_party: Liberal
-  sponsor_id: '10945'
-  sponsor_division: NSW
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Andrew Bragg
+  introducer_party: Liberal
+  introducer_id: '10945'
+  introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1427_first-senate/toc_pdf/24S1720.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28060%2F0198%22
@@ -863,14 +703,10 @@ pending:
   summary: Amends the Competition and Consumer Act 2010 to prohibit a corporation
     with substantial market power from engaging in conduct that results in, or is
     likely to result in, an excessive price being charged for a good or service.
-  sponsor_name: Nick Mckim
-  sponsor_party: Greens
-  sponsor_id: '10841'
-  sponsor_division: Tasmania
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Nick Mckim
+  introducer_party: Greens
+  introducer_id: '10841'
+  introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1430_first-senate/toc_pdf/24S2020.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28046%2F0126%22
@@ -882,14 +718,10 @@ pending:
   originating_house: Senate
   summary: Amends the Interactive Gambling Act 2001 to provide for a staged implementation
     of a prohibition on the advertising of licensed interactive wagering services.
-  sponsor_name: Sarah Hanson-Young
-  sponsor_party: Greens
-  sponsor_id: '10711'
-  sponsor_division: SA
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Sarah Hanson-Young
+  introducer_party: Greens
+  introducer_id: '10711'
+  introducer_division: SA
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1432_first-senate/toc_pdf/24S2220.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28067%2F0196%22
@@ -904,14 +736,10 @@ pending:
     the number of senators for a state; and provide for 3 senators from each of the
     territories to be elected at each federal election giving territory senators a
     6 year term.'
-  sponsor_name: David Pocock
-  sponsor_party: Independent
-  sponsor_id: '11009'
-  sponsor_division: ACT
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: David Pocock
+  introducer_party: Independent
+  introducer_id: '11009'
+  introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1435_first-senate/toc_pdf/24S2420.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28072%2F0144%22
@@ -930,14 +758,10 @@ pending:
     and establishes the Parliamentary Joint Committee on the Whistleblower Protection
     Authority to consider proposed recommendations for the appointment of the commissioner
     and deputy commissioners and to monitor and review the performance of the commissioner.'
-  sponsor_name: David Pocock
-  sponsor_party: Independent
-  sponsor_id: '11009'
-  sponsor_division: ACT
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: David Pocock
+  introducer_party: Independent
+  introducer_id: '11009'
+  introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1436_first-senate/toc_pdf/25S0420.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28693%2F0177%22
@@ -952,14 +776,10 @@ pending:
     the superannuation guarantee rate for firefighters and paramedics by 4.4 per cent
     to match the base rate of superannuation contributions provided to Australian
     Defence Force personnel.
-  sponsor_name: Nick Mckim
-  sponsor_party: Greens
-  sponsor_id: '10841'
-  sponsor_division: Tasmania
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Nick Mckim
+  introducer_party: Greens
+  introducer_id: '10841'
+  introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
@@ -974,14 +794,10 @@ pending:
     Not Profit) Bill 2025, the bill amends the Australian National University Act
     1991 and Tertiary Education Quality and Standards Agency Act 2011 to set a statutory
     limit on the remuneration of vice-chancellors of Australian universities.
-  sponsor_name: Jacqui Lambie
-  sponsor_party: Jacqui Lambie Network
-  sponsor_id: '10830'
-  sponsor_division: Tasmania
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Jacqui Lambie
+  introducer_party: Jacqui Lambie Network
+  introducer_id: '10830'
+  introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
@@ -996,14 +812,10 @@ pending:
     Education, Not Profit) Bill 2025, the bill amends the Remuneration Tribunal Act
     1973 to set a statutory limit on the remuneration of departmental secretaries
     and other public office holders.
-  sponsor_name: Jacqui Lambie
-  sponsor_party: Jacqui Lambie Network
-  sponsor_id: '10830'
-  sponsor_division: Tasmania
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Jacqui Lambie
+  introducer_party: Jacqui Lambie Network
+  introducer_id: '10830'
+  introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1444_first-senate/toc_pdf/25S0220.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
@@ -1016,14 +828,10 @@ pending:
   summary: 'The bill: prohibits mining operations in the Great Australian Bight area;
     and requires the minister to submit the Great Australian Bight for consideration
     as a World Heritage Site.'
-  sponsor_name: Sarah Hanson-Young
-  sponsor_party: Greens
-  sponsor_id: '10711'
-  sponsor_division: SA
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Sarah Hanson-Young
+  introducer_party: Greens
+  introducer_id: '10711'
+  introducer_division: SA
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1445_first-senate/toc_pdf/25S0520.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28693%2F0187%22
@@ -1035,14 +843,10 @@ pending:
   originating_house: Senate
   summary: Establishes a scheme in relation to dealings between lobbyists and Government
     representatives.
-  sponsor_name: David Pocock
-  sponsor_party: Independent
-  sponsor_id: '11009'
-  sponsor_division: ACT
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: David Pocock
+  introducer_party: Independent
+  introducer_id: '11009'
+  introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1446_first-senate/toc_pdf/25S0620.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28694%2F0151%22
@@ -1055,14 +859,10 @@ pending:
   summary: Proposes an alteration to the Constitution to provide that the Commonwealth
     or a State must not make any law that limits the freedom of speech, including
     freedom of the press and other media.
-  sponsor_name: Ralph Babet
-  sponsor_party: United Australia Party
-  sponsor_id: '11003'
-  sponsor_division: Victoria
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Ralph Babet
+  introducer_party: United Australia Party
+  introducer_id: '11003'
+  introducer_division: Victoria
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1447_first-senate/toc_pdf/25S0720.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28694%2F0172%22
@@ -1073,14 +873,10 @@ pending:
   portfolio: null
   originating_house: Senate
   summary: Recognises the right to engage in peaceful protest in a public place.
-  sponsor_name: David Shoebridge
-  sponsor_party: Greens
-  sponsor_id: '11010'
-  sponsor_division: NSW
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: David Shoebridge
+  introducer_party: Greens
+  introducer_id: '11010'
+  introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1449_first-senate/toc_pdf/25S0920.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28695%2F0077%22
@@ -1097,14 +893,10 @@ pending:
     and investments within a 6-month period; and prohibit higher education providers
     from appointing to their governing bodies any individual that has investments
     in a prohibited entity or is a member of the board of a prohibited entity.'
-  sponsor_name: Mehreen Faruqi
-  sponsor_party: Greens
-  sponsor_id: '10912'
-  sponsor_division: NSW
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Mehreen Faruqi
+  introducer_party: Greens
+  introducer_id: '10912'
+  introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1451_first-senate/toc_pdf/25S1020.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: null
@@ -1120,14 +912,10 @@ pending:
     arrangements when experiencing symptoms of perimenopause and menopause; and Workplace
     Gender Equality (Matters in relation to Gender Equality Indicators) Instrument
     2023 to enable the collection of certain data.'
-  sponsor_name: Larissa Waters
-  sponsor_party: Greens
-  sponsor_id: '10764'
-  sponsor_division: Queensland
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Larissa Waters
+  introducer_party: Greens
+  introducer_id: '10764'
+  introducer_division: Queensland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1453_first-senate/toc_pdf/25S1220.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28776%2F0151%22
@@ -1139,14 +927,10 @@ pending:
   originating_house: Senate
   summary: Amends the Crimes Act 1914 to remove mandatory minimum sentences for certain
     offences.
-  sponsor_name: Mehreen Faruqi
-  sponsor_party: Greens
-  sponsor_id: '10912'
-  sponsor_division: NSW
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Mehreen Faruqi
+  introducer_party: Greens
+  introducer_id: '10912'
+  introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1455_first-senate/toc_pdf/25S1420.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28776%2F0161%22
@@ -1160,14 +944,10 @@ pending:
   summary: Amends the Competition and Consumer Act 2010 to separate the Australian
     Energy Regulator (AER) from the Australian Competition and Consumer Commission
     and establish the AER as a non-corporate Commonwealth entity.
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Katy Gallagher
-  minister_party: Labor
-  minister_id: '10838'
-  minister_division: ACT
+  introducer_name: Katy Gallagher
+  introducer_party: Labor
+  introducer_id: '10838'
+  introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1457_first-senate/toc_pdf/2503520.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0165%22
@@ -1188,14 +968,10 @@ pending:
     \ and Broadcasting Services Act 1992 and Special Broadcasting Service Act 1991\
     \ to remove the \u2018media blackout\u2019 period that prohibits electoral or\
     \ referendum advertising in the last 3 days of voting in an election or referendum."
-  sponsor_name: David Pocock
-  sponsor_party: Independent
-  sponsor_id: '11009'
-  sponsor_division: ACT
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: David Pocock
+  introducer_party: Independent
+  introducer_id: '11009'
+  introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1461_first-senate/toc_pdf/25S1520.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28821%2F0152%22
@@ -1209,14 +985,10 @@ pending:
   summary: Establishes a Parliamentary Joint Committee on Public Consultancy and Services
     Contracts to review, consider and report on consultancy and services contracts
     entered into by Commonwealth entities.
-  sponsor_name: Richard Colbeck
-  sponsor_party: Liberal
-  sponsor_id: '10131'
-  sponsor_division: Tasmania
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Richard Colbeck
+  introducer_party: Liberal
+  introducer_id: '10131'
+  introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1462_first-senate/toc_pdf/25S1620.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28821%2F0206%22
@@ -1231,14 +1003,10 @@ pending:
     Social Security Act 1991, Social Security (Administration) Act 1999 and Student
     Assistance Act 1973 to respond to certain recommendations of the Report of the
     Royal Commission into the Robodebt Scheme.
-  sponsor_name: Penny Allman-Payne
-  sponsor_party: Greens
-  sponsor_id: '11002'
-  sponsor_division: Queensland
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Penny Allman-Payne
+  introducer_party: Greens
+  introducer_id: '11002'
+  introducer_division: Queensland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1466_first-senate/toc_pdf/25S1920.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28834%2F0127%22
@@ -1250,14 +1018,10 @@ pending:
   portfolio: null
   originating_house: Senate
   summary: null
-  sponsor_name: Barbara Pocock
-  sponsor_party: Greens
-  sponsor_id: '11008'
-  sponsor_division: SA
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Barbara Pocock
+  introducer_party: Greens
+  introducer_id: '11008'
+  introducer_division: SA
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1467_first-senate/toc_pdf/25S2120.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0069%22
@@ -1268,14 +1032,10 @@ pending:
   portfolio: null
   originating_house: Senate
   summary: null
-  sponsor_name: Andrew Bragg
-  sponsor_party: Liberal
-  sponsor_id: '10945'
-  sponsor_division: NSW
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Andrew Bragg
+  introducer_party: Liberal
+  introducer_id: '10945'
+  introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1468_first-senate/toc_pdf/25S2020.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0074%22
@@ -1286,14 +1046,10 @@ pending:
   portfolio: null
   originating_house: Senate
   summary: null
-  sponsor_name: Matthew Canavan
-  sponsor_party: Liberal National Party
-  sponsor_id: '10827'
-  sponsor_division: Queensland
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Matthew Canavan
+  introducer_party: Liberal National Party
+  introducer_id: '10827'
+  introducer_division: Queensland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1469_first-senate/toc_pdf/25S2220.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0098%22
@@ -1305,14 +1061,10 @@ pending:
   portfolio: null
   originating_house: Senate
   summary: null
-  sponsor_name: Jane Hume
-  sponsor_party: Liberal
-  sponsor_id: '10853'
-  sponsor_division: Victoria
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Jane Hume
+  introducer_party: Liberal
+  introducer_id: '10853'
+  introducer_division: Victoria
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1470_first-senate/toc_pdf/25S2320.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0196%22
@@ -1328,14 +1080,10 @@ pending:
     authorisation; provides for relief which a court may grant a land owner when prior
     written authorisation is not provided; prohibits hydraulic fracturing for coal
     seam gas, shale gas and tight gas by corporations; and provides for civil penalties.'
-  sponsor_name: Larissa Waters
-  sponsor_party: Greens
-  sponsor_id: '10764'
-  sponsor_division: Queensland
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Larissa Waters
+  introducer_party: Greens
+  introducer_id: '10764'
+  introducer_division: Queensland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s996_first-senate/toc_pdf/1502820.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F1da66012-4613-4c01-8369-b2c1421daaaf%2F0088%22
@@ -1353,14 +1101,10 @@ passed:
     \ between Australia and the United Arab Emirates, the bill amends the Customs\
     \ Tariff Act 1995 to give effect to the preferential tariff treatment applicable\
     \ to eligible goods in accordance with the agreement"
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Julian Hill
-  minister_party: Labor
-  minister_id: '10885'
-  minister_division: Bruce
+  introducer_name: Julian Hill
+  introducer_party: Labor
+  introducer_id: '10885'
+  introducer_division: Bruce
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7333_aspassed/toc_pdf/25028b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-02
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0032%22
@@ -1378,14 +1122,10 @@ passed:
     \ Act 1901 to introduce rules of origin to determine if goods imported from the\
     \ United Arab Emirates into Australia are eligible for preferential tariff treatment\
     \ in accordance with the agreement."
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Julian Hill
-  minister_party: Labor
-  minister_id: '10885'
-  minister_division: Bruce
+  introducer_name: Julian Hill
+  introducer_party: Labor
+  introducer_id: '10885'
+  introducer_division: Bruce
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7334_aspassed/toc_pdf/25029b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-02
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0028%22
@@ -1400,14 +1140,10 @@ passed:
     \ that modern awards do not include terms that substitute employees\u2019 entitlements\
     \ to receive penalty or overtime rates where those terms would have the effect\
     \ of reducing that additional remuneration employees would otherwise receive."
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Amanda Rishworth
-  minister_party: Labor
-  minister_id: '10543'
-  minister_division: Kingston
+  introducer_name: Amanda Rishworth
+  introducer_party: Labor
+  introducer_id: '10543'
+  introducer_division: Kingston
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7335_aspassed/toc_pdf/25030b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0012%22
@@ -1426,14 +1162,10 @@ passed:
     warrant; enable the delegation of powers to appoint an expert to conduct an independent
     audit of a large child care provider; and require Family Day Care and In Home
     Care providers to collect CCS gap fees directly from families.'
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Jason Clare
-  minister_party: Labor
-  minister_id: '10123'
-  minister_division: Blaxland
+  introducer_name: Jason Clare
+  introducer_party: Labor
+  introducer_id: '10123'
+  introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7336_aspassed/toc_pdf/25031b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-02
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0012%22
@@ -1446,14 +1178,10 @@ passed:
   summary: Amends the Defence Housing Australia Act 1987 to enable Defence Housing
     Australia to provide housing and housing-related services to additional classes
     of persons.
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Matt Keogh
-  minister_party: Labor
-  minister_id: '10861'
-  minister_division: Burt
+  introducer_name: Matt Keogh
+  introducer_party: Labor
+  introducer_id: '10861'
+  introducer_division: Burt
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7337_aspassed/toc_pdf/25037b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0016%22
@@ -1466,14 +1194,10 @@ passed:
   summary: "Amends the Australian Security Intelligence Organisation Act 1979 to extend\
     \ the operation of the Australian Security Intelligence Organisation\u2019s compulsory\
     \ questioning warrant framework for a further 18 months."
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Tony Burke
-  minister_party: Labor
-  minister_id: '10081'
-  minister_division: Watson
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7338_aspassed/toc_pdf/25032b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0090%22
@@ -1488,14 +1212,10 @@ passed:
     (Pathology (Fees) Act 1991 and Health Insurance (Pathology) (Fees) Amendment (Norfolk
     Island) Act 2015. Also makes consequential amendments to the Health Insurance
     Act 1973.
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Rebecca White
-  minister_party: Labor
-  minister_id: '11052'
-  minister_division: Lyons
+  introducer_name: Rebecca White
+  introducer_party: Labor
+  introducer_id: '11052'
+  introducer_division: Lyons
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7340_aspassed/toc_pdf/25034b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0036%22
@@ -1509,14 +1229,10 @@ passed:
     of meeting any liabilities that the Commonwealth may incur under a Pacific banking
     guarantee entered into with an Australian-headquartered authorised deposit-taking
     institution operating in the Pacific region.
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Daniel Mulino
-  minister_party: Labor
-  minister_id: '10925'
-  minister_division: Fraser
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7341_aspassed/toc_pdf/25038b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0040%22
@@ -1533,14 +1249,10 @@ passed:
     in the 2025-26 financial year and provide that compulsory student loan repayments
     are calculated on income above the new threshold rather than being based on a
     percentage of the repayment income.'
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Jason Clare
-  minister_party: Labor
-  minister_id: '10123'
-  minister_division: Blaxland
+  introducer_name: Jason Clare
+  introducer_party: Labor
+  introducer_id: '10123'
+  introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7342_aspassed/toc_pdf/25041b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-02
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0008%22
@@ -1554,14 +1266,10 @@ passed:
     the bill supports the commencement of the Aged Care Act 2024 by amending the Aged
     Care (Accommodation Payment Security) Levy Act 2006 to ensure that the Act operates
     as intended.
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Sam Rae
-  minister_party: Labor
-  minister_id: '10982'
-  minister_division: Hawke
+  introducer_name: Sam Rae
+  introducer_party: Labor
+  introducer_id: '10982'
+  introducer_division: Hawke
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7344_aspassed/toc_pdf/25043b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0024%22
@@ -1573,14 +1281,10 @@ passed:
   originating_house: House of Representatives
   summary: Amends the National Health Act 1953 to reduce the Pharmaceutical Benefits
     Scheme general patient charge from $31.60 to $25.00 from 1 January 2026.
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Mark Butler
-  minister_party: Labor
-  minister_id: '10086'
-  minister_division: Hindmarsh
+  introducer_name: Mark Butler
+  introducer_party: Labor
+  introducer_id: '10086'
+  introducer_division: Hindmarsh
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7345_aspassed/toc_pdf/25044b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0009%22
@@ -1596,14 +1300,10 @@ passed:
     Court in AJN23 v Minister for Immigration, Citizenship and Multicultural Affairs
     (2024) 304 FCR 586; [2024] FCAFC 103 by validating certain visa decisions made
     on or before 8 November 2023.'
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Tony Burke
-  minister_party: Labor
-  minister_id: '10081'
-  minister_division: Watson
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7363_aspassed/toc_pdf/25061b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28833%2F0005%22
@@ -1623,14 +1323,10 @@ passed:
     goods shortages; and support compliance and enforcement activities undertaken
     in relation to unlawful therapeutic and vaping goods; and Public Health (Tobacco
     and Other Products) Act 2023 to clarify the intended operation of certain provisions.'
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Katy Gallagher
-  minister_party: Labor
-  minister_id: '10838'
-  minister_division: ACT
+  introducer_name: Katy Gallagher
+  introducer_party: Labor
+  introducer_id: '10838'
+  introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1458_aspassed/toc_pdf/2503620.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0165%22
@@ -1646,14 +1342,10 @@ passed:
     2025, the bill provides for a National Higher Education Code to Prevent and Respond
     to Gender-based Violence which may impose certain requirements and standards on
     higher education providers in relation to gender-based violence.
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Katy Gallagher
-  minister_party: Labor
-  minister_id: '10838'
-  minister_division: ACT
+  introducer_name: Katy Gallagher
+  introducer_party: Labor
+  introducer_id: '10838'
+  introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1459_aspassed/toc_pdf/2504020.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22
@@ -1669,14 +1361,10 @@ passed:
     Higher Education Support Act 2003 to make compliance with the National Higher
     Education Code to Prevent and Respond to Gender-based Violence a quality and accountability
     requirement for higher education providers approved under the Act.
-  sponsor_name: null
-  sponsor_party: null
-  sponsor_id: null
-  sponsor_division: null
-  minister_name: Katy Gallagher
-  minister_party: Labor
-  minister_id: '10838'
-  minister_division: ACT
+  introducer_name: Katy Gallagher
+  introducer_party: Labor
+  introducer_id: '10838'
+  introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1460_aspassed/toc_pdf/2503920.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22
@@ -1690,14 +1378,10 @@ failed:
   summary: "Amends the Sex Discrimination Act 1984 to remove references to \u2018\
     gender identity\u2019 and insert definitions of \u2018man\u2019 and \u2018woman\u2019\
     ."
-  sponsor_name: Alex Antic
-  sponsor_party: Liberal
-  sponsor_id: '10954'
-  sponsor_division: SA
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Alex Antic
+  introducer_party: Liberal
+  introducer_id: '10954'
+  introducer_division: SA
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1463_first-senate/toc_pdf/25s1720.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-31
   second_reading_hansard_url: null
@@ -1711,14 +1395,10 @@ failed:
   summary: Amends the Members of Parliament (Staff) Act 1984 to provide non-government
     parliamentarians with a guaranteed minimum number of non-ministerial personal
     employees.
-  sponsor_name: Michaelia Cash
-  sponsor_party: Liberal
-  sponsor_id: '10707'
-  sponsor_division: WA
-  minister_name: null
-  minister_party: null
-  minister_id: null
-  minister_division: null
+  introducer_name: Michaelia Cash
+  introducer_party: Liberal
+  introducer_id: '10707'
+  introducer_division: WA
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1464_first-senate/toc_pdf/S25S1820.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-03
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28831%2F0191%22

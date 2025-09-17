@@ -30,7 +30,6 @@ class Bill:
             ),
             "html.parser",
         )
-        self.minister_name = self._get_minister_name()
         print(f"Loaded bill \t{self._colored_id()}: {self._get_title()}\n")
 
     def _get_ruling_party(self) -> str:
@@ -137,7 +136,6 @@ class Bill:
         formatted_name = f"{name_parts[1]} {name_parts[0]}".title()
         formatted_name = formatted_name.split(" ")
         formatted_name = formatted_name[0] + " " + formatted_name[-1]
-        print(f"Got minister's name\t{colored(formatted_name, 'yellow')}")
         return formatted_name
 
     def _get_originating_house(self) -> str:
@@ -185,12 +183,10 @@ class Bill:
 
         return None
 
-    def _get_introducer_party(
-        self, name: str, is_minister: bool = False
-    ) -> Optional[str]:
+    def _get_introducer_party(self, name: str) -> Optional[str]:
         # If introducer name is not found, assume ruling party for Government bills
         if name is None:
-            if self._get_type() == "Government" and is_minister:
+            if self._get_type() == "Government":
                 return self._ruling_party
 
             return None
@@ -204,7 +200,7 @@ class Bill:
                 return mp.party
 
         # If introducer name is known but their party is unknown, assume ruling party for Government bills
-        if self._get_type() == "Government" and is_minister:
+        if self._get_type() == "Government":
             return self._ruling_party
 
         return None
@@ -257,6 +253,7 @@ class Bill:
         )
 
         # Construct YAML object
+        introducer_name = self._get_sponsor_name() or self._get_minister_name()
         data = [
             {
                 "bill_id": self.id,
@@ -266,16 +263,10 @@ class Bill:
                 "portfolio": self._get_portfolio(),
                 "originating_house": self._get_originating_house(),
                 "summary": self._get_summary(),
-                "sponsor_name": self._get_sponsor_name(),
-                "sponsor_party": self._get_introducer_party(self._get_sponsor_name()),
-                "sponsor_id": self._get_introducer_id(self._get_sponsor_name()),
-                "sponsor_division": self._get_introducer_division(
-                    self._get_sponsor_name()
-                ),
-                "minister_name": self.minister_name,
-                "minister_party": self._get_introducer_party(self.minister_name, True),
-                "minister_id": self._get_introducer_id(self.minister_name),
-                "minister_division": self._get_introducer_division(self.minister_name),
+                "introducer_name": introducer_name,
+                "introducer_party": self._get_introducer_party(introducer_name),
+                "introducer_id": self._get_introducer_id(introducer_name),
+                "introducer_division": self._get_introducer_division(introducer_name),
                 "pdf_url": self._get_pdf_url(),
                 "last_updated": self._get_last_updated(),
                 "second_reading_hansard_url": self._get_second_reading_hansard_url(),
