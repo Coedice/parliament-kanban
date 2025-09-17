@@ -5,6 +5,7 @@ from typing import List
 
 import requests
 from bs4 import BeautifulSoup
+from rich.progress import track
 from termcolor import colored
 
 from Bill import Bill
@@ -121,7 +122,7 @@ if os.path.exists("_data/bills.yml.tmp"):
 for section_name, url in SECTIONS:
     print(
         colored(
-            f"\nDownloading {section_name.capitalize()} bills",
+            f"\nDownloading {section_name} bills",
             "blue",
             attrs=["underline"],
         )
@@ -130,9 +131,13 @@ for section_name, url in SECTIONS:
         f.write(f"{section_name}:\n")
 
     # Download and write bills
-    for bill_id in get_bill_ids(section_name, url):
-        new_bill = Bill(bill_id, mps)
+    for bill_id in track(
+        get_bill_ids(section_name, url),
+        description=f"[blue]Downloading {section_name} bills...",
+    ):
+        bill = Bill(bill_id, mps)
         with open("_data/bills.yml.tmp", "a") as f:
-            f.write(new_bill.yaml())
+            f.write(bill.yaml())
+        print(f"Loaded bill {bill}")
 
 os.rename("_data/bills.yml.tmp", "_data/bills.yml")

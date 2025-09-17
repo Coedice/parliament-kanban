@@ -21,7 +21,6 @@ class Bill:
 
     def __init__(self, id: str, mps: List[MP]) -> None:
         self.id = id
-        print(f"Starting bill\t{self._colored_id()}")
         self._mps = mps
         self._ruling_party = self._get_ruling_party()
         self._soup = BeautifulSoup(
@@ -30,7 +29,6 @@ class Bill:
             ),
             "html.parser",
         )
-        print(f"Loaded bill \t{self._colored_id()}: {self._get_title()}\n")
 
     def _get_ruling_party(self) -> str:
         party_members = dict()
@@ -41,12 +39,6 @@ class Bill:
             party_members[mp.party] += 1
 
         return max(party_members, key=party_members.get)
-
-    def _colored_id(self) -> str:
-        if self.id.startswith("r"):
-            return colored(self.id, "green")
-
-        return colored(self.id, "red")
 
     def _download_page(self, url: str) -> str:
         for _ in range(_DOWNLOAD_RETRIES):
@@ -276,7 +268,8 @@ class Bill:
         return yaml.dump(data, default_flow_style=False, sort_keys=False)
 
     def __repr__(self) -> str:
-        return f"{self.id}: {self._get_title()}"
+        return f"Bill(\"{self.id}\")"
 
     def __str__(self) -> str:
-        return f"{self.id}: {self._get_title()}"
+        colored_id = colored(self.id, "green" if self.id.startswith("r") else "red")
+        return f"{colored_id}: {self._get_title()}"
