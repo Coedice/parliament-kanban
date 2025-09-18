@@ -268,7 +268,7 @@ class Bill:
         return yaml.dump(data, default_flow_style=False, sort_keys=False)
 
     def __repr__(self) -> str:
-        return f"Bill(\"{self.id}\")"
+        return f'Bill("{self.id}")'
 
     def __str__(self) -> str:
         colored_id = colored(self.id, "green" if self.id.startswith("r") else "red")

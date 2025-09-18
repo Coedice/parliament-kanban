@@ -21,7 +21,7 @@ class MP:
         return long_name
 
     def __repr__(self) -> str:
-        return self.name
+        return f"MP({self.id}, {self.name}, {self.party}, {self.division})"
 
     def __str__(self) -> str:
         return self.name

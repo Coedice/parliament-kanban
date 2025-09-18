@@ -30,6 +30,9 @@ REPRESENTATIVES_URL = "http://data.openaustralia.org.au/members/representatives.
 SENATORS_URL = "http://data.openaustralia.org.au/members/senators.xml"
 PEOPLE_URL = "http://data.openaustralia.org.au/members/people.xml"
 
+BILLS_YAML_FILE = "_data/bills.yml"
+BILLS_YAML_FILE_TMP = "_data/bills.yml.tmp"
+
 
 def get_bill_ids(section_name: str, bills_url: str, ids: List[str] = []) -> List[str]:
     """Get bill IDs from bills URL."""
@@ -67,57 +70,66 @@ def get_bill_ids(section_name: str, bills_url: str, ids: List[str] = []) -> List
     return bill_ids
 
 
-# Get raw data
-representative_response = requests.get(REPRESENTATIVES_URL)
-senator_response = requests.get(SENATORS_URL)
-members = BeautifulSoup(representative_response.text, "xml").find_all(
-    "member"
-) + BeautifulSoup(senator_response.text, "xml").find_all("member")
+def get_mps() -> List[MP]:
+    """Get a list of MPs from OpenAustralia."""
 
-people_response = requests.get(PEOPLE_URL)
-people = BeautifulSoup(people_response.text, "xml").find_all("person")
-
-# Get MP data
-mps = []
-for person in people:
-    offices = person.find_all("office")
-    offices = [
-        office
-        for office in offices
-        if "uk.org.publicwhip/member/" in office["id"]
-        or "uk.org.publicwhip/lord/" in office["id"]
-    ]  # Filter out ministries
-    office_id = None
-
-    for office in offices:  # Get current office if they have one
-        if office.has_attr("current") and office["current"] == "yes":
-            office_id = office["id"]
-            break
-    else:  # Use last office otherwise
-        office_ids = [office["id"] for office in offices]
-        office_id = max(office_ids, key=lambda id: int(id.split("/")[-1]))
-
-    # Get party
-    party = [member["party"] for member in members if member["id"] == office_id][0]
-
-    # Get division
-    division = [member["division"] for member in members if member["id"] == office_id][
-        0
-    ]
-
-    # Add MP
-    mps.append(
-        MP(
-            person["id"].split("/")[-1],
-            person["latestname"],
-            party,
-            division,
-        )
+    # Get representative data
+    representative_response = requests.get(REPRESENTATIVES_URL)
+    representatives = BeautifulSoup(representative_response.text, "xml").find_all(
+        "member"
     )
 
+    # Get senator data
+    senator_response = requests.get(SENATORS_URL)
+    senators = BeautifulSoup(senator_response.text, "xml").find_all("member")
+
+    members = representatives + senators
+
+    # Get people data
+    people_response = requests.get(PEOPLE_URL)
+    people = BeautifulSoup(people_response.text, "xml").find_all("person")
+
+    # Get MP data
+    mps = []
+    for person in people:
+        offices = person.find_all("office")
+        offices = [
+            office
+            for office in offices
+            if "uk.org.publicwhip/member/" in office["id"]
+            or "uk.org.publicwhip/lord/" in office["id"]
+        ]  # Filter out ministries
+        office_id = None
+
+        for office in offices:  # Get current office if they have one
+            if office.has_attr("current") and office["current"] == "yes":
+                office_id = office["id"]
+                break
+        else:  # Use last office otherwise
+            office_ids = [office["id"] for office in offices]
+            office_id = max(office_ids, key=lambda id: int(id.split("/")[-1]))
+
+        # Get member from office
+        member = [member for member in members if member["id"] == office_id][0]
+
+        # Add MP
+        mps.append(
+            MP(
+                person["id"].split("/")[-1],
+                person["latestname"],
+                member["party"],
+                member["division"],
+            )
+        )
+
+    return mps
+
+
 # Create YAML file to capture all this information
-if os.path.exists("_data/bills.yml.tmp"):
-    os.remove("_data/bills.yml.tmp")
+if os.path.exists(BILLS_YAML_FILE_TMP):
+    os.remove(BILLS_YAML_FILE_TMP)
+
+mps = get_mps()
 
 for section_name, url in SECTIONS:
     print(
@@ -127,7 +139,7 @@ for section_name, url in SECTIONS:
             attrs=["underline"],
         )
     )
-    with open("_data/bills.yml.tmp", "a") as f:
+    with open(BILLS_YAML_FILE_TMP, "a") as f:
         f.write(f"{section_name}:\n")
 
     # Download and write bills
@@ -136,8 +148,8 @@ for section_name, url in SECTIONS:
         description=f"[blue]Downloading {section_name} bills...",
     ):
         bill = Bill(bill_id, mps)
-        with open("_data/bills.yml.tmp", "a") as f:
+        with open(BILLS_YAML_FILE_TMP, "a") as f:
             f.write(bill.yaml())
         print(f"Loaded bill {bill}")
 
-os.rename("_data/bills.yml.tmp", "_data/bills.yml")
+os.rename(BILLS_YAML_FILE_TMP, BILLS_YAML_FILE)

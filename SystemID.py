@@ -12,7 +12,10 @@ class SystemID:
         self._parts[-1] = int(self._parts[-1])
 
     def json_url(self):
-        return f"https://www.aph.gov.au/api/hansard/transcript?id={self._parts[0]}/{self._parts[1]}/{self._parts[2]}/{str(self._parts[3]).zfill(4)}"
+        return f"https://www.aph.gov.au/api/hansard/transcript?id={self}"
 
     def progress(self):
         self._parts[-1] += 1
+
+    def __str__(self):
+        return f"{self._parts[0]}/{self._parts[1]}/{self._parts[2]}/{str(self._parts[3]).zfill(4)}"
