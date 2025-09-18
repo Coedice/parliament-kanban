@@ -10,9 +10,9 @@ sass:
   style: compressed
 
 exclude:
-  - scraper.py
-  - Bill.py
-  - MP.py
+  - "*.py"
+  - pyproject.toml
+  - uv.lock
   - Makefile
   - README.md
   - Gemfile
