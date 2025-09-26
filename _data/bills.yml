@@ -1088,4 +1088,357 @@ pending:
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F1da66012-4613-4c01-8369-b2c1421daaaf%2F0088%22
 passed:
+- bill_id: r7333
+  title: Customs Tariff Amendment (Australia-United Arab Emirates Comprehensive Economic
+    Partnership Agreement Implementation) Bill 2025
+  status: Act
+  type: Government
+  portfolio: Home Affairs
+  originating_house: House of Representatives
+  summary: "Introduced with the Customs Amendment (Australia-United Arab Emirates\
+    \ Comprehensive Economic Partnership Agreement Implementation) Bill 2025 to implement\
+    \ Australia\u2019s obligations under the Comprehensive Economic Partnership Agreement\
+    \ between Australia and the United Arab Emirates, the bill amends the Customs\
+    \ Tariff Act 1995 to give effect to the preferential tariff treatment applicable\
+    \ to eligible goods in accordance with the agreement"
+  introducer_name: Julian Hill
+  introducer_party: Labor
+  introducer_id: '10885'
+  introducer_division: Bruce
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7333_aspassed/toc_pdf/25028b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-02
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0032%22
+- bill_id: r7334
+  title: Customs Amendment (Australia-United Arab Emirates Comprehensive Economic
+    Partnership Agreement Implementation) Bill 2025
+  status: Act
+  type: Government
+  portfolio: Home Affairs
+  originating_house: House of Representatives
+  summary: "Introduced with the Customs Tariff Amendment (Australia-United Arab Emirates\
+    \ Comprehensive Economic Partnership Agreement Implementation) Bill 2025 to implement\
+    \ Australia\u2019s obligations under the Comprehensive Economic Partnership Agreement\
+    \ between Australia and the United Arab Emirates, the bill amends the Customs\
+    \ Act 1901 to introduce rules of origin to determine if goods imported from the\
+    \ United Arab Emirates into Australia are eligible for preferential tariff treatment\
+    \ in accordance with the agreement."
+  introducer_name: Julian Hill
+  introducer_party: Labor
+  introducer_id: '10885'
+  introducer_division: Bruce
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7334_aspassed/toc_pdf/25029b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-02
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0028%22
+- bill_id: r7335
+  title: Fair Work Amendment (Protecting Penalty and Overtime Rates) Bill 2025
+  status: Act
+  type: Government
+  portfolio: Employment and Workplace Relations
+  originating_house: House of Representatives
+  summary: "Amends the Fair Work Act 2009 to establish a principle requiring the Fair\
+    \ Work Commission to ensure that penalty and overtime rates are not reduced and\
+    \ that modern awards do not include terms that substitute employees\u2019 entitlements\
+    \ to receive penalty or overtime rates where those terms would have the effect\
+    \ of reducing that additional remuneration employees would otherwise receive."
+  introducer_name: Amanda Rishworth
+  introducer_party: Labor
+  introducer_id: '10543'
+  introducer_division: Kingston
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7335_aspassed/toc_pdf/25030b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-29
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0012%22
+- bill_id: r7336
+  title: Early Childhood Education and Care (Strengthening Regulation of Early Education)
+    Bill 2025
+  status: Act
+  type: Government
+  portfolio: Education
+  originating_house: House of Representatives
+  summary: 'Amends the A New Tax System (Family Assistance) (Administration) Act 1999
+    to: strengthen powers to take action in relation to child care subsidy (CCS) providers
+    based on quality and safety; expand powers to publicise action taken against CCS
+    providers; broaden powers of entry to enable authorised persons to enter premises
+    without consent and streamline the process for seeking entry under a monitoring
+    warrant; enable the delegation of powers to appoint an expert to conduct an independent
+    audit of a large child care provider; and require Family Day Care and In Home
+    Care providers to collect CCS gap fees directly from families.'
+  introducer_name: Jason Clare
+  introducer_party: Labor
+  introducer_id: '10123'
+  introducer_division: Blaxland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7336_aspassed/toc_pdf/25031b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-02
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0012%22
+- bill_id: r7337
+  title: Defence Housing Australia Amendment Bill 2025
+  status: Act
+  type: Government
+  portfolio: Defence
+  originating_house: House of Representatives
+  summary: Amends the Defence Housing Australia Act 1987 to enable Defence Housing
+    Australia to provide housing and housing-related services to additional classes
+    of persons.
+  introducer_name: Matt Keogh
+  introducer_party: Labor
+  introducer_id: '10861'
+  introducer_division: Burt
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7337_aspassed/toc_pdf/25037b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-28
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0016%22
+- bill_id: r7338
+  title: Australian Security Intelligence Organisation Amendment Bill (No. 1) 2025
+  status: Assent
+  type: Government
+  portfolio: Home Affairs
+  originating_house: House of Representatives
+  summary: "Amends the Australian Security Intelligence Organisation Act 1979 to extend\
+    \ the operation of the Australian Security Intelligence Organisation\u2019s compulsory\
+    \ questioning warrant framework for a further 18 months."
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7338_aspassed/toc_pdf/25032b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-05
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0090%22
+- bill_id: r7340
+  title: Health Insurance (Pathology) (Fees) (Repeal) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: House of Representatives
+  summary: Removes fees imposed on the pathology sector for the approval of certain
+    categories of pathology accreditation applications by repealing the Health Insurance
+    (Pathology (Fees) Act 1991 and Health Insurance (Pathology) (Fees) Amendment (Norfolk
+    Island) Act 2015. Also makes consequential amendments to the Health Insurance
+    Act 1973.
+  introducer_name: Rebecca White
+  introducer_party: Labor
+  introducer_id: '11052'
+  introducer_division: Lyons
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7340_aspassed/toc_pdf/25034b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-04
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0036%22
+- bill_id: r7341
+  title: Pacific Banking Guarantee Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: Appropriates money out of the Consolidated Revenue Fund for the purpose
+    of meeting any liabilities that the Commonwealth may incur under a Pacific banking
+    guarantee entered into with an Australian-headquartered authorised deposit-taking
+    institution operating in the Pacific region.
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7341_aspassed/toc_pdf/25038b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-05
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0040%22
+- bill_id: r7342
+  title: Universities Accord (Cutting Student Debt by 20 Per Cent) Bill 2025
+  status: Act
+  type: Government
+  portfolio: Education
+  originating_house: House of Representatives
+  summary: 'Amends the Higher Education Support Act 2003 and 5 other Acts to: provide
+    a one-off 20 per cent reduction to Higher Education Loan Program debts and certain
+    other student loans that are incurred on or before 1 June 2025; and increase the
+    minimum repayment threshold from $54,435 in the 2024-25 financial year to $67,000
+    in the 2025-26 financial year and provide that compulsory student loan repayments
+    are calculated on income above the new threshold rather than being based on a
+    percentage of the repayment income.'
+  introducer_name: Jason Clare
+  introducer_party: Labor
+  introducer_id: '10123'
+  introducer_division: Blaxland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7342_aspassed/toc_pdf/25041b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-02
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0008%22
+- bill_id: r7343
+  title: Aged Care and Other Legislation Amendment Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: House of Representatives
+  summary: 'Introduced with the Aged Care (Accommodation Payment Security) Levy Amendment
+    Bill 2025, the bill supports the commencement of the Aged Care Act 2024 by amending:
+    the Aged Care Act 2024 and Aged Care (Consequential and Transitional Provisions)
+    Act 2024 to make technical amendments and editorial corrections; 23 Acts to make
+    consequential amendments; and the Healthcare Identifiers Act 2010 to enable healthcare
+    identifiers and other identifying information to be used in relation to the delivery
+    and administration of health and aged care and other support services, including
+    disability services.'
+  introducer_name: Sam Rae
+  introducer_party: Labor
+  introducer_id: '10982'
+  introducer_division: Hawke
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7343_aspassed/toc_pdf/25042b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-19
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0020%22
+- bill_id: r7344
+  title: Aged Care (Accommodation Payment Security) Levy Amendment Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: House of Representatives
+  summary: Introduced with the Aged Care and Other Legislation Amendment Bill 2025,
+    the bill supports the commencement of the Aged Care Act 2024 by amending the Aged
+    Care (Accommodation Payment Security) Levy Act 2006 to ensure that the Act operates
+    as intended.
+  introducer_name: Sam Rae
+  introducer_party: Labor
+  introducer_id: '10982'
+  introducer_division: Hawke
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7344_aspassed/toc_pdf/25043b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-05
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0024%22
+- bill_id: r7345
+  title: National Health Amendment (Cheaper Medicines) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: House of Representatives
+  summary: Amends the National Health Act 1953 to reduce the Pharmaceutical Benefits
+    Scheme general patient charge from $31.60 to $25.00 from 1 January 2026.
+  introducer_name: Mark Butler
+  introducer_party: Labor
+  introducer_id: '10086'
+  introducer_division: Hindmarsh
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7345_aspassed/toc_pdf/25044b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-04
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0009%22
+- bill_id: r7351
+  title: Treasury Laws Amendment (Payments System Modernisation) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: 'Amends the Payment Systems (Regulation) Act 1998 to: expand the coverage
+    of the payments regulatory framework to include new and emerging payment systems
+    and participants; provide for new ministerial powers to designate payment systems
+    when it is in the national interest to do so; and introduce civil penalty provisions
+    and enforceable undertakings, and increase maximum penalties for certain criminal
+    offences. Also makes consequential amendments to 4 other Acts.'
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7351_aspassed/toc_pdf/25053b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-19
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0029%22
+- bill_id: r7363
+  title: Home Affairs Legislation Amendment (2025 Measures No. 1) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Home Affairs
+  originating_house: House of Representatives
+  summary: 'The bill: amends the Migration Act 1958 to provide that the rules of natural
+    justice do not apply in relation to third country reception arrangements with
+    a foreign country; and responds to the decision of the Full Court of the Federal
+    Court in AJN23 v Minister for Immigration, Citizenship and Multicultural Affairs
+    (2024) 304 FCR 586; [2024] FCAFC 103 by validating certain visa decisions made
+    on or before 8 November 2023.'
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7363_aspassed/toc_pdf/25061b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-05
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28833%2F0005%22
+- bill_id: s1458
+  title: Health Legislation Amendment (Improved Medicare Integrity and Other Measures)
+    Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: Senate
+  summary: 'Amends the: Dental Benefits Act 2008 and Health Insurance Act 1973 to
+    change the timeframe for making claims relating to bulk-billed Medicare and dental
+    services from 2 years to 1 year; Human Services (Medicare) Act 1973 to update
+    investigative powers in relation to Medicare fraud offences; National Health Act
+    1953 to streamline pharmacy approval processes; Therapeutic Goods Act 1989 to:
+    enable the department to manage and alleviate the consequences of therapeutic
+    goods shortages; and support compliance and enforcement activities undertaken
+    in relation to unlawful therapeutic and vaping goods; and Public Health (Tobacco
+    and Other Products) Act 2023 to clarify the intended operation of certain provisions.'
+  introducer_name: Katy Gallagher
+  introducer_party: Labor
+  introducer_id: '10838'
+  introducer_division: ACT
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1458_aspassed/toc_pdf/2503620.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-04
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0165%22
+- bill_id: s1459
+  title: Universities Accord (National Higher Education Code to Prevent and Respond
+    to Gender-based Violence) Bill 2025
+  status: Act
+  type: Government
+  portfolio: Education
+  originating_house: Senate
+  summary: Introduced with the Universities Accord (National Higher Education Code
+    to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Bill
+    2025, the bill provides for a National Higher Education Code to Prevent and Respond
+    to Gender-based Violence which may impose certain requirements and standards on
+    higher education providers in relation to gender-based violence.
+  introducer_name: Katy Gallagher
+  introducer_party: Labor
+  introducer_id: '10838'
+  introducer_division: ACT
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1459_aspassed/toc_pdf/2504020.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-28
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22
+- bill_id: s1460
+  title: Universities Accord (National Higher Education Code to Prevent and Respond
+    to Gender-based Violence) (Consequential Amendments) Bill 2025
+  status: Act
+  type: Government
+  portfolio: Education
+  originating_house: Senate
+  summary: Introduced with the Universities Accord (National Higher Education Code
+    to Prevent and Respond to Gender-based Violence) Bill 2025, the bill amends the
+    Higher Education Support Act 2003 to make compliance with the National Higher
+    Education Code to Prevent and Respond to Gender-based Violence a quality and accountability
+    requirement for higher education providers approved under the Act.
+  introducer_name: Katy Gallagher
+  introducer_party: Labor
+  introducer_id: '10838'
+  introducer_division: ACT
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1460_aspassed/toc_pdf/2503920.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-28
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22
 failed:
+- bill_id: s1463
+  title: Sex Discrimination Amendment (Restoring Biological Definitions) Bill 2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: "Amends the Sex Discrimination Act 1984 to remove references to \u2018\
+    gender identity\u2019 and insert definitions of \u2018man\u2019 and \u2018woman\u2019\
+    ."
+  introducer_name: Alex Antic
+  introducer_party: Liberal
+  introducer_id: '10954'
+  introducer_division: SA
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1463_first-senate/toc_pdf/25s1720.pdf;fileType=application%2Fpdf
+  last_updated: 2025-07-31
+  second_reading_hansard_url: null
+- bill_id: s1464
+  title: Members of Parliament (Staff) Amendment (Providing Certainty and Improving
+    Integrity) Bill 2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the Members of Parliament (Staff) Act 1984 to provide non-government
+    parliamentarians with a guaranteed minimum number of non-ministerial personal
+    employees.
+  introducer_name: Michaelia Cash
+  introducer_party: Liberal
+  introducer_id: '10707'
+  introducer_division: WA
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1464_first-senate/toc_pdf/S25S1820.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-03
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28831%2F0189%22
