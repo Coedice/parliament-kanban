@@ -365,13 +365,13 @@ pending:
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
   summary: null
-  introducer_name: null
+  introducer_name: Rebecca White
   introducer_party: Labor
-  introducer_id: null
-  introducer_division: null
+  introducer_id: '11052'
+  introducer_division: Lyons
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7366_first-reps/toc_pdf/25065b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
-  second_reading_hansard_url: null
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0036%22
 - bill_id: r7367
   title: Treasury Laws Amendment (Strengthening Financial Systems and Other Measures)
     Bill 2025
@@ -386,7 +386,7 @@ pending:
   introducer_division: Fenner
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7367_first-reps/toc_pdf/25067b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0031%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0032%22
 - bill_id: r7368
   title: Private Health Insurance (National Joint Replacement Register Levy) Amendment
     Bill 2025
@@ -401,7 +401,7 @@ pending:
   introducer_division: Lyons
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7368_first-reps/toc_pdf/25062b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0039%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0040%22
 - bill_id: r7369
   title: Australian Centre for Disease Control Bill 2025
   status: Before Reps
@@ -430,7 +430,7 @@ pending:
   introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7370_first-reps/toc_pdf/25070b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0027%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0028%22
 - bill_id: r7371
   title: Freedom of Information Amendment Bill 2025
   status: Before Reps
