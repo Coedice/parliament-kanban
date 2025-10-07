@@ -160,7 +160,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7352_first-reps/toc_pdf/25045b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-09-04
+  last_updated: 2025-10-07
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0025%22
 - bill_id: r7353
   title: Appropriation Bill (No. 2) 2025-2026
@@ -174,7 +174,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7353_first-reps/toc_pdf/25046b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-09-04
+  last_updated: 2025-10-07
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0021%22
 - bill_id: r7354
   title: Appropriation Bill (No. 1) 2025-2026
@@ -189,7 +189,7 @@ pending:
   introducer_id: '11018'
   introducer_division: Dunkley
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7354_first-reps/toc_pdf/25047b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-09-04
+  last_updated: 2025-10-07
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0171%22
 - bill_id: r7355
   title: Social Security and Other Legislation Amendment (Responding to Robodebt)
@@ -370,7 +370,7 @@ pending:
   introducer_id: '11052'
   introducer_division: Lyons
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7366_first-reps/toc_pdf/25065b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-09-04
+  last_updated: 2025-10-07
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0036%22
 - bill_id: r7367
   title: Treasury Laws Amendment (Strengthening Financial Systems and Other Measures)
@@ -460,6 +460,22 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7372_first-reps/toc_pdf/25069b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-03
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0028%22
+- bill_id: r7379
+  title: Telecommunications Legislation Amendment (Triple Zero Custodian and Emergency
+    Calling Powers) Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
+    and the Arts
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Anika Wells
+  introducer_party: Labor
+  introducer_id: '10931'
+  introducer_division: Lilley
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7379_first-reps/toc_pdf/25082b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-07
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28899%2F0007%22
 - bill_id: s1174
   title: Broadcasting Services Amendment (Audio Description) Bill 2019
   status: Before Senate
@@ -1187,7 +1203,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0016%22
 - bill_id: r7338
   title: Australian Security Intelligence Organisation Amendment Bill (No. 1) 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
@@ -1203,7 +1219,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0090%22
 - bill_id: r7340
   title: Health Insurance (Pathology) (Fees) (Repeal) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
@@ -1221,7 +1237,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0036%22
 - bill_id: r7341
   title: Pacific Banking Guarantee Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -1279,7 +1295,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0020%22
 - bill_id: r7344
   title: Aged Care (Accommodation Payment Security) Levy Amendment Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
@@ -1296,7 +1312,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0024%22
 - bill_id: r7345
   title: National Health Amendment (Cheaper Medicines) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
@@ -1330,7 +1346,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0029%22
 - bill_id: r7363
   title: Home Affairs Legislation Amendment (2025 Measures No. 1) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
