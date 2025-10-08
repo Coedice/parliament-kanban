@@ -189,7 +189,7 @@ pending:
   introducer_id: '11018'
   introducer_division: Dunkley
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7354_first-reps/toc_pdf/25047b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-07
+  last_updated: 2025-10-08
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0171%22
 - bill_id: r7355
   title: Social Security and Other Legislation Amendment (Responding to Robodebt)
@@ -296,7 +296,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7360_first-reps/toc_pdf/25060b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-08-27
+  last_updated: 2025-10-07
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28836%2F0014%22
 - bill_id: r7361
   title: Environment Protection and Biodiversity Conservation Amendment (Board of
@@ -385,7 +385,7 @@ pending:
   introducer_id: '10746'
   introducer_division: Fenner
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7367_first-reps/toc_pdf/25067b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-09-04
+  last_updated: 2025-10-08
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0032%22
 - bill_id: r7368
   title: Private Health Insurance (National Joint Replacement Register Levy) Amendment
@@ -460,6 +460,48 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7372_first-reps/toc_pdf/25069b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-03
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0028%22
+- bill_id: r7375
+  title: Excise Tariff Amendment (Draught Beer) Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7375_first-reps/toc_pdf/25073b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-08
+  second_reading_hansard_url: null
+- bill_id: r7377
+  title: Customs Tariff Amendment (Draught Beer) Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Home Affairs
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7377_first-reps/toc_pdf/25076b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-08
+  second_reading_hansard_url: null
+- bill_id: r7378
+  title: Defence Amendment (Parliamentary Joint Committee on Defence) Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Defence
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7378_first-reps/toc_pdf/25077b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-08
+  second_reading_hansard_url: null
 - bill_id: r7379
   title: Telecommunications Legislation Amendment (Triple Zero Custodian and Emergency
     Calling Powers) Bill 2025
@@ -474,8 +516,79 @@ pending:
   introducer_id: '10931'
   introducer_division: Lilley
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7379_first-reps/toc_pdf/25082b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-07
+  last_updated: 2025-10-08
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28899%2F0007%22
+- bill_id: r7380
+  title: Regulatory Reform Omnibus Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Finance
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7380_first-reps/toc_pdf/25078b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-08
+  second_reading_hansard_url: null
+- bill_id: r7381
+  title: Home Affairs Legislation Amendment (2025 Measures No. 2) Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Home Affairs
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7381_first-reps/toc_pdf/25079b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-08
+  second_reading_hansard_url: null
+- bill_id: r7382
+  title: Criminal Code Amendment (State Sponsors of Terrorism) Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7382_first-reps/toc_pdf/25081b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-08
+  second_reading_hansard_url: null
+- bill_id: r7385
+  title: Commonwealth Parole Board Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7385_first-reps/toc_pdf/25085b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-08
+  second_reading_hansard_url: null
+- bill_id: r7386
+  title: Commonwealth Parole Board (Consequential and Transitional Provisions) Bill
+    2025
+  status: Before Reps
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7386_first-reps/toc_pdf/25084b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-08
+  second_reading_hansard_url: null
 - bill_id: s1174
   title: Broadcasting Services Amendment (Audio Description) Bill 2019
   status: Before Senate
@@ -1274,7 +1387,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0008%22
 - bill_id: r7343
   title: Aged Care and Other Legislation Amendment Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
@@ -1327,7 +1440,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0009%22
 - bill_id: r7351
   title: Treasury Laws Amendment (Payments System Modernisation) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
