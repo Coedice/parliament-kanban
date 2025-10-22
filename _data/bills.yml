@@ -322,7 +322,8 @@ pending:
   type: Private
   portfolio: null
   originating_house: House of Representatives
-  summary: null
+  summary: Declares Australia Day as the national day of Australia to be observed
+    on 26 January each year.
   introducer_name: Henry Pike
   introducer_party: Liberal National Party
   introducer_id: '10969'
@@ -336,7 +337,10 @@ pending:
   type: Private
   portfolio: null
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Road Vehicle Standards Act 2018 to classify and regulate e-bikes
+    as road vehicles and require the minister to determine national road vehicle standards;
+    and Vehicle Standard (Australian Design Rule - Definitions and Vehicle Categories)
+    2005 to make a technical amendment.'
   introducer_name: Sophie Scamps
   introducer_party: Independent
   introducer_id: '10989'
@@ -350,7 +354,9 @@ pending:
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends the Administrative Review Tribunal Act 2024 and Migration Act 1958\
+    \ to expand the Administrative Review Tribunal\u2019s ability to determine matters\
+    \ without holding an oral hearing of the proceeding."
   introducer_name: Michelle Rowland
   introducer_party: Labor
   introducer_id: '10751'
@@ -364,7 +370,14 @@ pending:
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Health Insurance Act 1973 to: provide for the automation of
+    Medicare provider numbers; remedy minor issues; and amend the Bonded Medical Program
+    in relation to repayment of education costs, Medicare benefits and Bonded Medical
+    Program rules; Private Health Insurance Act 2007 to ensure the validity of registration
+    and claims processes for the Private Health Insurance Rebate Premiums Reduction
+    Scheme; Health Insurance Legislation Amendment (Assignment of Medicare Benefits)
+    Act 2024 to delay the commencement of assignment of Medicare benefits arrangements;
+    and Australian Immunisation Register Act 2015 to make consequential amendments.'
   introducer_name: Rebecca White
   introducer_party: Labor
   introducer_id: '11052'
@@ -379,7 +392,19 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends the: Corporations Act 2001 to expand beneficial ownership disclosure\
+    \ obligations that apply to entities listed on Australia\u2019s financial markets\
+    \ and broaden the Australian Securities and Investments Commission\u2019s regulatory\
+    \ enforcement powers; Australian Charities and Not-for-profits Commission Act\
+    \ 2012 to provide for new exceptions for the public disclosure of protected Australian\
+    \ Charities and Not-for-profits Commission information about new and ongoing investigations;\
+    \ Financial Regulator Assessment Authority Act 2021 to reduce the frequency of\
+    \ the Financial Regulator Assessment Authority review cycles; Competition and\
+    \ Consumer Act 2010 to extend the operation of the prohibiting energy market misconduct\
+    \ provisions from 1 January 2026 to 1 January 2031; and Income Tax (Transitional\
+    \ Provisions) Act 1997 to extend the $20,000 instant asset write-off by 12 months\
+    \ until 30 June 2026. Also makes minor, technical or machinery amendments to 11\
+    \ Acts."
   introducer_name: Andrew Leigh
   introducer_party: Labor
   introducer_id: '10746'
@@ -394,7 +419,10 @@ pending:
   type: Government
   portfolio: Health and Ageing
   originating_house: House of Representatives
-  summary: null
+  summary: Amends the Private Health Insurance (National Joint Replacement Register
+    Levy) Act 2009 to provide that the person responsible for payment of the National
+    Joint Replacement Register levy is the person defined in the Private Health Insurance
+    (Medical Devices and Human Tissue Products) Rules.
   introducer_name: Rebecca White
   introducer_party: Labor
   introducer_id: '11052'
@@ -408,7 +436,9 @@ pending:
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Australian Centre for Disease Control (Consequential
+    Amendments and Transitional Provisions) Bill 2025, the bill establishes the Australian
+    Centre for Disease Control as a statutory Commonwealth public health authority.
   introducer_name: Mark Butler
   introducer_party: Labor
   introducer_id: '10086'
@@ -423,7 +453,16 @@ pending:
   type: Government
   portfolio: Social Services
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends the: Social Security Act 1991 to: validate the use of apportioning\
+    \ employment income when calculating the rate of a mean-tested social security\
+    \ payment for entitlement periods between 1 July 1991 and 6 December 2020; and\
+    \ A New Tax System (Family Assistance) (Administration) Act 1999, Paid Parental\
+    \ Leave Act 2010, Social Security Act 1991 and Student Assistance Act 1973 to\
+    \ expand the special circumstances waiver regimes; provide for a standardised\
+    \ and indexed small debt waiver threshold of $250; and provide for a one-off waiver\
+    \ of the Commonwealth\u2019s right to recover small undetermined debts. Also establishes\
+    \ a resolution scheme to provide a resolution payment to persons whose debts have\
+    \ been affected by income apportionment."
   introducer_name: Tanya Plibersek
   introducer_party: Labor
   introducer_id: '10513'
@@ -437,7 +476,12 @@ pending:
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Freedom of Information Act 1982 to implement or respond to
+    certain recommendations from previous reviews and inquiries in relation to the
+    Freedom of Information framework, including the Review of the Freedom of Information
+    Act 1982 and Australian Information Commissioner Act 2010 (the 2013 Hawke Review);
+    and Australian Information Commissioner Act 2010 and Public Interest Disclosure
+    Act 2013 to make consequential amendments.'
   introducer_name: Michelle Rowland
   introducer_party: Labor
   introducer_id: '10751'
@@ -452,7 +496,12 @@ pending:
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
-  summary: null
+  summary: 'Introduced with the Australian Centre for Disease Control Bill 2025, the
+    bill amends the: Biosecurity Act 2015, National Health Security Act 2007 and National
+    Occupational Respiratory Disease Act 2023 to transfer certain powers and functions
+    to the Director-General of the Australian Centre for Disease Control; and Freedom
+    of Information Act 1982 to exempt protected information from disclosure under
+    the Act. Also repeals the Australian National Preventative Health Agency Act 2010.'
   introducer_name: Mark Butler
   introducer_party: Labor
   introducer_id: '10086'
@@ -466,7 +515,11 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Superannuation Guarantee Charge Amendment Bill 2025,
+    the bill amends the Superannuation Guarantee (Administration) Act 1992 to require
+    employers to make superannuation contributions for their employees at the same
+    time as they pay their salary or wages. Also makes consequential amendments to
+    21 Acts.
   introducer_name: Jim Chalmers
   introducer_party: Labor
   introducer_id: '10809'
@@ -480,7 +533,10 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: "Introduced with the Treasury Laws Amendment (Payday Superannuation) Bill\
+    \ 2025, the bill imposes a superannuation guarantee charge on any superannuation\
+    \ guarantee shortfall of an employer for a qualifying earnings day (the employee\u2019\
+    s payday)."
   introducer_name: Jim Chalmers
   introducer_party: Labor
   introducer_id: '10809'
@@ -494,7 +550,9 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Customs Tariff Amendment (Draught Beer) Bill 2025,
+    the bill amends the Excise Tariff Act 1921 to pause the indexation of excise duty
+    rates on draught beer for two years, from 1 August 2025,
   introducer_name: Daniel Mulino
   introducer_party: Labor
   introducer_id: '10925'
@@ -508,7 +566,9 @@ pending:
   type: Government
   portfolio: Employment and Workplace Relations
   originating_house: House of Representatives
-  summary: null
+  summary: Amends the Fair work Act 2009 to provide that, unless employers and employees
+    have expressly agreed otherwise, employer-funded paid parental leave must not
+    be cancelled because a child is stillborn or dies.
   introducer_name: Amanda Rishworth
   introducer_party: Labor
   introducer_id: '10543'
@@ -522,7 +582,9 @@ pending:
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Excise Tariff Amendment (Draught Beer) Bill 2025, the
+    bill amends the Customs Tariff Act 1995 to pause the indexation of customs duty
+    rates on draught beer for two years, from 1 August 2025
   introducer_name: Daniel Mulino
   introducer_party: Labor
   introducer_id: '10925'
@@ -536,7 +598,10 @@ pending:
   type: Government
   portfolio: Defence
   originating_house: House of Representatives
-  summary: null
+  summary: Amends the Defence Act 1903 to establish the Parliamentary Joint Committee
+    on Defence to have general oversight of Australian defence agencies, other than
+    the Australian Geospatial-Intelligence Organisation, the Australian Signals Directorate
+    and the Defence Intelligence Organisation.
   introducer_name: Peter Khalil
   introducer_party: Labor
   introducer_id: '10887'
@@ -552,7 +617,14 @@ pending:
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
     and the Arts
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends the: Telecommunications (Consumer Protection and Service Standards)\
+    \ Act 1999 to establish the Triple Zero Custodian, with the ability to request\
+    \ the Australian Communications and Media Authority to require information, or\
+    \ direct action, from carriers, carriage service providers and emergency call\
+    \ persons in relation to matters which affect the Emergency Call Service; Telecommunications\
+    \ Act 1997 to make consequential amendments; and Telecommunications Act 1997 and\
+    \ Telecommunications (Consumer Protection and Service Standards) Act 1999 to update\
+    \ references to \u2018emergency services\u2019."
   introducer_name: Anika Wells
   introducer_party: Labor
   introducer_id: '10931'
@@ -580,7 +652,14 @@ pending:
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Migration Act 1958 and Australian Citizenship Act 2007 to:
+    enable the Department of Home Affairs, including the Australian Border Force,
+    to collect facial images from persons that align with international standards
+    and current biometric technology; and validate facial images that were provided
+    by a person or collected by the department in the past and any action taken in
+    relation to those images; and Australian Citizenship Act 2007 to remove certain
+    residency barriers to Australian citizenship for person engaging in activities
+    of benefit to Australia.'
   introducer_name: Tony Burke
   introducer_party: Labor
   introducer_id: '10081'
@@ -594,7 +673,11 @@ pending:
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the Criminal Code Act 1995 to: provide for a framework to list
+    foreign state entities as state sponsors of terrorism and to respond to state-sponsored
+    terrorist acts; and enable control orders, preventative detention orders and post
+    sentence orders to be used in respect of state sponsors of terrorism and state
+    terrorist acts. Also makes consequential amendments to 20 Acts.'
   introducer_name: Michelle Rowland
   introducer_party: Labor
   introducer_id: '10751'
@@ -608,7 +691,9 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: Amends the Corporations (Review Fees) Act 2003 to validate certain fees
+    collected by the Australian Securities and Investments Commission between 1 July
+    2011 and 11 March 2025, including the indexation applied to those fees.
   introducer_name: Daniel Mulino
   introducer_party: Labor
   introducer_id: '10925'
@@ -622,7 +707,23 @@ pending:
   type: Government
   portfolio: Education
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends the: Education Services for Overseas Students Act 2000 to implement\
+    \ measures relating to Australia\u2019s international education sector, including\
+    \ in relation to education agents and commissions, the giving of education agent\
+    \ information to registered providers, the management of provider applications,\
+    \ registration requirements, the automatic cancellation of registration and specified\
+    \ courses in certain circumstances, the investigation of offences when considering\
+    \ the fit and proper provider test, and internal reviews of reviewable decisions;\
+    \ Tertiary Education Quality and Standards Agency Act 2011 to ensure that registered\
+    \ providers that are delivering courses outside Australia are authorised by the\
+    \ Tertiary Education Quality and Standards Agency; Higher Education Support Act\
+    \ 2003 to introduce demand driven Commonwealth supported places for courses of\
+    \ study in medicine for eligible First Nations Students; and A New Tax System\
+    \ (Family Assistance) (Administration) Act 1999 to: expand information gathering\
+    \ powers to support the Early Education Service Delivery Prices Project; expand\
+    \ authorisations for the handling of protected information; make technical amendments;\
+    \ and align the date of effect for decisions relating to the child care subsidy\
+    \ (CCS) reconciliation process with the date of effect in the CCS system."
   introducer_name: Jason Clare
   introducer_party: Labor
   introducer_id: '10123'
@@ -636,7 +737,10 @@ pending:
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Commonwealth Parole Board (Consequential and Transitional
+    Provisions) Bill 2025, the bill establishes a statutory independent Commonwealth
+    Parole Board to make decisions about the conditional release and management of
+    federal offenders and other detained persons.
   introducer_name: Michelle Rowland
   introducer_party: Labor
   introducer_id: '10751'
@@ -651,7 +755,8 @@ pending:
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Commonwealth Parole Board Bill 2025, the bill amends
+    the Crimes Act 1914 to support the establishment of the Commonwealth Parole Board.
   introducer_name: Michelle Rowland
   introducer_party: Labor
   introducer_id: '10751'
@@ -1216,7 +1321,9 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Amends the Public Governance, Performance and Accountability Act 2013 to
+    require that government procurement contracts cannot be entered into with potential
+    suppliers or tenderers who have engaged in unethical conduct.
   introducer_name: Barbara Pocock
   introducer_party: Greens
   introducer_id: '11008'
@@ -1230,7 +1337,8 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: "Amends the Housing Australia Act 2018 to provide that certain directions\
+    \ about the performance of Housing Australia\u2019s functions are subject to disallowance."
   introducer_name: Andrew Bragg
   introducer_party: Liberal
   introducer_id: '10945'
@@ -1259,7 +1367,10 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Amends the Superannuation Industry (Supervision) Act 1993, Superannuation
+    Industry (Supervision) Regulations 1994 and Income Tax Assessment Act 1997 to
+    enable spouses to split their collective superannuation balances between them
+    on an ongoing annual basis.
   introducer_name: Jane Hume
   introducer_party: Liberal
   introducer_id: '10853'
