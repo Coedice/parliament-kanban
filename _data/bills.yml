@@ -444,7 +444,7 @@ pending:
   introducer_id: '10086'
   introducer_division: Hindmarsh
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7369_first-reps/toc_pdf/25068b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-09
+  last_updated: 2025-10-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0024%22
 - bill_id: r7370
   title: Social Security and Other Legislation Amendment (Technical Changes No. 2)
@@ -468,7 +468,7 @@ pending:
   introducer_id: '10513'
   introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7370_first-reps/toc_pdf/25070b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-09-04
+  last_updated: 2025-10-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0028%22
 - bill_id: r7371
   title: Freedom of Information Amendment Bill 2025
@@ -507,7 +507,7 @@ pending:
   introducer_id: '10086'
   introducer_division: Hindmarsh
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7372_first-reps/toc_pdf/25069b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-09
+  last_updated: 2025-10-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0028%22
 - bill_id: r7373
   title: Treasury Laws Amendment (Payday Superannuation) Bill 2025
@@ -612,7 +612,7 @@ pending:
 - bill_id: r7379
   title: Telecommunications Legislation Amendment (Triple Zero Custodian and Emergency
     Calling Powers) Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
     and the Arts
@@ -630,7 +630,7 @@ pending:
   introducer_id: '10931'
   introducer_division: Lilley
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7379_first-reps/toc_pdf/25082b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-08
+  last_updated: 2025-10-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28899%2F0007%22
 - bill_id: r7380
   title: Regulatory Reform Omnibus Bill 2025
@@ -638,7 +638,29 @@ pending:
   type: Government
   portfolio: Finance
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends: 13 Acts to provide for a \u2018tell us once\u2019 approach to\
+    \ support the sharing and use of information provided to various government agencies,\
+    \ including Services Australia; the A New Tax System (Family Assistance) Act 1999\
+    \ and A New Tax System (Family Assistance) (Administration) Act 1999 to amend\
+    \ the language used for the Additional Child Care Subsidy (child wellbeing) payment;\
+    \ the Health Insurance Act 1973, National Health Act 1953 and Dental Benefits\
+    \ Act 2008 to amend regulatory settings around certain health care services; the\
+    \ Private Health Insurance Act 2007 to remove the risk of unintentional non-compliance\
+    \ by a private health insurer due to a rounding technicality; the Marriage Act\
+    \ 1961 to allow marriage celebrants to accept digital forms of identity verification;\
+    \ the Offshore Petroleum and Greenhouse Gas Storage Act 2006 to enable petroleum\
+    \ and environmental regulators to share certain information; the Australian Communications\
+    \ and Media Authority Act 2005 and Defence Act 1903 to expand certain delegation\
+    \ powers; the National Broadband Network Companies Act 2011 to enable NBN Co mapping\
+    \ data to continue to be made publicly available; the Fuel Security Act 2012,\
+    \ Petroleum and Other Fuels Reporting Act 2017 and Liquid Fuel Emergency Act 1984\
+    \ to enable the Government to respond to potential shortages of critical fuels;\
+    \ the Greenhouse and Energy Minimum Standards Act 2012 to include the consideration\
+    \ of energy performance; and the Social Security Act 1991, Military Rehabilitation\
+    \ and Compensation Act 2004 and Veterans\u2019 Entitlements Act 1986 to: provide\
+    \ for consistency in relation to certain social security benefits; and make minor\
+    \ or technical amendments. Also repeals the Cockatoo and Schnapper Islands Act\
+    \ 1949 and Early Years Quality Fund Special Account Act 2013."
   introducer_name: Jim Chalmers
   introducer_party: Labor
   introducer_id: '10809'
@@ -764,6 +786,35 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7386_first-reps/toc_pdf/25084b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-10-08
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0025%22
+- bill_id: r7387
+  title: Crimes Amendment (Mandatory Minimum Sentences for Child Sexual Abuse) Bill
+    2025
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Julian Leeser
+  introducer_party: Liberal
+  introducer_id: '10888'
+  introducer_division: Berowra
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7387_first-reps/toc_pdf/25086b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-27
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28855%2F0294%22
+- bill_id: r7388
+  title: Lobbying (Improving Government Honesty and Trust) Bill 2025 (No. 2)
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: null
+  introducer_party: null
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7388_first-reps/toc_pdf/25087b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-27
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28855%2F0299%22
 - bill_id: s1174
   title: Broadcasting Services Amendment (Audio Description) Bill 2019
   status: Before Senate
