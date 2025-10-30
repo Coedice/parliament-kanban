@@ -263,29 +263,8 @@ pending:
   introducer_id: '10751'
   introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7365_first-reps/toc_pdf/25066b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-27
+  last_updated: 2025-10-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0020%22
-- bill_id: r7366
-  title: Health Legislation Amendment (Miscellaneous Measures No. 1) Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Health, Disability and Ageing
-  originating_house: House of Representatives
-  summary: 'Amends the: Health Insurance Act 1973 to: provide for the automation of
-    Medicare provider numbers; remedy minor issues; and amend the Bonded Medical Program
-    in relation to repayment of education costs, Medicare benefits and Bonded Medical
-    Program rules; Private Health Insurance Act 2007 to ensure the validity of registration
-    and claims processes for the Private Health Insurance Rebate Premiums Reduction
-    Scheme; Health Insurance Legislation Amendment (Assignment of Medicare Benefits)
-    Act 2024 to delay the commencement of assignment of Medicare benefits arrangements;
-    and Australian Immunisation Register Act 2015 to make consequential amendments.'
-  introducer_name: Rebecca White
-  introducer_party: Labor
-  introducer_id: '11052'
-  introducer_division: Lyons
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7366_first-reps/toc_pdf/25065b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0036%22
 - bill_id: r7367
   title: Treasury Laws Amendment (Strengthening Financial Systems and Other Measures)
     Bill 2025
@@ -313,24 +292,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7367_first-reps/toc_pdf/25067b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-10-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0032%22
-- bill_id: r7368
-  title: Private Health Insurance (National Joint Replacement Register Levy) Amendment
-    Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Health and Ageing
-  originating_house: House of Representatives
-  summary: Amends the Private Health Insurance (National Joint Replacement Register
-    Levy) Act 2009 to provide that the person responsible for payment of the National
-    Joint Replacement Register levy is the person defined in the Private Health Insurance
-    (Medical Devices and Human Tissue Products) Rules.
-  introducer_name: Rebecca White
-  introducer_party: Labor
-  introducer_id: '11052'
-  introducer_division: Lyons
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7368_first-reps/toc_pdf/25062b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-29
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0040%22
 - bill_id: r7369
   title: Australian Centre for Disease Control Bill 2025
   status: Before Senate
@@ -345,7 +306,7 @@ pending:
   introducer_id: '10086'
   introducer_division: Hindmarsh
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7369_first-reps/toc_pdf/25068b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-27
+  last_updated: 2025-10-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0024%22
 - bill_id: r7370
   title: Social Security and Other Legislation Amendment (Technical Changes No. 2)
@@ -408,7 +369,7 @@ pending:
   introducer_id: '10086'
   introducer_division: Hindmarsh
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7372_first-reps/toc_pdf/25069b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-27
+  last_updated: 2025-10-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0028%22
 - bill_id: r7373
   title: Treasury Laws Amendment (Payday Superannuation) Bill 2025
@@ -426,7 +387,7 @@ pending:
   introducer_id: '10809'
   introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7373_first-reps/toc_pdf/25075b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-29
+  last_updated: 2025-10-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0009%22
 - bill_id: r7374
   title: Superannuation Guarantee Charge Amendment Bill 2025
@@ -443,7 +404,7 @@ pending:
   introducer_id: '10809'
   introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7374_first-reps/toc_pdf/25074b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-29
+  last_updated: 2025-10-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0013%22
 - bill_id: r7375
   title: Excise Tariff Amendment (Draught Beer) Bill 2025
@@ -508,7 +469,7 @@ pending:
   introducer_id: '10887'
   introducer_division: Wills
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7378_first-reps/toc_pdf/25077b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-29
+  last_updated: 2025-10-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0037%22
 - bill_id: r7380
   title: Regulatory Reform Omnibus Bill 2025
@@ -565,11 +526,11 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7381_first-reps/toc_pdf/25079b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-28
+  last_updated: 2025-10-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0009%22
 - bill_id: r7382
   title: Criminal Code Amendment (State Sponsors of Terrorism) Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
@@ -629,7 +590,7 @@ pending:
   introducer_id: '10123'
   introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7384_first-reps/toc_pdf/25083b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-29
+  last_updated: 2025-10-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0023%22
 - bill_id: r7385
   title: Commonwealth Parole Board Bill 2025
@@ -693,6 +654,20 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7388_first-reps/toc_pdf/25087b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-10-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28855%2F0299%22
+- bill_id: r7389
+  title: Customs Tariff Amendment (Geelong Treaty Implementation) Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Home Affairs
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Julian Hill
+  introducer_party: Labor
+  introducer_id: '10885'
+  introducer_division: Bruce
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7389_first-reps/toc_pdf/25088b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-30
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0016%22
 - bill_id: r7390
   title: VET Student Loans (Miscellaneous Measures) Bill 2025
   status: Before Reps
@@ -722,6 +697,108 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7391_first-reps/toc_pdf/25090b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-10-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28898%2F0018%22
+- bill_id: r7392
+  title: Environment Protection and Biodiversity Conservation (Restoration Charge
+    Imposition) Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7392_first-reps/toc_pdf/25091b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-30
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0052%22
+- bill_id: r7393
+  title: National Environmental Protection Agency Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7393_first-reps/toc_pdf/25094b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-30
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0044%22
+- bill_id: r7394
+  title: Environment Protection and Biodiversity Conservation (Customs Charges Imposition)
+    Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7394_first-reps/toc_pdf/25095b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-30
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0060%22
+- bill_id: r7395
+  title: Environment Protection and Biodiversity Conservation (General Charges Imposition)
+    Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7395_first-reps/toc_pdf/25096b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-30
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0056%22
+- bill_id: r7396
+  title: Environment Protection and Biodiversity Conservation (Excise Charges Imposition)
+    Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7396_first-reps/toc_pdf/25092b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-30
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0064%22
+- bill_id: r7397
+  title: Environment Information Australia Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7397_first-reps/toc_pdf/25093b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-30
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0048%22
+- bill_id: r7398
+  title: Environment Protection Reform Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7398_first-reps/toc_pdf/25097b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-30
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0040%22
 - bill_id: s1174
   title: Broadcasting Services Amendment (Audio Description) Bill 2019
   status: Before Senate
@@ -1302,7 +1379,7 @@ pending:
   introducer_id: '10945'
   introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1468_first-senate/toc_pdf/25S2020.pdf;fileType=application%2Fpdf
-  last_updated: 2025-09-04
+  last_updated: 2025-10-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0072%22
 - bill_id: s1469
   title: Repeal Net Zero Bill 2025 [No. 2]
@@ -1349,7 +1426,7 @@ pending:
   introducer_division: Victoria
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1473_first-senate/toc_pdf/25S2520.pdf;fileType=application%2Fpdf
   last_updated: 2025-10-29
-  second_reading_hansard_url: null
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28863%2F0181%22
 - bill_id: s996
   title: Landholders&rsquo; Right to Refuse (Gas and Coal) Bill 2015
   status: Before Senate
@@ -1610,6 +1687,50 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7351_aspassed/toc_pdf/25053b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-19
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0029%22
+- bill_id: r7352
+  title: Appropriation (Parliamentary Departments) Bill (No. 1) 2025-2026
+  status: Assent
+  type: Government
+  portfolio: Finance
+  originating_house: House of Representatives
+  summary: Appropriates money out of the Consolidated Revenue Fund for expenditure
+    in relation to the parliamentary departments.
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7352_aspassed/toc_pdf/25045b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-29
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0025%22
+- bill_id: r7353
+  title: Appropriation Bill (No. 2) 2025-2026
+  status: Assent
+  type: Government
+  portfolio: Finance
+  originating_house: House of Representatives
+  summary: Appropriates money out of the Consolidated Revenue Fund for certain expenditure.
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7353_aspassed/toc_pdf/25047b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-29
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0021%22
+- bill_id: r7354
+  title: Appropriation Bill (No. 1) 2025-2026
+  status: Assent
+  type: Government
+  portfolio: Finance
+  originating_house: House of Representatives
+  summary: Appropriates money out of the Consolidated Revenue Fund for the ordinary
+    annual services of the government.
+  introducer_name: Jodie Belyea
+  introducer_party: Labor
+  introducer_id: '11018'
+  introducer_division: Dunkley
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7354_aspassed/toc_pdf/25046b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-10-29
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0170%22
 - bill_id: r7363
   title: Home Affairs Legislation Amendment (2025 Measures No. 1) Bill 2025
   status: Act
