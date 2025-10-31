@@ -428,7 +428,7 @@ pending:
   type: Government
   portfolio: Employment and Workplace Relations
   originating_house: House of Representatives
-  summary: Amends the Fair work Act 2009 to provide that, unless employers and employees
+  summary: Amends the Fair Work Act 2009 to provide that, unless employers and employees
     have expressly agreed otherwise, employer-funded paid parental leave must not
     be cancelled because a child is stillborn or dies.
   introducer_name: Amanda Rishworth
@@ -1288,7 +1288,7 @@ pending:
   introducer_id: '10838'
   introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1457_first-senate/toc_pdf/2503520.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-29
+  last_updated: 2025-10-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0165%22
 - bill_id: s1461
   title: Electoral Legislation Amendment (Electoral Communications) Bill 2025 (No.
