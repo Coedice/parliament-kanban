@@ -14,3 +14,19 @@ build:
 format:
 	isort .
 	ruff format
+
+.PHONY: clean
+clean:
+	rm -rf _site/
+	rm -rf .venv/
+	rm -rf .ruff_cache/
+	rm -rf __pycache__/
+	rm -rf .sass-cache/
+	rm -rf .jekyll-cache/
+	rm -rf .jekyll-metadata
+	rm -rf .bundle/
+	rm -rf vendor/
+	rm -f Gemfile.lock
+	rm -f *.pyc
+	rm -f _data/bills.yml.tmp
+	rm -f uv.lock

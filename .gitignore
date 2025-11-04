@@ -7,3 +7,4 @@ vendor/
 *.pyc
 .DS_Store
 *.tmp
+uv.lock
