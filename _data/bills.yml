@@ -1821,6 +1821,57 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7368_aspassed/toc_pdf/25062b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0040%22
+- bill_id: r7373
+  title: Treasury Laws Amendment (Payday Superannuation) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: Introduced with the Superannuation Guarantee Charge Amendment Bill 2025,
+    the bill amends the Superannuation Guarantee (Administration) Act 1992 to require
+    employers to make superannuation contributions for their employees at the same
+    time as they pay their salary or wages. Also makes consequential amendments to
+    21 Acts.
+  introducer_name: Jim Chalmers
+  introducer_party: Labor
+  introducer_id: '10809'
+  introducer_division: Rankin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7373_aspassed/toc_pdf/25075b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-06
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0009%22
+- bill_id: r7374
+  title: Superannuation Guarantee Charge Amendment Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: "Introduced with the Treasury Laws Amendment (Payday Superannuation) Bill\
+    \ 2025, the bill imposes a superannuation guarantee charge on any superannuation\
+    \ guarantee shortfall of an employer for a qualifying earnings day (the employee\u2019\
+    s payday)."
+  introducer_name: Jim Chalmers
+  introducer_party: Labor
+  introducer_id: '10809'
+  introducer_division: Rankin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7374_aspassed/toc_pdf/25074b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-06
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0013%22
+- bill_id: r7376
+  title: Fair Work Amendment (Baby Priya&rsquo;s) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Employment and Workplace Relations
+  originating_house: House of Representatives
+  summary: Amends the Fair Work Act 2009 to provide that, unless employers and employees
+    have expressly agreed otherwise, employer-funded paid parental leave must not
+    be cancelled because a child is stillborn or dies.
+  introducer_name: Amanda Rishworth
+  introducer_party: Labor
+  introducer_id: '10543'
+  introducer_division: Kingston
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7376_aspassed/toc_pdf/25072b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-06
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0017%22
 - bill_id: r7379
   title: Telecommunications Legislation Amendment (Triple Zero Custodian and Emergency
     Calling Powers) Bill 2025
@@ -1844,6 +1895,24 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7379_aspassed/toc_pdf/25082b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-10-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28899%2F0007%22
+- bill_id: r7382
+  title: Criminal Code Amendment (State Sponsors of Terrorism) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: 'Amends the Criminal Code Act 1995 to: provide for a framework to list
+    foreign state entities as state sponsors of terrorism and to respond to state-sponsored
+    terrorist acts; and enable control orders, preventative detention orders and post
+    sentence orders to be used in respect of state sponsors of terrorism and state
+    terrorist acts. Also makes consequential amendments to 20 Acts.'
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7382_aspassed/toc_pdf/25081b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-06
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0017%22
 - bill_id: s1458
   title: Health Legislation Amendment (Improved Medicare Integrity and Other Measures)
     Bill 2025
