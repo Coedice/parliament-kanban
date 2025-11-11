@@ -30,7 +30,7 @@ columns:
             {% assign party_has_bills = false %}
             {% for column in page.columns %}
                 {% for bill in site.data.bills[column.data] %}
-                    {% if bill.sponsor_party == party.name or bill.minister_party == party.name %}
+                    {% if bill.introducer_party == party.name %}
                         {% assign party_has_bills = true %}
                         {% break %}
                     {% endif %}
