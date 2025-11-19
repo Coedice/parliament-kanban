@@ -527,7 +527,10 @@ pending:
   type: Private
   portfolio: null
   originating_house: House of Representatives
-  summary: null
+  summary: Amends the Crimes Act 1914 in relation to mandatory minimum sentences for
+    certain offences relating to child abuse material transmitted or possessed through
+    a carriage or postal service and the making of recognizance release orders for
+    child sex offences only in exceptional circumstances.
   introducer_name: Julian Leeser
   introducer_party: Liberal
   introducer_id: '10888'
@@ -541,7 +544,8 @@ pending:
   type: Private
   portfolio: null
   originating_house: House of Representatives
-  summary: null
+  summary: Establishes a scheme in relation to dealings between lobbyists and Government
+    representatives.
   introducer_name: Monique Ryan
   introducer_party: Independent
   introducer_id: '10987'
@@ -555,7 +559,11 @@ pending:
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
-  summary: null
+  summary: "Implements Australia\u2019s obligations under the Nuclear-Powered Submarine\
+    \ Partnership and Collaboration Agreement between the Government of Australia\
+    \ and the Government of the United Kingdom of Great Britain and Northern Ireland\
+    \ by amending the Customs Tariff Act 1995 to provide for a free rate of customs\
+    \ duty for goods that are for use under the treaty."
   introducer_name: Julian Hill
   introducer_party: Labor
   introducer_id: '10885'
@@ -569,7 +577,11 @@ pending:
   type: Government
   portfolio: Employment and Workplace Relations
   originating_house: House of Representatives
-  summary: null
+  summary: "The bill: authorises certain activities undertaken in relation to tax\
+    \ file numbers (TFNs) for the purpose of administering, or facilitating the administration\
+    \ of, a student\u2019s application for a VET Student Loan or the student\u2019\
+    s loan itself; and authorises the Department of Employment and Workplace Relations\u2019\
+    \ disclosure of TFNs to VSL providers for the same purposes."
   introducer_name: Andrew Giles
   introducer_party: Labor
   introducer_id: '10812'
@@ -584,7 +596,13 @@ pending:
   type: Government
   portfolio: Veterans' Affairs
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends the Military Rehabilitation and Compensation Act 2004, Military\
+    \ Rehabilitation and Compensation (Consequential and Transitional Provisions)\
+    \ Act 2004, Safety, Rehabilitation and Compensation (Defence-related Claims) Act\
+    \ 1988 and Veterans\u2019 Entitlements, Treatment and Support (Simplification\
+    \ and Harmonisation) Act 2025 to make technical amendments prior to the commencement\
+    \ of the Veterans\u2019 Entitlements, Treatment and Support (Simplification and\
+    \ Harmonisation) Act 2025."
   introducer_name: Matt Keogh
   introducer_party: Labor
   introducer_id: '10861'
@@ -599,7 +617,13 @@ pending:
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
-  summary: null
+  summary: Part of a package of 7 bills to implement the recommendations of the 2020
+    Independent Review of the Environment Protection and Biodiversity Conservation
+    Act 1999 (the Samuel Review), the bill imposes charges relating to actions taken
+    under the Environment Protection and Biodiversity Conservation Act 1999, including
+    certain approvals containing conditions requiring the payment of a restoration
+    contribution charge, the registration of priority actions in a bioregional plan,
+    and the grant of national interest and Part 13 exemptions.
   introducer_name: Tony Burke
   introducer_party: Labor
   introducer_id: '10081'
@@ -613,7 +637,11 @@ pending:
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
-  summary: null
+  summary: Part of a package of 7 bills to implement the recommendations of the 2020
+    Independent Review of the Environment Protection and Biodiversity Conservation
+    Act 1999 (the Samuel Review), the bill establishes the National Environmental
+    Protection Agency as a statutory Commonwealth entity to undertake regulatory and
+    implementation functions under a range of environmental Commonwealth laws
   introducer_name: Tony Burke
   introducer_party: Labor
   introducer_id: '10081'
@@ -628,7 +656,11 @@ pending:
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
-  summary: null
+  summary: Part of a package of 7 bills to implement the recommendations of the 2020
+    Independent Review of the Environment Protection and Biodiversity Conservation
+    Act 1999 (the Samuel Review), the bill imposes charges in relation to prescribed
+    matters connected with the administration of the Environment Protection and Biodiversity
+    Conservation Act 1999.
   introducer_name: Tony Burke
   introducer_party: Labor
   introducer_id: '10081'
@@ -643,7 +675,11 @@ pending:
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
-  summary: null
+  summary: Part of a package of 7 bills to implement the recommendations of the 2020
+    Independent Review of the Environment Protection and Biodiversity Conservation
+    Act 1999 (the Samuel Review), the bill imposes charges in relation to prescribed
+    matters connected with the administration of the Environment Protection and Biodiversity
+    Conservation Act 1999.
   introducer_name: Tony Burke
   introducer_party: Labor
   introducer_id: '10081'
@@ -658,7 +694,11 @@ pending:
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
-  summary: null
+  summary: Part of a package of 7 bills to implement the recommendations of the 2020
+    Independent Review of the Environment Protection and Biodiversity Conservation
+    Act 1999 (the Samuel Review), the bill imposes charges in relation to prescribed
+    matters connected with the administration of the Environment Protection and Biodiversity
+    Conservation Act 1999.
   introducer_name: Tony Burke
   introducer_party: Labor
   introducer_id: '10081'
@@ -672,7 +712,11 @@ pending:
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
-  summary: null
+  summary: Part of a package of 7 bills to implement the recommendations of the 2020
+    Independent Review of the Environment Protection and Biodiversity Conservation
+    Act 1999 (the Samuel Review), the bill establishes the statutory position of the
+    Head of Environment Information Australia to provide access to, assess and report
+    on environmental information and data
   introducer_name: Tony Burke
   introducer_party: Labor
   introducer_id: '10081'
@@ -686,7 +730,22 @@ pending:
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
-  summary: null
+  summary: 'Part of a package of 7 bills to implement the recommendations of the 2020
+    Independent Review of the Environment Protection and Biodiversity Conservation
+    Act 1999 (the Samuel Review), the bill amends the Environment Protection and Biodiversity
+    Conservation Act 1999 to: streamline the assessment and approvals process; update
+    provisions relating to accreditation and bilateral agreements; provide for bioregional
+    plans; provide a framework for the Minister  to make, vary and revoke national
+    environmental standards; make it clear that projects with unacceptable impacts
+    on nationally protected matters can no longer be approved; prevent a project being
+    approved unless all residual significant impacts of the action on nationally protected
+    matters have been compensated to a net gain; provide a mechanism for projects
+    that are in the national interest to be approved even if they do not meet certain
+    requirements; allow conditions to be attached to taking an action covered by a
+    national interest exemption; amend provisions relating to reconsiderations; update
+    provisions relating to conservation planning and heritage; update compliance and
+    enforcement powers; and make administrative amendments. Also makes consequential
+    amendments to 11 other Acts.'
   introducer_name: Tony Burke
   introducer_party: Labor
   introducer_id: '10081'
@@ -700,7 +759,8 @@ pending:
   type: Private
   portfolio: null
   originating_house: House of Representatives
-  summary: null
+  summary: Prohibits a constitutional corporation from constructing, installing or
+    commissioning a windfarm in a state forest.
   introducer_name: Andrew Gee
   introducer_party: Independent
   introducer_id: '10883'
@@ -714,7 +774,9 @@ pending:
   type: Private
   portfolio: null
   originating_house: House of Representatives
-  summary: null
+  summary: Amends the Commonwealth Electoral Act 1918 to prevent a registered political
+    party or a candidate in a Senate or House of Representatives election from submitting
+    a postal vote application on behalf of an elector.
   introducer_name: null
   introducer_party: null
   introducer_id: null
@@ -728,7 +790,9 @@ pending:
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
-  summary: null
+  summary: Amends the Migration Act 1958 to provide for the publication of a register
+    of approved standard business sponsors and accredited sponsors who have nominated
+    skilled workers for entry to Australia.
   introducer_name: Tony Burke
   introducer_party: Labor
   introducer_id: '10081'
@@ -742,7 +806,13 @@ pending:
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends the Copyright Act 1968 to: facilitate the use of copyright materials\
+    \ for which the copyright owner cannot be identified or located (commonly known\
+    \ as \u2018orphan works\u2019) by limiting the remedies available for infringing\
+    \ use if the user conducts a reasonably diligent search for the copyright owner\
+    \ or owners and meets certain other requirements; clarify the scope of section\
+    \ 28 which relates to the performance and communication of copyright material\
+    \ in the course of educational instruction; and make minor technical amendments."
   introducer_name: Michelle Rowland
   introducer_party: Labor
   introducer_id: '10751'
@@ -757,7 +827,10 @@ pending:
   type: Government
   portfolio: Arts
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Broadcasting Services Act 1992 to require providers of certain
+    subscription video on demand services to ensure minimum levels of expenditure
+    on new eligible Australian programs; and Australian Communications and Media Authority
+    Act 2005 to make consequential amendments.'
   introducer_name: Tony Burke
   introducer_party: Labor
   introducer_id: '10081'
@@ -1368,7 +1441,13 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: "Amends the: Australian Radiation Protection and Nuclear Safety Act 1998\
+    \ to remove the moratorium on nuclear energy in Australia; Australian Renewable\
+    \ Energy Agency Act 2011 to enable the Australian Renewable Energy Agency to exercise\
+    \ its functions in relation to \u2018clean emissions energy technologies\u2019\
+    , which includes civil nuclear energy and nuclear technologies; and Clean Energy\
+    \ Finance Corporation Act 2012 to remove the prohibition on the Clean Energy Finance\
+    \ Corporations\u2019 ability to invest in nuclear technology or nuclear power."
   introducer_name: Jane Hume
   introducer_party: Liberal
   introducer_id: '10853'
@@ -1396,7 +1475,8 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Amends the Fair Work Act 2009 to give employees the right to request to
+    work from home for up to 2 days per week.
   introducer_name: Barbara Pocock
   introducer_party: Greens
   introducer_id: '11008'
