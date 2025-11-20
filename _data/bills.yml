@@ -1461,7 +1461,8 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Requires a regulation impact statement to be prepared for certain bills
+    and legislative instruments.
   introducer_name: Tammy Tyrrell
   introducer_party: Independent
   introducer_id: '11012'
