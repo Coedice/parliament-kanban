@@ -1902,6 +1902,42 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7368_aspassed/toc_pdf/25062b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0040%22
+- bill_id: r7369
+  title: Australian Centre for Disease Control Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: House of Representatives
+  summary: Introduced with the Australian Centre for Disease Control (Consequential
+    Amendments and Transitional Provisions) Bill 2025, the bill establishes the Australian
+    Centre for Disease Control as a statutory Commonwealth public health authority.
+  introducer_name: Mark Butler
+  introducer_party: Labor
+  introducer_id: '10086'
+  introducer_division: Hindmarsh
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7369_aspassed/toc_pdf/25068b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-10
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0024%22
+- bill_id: r7372
+  title: Australian Centre for Disease Control (Consequential Amendments and Transitional
+    Provisions) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: House of Representatives
+  summary: 'Introduced with the Australian Centre for Disease Control Bill 2025, the
+    bill amends the: Biosecurity Act 2015, National Health Security Act 2007 and National
+    Occupational Respiratory Disease Act 2023 to transfer certain powers and functions
+    to the Director-General of the Australian Centre for Disease Control; and Freedom
+    of Information Act 1982 to exempt protected information from disclosure under
+    the Act. Also repeals the Australian National Preventative Health Agency Act 2010.'
+  introducer_name: Mark Butler
+  introducer_party: Labor
+  introducer_id: '10086'
+  introducer_division: Hindmarsh
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7372_aspassed/toc_pdf/25069b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-10
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0028%22
 - bill_id: r7373
   title: Treasury Laws Amendment (Payday Superannuation) Bill 2025
   status: Assent
