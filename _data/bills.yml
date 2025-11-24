@@ -54,7 +54,7 @@ pending:
   introducer_id: '10350'
   introducer_division: New England
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7346_first-reps/toc_pdf/25050b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-03
+  last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28812%2F0010%22
 - bill_id: r7347
   title: Criminal Code Amendment (Using Technology to Generate Child Abuse Material)
@@ -128,8 +128,8 @@ pending:
   introducer_party: Labor
   introducer_id: '10751'
   introducer_division: Greenway
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7350_first-reps/toc_pdf/25049b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-07-30
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7350_third-reps/toc_pdf/25049b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0013%22
 - bill_id: r7355
   title: Social Security and Other Legislation Amendment (Responding to Robodebt)
@@ -201,22 +201,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7358_first-reps/toc_pdf/25057b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0005%22
-- bill_id: r7359
-  title: Defence Amendment (Defence Honours and Awards Appeals Tribunal) Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Defence
-  originating_house: House of Representatives
-  summary: Amends the Defence Act 1903 to amend the arrangements for review by the
-    Defence Honours and Awards Appeals Tribunal of decisions relating to defence honours,
-    defence awards and foreign awards.
-  introducer_name: Matt Keogh
-  introducer_party: Labor
-  introducer_id: '10861'
-  introducer_division: Burt
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7359_first-reps/toc_pdf/25059b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-09-04
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0009%22
 - bill_id: r7362
   title: Australia Day Bill 2025
   status: Before Reps
@@ -314,7 +298,7 @@ pending:
   introducer_id: '10513'
   introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7370_third-reps/toc_pdf/25070b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-05
+  last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0028%22
 - bill_id: r7371
   title: Freedom of Information Amendment Bill 2025
@@ -820,6 +804,21 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7402_first-reps/toc_pdf/25098b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28875%2F0019%22
+- bill_id: r7403
+  title: Interactive Gambling Amendment (Ending Online Wagering on Greyhound Racing)
+    Bill 2025
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Andrew Wilkie
+  introducer_party: Independent
+  introducer_id: '10727'
+  introducer_division: Clark
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7403_first-reps/toc_pdf/25114b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-24
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28881%2F0081%22
 - bill_id: r7404
   title: Communications Legislation Amendment (Australian Content Requirement for
     Subscription Video On Demand (Streaming) Services) Bill 2025
@@ -836,8 +835,24 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7404_first-reps/toc_pdf/25102b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-06
+  last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28878%2F0016%22
+- bill_id: s1138
+  title: Plebiscite (Future Migration Level) Bill 2018
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: "Establishes a legislative framework for a national plebiscite to be held\
+    \ in conjunction with the next general election that would ask Australians \u201C\
+    Do you think the current rate of immigration to Australia is too high?\u201D."
+  introducer_name: Pauline Hanson
+  introducer_party: One Nation
+  introducer_id: '10280'
+  introducer_division: Queensland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1138_first-senate/toc_pdf/1815920.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-24
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F1703c122-ac05-4aec-8eb4-12be103b0120%2F0105%22
 - bill_id: s1174
   title: Broadcasting Services Amendment (Audio Description) Bill 2019
   status: Before Senate
@@ -1435,6 +1450,20 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1470_first-senate/toc_pdf/25S2320.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0194%22
+- bill_id: s1471
+  title: Online Safety and Other Legislation Amendment (My Face, My Rights) Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: David Pocock
+  introducer_party: Independent
+  introducer_id: '11009'
+  introducer_division: ACT
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1471_first-senate/toc_pdf/25S2920.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-24
+  second_reading_hansard_url: null
 - bill_id: s1473
   title: Environment and Other Legislation Amendment (Low Emissions Future) Bill 2025
   status: Before Senate
@@ -2109,6 +2138,22 @@ passed:
   last_updated: 2025-08-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22
 failed:
+- bill_id: r7359
+  title: Defence Amendment (Defence Honours and Awards Appeals Tribunal) Bill 2025
+  status: Not Proceeding
+  type: Government
+  portfolio: Defence
+  originating_house: House of Representatives
+  summary: Amends the Defence Act 1903 to amend the arrangements for review by the
+    Defence Honours and Awards Appeals Tribunal of decisions relating to defence honours,
+    defence awards and foreign awards.
+  introducer_name: Matt Keogh
+  introducer_party: Labor
+  introducer_id: '10861'
+  introducer_division: Burt
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7359_first-reps/toc_pdf/25059b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-24
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0009%22
 - bill_id: s1463
   title: Sex Discrimination Amendment (Restoring Biological Definitions) Bill 2025
   status: Not Proceeding
