@@ -298,11 +298,11 @@ pending:
   introducer_id: '10513'
   introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7370_third-reps/toc_pdf/25070b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-24
+  last_updated: 2025-11-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0028%22
 - bill_id: r7371
   title: Freedom of Information Amendment Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
@@ -317,7 +317,7 @@ pending:
   introducer_id: '10751'
   introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7371_third-reps/toc_pdf/25071b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-06
+  last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0016%22
 - bill_id: r7375
   title: Excise Tariff Amendment (Draught Beer) Bill 2025
@@ -333,7 +333,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7375_first-reps/toc_pdf/25073b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-03
+  last_updated: 2025-11-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0029%22
 - bill_id: r7377
   title: Customs Tariff Amendment (Draught Beer) Bill 2025
@@ -349,7 +349,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7377_first-reps/toc_pdf/25076b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-03
+  last_updated: 2025-11-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0033%22
 - bill_id: r7378
   title: Defence Amendment (Parliamentary Joint Committee on Defence) Bill 2025
@@ -486,7 +486,7 @@ pending:
   introducer_id: '10751'
   introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7385_first-reps/toc_pdf/25085b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-08
+  last_updated: 2025-11-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0021%22
 - bill_id: r7386
   title: Commonwealth Parole Board (Consequential and Transitional Provisions) Bill
@@ -502,7 +502,7 @@ pending:
   introducer_id: '10751'
   introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7386_first-reps/toc_pdf/25084b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-08
+  last_updated: 2025-11-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0025%22
 - bill_id: r7387
   title: Crimes Amendment (Mandatory Minimum Sentences for Child Sexual Abuse) Bill
@@ -597,7 +597,7 @@ pending:
 - bill_id: r7392
   title: Environment Protection and Biodiversity Conservation (Restoration Charge
     Imposition) Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
@@ -613,11 +613,11 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7392_first-reps/toc_pdf/25091b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-06
+  last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0052%22
 - bill_id: r7393
   title: National Environmental Protection Agency Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
@@ -631,12 +631,12 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7393_first-reps/toc_pdf/25094b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-06
+  last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0044%22
 - bill_id: r7394
   title: Environment Protection and Biodiversity Conservation (Customs Charges Imposition)
     Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
@@ -650,12 +650,12 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7394_first-reps/toc_pdf/25095b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-06
+  last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0060%22
 - bill_id: r7395
   title: Environment Protection and Biodiversity Conservation (General Charges Imposition)
     Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
@@ -669,12 +669,12 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7395_first-reps/toc_pdf/25096b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-06
+  last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0056%22
 - bill_id: r7396
   title: Environment Protection and Biodiversity Conservation (Excise Charges Imposition)
     Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
@@ -688,11 +688,11 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7396_first-reps/toc_pdf/25092b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-06
+  last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0064%22
 - bill_id: r7397
   title: Environment Information Australia Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
@@ -706,11 +706,11 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7397_first-reps/toc_pdf/25093b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-06
+  last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0048%22
 - bill_id: r7398
   title: Environment Protection Reform Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
@@ -735,7 +735,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7398_third-reps/toc_pdf/25097b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-06
+  last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0040%22
 - bill_id: r7399
   title: Stopping Wind Farms in State Forests Bill 2025
@@ -835,7 +835,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7404_first-reps/toc_pdf/25102b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-24
+  last_updated: 2025-11-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28878%2F0016%22
 - bill_id: s1138
   title: Plebiscite (Future Migration Level) Bill 2018
@@ -1463,7 +1463,7 @@ pending:
   introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1471_first-senate/toc_pdf/25S2920.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-24
-  second_reading_hansard_url: null
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28882%2F0208%22
 - bill_id: s1473
   title: Environment and Other Legislation Amendment (Low Emissions Future) Bill 2025
   status: Before Senate
@@ -1514,6 +1514,35 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1475_first-senate/toc_pdf/25S2720.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28876%2F0193%22
+- bill_id: s1479
+  title: Higher Education Support Amendment (Reverse Job-Ready Graduates Fee Hikes
+    and End 50k Arts Degrees) Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: Mehreen Faruqi
+  introducer_party: Greens
+  introducer_id: '10912'
+  introducer_division: NSW
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1479_first-senate/toc_pdf/25S3020.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-25
+  second_reading_hansard_url: null
+- bill_id: s1480
+  title: Social Media Minimum Age Repeal Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: Ralph Babet
+  introducer_party: United Australia Party
+  introducer_id: '11003'
+  introducer_division: Victoria
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1480_first-senate/toc_pdf/25S3120.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-25
+  second_reading_hansard_url: null
 - bill_id: s996
   title: Landholders&rsquo; Right to Refuse (Gas and Coal) Bill 2015
   status: Before Senate
@@ -1933,7 +1962,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0040%22
 - bill_id: r7369
   title: Australian Centre for Disease Control Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
@@ -1950,7 +1979,7 @@ passed:
 - bill_id: r7372
   title: Australian Centre for Disease Control (Consequential Amendments and Transitional
     Provisions) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
@@ -1969,7 +1998,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0028%22
 - bill_id: r7373
   title: Treasury Laws Amendment (Payday Superannuation) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -1987,7 +2016,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0009%22
 - bill_id: r7374
   title: Superannuation Guarantee Charge Amendment Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -2004,7 +2033,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0013%22
 - bill_id: r7376
   title: Fair Work Amendment (Baby Priya&rsquo;s) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Employment and Workplace Relations
   originating_house: House of Representatives
@@ -2043,7 +2072,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28899%2F0007%22
 - bill_id: r7382
   title: Criminal Code Amendment (State Sponsors of Terrorism) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
@@ -2062,7 +2091,7 @@ passed:
 - bill_id: s1457
   title: Competition and Consumer Amendment (Australian Energy Regulator Separation)
     Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: Senate
