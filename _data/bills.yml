@@ -309,7 +309,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7375_first-reps/toc_pdf/25073b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-25
+  last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0029%22
 - bill_id: r7377
   title: Customs Tariff Amendment (Draught Beer) Bill 2025
@@ -325,7 +325,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7377_first-reps/toc_pdf/25076b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-25
+  last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0033%22
 - bill_id: r7378
   title: Defence Amendment (Parliamentary Joint Committee on Defence) Bill 2025
@@ -415,7 +415,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7383_first-reps/toc_pdf/25080b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-29
+  last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0027%22
 - bill_id: r7384
   title: Education Legislation Amendment (Integrity and Other Measures) Bill 2025
@@ -533,7 +533,7 @@ pending:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0016%22
 - bill_id: r7390
   title: VET Student Loans (Miscellaneous Measures) Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Employment and Workplace Relations
   originating_house: House of Representatives
@@ -589,7 +589,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7392_first-reps/toc_pdf/25091b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-24
+  last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0052%22
 - bill_id: r7393
   title: National Environmental Protection Agency Bill 2025
@@ -607,7 +607,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7393_first-reps/toc_pdf/25094b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-24
+  last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0044%22
 - bill_id: r7394
   title: Environment Protection and Biodiversity Conservation (Customs Charges Imposition)
@@ -626,7 +626,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7394_first-reps/toc_pdf/25095b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-24
+  last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0060%22
 - bill_id: r7395
   title: Environment Protection and Biodiversity Conservation (General Charges Imposition)
@@ -645,7 +645,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7395_first-reps/toc_pdf/25096b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-24
+  last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0056%22
 - bill_id: r7396
   title: Environment Protection and Biodiversity Conservation (Excise Charges Imposition)
@@ -664,7 +664,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7396_first-reps/toc_pdf/25092b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-24
+  last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0064%22
 - bill_id: r7397
   title: Environment Information Australia Bill 2025
@@ -682,7 +682,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7397_first-reps/toc_pdf/25093b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-24
+  last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0048%22
 - bill_id: r7398
   title: Environment Protection Reform Bill 2025
@@ -711,7 +711,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7398_third-reps/toc_pdf/25097b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-24
+  last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0040%22
 - bill_id: r7399
   title: Stopping Wind Farms in State Forests Bill 2025
@@ -758,7 +758,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7401_first-reps/toc_pdf/25099b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-26
+  last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28878%2F0020%22
 - bill_id: r7402
   title: Copyright Amendment Bill 2025
@@ -798,7 +798,7 @@ pending:
 - bill_id: r7404
   title: Communications Legislation Amendment (Australian Content Requirement for
     Subscription Video On Demand (Streaming) Services) Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Arts
   originating_house: House of Representatives
@@ -811,7 +811,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7404_first-reps/toc_pdf/25102b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-25
+  last_updated: 2025-11-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28878%2F0016%22
 - bill_id: r7406
   title: Health Legislation Amendment (Prescribing of Pharmaceutical Benefits) Bill
@@ -901,6 +901,22 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7413_first-reps/toc_pdf/25112b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0028%22
+- bill_id: r7414
+  title: Telecommunications Legislation Amendment (Universal Outdoor Mobile Obligation)
+    Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
+    and the Arts
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Anika Wells
+  introducer_party: Labor
+  introducer_id: '10931'
+  introducer_division: Lilley
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7414_first-reps/toc_pdf/25111b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-27
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0014%22
 - bill_id: r7415
   title: Translating and Interpreting Services Bill 2025
   status: Before Reps
@@ -929,6 +945,50 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7416_first-reps/toc_pdf/25107b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-26
   second_reading_hansard_url: null
+- bill_id: r7417
+  title: Veterans&rsquo; Affairs Legislation Amendment (Miscellaneous Measures No.
+    2) Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: "Veterans\u2019 Affairs"
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Matt Keogh
+  introducer_party: Labor
+  introducer_id: '10861'
+  introducer_division: Burt
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7417_first-reps/toc_pdf/25116b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-27
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0026%22
+- bill_id: r7418
+  title: Defence and Veterans&rsquo; Service Commissioner (Consequential and Transitional
+    Provisions) Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Prime Minister and Cabinet
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Matt Keogh
+  introducer_party: Labor
+  introducer_id: '10861'
+  introducer_division: Burt
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7418_first-reps/toc_pdf/25117b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-27
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0022%22
+- bill_id: r7419
+  title: Defence and Veterans&rsquo; Service Commissioner Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Prime Minister and Cabinet
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Matt Keogh
+  introducer_party: Labor
+  introducer_id: '10861'
+  introducer_division: Burt
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7419_first-reps/toc_pdf/25118b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-27
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0018%22
 - bill_id: s1138
   title: Plebiscite (Future Migration Level) Bill 2018
   status: Before Senate
@@ -1679,6 +1739,21 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1482_first-senate/toc_pdf/25S3220.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-26
   second_reading_hansard_url: null
+- bill_id: s1483
+  title: Defence Amendment (Sexual Assault Prevention, Intervention and Response Commission)
+    Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: Jacqui Lambie
+  introducer_party: Jacqui Lambie Network
+  introducer_id: '10830'
+  introducer_division: Tasmania
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1483_first-senate/toc_pdf/25S3420.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-27
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28891%2F0083%22
 - bill_id: s996
   title: Landholders&rsquo; Right to Refuse (Gas and Coal) Bill 2015
   status: Before Senate
