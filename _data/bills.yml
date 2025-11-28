@@ -95,42 +95,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7348_first-reps/toc_pdf/25052b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28812%2F0020%22
-- bill_id: r7350
-  title: Strengthening Oversight of the National Intelligence Community Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Attorney-General
-  originating_house: House of Representatives
-  summary: "Amends the: Inspector-General of Intelligence and Security Act 1986 and\
-    \ Intelligence Services Act 2001 to: expand the jurisdictions of the Inspector-General\
-    \ of Intelligence and Security (IGIS) and the Parliamentary Joint Committee on\
-    \ Intelligence and Security (PJCIS) to include the Australian Criminal Intelligence\
-    \ Commission (ACIC), the Australian Transaction Reports and Analysis Centre, the\
-    \ Australian Federal Police and the Department of Home Affairs; provide that the\
-    \ PJCIS may review proposed counter-terrorism and national security legislation,\
-    \ and all such expiring legislation; enable the PJCIS to request the IGIS to conduct\
-    \ an inquiry into certain operational activities of the agencies within the IGIS\u2019\
-    s jurisdiction; clarify the legislation which enables the PJCIS to request a briefing\
-    \ from the Independent National Security Legislation Monitor (INSLM); clarify\
-    \ the IGIS\u2019s complaints jurisdiction; and make technical amendments; Inspector-General\
-    \ of Intelligence and Security Act 1986 and Office of National Intelligence Act\
-    \ 2018 to require the IGIS and the Office of National Intelligence to provide\
-    \ annual briefings to the PJCIS; Parliamentary Joint Committee on Law Enforcement\
-    \ Act 2010 to require the IGIS to provide annual briefings to the committee; Administrative\
-    \ Appeals Tribunal Act 1975 to amend the review and access of ACIC criminal intelligence\
-    \ assessment records; Criminal Code Act 1995 to include an exemption from civil\
-    \ and criminal liability for defence officials and others for certain computer-related\
-    \ conduct; and Independent National Security Legislation Monitor Act 2010 to:\
-    \ ensure that the INSLM is able to review counter-terrorism or national security\
-    \ legislation; and make minor amendments. Also makes consequential amendments\
-    \ to 15 Acts."
-  introducer_name: Michelle Rowland
-  introducer_party: Labor
-  introducer_id: '10751'
-  introducer_division: Greenway
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7350_third-reps/toc_pdf/25049b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-25
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0013%22
 - bill_id: r7355
   title: Social Security and Other Legislation Amendment (Responding to Robodebt)
     Bill 2025
@@ -249,33 +213,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7365_first-reps/toc_pdf/25066b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-03
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0020%22
-- bill_id: r7367
-  title: Treasury Laws Amendment (Strengthening Financial Systems and Other Measures)
-    Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Treasury
-  originating_house: House of Representatives
-  summary: "Amends the: Corporations Act 2001 to expand beneficial ownership disclosure\
-    \ obligations that apply to entities listed on Australia\u2019s financial markets\
-    \ and broaden the Australian Securities and Investments Commission\u2019s regulatory\
-    \ enforcement powers; Australian Charities and Not-for-profits Commission Act\
-    \ 2012 to provide for new exceptions for the public disclosure of protected Australian\
-    \ Charities and Not-for-profits Commission information about new and ongoing investigations;\
-    \ Financial Regulator Assessment Authority Act 2021 to reduce the frequency of\
-    \ the Financial Regulator Assessment Authority review cycles; Competition and\
-    \ Consumer Act 2010 to extend the operation of the prohibiting energy market misconduct\
-    \ provisions from 1 January 2026 to 1 January 2031; and Income Tax (Transitional\
-    \ Provisions) Act 1997 to extend the $20,000 instant asset write-off by 12 months\
-    \ until 30 June 2026. Also makes minor, technical or machinery amendments to 11\
-    \ Acts."
-  introducer_name: Andrew Leigh
-  introducer_party: Labor
-  introducer_id: '10746'
-  introducer_division: Fenner
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7367_first-reps/toc_pdf/25067b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-10-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0032%22
 - bill_id: r7371
   title: Freedom of Information Amendment Bill 2025
   status: Before Senate
@@ -344,63 +281,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7378_first-reps/toc_pdf/25077b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-06
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0037%22
-- bill_id: r7380
-  title: Regulatory Reform Omnibus Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Finance
-  originating_house: House of Representatives
-  summary: "Amends: 13 Acts to provide for a \u2018tell us once\u2019 approach to\
-    \ support the sharing and use of information provided to various government agencies,\
-    \ including Services Australia; the A New Tax System (Family Assistance) Act 1999\
-    \ and A New Tax System (Family Assistance) (Administration) Act 1999 to amend\
-    \ the language used for the Additional Child Care Subsidy (child wellbeing) payment;\
-    \ the Health Insurance Act 1973, National Health Act 1953 and Dental Benefits\
-    \ Act 2008 to amend regulatory settings around certain health care services; the\
-    \ Private Health Insurance Act 2007 to remove the risk of unintentional non-compliance\
-    \ by a private health insurer due to a rounding technicality; the Marriage Act\
-    \ 1961 to allow marriage celebrants to accept digital forms of identity verification;\
-    \ the Offshore Petroleum and Greenhouse Gas Storage Act 2006 to enable petroleum\
-    \ and environmental regulators to share certain information; the Australian Communications\
-    \ and Media Authority Act 2005 and Defence Act 1903 to expand certain delegation\
-    \ powers; the National Broadband Network Companies Act 2011 to enable NBN Co mapping\
-    \ data to continue to be made publicly available; the Fuel Security Act 2012,\
-    \ Petroleum and Other Fuels Reporting Act 2017 and Liquid Fuel Emergency Act 1984\
-    \ to enable the Government to respond to potential shortages of critical fuels;\
-    \ the Greenhouse and Energy Minimum Standards Act 2012 to include the consideration\
-    \ of energy performance; and the Social Security Act 1991, Military Rehabilitation\
-    \ and Compensation Act 2004 and Veterans\u2019 Entitlements Act 1986 to: provide\
-    \ for consistency in relation to certain social security benefits; and make minor\
-    \ or technical amendments. Also repeals the Cockatoo and Schnapper Islands Act\
-    \ 1949 and Early Years Quality Fund Special Account Act 2013."
-  introducer_name: Jim Chalmers
-  introducer_party: Labor
-  introducer_id: '10809'
-  introducer_division: Rankin
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7380_third-reps/toc_pdf/25078b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-06
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0013%22
-- bill_id: r7381
-  title: Home Affairs Legislation Amendment (2025 Measures No. 2) Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Home Affairs
-  originating_house: House of Representatives
-  summary: 'Amends the: Migration Act 1958 and Australian Citizenship Act 2007 to:
-    enable the Department of Home Affairs, including the Australian Border Force,
-    to collect facial images from persons that align with international standards
-    and current biometric technology; and validate facial images that were provided
-    by a person or collected by the department in the past and any action taken in
-    relation to those images; and Australian Citizenship Act 2007 to remove certain
-    residency barriers to Australian citizenship for person engaging in activities
-    of benefit to Australia.'
-  introducer_name: Tony Burke
-  introducer_party: Labor
-  introducer_id: '10081'
-  introducer_division: Watson
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7381_first-reps/toc_pdf/25079b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-03
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0009%22
 - bill_id: r7383
   title: Corporations (Review Fees) Amendment (Technical Amendments) Bill 2025
   status: Before Reps
@@ -417,39 +297,9 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7383_first-reps/toc_pdf/25080b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0027%22
-- bill_id: r7384
-  title: Education Legislation Amendment (Integrity and Other Measures) Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Education
-  originating_house: House of Representatives
-  summary: "Amends the: Education Services for Overseas Students Act 2000 to implement\
-    \ measures relating to Australia\u2019s international education sector, including\
-    \ in relation to education agents and commissions, the giving of education agent\
-    \ information to registered providers, the management of provider applications,\
-    \ registration requirements, the automatic cancellation of registration and specified\
-    \ courses in certain circumstances, the investigation of offences when considering\
-    \ the fit and proper provider test, and internal reviews of reviewable decisions;\
-    \ Tertiary Education Quality and Standards Agency Act 2011 to ensure that registered\
-    \ providers that are delivering courses outside Australia are authorised by the\
-    \ Tertiary Education Quality and Standards Agency; Higher Education Support Act\
-    \ 2003 to introduce demand driven Commonwealth supported places for courses of\
-    \ study in medicine for eligible First Nations Students; and A New Tax System\
-    \ (Family Assistance) (Administration) Act 1999 to: expand information gathering\
-    \ powers to support the Early Education Service Delivery Prices Project; expand\
-    \ authorisations for the handling of protected information; make technical amendments;\
-    \ and align the date of effect for decisions relating to the child care subsidy\
-    \ (CCS) reconciliation process with the date of effect in the CCS system."
-  introducer_name: Jason Clare
-  introducer_party: Labor
-  introducer_id: '10123'
-  introducer_division: Blaxland
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7384_first-reps/toc_pdf/25083b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-03
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0023%22
 - bill_id: r7385
   title: Commonwealth Parole Board Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
@@ -462,12 +312,12 @@ pending:
   introducer_id: '10751'
   introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7385_first-reps/toc_pdf/25085b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-26
+  last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0021%22
 - bill_id: r7386
   title: Commonwealth Parole Board (Consequential and Transitional Provisions) Bill
     2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
@@ -478,7 +328,7 @@ pending:
   introducer_id: '10751'
   introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7386_first-reps/toc_pdf/25084b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-26
+  last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0025%22
 - bill_id: r7387
   title: Crimes Amendment (Mandatory Minimum Sentences for Child Sexual Abuse) Bill
@@ -513,206 +363,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7388_first-reps/toc_pdf/25087b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-10-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28855%2F0299%22
-- bill_id: r7389
-  title: Customs Tariff Amendment (Geelong Treaty Implementation) Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Home Affairs
-  originating_house: House of Representatives
-  summary: "Implements Australia\u2019s obligations under the Nuclear-Powered Submarine\
-    \ Partnership and Collaboration Agreement between the Government of Australia\
-    \ and the Government of the United Kingdom of Great Britain and Northern Ireland\
-    \ by amending the Customs Tariff Act 1995 to provide for a free rate of customs\
-    \ duty for goods that are for use under the treaty."
-  introducer_name: Julian Hill
-  introducer_party: Labor
-  introducer_id: '10885'
-  introducer_division: Bruce
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7389_first-reps/toc_pdf/25088b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0016%22
-- bill_id: r7390
-  title: VET Student Loans (Miscellaneous Measures) Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Employment and Workplace Relations
-  originating_house: House of Representatives
-  summary: "The bill: authorises certain activities undertaken in relation to tax\
-    \ file numbers (TFNs) for the purpose of administering, or facilitating the administration\
-    \ of, a student\u2019s application for a VET Student Loan or the student\u2019\
-    s loan itself; and authorises the Department of Employment and Workplace Relations\u2019\
-    \ disclosure of TFNs to VSL providers for the same purposes."
-  introducer_name: Andrew Giles
-  introducer_party: Labor
-  introducer_id: '10812'
-  introducer_division: Scullin
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7390_first-reps/toc_pdf/25089b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28898%2F0022%22
-- bill_id: r7391
-  title: Veterans&rsquo; Affairs Legislation Amendment (Miscellaneous Measures No.
-    1) Bill 2025
-  status: Before Reps
-  type: Government
-  portfolio: Veterans' Affairs
-  originating_house: House of Representatives
-  summary: "Amends the Military Rehabilitation and Compensation Act 2004, Military\
-    \ Rehabilitation and Compensation (Consequential and Transitional Provisions)\
-    \ Act 2004, Safety, Rehabilitation and Compensation (Defence-related Claims) Act\
-    \ 1988 and Veterans\u2019 Entitlements, Treatment and Support (Simplification\
-    \ and Harmonisation) Act 2025 to make technical amendments prior to the commencement\
-    \ of the Veterans\u2019 Entitlements, Treatment and Support (Simplification and\
-    \ Harmonisation) Act 2025."
-  introducer_name: Matt Keogh
-  introducer_party: Labor
-  introducer_id: '10861'
-  introducer_division: Burt
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7391_first-reps/toc_pdf/25090b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28898%2F0018%22
-- bill_id: r7392
-  title: Environment Protection and Biodiversity Conservation (Restoration Charge
-    Imposition) Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Climate Change, Energy, the Environment and Water
-  originating_house: House of Representatives
-  summary: Part of a package of 7 bills to implement the recommendations of the 2020
-    Independent Review of the Environment Protection and Biodiversity Conservation
-    Act 1999 (the Samuel Review), the bill imposes charges relating to actions taken
-    under the Environment Protection and Biodiversity Conservation Act 1999, including
-    certain approvals containing conditions requiring the payment of a restoration
-    contribution charge, the registration of priority actions in a bioregional plan,
-    and the grant of national interest and Part 13 exemptions.
-  introducer_name: Tony Burke
-  introducer_party: Labor
-  introducer_id: '10081'
-  introducer_division: Watson
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7392_first-reps/toc_pdf/25091b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0052%22
-- bill_id: r7393
-  title: National Environmental Protection Agency Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Climate Change, Energy, the Environment and Water
-  originating_house: House of Representatives
-  summary: Part of a package of 7 bills to implement the recommendations of the 2020
-    Independent Review of the Environment Protection and Biodiversity Conservation
-    Act 1999 (the Samuel Review), the bill establishes the National Environmental
-    Protection Agency as a statutory Commonwealth entity to undertake regulatory and
-    implementation functions under a range of environmental Commonwealth laws
-  introducer_name: Tony Burke
-  introducer_party: Labor
-  introducer_id: '10081'
-  introducer_division: Watson
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7393_first-reps/toc_pdf/25094b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0044%22
-- bill_id: r7394
-  title: Environment Protection and Biodiversity Conservation (Customs Charges Imposition)
-    Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Climate Change, Energy, the Environment and Water
-  originating_house: House of Representatives
-  summary: Part of a package of 7 bills to implement the recommendations of the 2020
-    Independent Review of the Environment Protection and Biodiversity Conservation
-    Act 1999 (the Samuel Review), the bill imposes charges in relation to prescribed
-    matters connected with the administration of the Environment Protection and Biodiversity
-    Conservation Act 1999.
-  introducer_name: Tony Burke
-  introducer_party: Labor
-  introducer_id: '10081'
-  introducer_division: Watson
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7394_first-reps/toc_pdf/25095b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0060%22
-- bill_id: r7395
-  title: Environment Protection and Biodiversity Conservation (General Charges Imposition)
-    Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Climate Change, Energy, the Environment and Water
-  originating_house: House of Representatives
-  summary: Part of a package of 7 bills to implement the recommendations of the 2020
-    Independent Review of the Environment Protection and Biodiversity Conservation
-    Act 1999 (the Samuel Review), the bill imposes charges in relation to prescribed
-    matters connected with the administration of the Environment Protection and Biodiversity
-    Conservation Act 1999.
-  introducer_name: Tony Burke
-  introducer_party: Labor
-  introducer_id: '10081'
-  introducer_division: Watson
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7395_first-reps/toc_pdf/25096b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0056%22
-- bill_id: r7396
-  title: Environment Protection and Biodiversity Conservation (Excise Charges Imposition)
-    Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Climate Change, Energy, the Environment and Water
-  originating_house: House of Representatives
-  summary: Part of a package of 7 bills to implement the recommendations of the 2020
-    Independent Review of the Environment Protection and Biodiversity Conservation
-    Act 1999 (the Samuel Review), the bill imposes charges in relation to prescribed
-    matters connected with the administration of the Environment Protection and Biodiversity
-    Conservation Act 1999.
-  introducer_name: Tony Burke
-  introducer_party: Labor
-  introducer_id: '10081'
-  introducer_division: Watson
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7396_first-reps/toc_pdf/25092b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0064%22
-- bill_id: r7397
-  title: Environment Information Australia Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Climate Change, Energy, the Environment and Water
-  originating_house: House of Representatives
-  summary: Part of a package of 7 bills to implement the recommendations of the 2020
-    Independent Review of the Environment Protection and Biodiversity Conservation
-    Act 1999 (the Samuel Review), the bill establishes the statutory position of the
-    Head of Environment Information Australia to provide access to, assess and report
-    on environmental information and data
-  introducer_name: Tony Burke
-  introducer_party: Labor
-  introducer_id: '10081'
-  introducer_division: Watson
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7397_first-reps/toc_pdf/25093b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0048%22
-- bill_id: r7398
-  title: Environment Protection Reform Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Climate Change, Energy, the Environment and Water
-  originating_house: House of Representatives
-  summary: 'Part of a package of 7 bills to implement the recommendations of the 2020
-    Independent Review of the Environment Protection and Biodiversity Conservation
-    Act 1999 (the Samuel Review), the bill amends the Environment Protection and Biodiversity
-    Conservation Act 1999 to: streamline the assessment and approvals process; update
-    provisions relating to accreditation and bilateral agreements; provide for bioregional
-    plans; provide a framework for the Minister  to make, vary and revoke national
-    environmental standards; make it clear that projects with unacceptable impacts
-    on nationally protected matters can no longer be approved; prevent a project being
-    approved unless all residual significant impacts of the action on nationally protected
-    matters have been compensated to a net gain; provide a mechanism for projects
-    that are in the national interest to be approved even if they do not meet certain
-    requirements; allow conditions to be attached to taking an action covered by a
-    national interest exemption; amend provisions relating to reconsiderations; update
-    provisions relating to conservation planning and heritage; update compliance and
-    enforcement powers; and make administrative amendments. Also makes consequential
-    amendments to 11 other Acts.'
-  introducer_name: Tony Burke
-  introducer_party: Labor
-  introducer_id: '10081'
-  introducer_division: Watson
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7398_third-reps/toc_pdf/25097b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0040%22
 - bill_id: r7399
   title: Stopping Wind Farms in State Forests Bill 2025
   status: Before Reps
@@ -746,7 +396,7 @@ pending:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28869%2F0137%22
 - bill_id: r7401
   title: Migration Amendment (Combatting Migrant Exploitation) Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
@@ -795,24 +445,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7403_first-reps/toc_pdf/25114b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28881%2F0081%22
-- bill_id: r7404
-  title: Communications Legislation Amendment (Australian Content Requirement for
-    Subscription Video On Demand (Streaming) Services) Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Arts
-  originating_house: House of Representatives
-  summary: 'Amends the: Broadcasting Services Act 1992 to require providers of certain
-    subscription video on demand services to ensure minimum levels of expenditure
-    on new eligible Australian programs; and Australian Communications and Media Authority
-    Act 2005 to make consequential amendments.'
-  introducer_name: Tony Burke
-  introducer_party: Labor
-  introducer_id: '10081'
-  introducer_division: Watson
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7404_first-reps/toc_pdf/25102b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28878%2F0016%22
 - bill_id: r7406
   title: Health Legislation Amendment (Prescribing of Pharmaceutical Benefits) Bill
     2025
