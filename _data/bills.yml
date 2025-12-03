@@ -1913,6 +1913,27 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7379_aspassed/toc_pdf/25082b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-10-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28899%2F0007%22
+- bill_id: r7381
+  title: Home Affairs Legislation Amendment (2025 Measures No. 2) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Home Affairs
+  originating_house: House of Representatives
+  summary: 'Amends the: Migration Act 1958 and Australian Citizenship Act 2007 to:
+    enable the Department of Home Affairs, including the Australian Border Force,
+    to collect facial images from persons that align with international standards
+    and current biometric technology; and validate facial images that were provided
+    by a person or collected by the department in the past and any action taken in
+    relation to those images; and Australian Citizenship Act 2007 to remove certain
+    residency barriers to Australian citizenship for person engaging in activities
+    of benefit to Australia.'
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7381_aspassed/toc_pdf/25079b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-12-01
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0009%22
 - bill_id: r7382
   title: Criminal Code Amendment (State Sponsors of Terrorism) Bill 2025
   status: Act
@@ -1931,6 +1952,149 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7382_aspassed/toc_pdf/25081b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-06
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0017%22
+- bill_id: r7392
+  title: Environment Protection and Biodiversity Conservation (Restoration Charge
+    Imposition) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: House of Representatives
+  summary: Part of a package of 7 bills to implement the recommendations of the 2020
+    Independent Review of the Environment Protection and Biodiversity Conservation
+    Act 1999 (the Samuel Review), the bill imposes charges relating to actions taken
+    under the Environment Protection and Biodiversity Conservation Act 1999, including
+    certain approvals containing conditions requiring the payment of a restoration
+    contribution charge, the registration of priority actions in a bioregional plan,
+    and the grant of national interest and Part 13 exemptions.
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7392_aspassed/toc_pdf/25091b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-12-01
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0052%22
+- bill_id: r7393
+  title: National Environmental Protection Agency Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: House of Representatives
+  summary: Part of a package of 7 bills to implement the recommendations of the 2020
+    Independent Review of the Environment Protection and Biodiversity Conservation
+    Act 1999 (the Samuel Review), the bill establishes the National Environmental
+    Protection Agency as a statutory Commonwealth entity to undertake regulatory and
+    implementation functions under a range of environmental Commonwealth laws
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7393_aspassed/toc_pdf/25094b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-12-01
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0044%22
+- bill_id: r7394
+  title: Environment Protection and Biodiversity Conservation (Customs Charges Imposition)
+    Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: House of Representatives
+  summary: Part of a package of 7 bills to implement the recommendations of the 2020
+    Independent Review of the Environment Protection and Biodiversity Conservation
+    Act 1999 (the Samuel Review), the bill imposes charges in relation to prescribed
+    matters connected with the administration of the Environment Protection and Biodiversity
+    Conservation Act 1999.
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7394_aspassed/toc_pdf/25095b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-12-01
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0060%22
+- bill_id: r7395
+  title: Environment Protection and Biodiversity Conservation (General Charges Imposition)
+    Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: House of Representatives
+  summary: Part of a package of 7 bills to implement the recommendations of the 2020
+    Independent Review of the Environment Protection and Biodiversity Conservation
+    Act 1999 (the Samuel Review), the bill imposes charges in relation to prescribed
+    matters connected with the administration of the Environment Protection and Biodiversity
+    Conservation Act 1999.
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7395_aspassed/toc_pdf/25096b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-12-01
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0056%22
+- bill_id: r7396
+  title: Environment Protection and Biodiversity Conservation (Excise Charges Imposition)
+    Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: House of Representatives
+  summary: Part of a package of 7 bills to implement the recommendations of the 2020
+    Independent Review of the Environment Protection and Biodiversity Conservation
+    Act 1999 (the Samuel Review), the bill imposes charges in relation to prescribed
+    matters connected with the administration of the Environment Protection and Biodiversity
+    Conservation Act 1999.
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7396_aspassed/toc_pdf/25092b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-12-01
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0064%22
+- bill_id: r7397
+  title: Environment Information Australia Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: House of Representatives
+  summary: Part of a package of 7 bills to implement the recommendations of the 2020
+    Independent Review of the Environment Protection and Biodiversity Conservation
+    Act 1999 (the Samuel Review), the bill establishes the statutory position of the
+    Head of Environment Information Australia to provide access to, assess and report
+    on environmental information and data.
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7397_aspassed/toc_pdf/25093b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-12-01
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0048%22
+- bill_id: r7398
+  title: Environment Protection Reform Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: House of Representatives
+  summary: 'Part of a package of 7 bills to implement the recommendations of the 2020
+    Independent Review of the Environment Protection and Biodiversity Conservation
+    Act 1999 (the Samuel Review), the bill amends the Environment Protection and Biodiversity
+    Conservation Act 1999 to: streamline the assessment and approvals process; update
+    provisions relating to accreditation and bilateral agreements; provide for bioregional
+    plans; provide a framework for the Minister  to make, vary and revoke national
+    environmental standards; make it clear that projects with unacceptable impacts
+    on nationally protected matters can no longer be approved; prevent a project being
+    approved unless all residual significant impacts of the action on nationally protected
+    matters have been compensated to a net gain; provide a mechanism for projects
+    that are in the national interest to be approved even if they do not meet certain
+    requirements; allow conditions to be attached to taking an action covered by a
+    national interest exemption; amend provisions relating to reconsiderations; update
+    provisions relating to conservation planning and heritage; update compliance and
+    enforcement powers; and make administrative amendments. Also makes consequential
+    amendments to 11 other Acts.'
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7398_aspassed/toc_pdf/25097b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-12-01
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0040%22
 - bill_id: s1457
   title: Competition and Consumer Amendment (Australian Energy Regulator Separation)
     Bill 2025
