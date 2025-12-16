@@ -437,7 +437,8 @@ pending:
   type: Private
   portfolio: null
   originating_house: House of Representatives
-  summary: null
+  summary: Amends the Interactive Gambling Act 2001 to remove greyhound racing from
+    the list of excluded wagering services.
   introducer_name: Andrew Wilkie
   introducer_party: Independent
   introducer_id: '10727'
@@ -452,7 +453,9 @@ pending:
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
-  summary: null
+  summary: Amends the National Health Act 1953 and Health Insurance Act 1973 to enable
+    authorised nurse prescribers to prescribe certain pharmaceutical benefits under
+    the Pharmaceutical Benefits Scheme.
   introducer_name: Mark Butler
   introducer_party: Labor
   introducer_id: '10086'
@@ -467,7 +470,10 @@ pending:
   type: Government
   portfolio: Education
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Universities Accord (Australian Tertiary Education
+    Commission) Bill 2025, the bill amends the Higher Education Support Act 2003 and
+    Tertiary Education Quality and Standards Agency Act 2011 to make amendments consequential
+    on the establishment of the Australian Tertiary Education Commission.
   introducer_name: Jason Clare
   introducer_party: Labor
   introducer_id: '10123'
@@ -482,7 +488,22 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends: the Insurance Contracts Act 1984 to establish a ban which prohibits\
+    \ insurers from using certain information about an individual\u2019s genetic testing\
+    \ to inform the offer of life insurance cover, or the terms and conditions of\
+    \ the cover that is offered; the Disability Discrimination Act 1992 to align Australia\u2019\
+    s anti-discrimination law with the ban; the Corporations Act 2001 to provide four\
+    \ licensing exemptions for foreign financial services providers; 7 Acts to support\
+    \ Australia\u2019s continuing participation with multilateral development banks\
+    \ (MDBs) and the International Monetary Fund by introducing special appropriations\
+    \ for current and future financial obligations to MDBs, enabling the delegation\
+    \ of certain powers, ensuring payments consistent with existing obligations can\
+    \ be made without additional ministerial approval, and making technical amendments;\
+    \ and the Financial Sector Reform (Hayne Royal Commission Response\u2014Better\
+    \ Advice) Act 2021 to remove the requirement that individual financial advisers\
+    \ register themselves with the Australian Securities and Investments Commission\
+    \ annually from 1 July 2026. Also repeals 9 Acts and the European Bank for Reconstruction\
+    \ and Development Regulation 2012."
   introducer_name: Daniel Mulino
   introducer_party: Labor
   introducer_id: '10925'
@@ -496,7 +517,13 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends the Corporations Act 2001 and Australian Securities and Investments\
+    \ Commission Act 2001 to update Australia\u2019s digital asset regulatory regime\
+    \ by: defining the core concepts of digital tokens, digital asset platforms and\
+    \ tokenised custody platforms; applying the financial services law in a way that\
+    \ is tailored to these platforms; providing targeted exemptions for certain digital\
+    \ token arrangements; and providing the Australian Securities and Investments\
+    \ Commission and the Minister with powers to regulate these platforms."
   introducer_name: Daniel Mulino
   introducer_party: Labor
   introducer_id: '10925'
@@ -511,7 +538,18 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Superannuation Guarantee (Administration) Act 1992 to streamline
+    the choice of superannuation fund process during employee onboarding; Corporations
+    Act 2001 to ban advertising of certain superannuation products to new employees
+    as part of the onboarding process; Income Tax Assessment Act 1936 and Income Tax
+    Assessment Act 1997 to provide income tax and withholding tax exemptions for World
+    Rugby and its wholly-owned subsidiaries; International Tax Agreements Act 1953
+    to give legislative authority to the Convention between Australia and the Portuguese
+    Republic for the elimination of double taxation with respect to taxes on income
+    and the prevention of tax evasion and avoidance; Income Tax Assessment Act 1997
+    to update the list of deductible gift recipients; and A New Tax System (Wine Equalisation
+    Tax) Act 1999 to increase the maximum amount of wine equalisation tax producer
+    rebate claimable by eligible wine producers to $400,000 each financial year.'
   introducer_name: Daniel Mulino
   introducer_party: Labor
   introducer_id: '10925'
@@ -525,7 +563,12 @@ pending:
   type: Government
   portfolio: Employment and Workplace Relations
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the Coal Mining Industry (Long Service Leave) Payroll Levy Collection
+    Act 1992 and Coal Mining Industry (Long Service Leave) Administration Act 1992
+    to: establish a mechanism for employers with historical unpaid levy liabilities
+    to enter into voluntary payment arrangements with the Coal Mining Industry (Long
+    Service Leave Funding) Corporation; and replace the defunct method for calculating
+    the additional levy that is payable on late levy payments.'
   introducer_name: Amanda Rishworth
   introducer_party: Labor
   introducer_id: '10543'
@@ -541,7 +584,11 @@ pending:
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
     and the Arts
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Telecommunications (Consumer Protection and Service Standards)
+    Act 1999 to establish a regulatory framework for a Universal Outdoor Mobile Obligation
+    to ensure that baseline mobile coverage is reasonably available outdoors to all
+    people in Australia on an equitable basis; and Competition and Consumer Act 2010
+    and Telecommunications Act 1997 to make consequential amendments.'
   introducer_name: Anika Wells
   introducer_party: Labor
   introducer_id: '10931'
@@ -555,7 +602,9 @@ pending:
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
-  summary: null
+  summary: Establishes a framework to support the provision of translating and interpreting
+    services provided by the Department of Home Affairs in its capacity as the Translating
+    and Interpreting Service National.
   introducer_name: Anne Aly
   introducer_party: Labor
   introducer_id: '10863'
@@ -569,7 +618,12 @@ pending:
   type: Government
   portfolio: Education
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Universities Accord (Australian Tertiary Education
+    Commission) (Consequential and Transitional Provisions) Bill 2025, the bill establishes
+    the Australian Tertiary Education Commission to provide stewardship of the higher
+    education system, including by entering into mission based compacts with higher
+    education providers and preparing reports and providing advice and recommendations,
+    if requested by the Minister, to various Commonwealth, state and territory ministers.
   introducer_name: null
   introducer_party: Labor
   introducer_id: null
@@ -584,7 +638,11 @@ pending:
   type: Government
   portfolio: "Veterans\u2019 Affairs"
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends the Military Rehabilitation and Compensation Act 2004, Military\
+    \ Rehabilitation and Compensation (Consequential and Transitional Provisions)\
+    \ Act 2004 and Veterans\u2019 Entitlements Act 1986 to make technical amendments\
+    \ prior to the commencement of the Veterans\u2019 Entitlements, Treatment and\
+    \ Support (Simplification and Harmonisation) Act 2025."
   introducer_name: Matt Keogh
   introducer_party: Labor
   introducer_id: '10861'
@@ -599,7 +657,10 @@ pending:
   type: Government
   portfolio: Prime Minister and Cabinet
   originating_house: House of Representatives
-  summary: null
+  summary: "Introduced with the Defence and Veterans\u2019 Service Commissioner Bill\
+    \ 2025, the bill amends the Archives Act 1983, Defence Act 1903 and Inspector-General\
+    \ of Intelligence and Security Act 1986 to make consequential amendments; and\
+    \ provides for application, saving and transitional provisions."
   introducer_name: Matt Keogh
   introducer_party: Labor
   introducer_id: '10861'
@@ -613,7 +674,12 @@ pending:
   type: Government
   portfolio: Prime Minister and Cabinet
   originating_house: House of Representatives
-  summary: null
+  summary: "Introduced with the Defence and Veterans\u2019 Service Commissioner (Consequential\
+    \ and Transitional Provisions) Bill 2025, the bill establishes an independent\
+    \ Defence and Veterans\u2019 Service Commission to monitor, inquire into and report\
+    \ on matters relating to suicide prevention and wellbeing outcomes for veterans,\
+    \ including the Commonwealth\u2019s implementation of the Government\u2019s response\
+    \ to the recommendations of the Royal Commission into Defence and Veteran Suicide."
   introducer_name: Matt Keogh
   introducer_party: Labor
   introducer_id: '10861'
@@ -1240,7 +1306,11 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: "Amends the: Online Safety Act 2021 to establish a complaints and enforcement\
+    \ regime for the non-consensual sharing of digitally altered or artificially generated\
+    \ audio or visual content that depicts a person\u2019s face or voice without their\
+    \ consent (deepfake material); and Privacy Act 1988 to establish a cause of action\
+    \ for the wrongful use or disclosure of deepfake material."
   introducer_name: David Pocock
   introducer_party: Independent
   introducer_id: '11009'
@@ -1305,7 +1375,13 @@ pending:
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: Senate
-  summary: null
+  summary: "Amends the National Disability Insurance Scheme Act 2013 to: expand the\
+    \ NDIS Quality and Safeguards Commission\u2019s powers to detect, prevent and\
+    \ respond to breaches of obligations under the Act; provide participants wishing\
+    \ to withdraw from the National Disability Insurance Scheme with additional safeguards\
+    \ and communication options; enable the National Disability Insurance Agency to\
+    \ move to an entirely electronic claiming system for providers; and ensure that\
+    \ plan variations can include an increase or decrease of the total funding amounts."
   introducer_name: null
   introducer_party: Labor
   introducer_id: null
@@ -1320,7 +1396,11 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Amends the Higher Education Support Act 2003 to provide that the maximum
+    student contribution amounts for places in certain units of study revert to what
+    those amounts would have been on 1 January 2026 if the amendments made by the
+    Higher Education Support Amendment (Job-Ready Graduates and Supporting Regional
+    and Remote Students) Act 2020 had not commenced.
   introducer_name: Mehreen Faruqi
   introducer_party: Greens
   introducer_id: '10912'
@@ -1334,7 +1414,11 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: 'Amends the: Online Safety Act 2021 to remove minimum age requirements
+    for social media use and the obligation on providers of an age-restricted social
+    media platform to take reasonable steps to prevent age-restricted users from having
+    an account with the platform; and Age Discrimination Act 2004 to make a consequential
+    amendment.'
   introducer_name: Ralph Babet
   introducer_party: United Australia Party
   introducer_id: '11003'
@@ -1348,7 +1432,11 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: 'Amends the Income Tax Assessment Act 1997 to: lower the minimum age of
+    eligibility for a downsizer contribution from 55 years to 50 years; extend the
+    period of time in which a contribution can be made from 90 days to 1 year after
+    the change of ownership occurs; and increase the maximum amount of contribution
+    from $300,000 to $500,000.'
   introducer_name: Jane Hume
   introducer_party: Liberal
   introducer_id: '10853'
@@ -1363,7 +1451,10 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Amends the A New Tax System (Family Assistance) Act 1999 to enable a child
+    to meet their immunisation requirements for the purposes of payment of the child
+    care subsidy on the basis of a conscientious objection or if the child is 7 years
+    of age or older.
   introducer_name: Alex Antic
   introducer_party: Liberal
   introducer_id: '10954'
@@ -1378,7 +1469,8 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Amends the Defence Act 1903 to establish the Sexual Assault Prevention,
+    Intervention and Response Commission as a statutory authority.
   introducer_name: Jacqui Lambie
   introducer_party: Jacqui Lambie Network
   introducer_id: '10830'
