@@ -161,4 +161,11 @@ window.onload = () => {
         const id = hash.substring(1); // Remove the '#' character
         openBill(id);
     }
+
+    // Default mobile column
+    setMobileColumn('pending');
 };
+
+function setMobileColumn(columnKey) {
+    document.body.dataset.mobileColumn = columnKey;
+}
