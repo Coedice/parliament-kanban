@@ -1317,7 +1317,7 @@ pending:
   introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1471_first-senate/toc_pdf/25S2920.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-24
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28882%2F0208%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28882%2F0206%22
 - bill_id: s1473
   title: Environment and Other Legislation Amendment (Low Emissions Future) Bill 2025
   status: Before Senate
@@ -1407,7 +1407,7 @@ pending:
   introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1479_first-senate/toc_pdf/25S3020.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-25
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28885%2F0128%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28885%2F0127%22
 - bill_id: s1480
   title: Social Media Minimum Age Repeal Bill 2025
   status: Before Senate
@@ -1425,7 +1425,7 @@ pending:
   introducer_division: Victoria
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1480_first-senate/toc_pdf/25S3120.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-25
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28885%2F0133%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28885%2F0132%22
 - bill_id: s1481
   title: Unlocking Supply of Family Homes Bill 2025
   status: Before Senate
