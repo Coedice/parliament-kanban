@@ -4,7 +4,4 @@ _site/
 .jekyll-metadata
 .bundle/
 vendor/
-*.pyc
 .DS_Store
-*.tmp
-uv.lock

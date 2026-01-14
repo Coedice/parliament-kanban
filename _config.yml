@@ -10,10 +10,6 @@ sass:
   style: compressed
 
 exclude:
-  - "*.py"
-  - pyproject.toml
-  - uv.lock
-  - Makefile
   - README.md
   - Gemfile
   - Gemfile.lock
